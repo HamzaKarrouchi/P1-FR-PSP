@@ -1,0 +1,4 @@
+# Les deux gabarits (faute vue en jeu, question de traduction) suffisent.
+# On laisse la porte ouverte à une issue libre : quelqu'un qui hésite entre
+# deux cases finit souvent par ne rien écrire du tout.
+blank_issues_enabled: true
