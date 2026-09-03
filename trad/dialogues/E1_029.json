@@ -1,0 +1,700 @@
+[
+  {
+    "id": "E1.BIN:192:0000",
+    "locuteur": "Masked girl",
+    "en": "I'm painting over your future with{SAUT}blackness.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0001",
+    "locuteur": "Masked girl",
+    "en": "Do you know why?{PAUSE}[1E00]{SAUT}Why must you get in my way?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0002",
+    "locuteur": "Masked girl",
+    "en": "How can you withstand the pain?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0003",
+    "locuteur": "Masked girl",
+    "en": "You have each other... Ms. Saeko... your{SAUT}family... {PAUSE}[1E00]People you can rely on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0004",
+    "locuteur": "Masked girl",
+    "en": "But I'm always alone. I can only watch{SAUT}the happiness of others.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0005",
+    "locuteur": "Yukino",
+    "en": "Wait a sec, are you...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0006",
+    "locuteur": "Masked girl",
+    "en": "You can never understand how I feel!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0007",
+    "locuteur": "Masked girl",
+    "en": "I'll destroy this place... {PAUSE}[1E00]I'll destroy{SAUT}the whole school!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0008",
+    "locuteur": "Yukino",
+    "en": "Maki, wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0011",
+    "locuteur": "Yukino",
+    "en": "Maki...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0012",
+    "locuteur": "Yukino",
+    "en": "Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0013",
+    "locuteur": "Yukino",
+    "en": "The paint hasn't dried.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0014",
+    "locuteur": "Ayase",
+    "en": "Check out that painting... It's all{SAUT}black. Freaky...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:192:0016",
+    "locuteur": "Nanjo",
+    "en": "Is this an illusion?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0017",
+    "locuteur": "Nanjo",
+    "en": "It can't be... Maki was outside the{SAUT}school grounds.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0018",
+    "locuteur": "Nanjo",
+    "en": "Was someone just here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0019",
+    "locuteur": "Brown",
+    "en": "Hey, isn't that Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0020",
+    "locuteur": "Brown",
+    "en": "Wow, Maki has some weird fashion sense.{SAUT}You see that mask of hers?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0021",
+    "locuteur": "Brown",
+    "en": "Don't any of you understand art?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0022",
+    "locuteur": "Brown",
+    "en": "Her style, her presentation...{SAUT}Simply amazing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0023",
+    "locuteur": "Elly",
+    "en": "Be careful! This could be one of the{SAUT}Queen's traps.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0024",
+    "locuteur": "Elly",
+    "en": "But Maki can't possibly be here.{SAUT}A demon, perhaps...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:192:0025",
+    "locuteur": "Elly",
+    "en": "Someone who wasn't frozen must have{SAUT}been here fairly recently.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0000",
+    "locuteur": "Girl in white",
+    "en": "I can't waste time like this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0001",
+    "locuteur": "Girl in white",
+    "en": "Excuse me. Have you seen me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0002",
+    "locuteur": "Ayase",
+    "en": "Huh? What's she trying to say?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0003",
+    "locuteur": "Ayase",
+    "en": "Hey, little girl, what are you{SAUT}doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:193:0004",
+    "locuteur": "Ayase",
+    "en": "You should go home. It's, like, really{SAUT}dangerous here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:193:0005",
+    "locuteur": "Nanjo",
+    "en": "Yuka! It shouldn't even be possible for{SAUT}a small girl like her to be here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0006",
+    "locuteur": "Nanjo",
+    "en": "Her words make no sense, either. She may{SAUT}not even be human!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0007",
+    "locuteur": "Elly",
+    "en": "Ayase! Can't you think rationally for{SAUT}a change?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0008",
+    "locuteur": "Elly",
+    "en": "How could a small girl be here?{SAUT}She clearly must be a monster!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0009",
+    "locuteur": "Ayase",
+    "en": "Sh-Shut up! Get off my case!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:193:0010",
+    "locuteur": "Ayase",
+    "en": "I thought she was in trouble, so I talked{SAUT}to her, that's all! I'm not mean like you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0011",
+    "locuteur": "Girl in white",
+    "en": "I'm Mai. I'm not lost, and I'm not{SAUT}a demon, either.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0012",
+    "locuteur": "Girl in white",
+    "en": "Anyway, have you seen me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0013",
+    "locuteur": "Girl in white",
+    "en": "I'm wearing clothes like yours, and I{SAUT}have a white mask on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0014",
+    "locuteur": "Yukino",
+    "en": "You're looking for a student from{SAUT}this school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0015",
+    "locuteur": "Yukino",
+    "en": "Sorry, but I don't know anyone who{SAUT}wears a mask.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0016",
+    "locuteur": "Mai",
+    "en": "Oh. Okay.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0017",
+    "locuteur": "Ayase",
+    "en": "H-Hey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0018",
+    "locuteur": "Yukino",
+    "en": "It's that girl we saw before!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0019",
+    "locuteur": "Mai",
+    "en": "You saw me!? Where? Tell me, please!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0020",
+    "locuteur": "Yukino",
+    "en": "Well... it was on this floor, but I{SAUT}forget exactly where.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0021",
+    "locuteur": "Mai",
+    "en": "Thanks!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0022",
+    "locuteur": "Yukino",
+    "en": "It was on the eighth floor, on a kind{SAUT}of stage. But I think she went upstairs.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0023",
+    "locuteur": "Yukino",
+    "en": "What was that all about...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:193:0024",
+    "locuteur": "Ayase",
+    "en": "I don't think she's a bad kid...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0025",
+    "locuteur": "Nanjo",
+    "en": "I remember seeing that girl around{SAUT}somewhere. Who was she...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0026",
+    "locuteur": "Brown",
+    "en": "Wow, she's a cutie! Give her ten years{SAUT}or so, and you'll have to hold me back!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:193:0027",
+    "locuteur": "Elly",
+    "en": "A little girl alone, here of all{SAUT}places... It has to be a monster!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0000",
+    "locuteur": "Masked man",
+    "en": "I didn't expect you'd take this long.{SAUT}Have you seen her already?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0001",
+    "locuteur": "Yukino",
+    "en": "...Seen who?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0002",
+    "locuteur": "Masked man",
+    "en": "She should be painting on the floor{SAUT}below.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0003",
+    "locuteur": "Masked man",
+    "en": "She's keeping the gate to paradise shut{SAUT}with the blackness of despair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0004",
+    "locuteur": "Yukino",
+    "en": "You mean that girl in the art room...?{SAUT}The one with the white mask?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0005",
+    "locuteur": "Masked man",
+    "en": "What did she say?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0006",
+    "locuteur": "Yukino",
+    "en": "\"I'll destroy the school,\" or something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0007",
+    "locuteur": "Masked man",
+    "en": "I see. Yes, that does sound like her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0008",
+    "locuteur": "Masked man",
+    "en": "This iced-over school is a byproduct of{SAUT}her heart. But it won't affect my plans.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0010",
+    "locuteur": "Masked man",
+    "en": "I've always believed the public school{SAUT}system served no purpose.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0011",
+    "locuteur": "Masked man",
+    "en": "Education should be reserved for{SAUT}society's chosen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0012",
+    "locuteur": "Masked man",
+    "en": "If she wishes for its destruction, I see{SAUT}no harm in humoring her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0013",
+    "locuteur": "Nanjo",
+    "en": "You're Kandori, aren't you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0014",
+    "locuteur": "Masked man",
+    "en": "Perhaps. See if you can figure it out{SAUT}with that subpar brain of yours.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0015",
+    "locuteur": "Yukino",
+    "en": "Who's the weird guy in a mask...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0016",
+    "locuteur": "Yukino",
+    "en": "There's nothing here. Let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0017",
+    "locuteur": "Ayase",
+    "en": "So like, this is the old Student Council{SAUT}room?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0018",
+    "locuteur": "Ayase",
+    "en": "\"Love thy neighbor\"... Uh, which one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0020",
+    "locuteur": "Nanjo",
+    "en": "Did you find anything useful?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0021",
+    "locuteur": "Brown",
+    "en": "I feel like I've seen this guy before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0022",
+    "locuteur": "Brown",
+    "en": "Man, it gets colder and colder the{SAUT}higher we go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0023",
+    "locuteur": "Brown",
+    "en": "How many more floors are there? Brrr...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0024",
+    "locuteur": "Elly",
+    "en": "He isn't frozen? Who is he...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:195:0025",
+    "locuteur": "Elly",
+    "en": "Is Ayase really in high school...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0000",
+    "locuteur": "Girl in black",
+    "en": "I can't waste time like this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0001",
+    "locuteur": "Girl in black",
+    "en": "Hey, have you seen my Daddy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0002",
+    "locuteur": "Ayase",
+    "en": "Your Daddy? Huh, maybe she's lost.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0005",
+    "locuteur": "Nanjo",
+    "en": "Honestly! Do you seriously believe{SAUT}there'd be a lost child here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0006",
+    "locuteur": "Nanjo",
+    "en": "Who can say what she has in mind?{SAUT}Don't let your guard down!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0007",
+    "locuteur": "Elly",
+    "en": "Ayase! Won't you please try to be{SAUT}more cautious?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0008",
+    "locuteur": "Elly",
+    "en": "Your carelessness has gotten us into{SAUT}a lot of trouble!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0009",
+    "locuteur": "Elly",
+    "en": "I'd appreciate if you made more of an{SAUT}effort to learn from your mistakes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0011",
+    "locuteur": "Ayase",
+    "en": "What if she's really looking for her dad?{SAUT}Are you gonna leave her by herself!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0012",
+    "locuteur": "Girl in black",
+    "en": "Um, don't you understand what I'm saying?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0013",
+    "locuteur": "Girl in black",
+    "en": "I'm asking if you saw my Daddy or not!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0014",
+    "locuteur": "Girl in black",
+    "en": "He's wearing clothes like yours and a{SAUT}black mask.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0015",
+    "locuteur": "Yukino",
+    "en": "Sorry, but nobody I know wears a mask.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0016",
+    "locuteur": "Girl in black",
+    "en": "Oh. Okay then.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0017",
+    "locuteur": "Yukino",
+    "en": "Him? Yeah, we saw him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0018",
+    "locuteur": "Girl in black",
+    "en": "Really!? Where was he? C'mon, tell me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0019",
+    "locuteur": "Yukino",
+    "en": "He was in the Student Council room.{SAUT}It's one floor down.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0020",
+    "locuteur": "Girl in black",
+    "en": "Oh, okay.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0021",
+    "locuteur": "Yukino",
+    "en": "We saw him one floor up. It was this{SAUT}place that looked like a stage.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0023",
+    "locuteur": "Ayase",
+    "en": "What's a little girl doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0024",
+    "locuteur": "Nanjo",
+    "en": "I'm sure I've seen that girl somewhere.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0025",
+    "locuteur": "Nanjo",
+    "en": "Where was it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0026",
+    "locuteur": "Brown",
+    "en": "Sassy girls like that... I'm not too{SAUT}good at dealing with them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:196:0027",
+    "locuteur": "Elly",
+    "en": "She has to be a monster!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

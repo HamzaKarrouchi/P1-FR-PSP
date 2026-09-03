@@ -1,0 +1,298 @@
+[
+  {
+    "id": "E1.BIN:074:0000",
+    "locuteur": "Yukino",
+    "en": "You're done. That precious prince{SAUT}of yours...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0001",
+    "locuteur": "Yukino",
+    "en": "The Persona your heart made is gone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0002",
+    "locuteur": "Yukino",
+    "en": "You wanna keep going at it? Suits me{SAUT}either way...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0003",
+    "locuteur": "Kumi",
+    "en": "...So this is it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0004",
+    "locuteur": "Kumi",
+    "en": "There's no place for me anywhere...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0005",
+    "locuteur": "Kumi",
+    "en": "Not in the real world or the dream{SAUT}world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0006",
+    "locuteur": "Kumi",
+    "en": "Haha... I have to flee my own dream.{SAUT}Ahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0007",
+    "locuteur": "Nanjo",
+    "en": "Those who lack dreams are generally{SAUT}shallow and tedious.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0008",
+    "locuteur": "Nanjo",
+    "en": "But those who focus solely on chasing{SAUT}their dreams lack substance.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0009",
+    "locuteur": "Nanjo",
+    "en": "Don't lose sight of your dream, but don't{SAUT}allow it to overtake you, either.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0010",
+    "locuteur": "Nanjo",
+    "en": "A dream is not a goal to chase...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0011",
+    "locuteur": "Nanjo",
+    "en": "Nor is it a place to hide...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0012",
+    "locuteur": "Nanjo",
+    "en": "A dream is that which sustains your soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0013",
+    "locuteur": "Nanjo",
+    "en": "But it will never be yours if you do{SAUT}nothing but wait for it to come to you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0014",
+    "locuteur": "Nanjo",
+    "en": "Dreams are not given. You must reach out{SAUT}and take them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0015",
+    "locuteur": "Nanjo",
+    "en": "...So Yamaoka often told me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0016",
+    "locuteur": "Brown",
+    "en": "An easy win, thanks to me! Although...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0017",
+    "locuteur": "Brown",
+    "en": "It kinda left a bad taste in my mouth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0018",
+    "locuteur": "Ayase",
+    "en": "Whoo! We won!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0019",
+    "locuteur": "Ayase",
+    "en": "Hah! {PAUSE}[1E00]In your face!{SAUT}Well? {PAUSE}[1E00]Had enough yet? Hmmm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0020",
+    "locuteur": "Kumi",
+    "en": "You're all so strong. If only I was{SAUT}like you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0021",
+    "locuteur": "Kumi",
+    "en": "I might have ignored the Snow Queen mask{SAUT}and went on with my life...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0022",
+    "locuteur": "Kumi",
+    "en": "But I just blamed everyone else. I went{SAUT}to my safe place and nursed my grudge.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0023",
+    "locuteur": "Kumi",
+    "en": "I... I acted just like the people that{SAUT}I blamed for everything...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0024",
+    "locuteur": "Nanjo",
+    "en": "Hmph... At least you've realized your{SAUT}mistake. Now you can repent.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0025",
+    "locuteur": "Nanjo",
+    "en": "A dream sustains your soul... but using{SAUT}one as a refuge won't change reality.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0026",
+    "locuteur": "Elly",
+    "en": "Kumi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0027",
+    "locuteur": "Elly",
+    "en": "Now that you acknowledge your weakness,{SAUT}you're no longer weak.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0028",
+    "locuteur": "Elly",
+    "en": "A dream is like an oasis in one's soul...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0029",
+    "locuteur": "Elly",
+    "en": "It quenches the thirst of travelers{SAUT}exhausted from life's journey.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0030",
+    "locuteur": "Elly",
+    "en": "But pleasant though the oasis may be...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0031",
+    "locuteur": "Elly",
+    "en": "The travelers must continue the journey.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0032",
+    "locuteur": "Elly",
+    "en": "We must all cross the desert of reality,{SAUT}no matter how harsh it becomes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0033",
+    "locuteur": "Kumi",
+    "en": "Thank you, everyone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0034",
+    "locuteur": "Kumi",
+    "en": "I wish friends like you were there for{SAUT}me back then...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0035",
+    "locuteur": "Kumi",
+    "en": "I'll always remember you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0036",
+    "locuteur": "Kumi",
+    "en": "Thank you... {PAUSE}[1E00]and goodbye.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0037",
+    "en": "{FERME}  > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shard(*TEXTBOX_PARAM,0000*) x1.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0038",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) x1.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:074:0039",
+    "locuteur": "Yukino",
+    "en": "Kumi Hirose wasn't so bad, really.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0040",
+    "locuteur": "Yukino",
+    "en": "She was a victim of the mask...{SAUT}It twisted her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0041",
+    "locuteur": "Yukino",
+    "en": "...Well, let's go back! We gotta save{SAUT}Ms. Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:074:0042",
+    "en": "{FERME} > You have conquered Hypnos Tower!{ATTENTE}",
+    "fr": ""
+  }
+]

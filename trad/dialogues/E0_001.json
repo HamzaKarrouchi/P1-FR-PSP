@@ -1,0 +1,683 @@
+[
+  {
+    "id": "E0.BIN:000:0000",
+    "locuteur": "Hat-wearing student",
+    "en": "\"(*TEXTBOX_PARAM,0700*)Persona(*TEXTBOX_PARAM,0000*)\"?{ATTENTE}",
+    "locuteur_fr": "Élève au chapeau",
+    "fr": "\"(*TEXTBOX_PARAM,0700*)Persona(*TEXTBOX_PARAM,0000*)\"?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0001",
+    "locuteur": "Hat-wearing student",
+    "en": "Dude, if that really worked and I could{SAUT}see my future, I'd be on easy street.{ATTENTE}",
+    "locuteur_fr": "Élève au chapeau",
+    "fr": "Mec, si ça marchait vraiment et que je{SAUT}voyais mon avenir, je serais peinard.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0002",
+    "locuteur": "Hat-wearing student",
+    "en": "You sure you ain't got the brain rot,{SAUT}Hidehiko?{ATTENTE}",
+    "locuteur_fr": "Élève au chapeau",
+    "fr": "T'es sûr que t'as pas le ciboulot{SAUT}cramé, Hidehiko?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0003",
+    "locuteur": "Smug student",
+    "en": "Hehehe... Turns out there's more to it{SAUT}than an easy joke!{ATTENTE}",
+    "locuteur_fr": "Élève arrogant",
+    "fr": "Héhéhé... Y a plus là-dedans qu'une{SAUT}simple blague!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0004",
+    "locuteur": "Smug student",
+    "en": "Maybe not seeing the future, exactly,{SAUT}but weird stuff does happen!{ATTENTE}",
+    "locuteur_fr": "Élève arrogant",
+    "fr": "Pas vraiment voir l'avenir, non,{SAUT}mais il se passe des trucs bizarres!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0005",
+    "locuteur": "Smug student",
+    "en": "I'm willing to put my money where my{SAUT}mouth is if you are, Mark.{ATTENTE}",
+    "locuteur_fr": "Élève arrogant",
+    "fr": "Je suis prêt à parier là-dessus,{SAUT}si tu l'es aussi, Mark.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0006",
+    "locuteur": "Mark",
+    "en": "Alright... You're on.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "D'accord... Pari tenu.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0007",
+    "locuteur": "Mark",
+    "en": "I'll bet you an all-you-can-eat dinner{SAUT}at the Peace Diner on Joy Street.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Je te parie un buffet à volonté{SAUT}au Peace Diner, sur Joy Street.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0008",
+    "locuteur": "Airheaded student",
+    "en": "Woooo! I'm with Hidehiko!{ATTENTE}",
+    "locuteur_fr": "Élève étourdie",
+    "fr": "Ouiii! Moi je suis avec Hidehiko!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0009",
+    "locuteur": "Ponytailed student",
+    "en": "I'll throw my lot in with Brown, too.{ATTENTE}",
+    "locuteur_fr": "Élève à couettes",
+    "fr": "Moi aussi, je parie sur Brown.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0010",
+    "locuteur": "Mark",
+    "en": "Are you guys serious?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Vous êtes sérieux, là?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0011",
+    "locuteur": "Mark",
+    "en": "Yo Kei, Yukino! Who're you guys gonna{SAUT}side with?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Hé Kei, Yukino! Vous vous mettez{SAUT}de quel côté?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0012",
+    "locuteur": "Glasses-wearing student",
+    "en": "Hmp. As if I cared one whit...{SAUT}It's absolute bunk.{ATTENTE}",
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "Pff. Comme si ça m'intéressait...{SAUT}C'est du grand n'importe quoi.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0013",
+    "locuteur": "Cool-headed student",
+    "en": "What he said... This is all you.{ATTENTE}",
+    "locuteur_fr": "Élève posée",
+    "fr": "Pareil que lui... Débrouillez-vous.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0014",
+    "locuteur": "Mark",
+    "en": "Ugh! You guys are so cold, y'know?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Pfff! Vous êtes vraiment froids.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0015",
+    "locuteur": "Mark",
+    "en": "Hey, who're you with? It's gotta be{SAUT}me, right?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Hé, t'es avec qui, toi? Avec moi,{SAUT}forcément?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0016",
+    "locuteur": "Mark",
+    "en": "C'mon, what's it gonna be?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Allez, tu te décides?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0017",
+    "locuteur": "Mark",
+    "en": "Sheesh, you too? All y'alls crazy.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Sérieux, toi aussi? Vous êtes fous.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0018",
+    "locuteur": "Ayase",
+    "en": "Awww! Just wait... you'll be sorry!{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "Rooh! Attends... tu vas regretter!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0019",
+    "locuteur": "Brown",
+    "en": "Heeheehee... This'll be fun!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Héhéhé... Ça va être marrant!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0020",
+    "locuteur": "Brown",
+    "en": "Awright, let's get started!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Bon, on commence!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0021",
+    "locuteur": "Ayase",
+    "en": "'Kay! Here goes!{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "OK! C'est parti!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0022",
+    "locuteur": "Ayase",
+    "en": "Umm.{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "Euh.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0023",
+    "locuteur": "Ayase",
+    "en": "Persona! Persona!{SAUT}Please come here!{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "Persona! Persona!{SAUT}Viens à nous!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0024",
+    "locuteur": "Brown",
+    "en": "My turn!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "À moi!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0025",
+    "locuteur": "Brown",
+    "en": "Persona! Persona!{SAUT}Come here!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Persona! Persona!{SAUT}Viens ici!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0026",
+    "locuteur": "Mark",
+    "en": "Man, why I gotta do this...?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Sérieux, pourquoi je dois faire ça?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0027",
+    "locuteur": "Brown",
+    "en": "Hurry it up! All-you-can-eat!{SAUT}All-you-can-eat!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Grouille! Buffet à volonté!{SAUT}Buffet à volonté!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0028",
+    "locuteur": "Mark",
+    "en": "Okay, okay...{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Ouais, ouais...{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0029",
+    "locuteur": "Mark",
+    "en": "Persona, Persona.{SAUT}C'mere... I guess.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Persona, Persona.{SAUT}Viens ici... j'imagine.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0030",
+    "locuteur": "Elly",
+    "en": "Well, then...{ATTENTE}",
+    "locuteur_fr": "Elly",
+    "fr": "Bon, eh bien...{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0031",
+    "locuteur": "Elly",
+    "en": "Persona, Persona!{SAUT}Please come to us...{ATTENTE}",
+    "locuteur_fr": "Elly",
+    "fr": "Persona, Persona!{SAUT}Viens à nous...{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0032",
+    "locuteur": "Brown",
+    "en": "Alright! Here it comes!{SAUT}...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...H-Huh?{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "C'est bon! Ça arrive!{SAUT}...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...H-Hein?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0033",
+    "locuteur": "Ayase",
+    "en": "Hidehiko! You jerk! Now I look like a{SAUT}total idiot!{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "Hidehiko! Idiot! J'ai l'air{SAUT}d'une imbécile!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0034",
+    "locuteur": "Mark",
+    "en": "See? A fat load o' nothin'.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Tu vois? Rien du tout.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0035",
+    "locuteur": "Mark",
+    "en": "Hehe... Looks like I win.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Héhé... On dirait que j'ai gagné.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0036",
+    "locuteur": "Yukino",
+    "en": "＊sigh＊ Happy now? Hurry up and go get{SAUT}the teacher.{ATTENTE}",
+    "locuteur_fr": "Yukino",
+    "fr": "＊soupir＊ Content? Allez, va vite{SAUT}chercher le prof.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0037",
+    "locuteur": "Brown",
+    "en": "W-Wait! Hold up!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "A-Attends! Une minute!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0038",
+    "locuteur": "Brown",
+    "en": "One more time! Please!? Mark screwed{SAUT}it up!{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Encore une fois! Allez!? Mark{SAUT}a tout gâché!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0039",
+    "locuteur": "Brown",
+    "en": "C'mon, you gotta take it seriously{SAUT}when you do it.{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Allez, faut le faire sérieusement{SAUT}sinon ça marche pas.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0040",
+    "locuteur": "Mark",
+    "en": "Oh, you little...! What a sore loser.{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Oh, le sale... Mauvais perdant, va.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0041",
+    "locuteur": "Nanjo",
+    "en": "H-Hey, Masao... Look... behind you.{ATTENTE}",
+    "locuteur_fr": "Nanjo",
+    "fr": "H-Hé, Masao... Regarde... derrière toi.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0042",
+    "locuteur": "Mark",
+    "en": "Huh? Dude, that bandwagon has left the{SAUT}station. It's too late to--{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Hein? Mec, le train est déjà parti.{SAUT}C'est trop tard pour--{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0043",
+    "locuteur": "Mark",
+    "en": "Holy crap!{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Bon sang!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0044",
+    "locuteur": "Ayase",
+    "en": "Wh-What is that...? I-Is it... real...?{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "C'est quoi ça...? C'est... réel...?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0045",
+    "locuteur": "Elly",
+    "en": "Quite a surprise. Last time, we only{SAUT}heard noises.{ATTENTE}",
+    "locuteur_fr": "Elly",
+    "fr": "Quelle surprise. La dernière fois,{SAUT}on entendait juste des bruits.{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0046",
+    "locuteur": "Brown",
+    "en": "Haha... Y-You see that? Just like{SAUT}I said, isn't it?{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "Haha... V-Vous voyez? Exactement{SAUT}ce que j'ai dit, non?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0047",
+    "locuteur": "Brown",
+    "en": "It's a little different this time,{SAUT}though...{ATTENTE}",
+    "locuteur_fr": "Brown",
+    "fr": "C'est un peu différent cette fois,{SAUT}par contre...{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0048",
+    "locuteur": "Girl in white",
+    "en": "＊sniff＊ ＊sniff＊{PAUSE}[5800]{SAUT}Help me... Help...{ATTENTE}",
+    "locuteur_fr": "Fille en blanc",
+    "fr": "＊snif＊ ＊snif＊{PAUSE}[5800]{SAUT}Aidez-moi... À l'aide...{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0049",
+    "locuteur": "Mark",
+    "en": "Wh-What the!?{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Q-Quoi!?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0050",
+    "locuteur": "Nanjo",
+    "en": "Eh? What in the world...!?{ATTENTE}",
+    "locuteur_fr": "Nanjo",
+    "fr": "Hein? Mais qu'est-ce que...!?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0051",
+    "locuteur": "Elly",
+    "en": "This is fantastic! Oh, how intriguing!{ATTENTE}",
+    "locuteur_fr": "Elly",
+    "fr": "Fantastique! Comme c'est intriguant!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0052",
+    "locuteur": "Ayase",
+    "en": "Yeeeek! What's going on!?{ATTENTE}",
+    "locuteur_fr": "Ayase",
+    "fr": "Aaaah! Qu'est-ce qui se passe!?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0053",
+    "locuteur": "Yukino",
+    "en": "Careful, everyone! What--!?{ATTENTE}",
+    "locuteur_fr": "Yukino",
+    "fr": "Attention, tout le monde! Quoi--!?{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0054",
+    "locuteur": "Mark",
+    "en": "Whoa!{ATTENTE}",
+    "locuteur_fr": "Mark",
+    "fr": "Ouah!{ATTENTE}",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:000:0055",
+    "locuteur": "Nanjo",
+    "en": "Urgh...!{ATTENTE}",
+    "locuteur_fr": "Nanjo",
+    "fr": "Urgh...!{ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0056",
+    "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Masao Inaba (Nickname: Mark){SAUT}The spoiled son of Inaba Dry Cleaning's{SAUT}owners. Earnest and excitable.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Masao Inaba (surnom: Mark){SAUT}Fils gâté des propriétaires du{SAUT}pressing Inaba. Sincère, impulsif.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0057",
+    "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Kei Nanjo (Nickname: Nanjo){SAUT}Heir to the Nanjo Group. An utter{SAUT}pragmatist and skeptic.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Kei Nanjo (surnom: Nanjo){SAUT}Héritier du groupe Nanjo.{SAUT}Pragmatique et sceptique.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0058",
+    "en": "{FERME}   (*TEXTBOX_PARAM,0300*)> Yukino Mayuzumi (Nickname: Yukino){SAUT}Trusted by everyone, she's like an{SAUT}older sister to all the students.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME}   (*TEXTBOX_PARAM,0300*)> Yukino Mayuzumi (surnom: Yukino){SAUT}Tout le monde lui fait confiance.{SAUT}Grande soeur de tous les élèves.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0059",
+    "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Hidehiko Uesugi (Nickname: Brown){SAUT}Craves attention and doesn't take{SAUT}things very seriously.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Hidehiko Uesugi (surnom: Brown){SAUT}Cherche l'attention, ne prend rien{SAUT}au sérieux.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0060",
+    "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Yuka Ayase (Nickname: Ayase){SAUT}A troublemaking member of the suntanned,{SAUT}bleach-blonde \"kogal\" set.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME}  (*TEXTBOX_PARAM,0300*)> Yuka Ayase (surnom: Ayase){SAUT}Fauteuse de troubles, bronzée et{SAUT}décolorée, genre \"kogal\".(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:000:0061",
+    "en": "{FERME}(*TEXTBOX_PARAM,0300*)> Eriko Kirishima (Nickname: Elly){SAUT}A ladylike student recently returned{SAUT}from abroad. Beautiful and intelligent.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME}(*TEXTBOX_PARAM,0300*)> Eriko Kirishima (surnom: Elly){SAUT}Élève distinguée, revenue récemment{SAUT}de l'étranger. Belle et brillante.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+  },
+  {
+    "id": "E0.BIN:001:0000",
+    "locuteur": "Agastya Tree",
+    "en": "Young ones... Your presence is welcome.{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Jeunes gens... Soyez les bienvenus.{ATTENTE}",
+    "_occurrences": 569
+  },
+  {
+    "id": "E0.BIN:001:0001",
+    "locuteur": "Agastya Tree",
+    "en": "Will you inscribe your story on me?{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Gravez votre histoire en moi?{ATTENTE}",
+    "_occurrences": 572
+  },
+  {
+    "id": "E0.BIN:001:0002",
+    "locuteur": "Agastya Tree",
+    "en": "Take care on your journey, young ones...{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Prenez soin de vous, jeunes gens...{ATTENTE}",
+    "_occurrences": 573
+  },
+  {
+    "id": "E0.BIN:003:0000",
+    "locuteur": "Teacher in nurse's uniform",
+    "en": "Oh, (*APELLIDO_HEROE*), you've come around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0001",
+    "locuteur": "Teacher in nurse's uniform",
+    "en": "Ahaha, welcome to the infirmary.{SAUT}You sure look cute when you're asleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0002",
+    "en": "{FERME}   (*TEXTBOX_PARAM,0300*)> Natsumi Yoshino{SAUT}St. Hermelin High's nurse. She doesn't{SAUT}seem to be a very good cook.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0003",
+    "locuteur": "Worried teacher",
+    "en": "(*APELLIDO_HEROE*)! Are you all right!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0004",
+    "locuteur": "Worried teacher",
+    "en": "Thank goodness you're awake, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0005",
+    "locuteur": "Worried teacher",
+    "en": "I was so scared when I heard you'd{SAUT}collapsed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0006",
+    "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Saeko Takami{SAUT}Homeroom teacher for (*APELLIDO_HEROE*) and the{SAUT}others. Very popular with the students.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0007",
+    "locuteur": "Ms. Saeko",
+    "en": "I'm sorry you had to deal with my{SAUT}students, Natsumi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0008",
+    "locuteur": "Mark",
+    "en": "C'mon, taking care of students is her{SAUT}whole job! What's so bad about us...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0009",
+    "locuteur": "Ms. Saeko",
+    "en": "Now, now, Masao! I want you to think{SAUT}about what you've done!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0010",
+    "locuteur": "Ms. Saeko",
+    "en": "Anyway, Eriko and Ayase told me what{SAUT}happened. No helping out for you today!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0011",
+    "locuteur": "Ms. Saeko",
+    "en": "Instead, go get yourselves checked out{SAUT}at (*TEXTBOX_PARAM,0700*)Mikage Hospital(*TEXTBOX_PARAM,0000*) and head home!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0012",
+    "locuteur": "Yukino",
+    "en": "So you think something's wrong with{SAUT}us, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0013",
+    "locuteur": "Ms. Saeko",
+    "en": "Oh, not like that. I can tell by looking{SAUT}at you that you're perfectly sane.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0014",
+    "locuteur": "Ms. Saeko",
+    "en": "But I'm worried you might have gotten{SAUT}hurt while collapsing, so go see the doc.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0015",
+    "locuteur": "Yukino",
+    "en": "So there is something that can faze you,{SAUT}Ms. Saeko... Alright, we'll go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0016",
+    "locuteur": "Nurse Natsumi",
+    "en": "Speaking of Mikage Hospital, wasn't a{SAUT}student in your class staying there?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0017",
+    "locuteur": "Mark",
+    "en": "You mean Maki, right...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0018",
+    "locuteur": "Ms. Saeko",
+    "en": "Yes, that's right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0019",
+    "locuteur": "Ms. Saeko",
+    "en": "You should visit her while you're{SAUT}there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0020",
+    "locuteur": "Ms. Saeko",
+    "en": "She's been laid up there for over a{SAUT}year now... I'm sure she's lonesome.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0021",
+    "locuteur": "Ms. Saeko",
+    "en": "What were you doing, anyway? I asked{SAUT}you to prepare for the sports festival.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0022",
+    "locuteur": "Ms. Saeko",
+    "en": "We only have a month left and nothing's{SAUT}ready yet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0023",
+    "locuteur": "Ms. Saeko",
+    "en": "Should we just cancel it this year...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0024",
+    "locuteur": "Nanjo",
+    "en": "It seems we have no choice in the{SAUT}matter. Best to get it over with.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0025",
+    "locuteur": "Mark",
+    "en": "Mikage Hospital, huh? That's kind of{SAUT}a long walk from school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0026",
+    "locuteur": "Mark",
+    "en": "It's way to the northeast. You leave{SAUT}the school, head north...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0027",
+    "locuteur": "Mark",
+    "en": "And go all the way to the 3rd ward,{SAUT}then take a right at the Mikage Ruins.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0028",
+    "locuteur": "Mark",
+    "en": "Eh, if we just wander around, we'll get{SAUT}there sooner or later.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0029",
+    "locuteur": "Yukino",
+    "en": "I know I couldn't take being cooped up{SAUT}in the hospital for an entire year.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0030",
+    "locuteur": "Yukino",
+    "en": "Let's go cheer her up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0031",
+    "locuteur": "Ms. Saeko",
+    "en": "(*APELLIDO_HEROE*)! You really should be on{SAUT}your way to (*TEXTBOX_PARAM,0700*)Mikage Hospital(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0035",
+    "locuteur": "Nurse Natsumi",
+    "en": "I put a new plant there. What do you{SAUT}think? Livens up the room, doesn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:003:0036",
+    "locuteur": "Nurse Natsumi",
+    "en": "They say plants grow better if you talk{SAUT}to them. Give it a try, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

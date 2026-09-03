@@ -1,0 +1,571 @@
+[
+  {
+    "id": "E2.BIN:212:0011",
+    "locuteur": "Nurse",
+    "en": "Don't let Maki get hurt, got it? She's{SAUT}like a local hero here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0012",
+    "locuteur": "Nurse",
+    "en": "Oh, you go to the same school as{SAUT}Maki Sonomura.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0013",
+    "locuteur": "Nurse",
+    "en": "Huh? You're friends with her!? Oooh,{SAUT}I'm so jealous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0014",
+    "locuteur": "Nurse",
+    "en": "Hey, could you get me her autograph?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0015",
+    "locuteur": "Maki",
+    "en": "I'm no hero or anything... Everyone is{SAUT}just being made to think that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0016",
+    "locuteur": "Mark",
+    "en": "Maki's a local hero, huh? That's awesome!{SAUT}Isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0017",
+    "locuteur": "Nanjo",
+    "en": "...This must be rather tedious for Maki{SAUT}now that she knows the truth.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0018",
+    "locuteur": "Ayase",
+    "en": "How come doctors always act so high{SAUT}and mighty?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0019",
+    "locuteur": "Brown",
+    "en": "Forget my injuries, I need brain pills.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0020",
+    "locuteur": "Elly",
+    "en": "It's tough when people idolize you.{SAUT}It's a lot to live up to.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0021",
+    "locuteur": "Elly",
+    "en": "It's difficult being idolized that way...{SAUT}You end up having to put on an act.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:212:0022",
+    "locuteur": "Reiji",
+    "en": "What's wrong? Hope you're not tired,{SAUT}'cause we got a long ways to go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:214:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 3,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 28
+  },
+  {
+    "id": "E2.BIN:215:0000",
+    "locuteur": "Maki",
+    "en": "Are you finished here? Can we leave yet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0001",
+    "locuteur": "Nanjo",
+    "en": "Psychological wounds are difficult to{SAUT}treat, since they can't be seen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0002",
+    "locuteur": "Nanjo",
+    "en": "Oh, I didn't mean anything in particular.{SAUT}It just crossed my mind.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0003",
+    "locuteur": "Mark",
+    "en": "What're we waiting for? Let's get patched{SAUT}up and go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0004",
+    "locuteur": "Elly",
+    "en": "I do want to drive out the demons, but...{SAUT}I think I'll regret it, just a bit.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:215:0005",
+    "locuteur": "Brown",
+    "en": "When's the time come when I'm considered{SAUT}a local hero? No, a national hero!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0006",
+    "locuteur": "Ayase",
+    "en": "I just wanna hurry up and get back to{SAUT}normal life!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0007",
+    "locuteur": "Reiji",
+    "en": "I want to get this all over with as soon{SAUT}as I can.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0008",
+    "locuteur": "Reiji",
+    "en": "Don't you have someone waiting for you{SAUT}to come home, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:215:0009",
+    "locuteur": "Nurse",
+    "en": "It's dangerous outside, so don't go{SAUT}wandering around too much!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:215:0010",
+    "locuteur": "Doctor",
+    "en": "I hope the demons go away soon...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:215:0011",
+    "locuteur": "Doctor",
+    "en": "Then again, that might put us out of{SAUT}business. Haha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:216:0004",
+    "locuteur": "Elly",
+    "en": "I want to drive out the demons and return{SAUT}this town to normal...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:216:0009",
+    "locuteur": "Doctor",
+    "en": "This used to be a wonderful little town,{SAUT}but now it's been devastated.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:216:0010",
+    "locuteur": "Doctor",
+    "en": "But enough about that...{SAUT}How are you feeling?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:216:0011",
+    "locuteur": "Nurse",
+    "en": "This town's going entirely to pieces.{SAUT}I'm not holding out much hope.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:216:0012",
+    "locuteur": "Nurse",
+    "en": "I even find myself sometimes wishing{SAUT}it would all disappear.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0000",
+    "locuteur": "Maki",
+    "en": "Huh? Aren't we going to the shrine,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0001",
+    "locuteur": "Maki",
+    "en": "I think I know that monster in the subway{SAUT}from some book... by Lovecraft, I think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0002",
+    "locuteur": "Maki",
+    "en": "The Expel Mirror is here, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0003",
+    "locuteur": "Nanjo",
+    "en": "You don't trust Tsutomu? He seems much{SAUT}more reliable than the one we know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0004",
+    "locuteur": "Nanjo",
+    "en": "Dear lord, that stench...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0005",
+    "locuteur": "Nanjo",
+    "en": "That's right. The Expel Mirror was on{SAUT}display here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0006",
+    "locuteur": "Mark",
+    "en": "I feel like we're on a field trip!{SAUT}Is anything about this place different?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0007",
+    "locuteur": "Mark",
+    "en": "What did that monster say? \"Yog Sothuh\"?{SAUT}What was that about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0008",
+    "locuteur": "Mark",
+    "en": "That suspicious dude again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0009",
+    "locuteur": "Elly",
+    "en": "I wish they had more exhibits about{SAUT}demons here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0010",
+    "locuteur": "Elly",
+    "en": "That demon we saw was marvelous! I was{SAUT}so moved to lay eyes on it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0011",
+    "locuteur": "Elly",
+    "en": "We can fight the demon in the subway if{SAUT}we have the Expel Mirror, correct?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0012",
+    "locuteur": "Brown",
+    "en": "This stuff isn't really my thing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0013",
+    "locuteur": "Brown",
+    "en": "We're gonna fight that demon?{SAUT}Seriously...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0014",
+    "locuteur": "Brown",
+    "en": "Once we have the Expel Mirror, we can...{SAUT}fight that demon... yay.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0015",
+    "locuteur": "Ayase",
+    "en": "Oh? You might not look like it, but{SAUT}you're pretty studious, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0016",
+    "locuteur": "Ayase",
+    "en": "Uuuugh, I can't get that monster's smell{SAUT}off me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0017",
+    "locuteur": "Ayase",
+    "en": "Someday I'll find out who that weird guy{SAUT}really is!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0018",
+    "locuteur": "Reiji",
+    "en": "You're taking this all a lot better than{SAUT}I thought, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0019",
+    "locuteur": "Reiji",
+    "en": "I've never seen a monster like that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:217:0020",
+    "locuteur": "Reiji",
+    "en": "Looks like there's only one thing to do.{SAUT}Let's find this Expel Mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0000",
+    "locuteur": "Principal Ooishi",
+    "en": "Honestly, that man... The student must{SAUT}have had a reason for starting the fight.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0001",
+    "locuteur": "Principal Ooishi",
+    "en": "Teachers must hear all sides before{SAUT}making a decision...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0002",
+    "locuteur": "Principal Ooishi",
+    "en": "I had the most awful dream.{SAUT}Ugh, my head...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0003",
+    "locuteur": "Principal Ooishi",
+    "en": "Punishing students isn't the only way{SAUT}to educate them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0004",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "How dare he give me lip that way!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0005",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "I'm not listening to his excuses!{SAUT}They're only lies, anyway.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0006",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "As punishment, he must clean windows,{SAUT}write lines, and polish my shoes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0007",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Oh, if only it had been real...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0008",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Hm? No, it's nothing. Don't interfere{SAUT}with his punishment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0009",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Hey! Don't interfere with his punishment!{SAUT}Unless you want to join him?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0010",
+    "locuteur": "Kiichi",
+    "en": "To hell with this! Why am I the only{SAUT}one getting lectured here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0011",
+    "locuteur": "Kiichi",
+    "en": "It's just as much the student council{SAUT}president's fault!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0012",
+    "locuteur": "Kiichi",
+    "en": "Is yelling at students without listening{SAUT}to them a teacher's job or what!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0013",
+    "locuteur": "Kiichi",
+    "en": "Don't talk to me, dammit! Why am I the{SAUT}only one who has to write lines!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0014",
+    "locuteur": "Kiichi",
+    "en": "I {PAUSE}[1E00]will {PAUSE}[1E00]not {PAUSE}[1E00]do {PAUSE}[1E00]...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0015",
+    "locuteur": "Kiichi",
+    "en": "Don't talk to me, dammit! I'm a little{SAUT}busy here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0016",
+    "locuteur": "Kiichi",
+    "en": "I {PAUSE}[1E00]promise {PAUSE}[1E00]not {PAUSE}[1E00]to {PAUSE}[1E00]...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0017",
+    "locuteur": "Yukino",
+    "en": "I can't stand it. That bald bastard's{SAUT}throwing his weight around again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0018",
+    "locuteur": "Yukino",
+    "en": "That Kiichi's still writing lines?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0019",
+    "locuteur": "Ayase",
+    "en": "Kiichi didn't do anything wrong, either.{SAUT}I saw it before the school froze...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0020",
+    "locuteur": "Ayase",
+    "en": "He couldn't take any more of that student{SAUT}council president sitting on his ass...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0021",
+    "locuteur": "Ayase",
+    "en": "So he just gave him, like, a little{SAUT}warning, is all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0022",
+    "locuteur": "Ayase",
+    "en": "Hey, doesn't that bald head make you{SAUT}wanna, like, punch it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0023",
+    "locuteur": "Nanjo",
+    "en": "Both parties in a quarrel are culpable.{SAUT}They should both have to write lines.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0024",
+    "locuteur": "Nanjo",
+    "en": "Nothing will happen if we remain here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0025",
+    "locuteur": "Brown",
+    "en": "I hate getting attacked with cold logic,{SAUT}but I wish people wouldn't get so angry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0026",
+    "locuteur": "Brown",
+    "en": "Let's hurry and go somewhere else.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0027",
+    "locuteur": "Elly",
+    "en": "A proper adult acting that way is rather{SAUT}unsightly in itself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:000:0028",
+    "locuteur": "Elly",
+    "en": "Where could the Night Queen have gone?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

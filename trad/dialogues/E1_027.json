@@ -1,0 +1,623 @@
+[
+  {
+    "id": "E1.BIN:149:0000",
+    "locuteur": "Ayase",
+    "en": "But that's, like, totally not your fault.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0001",
+    "locuteur": "Ayase",
+    "en": "You didn't force it on her, right? So{SAUT}it's all Tomomi's misunderstanding!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0002",
+    "locuteur": "Ms. Saeko",
+    "en": "Maybe so.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0003",
+    "locuteur": "Ms. Saeko",
+    "en": "But... {PAUSE}[1E00]I can't say with absolute{SAUT}confidence that that's true.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0004",
+    "locuteur": "Ms. Saeko",
+    "en": "Maybe some part of me really was gloating{SAUT}over how much better I was.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0005",
+    "locuteur": "Ms. Saeko",
+    "en": "Maybe I was just acting like Tomomi's{SAUT}best friend, when I never really cared.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0006",
+    "locuteur": "Ms. Saeko",
+    "en": "Maybe I was too in love with the idea of{SAUT}being \"considerate Saeko\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0007",
+    "locuteur": "Ms. Saeko",
+    "en": "And I only ended up hurting her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0008",
+    "locuteur": "Yukino",
+    "en": "Ms. Saeko...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0009",
+    "locuteur": "Ms. Saeko",
+    "en": "It's not the mask's curse! What really{SAUT}made her that way is--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0010",
+    "locuteur": "Yukino",
+    "en": "Enough!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0011",
+    "locuteur": "Ms. Saeko",
+    "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0012",
+    "locuteur": "Ayase",
+    "en": "Yeesh... {PAUSE}[1E00]It's so cold...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0013",
+    "locuteur": "Nanjo",
+    "en": "......!{SAUT}How could this be...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0014",
+    "locuteur": "Elly",
+    "en": "Oh! This can't be...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0015",
+    "locuteur": "Yukino",
+    "en": "What's up?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0016",
+    "locuteur": "Nanjo",
+    "en": "We've defeated the Snow Queen and rescued{SAUT}Ms. Saeko... but nothing's changed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0017",
+    "locuteur": "Elly",
+    "en": "We've defeated the Snow Queen and saved{SAUT}Ms. Saeko, but the school's still frozen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0018",
+    "locuteur": "Ayase",
+    "en": "Huh. Come to think of it, the sky's{SAUT}still a weird color...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0019",
+    "locuteur": "Woman's voice",
+    "en": "Hmhmhm... You all must be so very cold.{SAUT}Ahahahahah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0020",
+    "locuteur": "Ms. Saeko",
+    "en": "Wh-What's going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0021",
+    "locuteur": "Brown",
+    "en": "Oh crap... oh crap...! Not cool! We just{SAUT}defeated it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0022",
+    "locuteur": "Elly",
+    "en": "What the--!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0023",
+    "locuteur": "Queen",
+    "en": "The Tomomi inside me... {PAUSE}[1E00]The Tomomi with{SAUT}human weakness is dead. I am grateful.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0024",
+    "locuteur": "Queen",
+    "en": "No longer tied to my host or the mask I{SAUT}was bound to, I am finally free.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0025",
+    "locuteur": "Queen",
+    "en": "Now I can be complete! I will become the{SAUT}Night Queen in full!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0026",
+    "locuteur": "Queen",
+    "en": "I shall enshroud this world in black and{SAUT}white; void and sorrow.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0027",
+    "locuteur": "Yukino",
+    "en": "What!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:149:0028",
+    "locuteur": "Night Queen",
+    "en": "Foolish mortals who cling to hope...{SAUT}I shall teach you a lesson!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0029",
+    "locuteur": "Night Queen",
+    "en": "I have not yet given up on the{SAUT}Eternal Night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0030",
+    "locuteur": "Night Queen",
+    "en": "From the heights of this Ice Castle,{SAUT}I shall unleash the snows of despair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:149:0031",
+    "locuteur": "Night Queen",
+    "en": "Hmhmhm... {PAUSE}[1E00]Ahahahahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:149:0032",
+    "locuteur": "Ayase",
+    "en": "Huh!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0000",
+    "locuteur": "Ayase",
+    "en": "What was that about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0001",
+    "locuteur": "Elly",
+    "en": "The Snow Queen is Tomomi's dark side{SAUT}made incarnate.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0002",
+    "locuteur": "Elly",
+    "en": "When we held up the Demon's Mirror that{SAUT}shows all evil, Tomomi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0003",
+    "locuteur": "Elly",
+    "en": "Rather, the Snow Queen saw for herself{SAUT}how dissolute her heart had become.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0004",
+    "locuteur": "Nanjo",
+    "en": "The Snow Queen symbolizes the darkness{SAUT}within Tomomi's heart.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0005",
+    "locuteur": "Nanjo",
+    "en": "Thus, by holding up the Demon's Mirror{SAUT}which reflects all evil, Tomomi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0006",
+    "locuteur": "Nanjo",
+    "en": "Sorry, the Snow Queen, saw how vile her{SAUT}heart had become.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0007",
+    "locuteur": "Yukino",
+    "en": "I get it! Tomomi saw what she had become{SAUT}in the mirror and came to her senses.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0008",
+    "locuteur": "Yukino",
+    "en": "Then her Persona, the Night Queen, had{SAUT}nowhere to go and went berserk.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0009",
+    "locuteur": "Elly",
+    "en": "That's the most likely scenario.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0010",
+    "locuteur": "Nanjo",
+    "en": "Yes, that's probably the case.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0011",
+    "locuteur": "Brown",
+    "en": "Thanks for the explanation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0012",
+    "locuteur": "Brown",
+    "en": "I think I'm finally starting to get{SAUT}what's going on here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0013",
+    "locuteur": "Brown",
+    "en": "So if we don't defeat that Queen,{SAUT}we can't go home or take a hot bath!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0014",
+    "locuteur": "Ayase",
+    "en": "Huh... So that means we like, have to{SAUT}defeat that Night thing too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0015",
+    "locuteur": "Ms. Saeko",
+    "en": "It hasn't been long since this started,{SAUT}and look how much you've all grown.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0016",
+    "locuteur": "Ayase",
+    "en": "Aww, well, I only made it this far{SAUT}'cause I had everyone backing me up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0017",
+    "locuteur": "Ayase",
+    "en": "There's, like, no way I would've made{SAUT}it by myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0018",
+    "locuteur": "Yukino",
+    "en": "Yeah, thanks to these guys, well...{PAUSE}[1E00]{SAUT}I don't know how to say this, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0019",
+    "locuteur": "Yukino",
+    "en": "It's like I understand for the first{SAUT}time why I'm alive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0020",
+    "locuteur": "Ayase",
+    "en": "Whoa, that sounds REALLY cool!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0021",
+    "locuteur": "Yukino",
+    "en": "Sh-{PAUSE}[1E00]Shut up!{SAUT}Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0022",
+    "locuteur": "Yukino",
+    "en": "Night Queen or no Night Queen, this team{SAUT}has nothing to be afraid of!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0023",
+    "locuteur": "Ms. Saeko",
+    "en": "Haha... I'm leaving everyone in your{SAUT}hands, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0024",
+    "locuteur": "Yukino",
+    "en": "Wh... {PAUSE}[1E00]What the!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0025",
+    "locuteur": "Ayase",
+    "en": "Whoa! Is that...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0026",
+    "locuteur": "Ms. Saeko",
+    "en": "Tomomi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0027",
+    "locuteur": "Tomomi",
+    "en": "Saeko... {PAUSE}[1E00]everyone... {PAUSE}[1E00]thank you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0028",
+    "locuteur": "Tomomi",
+    "en": "It's because of you that I was able to{SAUT}return to myself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0029",
+    "locuteur": "Tomomi",
+    "en": "That reflection... {PAUSE}[1E00]My heart was so awful{SAUT}that I couldn't look straight at it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0030",
+    "locuteur": "Yukino",
+    "en": "It's not just you, Ms. Tomomi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0031",
+    "locuteur": "Yukino",
+    "en": "I'm sure anyone's reflection would be{SAUT}horrible in that mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0032",
+    "locuteur": "Yukino",
+    "en": "Not very many people in the world with{SAUT}a truly pure heart...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0033",
+    "locuteur": "Brown",
+    "en": "Speak for yourself! I'm innocent as a{SAUT}young girl, pure as an angel, and{PAUSE}[1E00].{PAUSE}[1E00].{PAUSE}[1E00].{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0034",
+    "locuteur": "Brown",
+    "en": "Never mind.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0035",
+    "locuteur": "Ayase",
+    "en": "I bet I'd look like some kinda monster.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0036",
+    "locuteur": "Tomomi",
+    "en": "If you looked right now, I know you{SAUT}wouldn't see a monster...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0037",
+    "locuteur": "Tomomi",
+    "en": "I know! You should keep carrying the{SAUT}Demon's Mirror with you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0038",
+    "locuteur": "Tomomi",
+    "en": "I bet it would protect you from{SAUT}misfortune.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0039",
+    "locuteur": "Tomomi",
+    "en": "Though it won't be easy to carry around{SAUT}in the form of a mirror, so...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0040",
+    "en": "{FERME} > The Demon's Mirror transformed into{SAUT}a shield.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0041",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)[1600](*TEXTBOX_PARAM,0500*)Spiegel Shield(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0042",
+    "locuteur": "Tomomi",
+    "en": "And I don't know if you'll find a use{SAUT}for it or not, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0043",
+    "locuteur": "Tomomi",
+    "en": "The hero's costume from \"The Snow Queen\"{SAUT}should be in storage at the gym.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0044",
+    "locuteur": "Tomomi",
+    "en": "It was kept near the box with the Snow{SAUT}Queen's mask, to keep the seal strong.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0045",
+    "locuteur": "Yukino",
+    "en": "Well, that's one piece of good news.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0046",
+    "locuteur": "Yukino",
+    "en": "No idea where the storage room is in this{SAUT}Ice Castle...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0047",
+    "locuteur": "Yukino",
+    "en": "But it sounds like it's worth hunting for.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0048",
+    "locuteur": "Tomomi",
+    "en": "Ah... {PAUSE}[1E00]If only I'd met you all sooner...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0049",
+    "locuteur": "Tomomi",
+    "en": "I'll be watching from above with the past{SAUT}Queens so no one else ends up like us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0050",
+    "locuteur": "Tomomi",
+    "en": "Thank you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0051",
+    "locuteur": "Ayase",
+    "en": "No way! I'm the one who should be{SAUT}thanking you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0052",
+    "locuteur": "Ayase",
+    "en": "I've been hurting a lot of people and{SAUT}I never even knew before!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0053",
+    "locuteur": "Ayase",
+    "en": "It's people like me that make it hard for{SAUT}others to trust the ones around them...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:150:0054",
+    "locuteur": "Tomomi",
+    "en": "Hahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:151:0001",
+    "locuteur": "Agastya Tree",
+    "en": "Will you inscribe your story on me??{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Gravez votre histoire en moi??{ATTENTE}"
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "id": "E0.BIN:162:0000",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Maki, it's me! Your mother! Let's go{SAUT}back together!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0001",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Look! These people came all this way{SAUT}because they were worried about you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0002",
+    "locuteur": "Maki",
+    "en": "Don't come near me! Why...{SAUT}Why did you all come here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0003",
+    "locuteur": "Maki",
+    "en": "Don't you know what kind of girl I am?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0004",
+    "locuteur": "Mark",
+    "en": "Maki... I know you feel like you can't{SAUT}just let it go...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0005",
+    "locuteur": "Mark",
+    "en": "But doesn't everyone get jealous now{SAUT}and then, one way or another?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0006",
+    "locuteur": "Mark",
+    "en": "I know I do.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0007",
+    "locuteur": "Mark",
+    "en": "And on top of that, you were just being{SAUT}used. It's Kandori's fault, not yours.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0008",
+    "locuteur": "Maki",
+    "en": "How often did I try to kill everyone!?{SAUT}How can you be so nice to me!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0009",
+    "locuteur": "Maki",
+    "en": "I don't want pity. It just makes me more{SAUT}miserable... I deserve to die!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0010",
+    "locuteur": "Mark",
+    "en": "That's not true!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0011",
+    "locuteur": "Nanjo",
+    "en": "What a petulant child...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0013",
+    "locuteur": "Elly",
+    "en": "Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0014",
+    "locuteur": "Brown",
+    "en": "Dude, Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0015",
+    "locuteur": "Ayase",
+    "en": "Aw, Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0016",
+    "locuteur": "Maki",
+    "en": "You know it, don't you, (*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0017",
+    "locuteur": "Maki",
+    "en": "You know I'm the worst girl alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0018",
+    "locuteur": "Nanjo",
+    "en": "Get a grip! You've sown these seeds{SAUT}and now it's time to reap them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0019",
+    "locuteur": "Nanjo",
+    "en": "If you want to die, then why sit around{SAUT}and mope about it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:162:0020",
+    "locuteur": "Nanjo",
+    "en": "Don't make empty threats if you don't{SAUT}have the courage of your convictions!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:162:0022",
+    "locuteur": "Nanjo",
+    "en": "You spoke of pity? Don't make me laugh.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0023",
+    "locuteur": "Nanjo",
+    "en": "We came here of our own will because{SAUT}we could sympathize with you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0024",
+    "locuteur": "Nanjo",
+    "en": "But even before that... Did you think{SAUT}you were alone in this world?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0025",
+    "locuteur": "Nanjo",
+    "en": "We live at the sufferance of others.{SAUT}Each is responsible for each.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0026",
+    "locuteur": "Nanjo",
+    "en": "Your careless decision would have left{SAUT}behind wounds that would never heal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0027",
+    "locuteur": "Nanjo",
+    "en": "If you still want to die, even now,{SAUT}go ahead. Put it all behind you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0028",
+    "locuteur": "Nanjo",
+    "en": "But you're our friend, and we can never{SAUT}put you behind us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0029",
+    "locuteur": "Nanjo",
+    "en": "Now let's get back. We still have to{SAUT}rescue Maki on our own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0030",
+    "locuteur": "Nanjo",
+    "en": "I don't leave things undone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0032",
+    "locuteur": "Maki",
+    "en": "I'm sorry, everyone... Please...{SAUT}Please let me come along.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0033",
+    "locuteur": "Mark",
+    "en": "Hehe... Of course you can come!{SAUT}Welcome back, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0034",
+    "locuteur": "Reiji",
+    "en": "Heh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0035",
+    "locuteur": "Elly",
+    "en": "Welcome back aboard, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0036",
+    "locuteur": "Brown",
+    "en": "Woo-hoo! Good to have you back, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0037",
+    "locuteur": "Ayase",
+    "en": "Yay! Welcome back, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0038",
+    "locuteur": "Maki",
+    "en": "I'm back, guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0039",
+    "locuteur": "Setsuko Sonomura",
+    "en": "＊sniffle＊ Thank you, all of you...{SAUT}Thank you so much...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0040",
+    "locuteur": "Maki",
+    "en": "Mom... I'm sorry. I've been bad...{SAUT}I remember it all now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0041",
+    "locuteur": "Maki",
+    "en": "I was so lonely being by myself...{SAUT}It hurt... I wanted to see you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0042",
+    "locuteur": "Maki",
+    "en": "I forgot you were working for my sake,{SAUT}and held a grudge... I'm so sorry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0043",
+    "locuteur": "Setsuko Sonomura",
+    "en": "It's okay. It's all right, Maki...{SAUT}I'm sorry, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0044",
+    "locuteur": "Maki",
+    "en": "I'm sorry, Nanjo, and you too,{SAUT}(*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0045",
+    "locuteur": "Maki",
+    "en": "Thank you very much...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0046",
+    "locuteur": "Nanjo",
+    "en": "...I should apologize, too. I said{SAUT}some harsh things.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0047",
+    "locuteur": "Mark",
+    "en": "Nanjo? Dude... are you blushing!?{SAUT}Haha, I get it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0048",
+    "locuteur": "Mark",
+    "en": "You're so stuck-up, this is the first{SAUT}time anyone's ever thanked you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0049",
+    "locuteur": "Nanjo",
+    "en": "S-Silence, Masao! Honestly...{SAUT}Let's get back, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0050",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*) is right! You've sown these{SAUT}seeds and now it's time to reap them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0053",
+    "locuteur": "Maki",
+    "en": "I've finally come to my senses.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0054",
+    "locuteur": "Maki",
+    "en": "Even if I'm a dream, or an illusion,{SAUT}or a shadow, I'm still me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0055",
+    "locuteur": "Maki",
+    "en": "Plus, I have (*APELLIDO_HEROE*) and the rest of{SAUT}you with me! That's all I need...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0056",
+    "locuteur": "Mark",
+    "en": "I guess Nanjo's harebrained arguments{SAUT}do come in handy once in a while.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0057",
+    "locuteur": "Nanjo",
+    "en": "Hmp. It's nothing unusual for people{SAUT}to thank me, I can assure you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0058",
+    "locuteur": "Reiji",
+    "en": "A touching scene, but we can't stick{SAUT}around here forever, you know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0059",
+    "locuteur": "Elly",
+    "en": "Whew, it all worked out. But (*APELLIDO_HEROE*),{SAUT}if that had happened to me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0060",
+    "locuteur": "Elly",
+    "en": "Oh, I shouldn't act so weird. Sorry.{SAUT}{PAUSE}[5800]I'm sure you'd come and rescue me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0061",
+    "locuteur": "Elly",
+    "en": "I'm glad everything worked out. But if{SAUT}it had happened to me, (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0062",
+    "locuteur": "Elly",
+    "en": "No. I'm sorry for acting so strange.{SAUT}{PAUSE}[5800]I'm sure you'd come to my aid, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0063",
+    "locuteur": "Brown",
+    "en": "＊sniff＊ That was so touching, even I{SAUT}couldn't help but tear up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0064",
+    "locuteur": "Ayase",
+    "en": "That was pretty harsh, (*APELLIDO_HEROE*).{SAUT}I was worried about what might happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0065",
+    "locuteur": "Ayase",
+    "en": "That was pretty harsh, (*APODO_HEROE*).{SAUT}I was worried about what might happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0066",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I don't know how to thank you all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:162:0067",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Maki's a lucky girl to have so many{SAUT}friends. Thanks again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:176:0000",
+    "locuteur": "Maki",
+    "en": "It's that butterfly again!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0000",
+    "locuteur": "Mysterious butterfly",
+    "en": "Young man, only two may enter the{SAUT}cavern. Are you fully prepared?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0001",
+    "locuteur": "Mysterious butterfly",
+    "en": "Are you fully stocked with the{SAUT}weapons and items you require?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0002",
+    "locuteur": "Mysterious butterfly",
+    "en": "Will you enter the cavern?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0003",
+    "locuteur": "Mysterious butterfly",
+    "en": "I see. Then I shall open the path{SAUT}to the sea of consciousness.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0004",
+    "locuteur": "Mysterious butterfly",
+    "en": "I see. Then prepare yourselves and{SAUT}return here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0005",
+    "locuteur": "Mysterious butterfly",
+    "en": "Are you ready now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0006",
+    "locuteur": "Mysterious butterfly",
+    "en": "Would you like to go elsewhere?{SAUT}Then rejoin your comrades.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0007",
+    "locuteur": "Mysterious butterfly",
+    "en": "Will you rejoin your comrades?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0008",
+    "locuteur": "Mysterious butterfly",
+    "en": "Return when you are ready.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0009",
+    "locuteur": "Mysterious butterfly",
+    "en": "If you're considering going outside,{SAUT}don't forget to rejoin your comrades.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0010",
+    "locuteur": "Mark",
+    "en": "...I'm putting Maki in your hands, man.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0011",
+    "locuteur": "Nanjo",
+    "en": "We'll be waiting here. Don't take any{SAUT}silly risks.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0012",
+    "locuteur": "Maki",
+    "en": "Then we'll be off.{SAUT}Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0013",
+    "locuteur": "Mark",
+    "en": "Yo, (*APELLIDO_HEROE*)! Don't try any funny stuff{SAUT}just 'cause you and Maki are alone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0014",
+    "locuteur": "Maki",
+    "en": "What are you two chatting about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0015",
+    "locuteur": "Mark",
+    "en": "Uh--Uh, nothing! Right, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0016",
+    "locuteur": "Mark",
+    "en": "Heheh, it's, you know, guy talk.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0017",
+    "locuteur": "Maki",
+    "en": "Sounds dirty. But never mind that,{SAUT}let's go, (*APELLIDO_HEROE*)! C'mon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0018",
+    "locuteur": "Mark",
+    "en": "Maki seems... pretty psyched about this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0019",
+    "locuteur": "Elly",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:177:0020",
+    "locuteur": "Mark",
+    "en": "Dammit! How come YOU get to go?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0021",
+    "locuteur": "Nanjo",
+    "en": "Careful. There's no knowing what may{SAUT}happen inside.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0022",
+    "locuteur": "Nanjo",
+    "en": "Where are you going? We don't have{SAUT}much time to spare, you know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0023",
+    "locuteur": "Maki",
+    "en": "I'm happy not to be alone... Having you{SAUT}and the others all here with me...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0024",
+    "locuteur": "Reiji",
+    "en": "...You better not die in there. I still{SAUT}want to spar with you sometime.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0025",
+    "locuteur": "Reiji",
+    "en": "You still ain't going?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0026",
+    "locuteur": "Elly",
+    "en": "Where're you going? I'll go wherever{SAUT}you go, (*APELLIDO_HEROE*), but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0027",
+    "locuteur": "Elly",
+    "en": "Where are you off to? I'll follow you{SAUT}wherever you go, (*APELLIDO_HEROE*), but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0028",
+    "locuteur": "Elly",
+    "en": "Watch yourself, (*APELLIDO_HEROE*)...{SAUT}I'll be waiting for you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0029",
+    "locuteur": "Elly",
+    "en": "Please be careful, (*APELLIDO_HEROE*)...{SAUT}I'll be waiting for your safe return.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0030",
+    "locuteur": "Brown",
+    "en": "Say hi to the real Maki for us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0031",
+    "locuteur": "Brown",
+    "en": "Huh? You haven't gone yet? Ohhh,{SAUT}I get it... Got cold feet, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0032",
+    "locuteur": "Ayase",
+    "en": "You haven't gone yet, (*APELLIDO_HEROE*)?{SAUT}Don't tell me you're chicken!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0033",
+    "locuteur": "Ayase",
+    "en": "You haven't gone yet, (*APODO_HEROE*)?{SAUT}Don't tell me you're chicken!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0034",
+    "locuteur": "Ayase",
+    "en": "(*APODO_HEROE*)! You better go see Maki,{SAUT}quick!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:177:0035",
+    "locuteur": "Ayase",
+    "en": "(*APELLIDO_HEROE*)! You better go see Maki,{SAUT}quick!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

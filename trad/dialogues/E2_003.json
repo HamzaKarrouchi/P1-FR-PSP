@@ -1,0 +1,699 @@
+[
+  {
+    "id": "E2.BIN:037:0000",
+    "locuteur": "Nanjo",
+    "en": "The historical society seems to be past{SAUT}here. Are we going inside?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:037:0001",
+    "locuteur": "Mark",
+    "en": "Mmmm... receptionists. Er, uh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:037:0002",
+    "locuteur": "Yukino",
+    "en": "You're doing social studies research{SAUT}before we go to the hospital?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:037:0003",
+    "locuteur": "Yukino",
+    "en": "Whatever, weirdo...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:037:0004",
+    "locuteur": "Receptionist",
+    "en": "Welcome to the Mikage Historical Society!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:037:0005",
+    "locuteur": "Receptionist",
+    "en": "We have many interesting exhibits here{SAUT}that shed light on the area's history.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0000",
+    "locuteur": "Nanjo",
+    "en": "It's long been said that mirrors have{SAUT}mystical powers... Is this one of them?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0001",
+    "locuteur": "Mark",
+    "en": "You're awfully studious all of a sudden.{SAUT}Is Hell about to freeze over?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0002",
+    "locuteur": "Yukino",
+    "en": "It's musty in here, but kinda nice.{SAUT}Maybe it's the mirror's influence.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0003",
+    "locuteur": "Man",
+    "en": "I came to see the (*TEXTBOX_PARAM,0700*)Expel Mirror(*TEXTBOX_PARAM,0000*) display.{SAUT}It's as divine as they say...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0004",
+    "locuteur": "Girl",
+    "en": "The Expel Mirror was all they found in{SAUT}the ruins six months ago.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:038:0005",
+    "locuteur": "Girl",
+    "en": "My teacher said it's boring in those{SAUT}ruins 'cause there's nothing else there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0000",
+    "locuteur": "Mark's mother",
+    "en": "Hey, Massie! You came just in time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0001",
+    "locuteur": "Mark's mother",
+    "en": "I'm doing some shopping, but the load's{SAUT}piling up. Help me out, Massie!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0002",
+    "locuteur": "Nanjo",
+    "en": "Hmmmm... This \"Massie\" is you, is it,{SAUT}Masao Inaba...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0003",
+    "locuteur": "Mark",
+    "en": "Q-Quit it, you old bat! I'm busy!{SAUT}Leave me alone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0004",
+    "locuteur": "Mark's mother",
+    "en": "Massie! You'd call your own mother an{SAUT}old bat!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0005",
+    "locuteur": "Mark's mother",
+    "en": "And just when I was thinking of buying{SAUT}you some t-shirts!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0006",
+    "locuteur": "Yukino",
+    "en": "\"Massie\"? That's about as embarrassing{SAUT}as \"young master.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0007",
+    "locuteur": "Mark",
+    "en": "No one asked you, Yukino!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0008",
+    "locuteur": "Mark's mother",
+    "en": "Oh, are these your friends? My, this store{SAUT}is expensive. Look at this one, Massie!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0009",
+    "locuteur": "Mark",
+    "en": "What do I want with that!? C'mon,{SAUT}(*APELLIDO_HEROE*), let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0010",
+    "locuteur": "Mark's mother",
+    "en": "Honestly, that boy... {PAUSE}[2000]I hope you'll all{SAUT}stand by Massie, won't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0011",
+    "locuteur": "Mark",
+    "en": "She can't still be here... {PAUSE}[1500]right...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0012",
+    "locuteur": "Mark's mother",
+    "en": "Oh, Massie, you're back! Perfect timing!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0013",
+    "locuteur": "Mark",
+    "en": "Crap! {PAUSE}[1500]She's still here!? Let's ditch{SAUT}this place, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0014",
+    "locuteur": "Mark's mother",
+    "en": "Massie!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0015",
+    "locuteur": "Mark",
+    "en": "Oh, crap! {PAUSE}[2000]It's my mom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:040:0016",
+    "locuteur": "Mark",
+    "en": "Hey... Is anyone here...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0017",
+    "locuteur": "Mark",
+    "en": "You're hiding around here someplace,{SAUT}right? It's me, Masao. I'm not a demon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0018",
+    "locuteur": "Mark",
+    "en": "It's safe... You can come out...{SAUT}We'll take you home.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0019",
+    "locuteur": "Mark",
+    "en": "Mom...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0020",
+    "locuteur": "Mark",
+    "en": "Eh, it's nothin', (*APELLIDO_HEROE*). I'm fine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0021",
+    "locuteur": "Mark",
+    "en": "The old bat must've gone home before{SAUT}it all went down.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0022",
+    "locuteur": "Mark",
+    "en": "I bet she's bawlin' over her \"stories\"{SAUT}on TV as we speak.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0023",
+    "locuteur": "Mark",
+    "en": "C'mon, let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:040:0024",
+    "en": "{FERME}   > No one seems to be here...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:041:0000",
+    "locuteur": "Clerk",
+    "en": "Oh, you're early, Yukino. Doesn't your{SAUT}shift start later? Do you need something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0001",
+    "locuteur": "Yukino",
+    "en": "Something's come up, so I'll be in late.{SAUT}I'll work overtime to make it up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0002",
+    "locuteur": "Clerk",
+    "en": "Oh, okay. You're a real go-getter, y'know{SAUT}that? I guess you have a reason to work.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0003",
+    "locuteur": "Nanjo",
+    "en": "I can't fathom Yukino wearing that{SAUT}uniform and smiling at customers.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0004",
+    "locuteur": "Nanjo",
+    "en": "It's quite impressive that this place is{SAUT}still open in the midst of a demon attack.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:041:0005",
+    "locuteur": "Mark",
+    "en": "Yukino really does have a part-time job?{SAUT}Uh... why?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0006",
+    "locuteur": "Mark",
+    "en": "Looks like the demons aren't comin' into{SAUT}the store. That's a relief...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:041:0007",
+    "locuteur": "Yukino",
+    "en": "I want to study photography abroad,{SAUT}so I gotta save up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0008",
+    "locuteur": "Yukino",
+    "en": "I wonder if I should've said that...{SAUT}I can't guarantee they won't come in.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0009",
+    "locuteur": "Clerk",
+    "en": "Welcome! What would you like?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0010",
+    "locuteur": "Elly",
+    "en": "What a curious feeling... It's as if{SAUT}everything is all a dream when I'm here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:041:0011",
+    "locuteur": "Clerk",
+    "en": "Y-Yukino! Some monsters showed up!{SAUT}Um, could you please stay with me here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0012",
+    "locuteur": "Yukino",
+    "en": "I'm really sorry, but there's somewhere{SAUT}I need to go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0013",
+    "locuteur": "Yukino",
+    "en": "But I'm pretty sure you'll be fine as{SAUT}long as you stay in the store.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:041:0014",
+    "locuteur": "Clerk",
+    "en": "I'll be okay if I'm here... Gotta keep{SAUT}the store open... We never close...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:042:0000",
+    "locuteur": "Nanjo",
+    "en": "I'd think life in Shibuya would be rather{SAUT}noisy. This girl evidently has no idea...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0001",
+    "locuteur": "Mark",
+    "en": "I wish I could leave my crappy home...{SAUT}I'm too embarrassed to have friends over.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0002",
+    "locuteur": "Yukino",
+    "en": "That girl's a friend of Yuka's. They're{SAUT}a lot alike... neither ever shuts up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0003",
+    "locuteur": "Girl",
+    "en": "I can't wait to live on my own! I'm{SAUT}thinking I'll get a place by Shibuya...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0004",
+    "locuteur": "Girl",
+    "en": "Sounds awesome. Ugh, I can't wait to{SAUT}ditch this boring place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0005",
+    "locuteur": "Smiling clerk",
+    "en": "Welcome to Peace Diner, where we always{SAUT}give you double meat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:042:0006",
+    "locuteur": "Yukino",
+    "en": "Hey! Now's not the time to chow down{SAUT}on fast food!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0000",
+    "locuteur": "Nanjo",
+    "en": "A card game? Mm... I'll let it slide.{SAUT}It sounds adult enough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0001",
+    "locuteur": "Nanjo",
+    "en": "Whereas Masao still gets excited over{SAUT}video games, even in high school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0002",
+    "locuteur": "Nanjo",
+    "en": "...Don't tell me you still play those{SAUT}things, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0003",
+    "locuteur": "Mark",
+    "en": "Aw, crap...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0004",
+    "locuteur": "Mark",
+    "en": "I'm broke! Man, what a shame... Heheh.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0005",
+    "locuteur": "Mark",
+    "en": "Sorry, guess we'll have to do all-you-{SAUT}can-eat some other time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0006",
+    "locuteur": "Mark",
+    "en": "Hidehiko's not here, is he? Good...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0007",
+    "locuteur": "Mark",
+    "en": "Dammit... I never shoulda said anything{SAUT}about all-you-can-eat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0008",
+    "locuteur": "Yukino",
+    "en": "Summoning demons...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0009",
+    "locuteur": "Yukino",
+    "en": "I don't think it'd be anything to joke{SAUT}about if it actually happened.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0010",
+    "locuteur": "Game-loving man",
+    "en": "Right now, I'm into this card game{SAUT}called \"Persona\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0011",
+    "locuteur": "Game-loving man",
+    "en": "You use these things called \"Spell Cards\"{SAUT}to summon demons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0012",
+    "locuteur": "Game-loving man",
+    "en": "Man, can you imagine if you could really{SAUT}do that? Wouldn't it be wild?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0013",
+    "locuteur": "Clerk",
+    "en": "Welcome--Crap, the register's on{SAUT}the fritz.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:043:0014",
+    "locuteur": "Clerk",
+    "en": "What do I do with this? I don't know{SAUT}how to fix this thing!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0000",
+    "locuteur": "Nanjo",
+    "en": "True, we could get checked out here...{SAUT}But aren't we on the way to the hospital?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0001",
+    "locuteur": "Nanjo",
+    "en": "...{PAUSE}[1000]Oh, sorry, (*APELLIDO_HEROE*). I was just{SAUT}lost in thought.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:045:0002",
+    "locuteur": "Mark",
+    "en": "This is kind of a pain.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0003",
+    "locuteur": "Mark",
+    "en": "Maki's mom is at the shrine, right?{SAUT}We should hurry and go get her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0004",
+    "locuteur": "Mark",
+    "en": "So Kandori was behind it all... {PAUSE}[2000]Are we{SAUT}still goin' to the abandoned factory?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:045:0005",
+    "locuteur": "Yukino",
+    "en": "Never been to the doctor before...{PAUSE}[2000]{SAUT}Sent a couple people there, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0006",
+    "locuteur": "Yukino",
+    "en": "Don't sweat it too much, (*APELLIDO_HEROE*).{SAUT}We're here for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0007",
+    "locuteur": "Elly",
+    "en": "This clinic's cheerful atmosphere is{SAUT}always relaxing, I find.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:045:0008",
+    "locuteur": "Nurse",
+    "en": "We just had the clinic remodeled, too!{SAUT}Doesn't it look nice?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0009",
+    "locuteur": "Nurse",
+    "en": "I hear things are going haywire outside.{SAUT}If I wasn't on the job, I'd go look!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:045:0010",
+    "locuteur": "Doctor",
+    "en": "You must go to St. Hermelin. I heard{SAUT}they finished building the new gym.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0011",
+    "locuteur": "Doctor",
+    "en": "Must be easier to use than the old{SAUT}one, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:045:0012",
+    "locuteur": "Doctor",
+    "en": "Wish I could find a nurse who was less{SAUT}of a ditz.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:045:0013",
+    "locuteur": "Doctor",
+    "en": "Now, what can I do for you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0014",
+    "locuteur": "Doctor",
+    "en": "Alright... For all of you together...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0015",
+    "locuteur": "Doctor",
+    "en": "My fee is 800 yen. Well?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E2.BIN:045:0016",
+    "locuteur": "Doctor",
+    "en": "Hm. Then let's get you patched up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0017",
+    "locuteur": "Doctor",
+    "en": "There, that should do it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0018",
+    "locuteur": "Doctor",
+    "en": "Anything else you need?(*UNK_0E,0000*){FERME}   (*SPEAKER*)Doctor{SAUT}Well, I can't treat patients who can't{SAUT}pay. Come back when you have the fee.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E2.BIN:045:0019",
+    "locuteur": "Doctor",
+    "en": "I hope you don't run into trouble later{SAUT}because you cheaped out on treatment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0020",
+    "locuteur": "Doctor",
+    "en": "All right. If anything else comes up,{SAUT}I recommend you see me immediately.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E2.BIN:045:0021",
+    "locuteur": "Doctor",
+    "en": "My time is valuable. If you don't have{SAUT}any business here, then take a hike.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  }
+]

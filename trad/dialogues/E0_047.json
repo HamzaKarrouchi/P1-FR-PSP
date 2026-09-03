@@ -1,0 +1,488 @@
+[
+  {
+    "id": "E0.BIN:213:0000",
+    "locuteur": "Gargantuan monster",
+    "en": "Shh... Sssshhhhhhhrrrr...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0001",
+    "locuteur": "Maki",
+    "en": "Another me!? So... this is Pandora!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0002",
+    "locuteur": "Nanjo",
+    "en": "Look! Is that the core of the{SAUT}Deva System behind it!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0003",
+    "locuteur": "Pandora",
+    "en": "It was inevitable, I suppose, that{SAUT}you'd make it here... Sss... Hhhrrr...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0004",
+    "locuteur": "Pandora",
+    "en": "This... is the gate to paradise...{SAUT}And I won't... ssshhrr... give it up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0005",
+    "locuteur": "Pandora",
+    "en": "I'll use it to create my paradise...{SAUT}A place where nothing exists...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0006",
+    "locuteur": "Maki",
+    "en": "No! That's no \"gate to paradise\"{SAUT}at all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0007",
+    "locuteur": "Maki",
+    "en": "It's a Pandora's box that will bring{SAUT}evil to this world!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0008",
+    "locuteur": "Pandora",
+    "en": "Fsshhhrrr... Everything is useless...{SAUT}Utterly useless. You... me... useless.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:213:0009",
+    "locuteur": "Pandora",
+    "en": "These things... I do not need...{SAUT}Now begone from me... Fsssshrrrraaaa!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0000",
+    "locuteur": "Pandora",
+    "en": "Why won't you give in? How...{SAUT}How can you be so strong!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0001",
+    "locuteur": "Maki",
+    "en": "You already know, don't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0002",
+    "locuteur": "Reiji",
+    "en": "It's 'cause we're not alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0003",
+    "locuteur": "Elly",
+    "en": "Because we work not as individuals,{SAUT}but as a team.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0004",
+    "locuteur": "Elly",
+    "en": "Because we're not here alone...{SAUT}We're all here together.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0005",
+    "locuteur": "Brown",
+    "en": "It's because we work together.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0006",
+    "locuteur": "Ayase",
+    "en": "We're not alone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0007",
+    "locuteur": "Mark",
+    "en": "Heheh... That, and we believe in{SAUT}ourselves.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0008",
+    "locuteur": "Nanjo",
+    "en": "People can't live in isolation. If{SAUT}things are hard, just look around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0009",
+    "locuteur": "Nanjo",
+    "en": "We'll be there for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0010",
+    "locuteur": "Maki",
+    "en": "You and me... We're both part of{SAUT}Maki Sonomura. These are our friends.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0011",
+    "locuteur": "Maki",
+    "en": "Let's end this... together.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0012",
+    "locuteur": "Pandora",
+    "en": "Thank you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0013",
+    "locuteur": "Nanjo",
+    "en": "At last... it's over.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0014",
+    "locuteur": "Mark",
+    "en": "Yeah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0015",
+    "locuteur": "Maki",
+    "en": "Thank you... all of you. We have to{SAUT}part ways now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0016",
+    "locuteur": "Maki",
+    "en": "But I'll never forget you all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0017",
+    "locuteur": "Mark",
+    "en": "Hey! Whaddaya mean, part ways...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0018",
+    "locuteur": "Maki",
+    "en": "I'm only a shadow of Maki Sonomura.{SAUT}I can't go with you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0019",
+    "locuteur": "Maki",
+    "en": "It was fun... Really, it was.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0020",
+    "locuteur": "Mark",
+    "en": "Hey! Maki...! That's not fair!{SAUT}Whoa!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0021",
+    "locuteur": "Maki",
+    "en": "I'll send you all back to the real{SAUT}world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0022",
+    "locuteur": "Maki",
+    "en": "But first, could I borrow you for a{SAUT}second, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0023",
+    "locuteur": "Maki",
+    "en": "Thanks... I hope you'll think about me{SAUT}sometimes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0024",
+    "locuteur": "Maki",
+    "en": "But I have to go... I love you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0025",
+    "locuteur": "{[103C][0C0F]}",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:215:0026",
+    "locuteur": "Maki",
+    "en": "Goodbye, everyone...{SAUT}{PAUSE}[5800]Goodbye, (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0000",
+    "locuteur": "Maki",
+    "en": "Guess what? (*APELLIDO_HEROE*) is...{SAUT}Or at least that's what I heard!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0001",
+    "locuteur": "Elly",
+    "en": "Is that so? Oh, my... Hee-hee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0002",
+    "locuteur": "Elly",
+    "en": "Really? No kidding! Hee-hee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0003",
+    "locuteur": "Nanjo",
+    "en": "Tsk... People do like to talk, but{SAUT}nothing's noisier than girls gossiping.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0004",
+    "locuteur": "Maki",
+    "en": "Oh! Speak of the devil.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0005",
+    "locuteur": "Maki",
+    "en": "You're late! We were getting tired of{SAUT}waiting around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0006",
+    "locuteur": "Mark",
+    "en": "Sorry, guys... Man, that was hell.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0007",
+    "locuteur": "Mark",
+    "en": "(*APELLIDO_HEROE*) and me lost our second buttons{SAUT}on the way here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0008",
+    "locuteur": "Mark",
+    "en": "Those girls were all over us... We had{SAUT}to surrender the buttons to survive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0009",
+    "locuteur": "Mark",
+    "en": "There was a bunch of people looking for{SAUT}you too, Nanjo.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0010",
+    "locuteur": "Nanjo",
+    "en": "\"A wise man never courts danger.\"{SAUT}Use your head, man.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0011",
+    "locuteur": "Mark",
+    "en": "Yeah, yeah, if you say so...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0012",
+    "locuteur": "Elly",
+    "en": "It must be difficult for you all,{SAUT}being so popular...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0013",
+    "locuteur": "Elly",
+    "en": "Wow, being popular seems rougher than{SAUT}I thought.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0014",
+    "locuteur": "Maki",
+    "en": "Well, I hate to break it to you, but{SAUT}you're hanging out with us next!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0015",
+    "locuteur": "Elly",
+    "en": "Let's go! Time waits for no man,{SAUT}you know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0016",
+    "locuteur": "Elly",
+    "en": "C'mon! We're not getting any younger!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0017",
+    "locuteur": "Mark",
+    "en": "Aw, man, there they go...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0018",
+    "locuteur": "Mark",
+    "en": "Heheh... Looking at Maki now, that{SAUT}mess before seems like a bad dream...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0019",
+    "locuteur": "Nanjo",
+    "en": "Heh. Pandora, eh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:216:0020",
+    "locuteur": "Mark",
+    "en": "Man, you're still stuck on that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0021",
+    "locuteur": "Nanjo",
+    "en": "Oh, it's nothing. I only just remembered{SAUT}the last thing in Pandora's box...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:216:0022",
+    "locuteur": "Nanjo",
+    "en": "Well then, Mark, shall we go?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0023",
+    "locuteur": "Mark",
+    "en": "What do you mean?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0024",
+    "locuteur": "Mark",
+    "en": "Wait a sec, did you just call me Mark?{SAUT}Hey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0025",
+    "locuteur": "Ayase",
+    "en": "Seriously!? (*APODO_HEROE*)!?{SAUT}That's totally awesome!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0026",
+    "locuteur": "Ayase",
+    "en": "Seriously!? (*APELLIDO_HEROE*)!?{SAUT}You really think so?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0027",
+    "locuteur": "Ayase",
+    "en": "Huh... (*APODO_HEROE*) I could see,{SAUT}but Masao?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0028",
+    "locuteur": "Ayase",
+    "en": "Huh... (*APELLIDO_HEROE*) I could see,{SAUT}but Masao?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0029",
+    "locuteur": "Ayase",
+    "en": "Remember the promise, (*APODO_HEROE*)?{SAUT}We're gonna ride the freefall 10 times!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:216:0030",
+    "locuteur": "Ayase",
+    "en": "Over and over until we hurl!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:216:0031",
+    "locuteur": "Ayase",
+    "en": "Remember the promise, (*APELLIDO_HEROE*)?{SAUT}We're gonna ride the freefall 10 times!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

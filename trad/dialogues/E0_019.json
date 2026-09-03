@@ -1,0 +1,408 @@
+[
+  {
+    "id": "E0.BIN:064:0000",
+    "locuteur": "Mark",
+    "en": "Owww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0001",
+    "locuteur": "Mark",
+    "en": "Maki! A-Are you okay!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0002",
+    "locuteur": "Maki",
+    "en": "...Nggh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0003",
+    "locuteur": "Maki",
+    "en": "...Ma...{PAUSE}[3C00]sao...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0004",
+    "locuteur": "Nanjo",
+    "en": "Ungh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0005",
+    "locuteur": "Nanjo",
+    "en": "Where am I...?{PAUSE}[3C00]{SAUT}Oh, (*APELLIDO_HEROE*). You're all right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0006",
+    "locuteur": "Brown",
+    "en": "Owwww... My hip...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0007",
+    "locuteur": "Brown",
+    "en": "Y-Yes! We're alive, (*APODO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0008",
+    "locuteur": "Brown",
+    "en": "Go me! I'm the luckiest!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0009",
+    "locuteur": "Elly",
+    "en": "Oh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0010",
+    "locuteur": "Elly",
+    "en": "Where am I? Ah, (*APELLIDO_HEROE*).{SAUT}Are you hurt anywhere?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0011",
+    "locuteur": "Ayase",
+    "en": "...Urrrgh.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0012",
+    "locuteur": "Ayase",
+    "en": "Owww! I've had it! I'm going home!{SAUT}Like, why is this happening to me!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0013",
+    "locuteur": "Nanjo",
+    "en": "Looks like everyone's unhurt.{SAUT}We certainly have the devil's luck.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0014",
+    "locuteur": "Elly",
+    "en": "...This is our school's gym. But it's{SAUT}the one from six months ago...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0015",
+    "locuteur": "Brown",
+    "en": "Hey... is this the gym!? But it's the{SAUT}old one from six months ago...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0016",
+    "locuteur": "Ayase",
+    "en": "Hey, uh... This is the gym, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0017",
+    "locuteur": "Ayase",
+    "en": "Didn't they tear this one down six{SAUT}months ago...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0018",
+    "locuteur": "Maki",
+    "en": "I get it... We've gone back...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0019",
+    "locuteur": "Mark",
+    "en": "Gone back? To six months ago!?{SAUT}C'mon, Maki, snap out of it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0020",
+    "locuteur": "Nanjo",
+    "en": "You mean a time slip? That's rather{SAUT}different than what your mother said.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0021",
+    "locuteur": "Maki",
+    "en": "...I've told you before, I don't have{SAUT}a real mom.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0022",
+    "locuteur": "Maki",
+    "en": "I never thought the stuff Yosuke was{SAUT}saying was... actually true...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0023",
+    "locuteur": "Harried girl",
+    "en": "Oh! There you are! It's really bad,{SAUT}Maki! Yosuke got seriously hurt!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0024",
+    "locuteur": "Harried girl",
+    "en": "That girl in black came back again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0025",
+    "locuteur": "Maki",
+    "en": "No way! Th-That's impossible! Yosuke!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0026",
+    "locuteur": "Mark",
+    "en": "H-Hey! Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0027",
+    "locuteur": "Elly",
+    "en": "Could this \"Yosuke\" be Yosuke Naito?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0028",
+    "locuteur": "Elly",
+    "en": "As I recall, he went missing along with{SAUT}Chisato Kasai roughly two months ago.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0029",
+    "locuteur": "Brown",
+    "en": "Y'think \"Yosuke\" is Yosuke Naito?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0030",
+    "locuteur": "Brown",
+    "en": "He ran away with his girlfriend Chisato{SAUT}two months back, didn't he?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0031",
+    "locuteur": "Ayase",
+    "en": "Could \"Yosuke\" be that guy Yosuke Naito?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0032",
+    "locuteur": "Ayase",
+    "en": "Didn't he, like, run off with Chisato{SAUT}a couple months ago?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0033",
+    "locuteur": "Nanjo",
+    "en": "...That dolt. I can't believe she took{SAUT}off on her own at a time like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0034",
+    "locuteur": "Nanjo",
+    "en": "Come, (*APELLIDO_HEROE*). We'd better go{SAUT}after Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0035",
+    "locuteur": "Nanjo",
+    "en": "...(*APELLIDO_HEROE*). Don't you think Maki is{SAUT}acting oddly for an amnesia victim?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0036",
+    "locuteur": "Nanjo",
+    "en": "Is this really six months ago? That girl{SAUT}did come here looking for Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0037",
+    "locuteur": "Nanjo",
+    "en": "But Maki was hospitalized six months{SAUT}ago as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0038",
+    "locuteur": "Mark",
+    "en": "Yosuke, huh...? {PAUSE}[1E00]I get it...{SAUT}Oh, uh, what's up, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0039",
+    "locuteur": "Elly",
+    "en": "A time slip... Do you think it's true,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0040",
+    "locuteur": "Elly",
+    "en": "Something tells me that isn't the{SAUT}case here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0041",
+    "locuteur": "Brown",
+    "en": "Is this place really our school?{SAUT}Doesn't it look like somewhere else?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0042",
+    "locuteur": "Brown",
+    "en": "Oh, duh! It's all a dream! Of course!{SAUT}Hahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0043",
+    "locuteur": "Ayase",
+    "en": "\"Time strip\"? Is that what they're{SAUT}calling it now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0044",
+    "locuteur": "Ayase",
+    "en": "Awww, this sucks! Am I behind the{SAUT}times on the latest trends?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0045",
+    "locuteur": "Female student",
+    "en": "I think Maki likes Yosuke. I'm jealous...{SAUT}They'd make a cute couple.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0046",
+    "locuteur": "Nanjo",
+    "en": "You there. How many days are left until{SAUT}the sports festival?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0047",
+    "locuteur": "Female student",
+    "en": "Uch, you're always so rude. The sports{SAUT}festival is still a month off.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0048",
+    "locuteur": "Female student",
+    "en": "You have amnesia or something, Nanjo?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0049",
+    "locuteur": "Nanjo",
+    "en": "...So the date's the same. Tell me,{SAUT}which year am I in?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0050",
+    "locuteur": "Female student",
+    "en": "What the... You really DO have amnesia!{SAUT}We're all second-year students.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0051",
+    "locuteur": "Female student",
+    "en": "Man, I gotta tell the others about this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0052",
+    "locuteur": "Nanjo",
+    "en": "Everything's the same as when we left.{SAUT}Stranger and stranger...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0053",
+    "locuteur": "Restless boy",
+    "en": "Ahaha... ahahaha... It looked like you{SAUT}guys showed up outta nowhere.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0054",
+    "locuteur": "Restless boy",
+    "en": "I must've been dreaming! Ahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0055",
+    "locuteur": "Mark",
+    "en": "Hey... isn't this the school gym?{SAUT}The one they tore down six months ago?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0056",
+    "locuteur": "Mark",
+    "en": "H-Hey, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:064:0057",
+    "locuteur": "Mark",
+    "en": "Could Yosuke be that guy who went{SAUT}missing a couple months ago?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

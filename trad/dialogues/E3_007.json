@@ -1,0 +1,665 @@
+[
+  {
+    "id": "E3.BIN:083:0001",
+    "locuteur": "Yukino",
+    "en": "There's no time limit on this tower.{SAUT}Let's take our time and prepare.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:083:0002",
+    "locuteur": "Ayase",
+    "en": "Heeey! This is like, totally cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:083:0003",
+    "locuteur": "Nanjo",
+    "en": "Good armor is the equivalent of life{SAUT}insurance in this place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:083:0004",
+    "locuteur": "Brown",
+    "en": "Oh man, it's like this one is begging{SAUT}me to wear it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:083:0005",
+    "locuteur": "Brown",
+    "en": "It's true that some clothes are only{SAUT}worthy of a handsome man. Mwahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:083:0006",
+    "locuteur": "Elly",
+    "en": "Why is it that all the armory shopkeepers{SAUT}wear masks?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0000",
+    "locuteur": "Yukino",
+    "en": "What a gaudy door.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0001",
+    "locuteur": "Yukino",
+    "en": "Just the kind of thing Michiko would{SAUT}use... It makes me sick!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0002",
+    "locuteur": "Ayase",
+    "en": "I wonder if that Michiko girl ever, like,{SAUT}played the part of the \"Snow Queen,\" too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0003",
+    "locuteur": "Nanjo",
+    "en": "Hmph! The woman's door is as infuriating{SAUT}as she is!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0004",
+    "locuteur": "Nanjo",
+    "en": "All show on the outside, lacking any{SAUT}substance within!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0005",
+    "locuteur": "Brown",
+    "en": "I wish I could take this door back to my{SAUT}room! It's one kickass door...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:084:0006",
+    "locuteur": "Elly",
+    "en": "Er... If this door is meant to be a trap,{SAUT}it's a rather obvious one.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0000",
+    "locuteur": "Yukino",
+    "en": "Oh, for the love of... not again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0001",
+    "locuteur": "Yukino",
+    "en": "What's with these hideous doors!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0002",
+    "locuteur": "Yukino",
+    "en": "Wasn't there one like it earlier, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0003",
+    "locuteur": "Ayase",
+    "en": "It's like, we walk and walk and we never{SAUT}get to the top! I! AM! TIRED!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0004",
+    "locuteur": "Nanjo",
+    "en": "Dammit... I can sense Michiko's malice{SAUT}in the air itself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0005",
+    "locuteur": "Brown",
+    "en": "Yukino's right! There was a room like{SAUT}this downstairs, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0006",
+    "locuteur": "Elly",
+    "en": "I feel that this tower is much higher than{SAUT}it appears from outside. Is it just me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:085:0007",
+    "en": "{FERME}  > Open the door?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0000",
+    "locuteur": "Yukino",
+    "en": "Ugh! I can't stand this claustrophobic{SAUT}feeling this tower gives me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0001",
+    "locuteur": "Ayase",
+    "en": "I wonder if Toro and Tsutomu are okay...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0002",
+    "locuteur": "Nanjo",
+    "en": "This is one time I won't be holding back!{SAUT}What that Michiko did is unforgiveable!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0003",
+    "locuteur": "Brown",
+    "en": "Alright! Looks like Michiko's room is{SAUT}coming up soon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0004",
+    "locuteur": "Brown",
+    "en": "Might as well check our equipment, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:086:0005",
+    "locuteur": "Elly",
+    "en": "Whew... this is tiring, both mentally and{SAUT}physically. Is that also Michiko's fault?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0000",
+    "locuteur": "Yukino",
+    "en": "Having no time limit is even more{SAUT}ominous, in a way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0001",
+    "locuteur": "Yukino",
+    "en": "I think we should hurry on ahead.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0002",
+    "locuteur": "Ayase",
+    "en": "This tower is, like, totally creepy,{SAUT}y'know? Let's hurry and get through it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0003",
+    "locuteur": "Nanjo",
+    "en": "Gah, that Michiko woman gets on my nerves!{SAUT}She's infuriating! Truly infuriating!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0004",
+    "locuteur": "Brown",
+    "en": "Hey, c'mon! There's no time limit on this{SAUT}tower, right? So let's take a break!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0005",
+    "locuteur": "Brown",
+    "en": "We can kick back a bit and then get{SAUT}right to it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:088:0006",
+    "locuteur": "Elly",
+    "en": "Can we hurry ahead with all possible{SAUT}haste? I can't shake this feeling...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:097:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 6,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0012",
+    "locuteur": "Mariko",
+    "en": "I'm thinkin' about interviewing some{SAUT}demons, but I don't have a recorder.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0013",
+    "locuteur": "Mariko",
+    "en": "Hey, you know anyplace that might{SAUT}sell some?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0017",
+    "locuteur": "Yukino",
+    "en": "Considering how far we've come, it's no{SAUT}surprise the items are getting pricier.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0018",
+    "locuteur": "Ayase",
+    "en": "That clerk's clothes are so cute!{SAUT}I want some like that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0019",
+    "locuteur": "Nanjo",
+    "en": "Astounding! But they're all so expensive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0020",
+    "locuteur": "Nanjo",
+    "en": "Still, we can't simply go without. This{SAUT}is what's known as a Hobson's choice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0021",
+    "locuteur": "Brown",
+    "en": "Oh, man! I want this one, and that{SAUT}one too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0022",
+    "locuteur": "Brown",
+    "en": "But they're so expensive! Hmm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:098:0023",
+    "locuteur": "Elly",
+    "en": "I wonder what that child intends to do{SAUT}with the proceeds...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0001",
+    "locuteur": "Yukino",
+    "en": "Not that I care, but the armory clerks{SAUT}sure are creepy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0002",
+    "locuteur": "Ayase",
+    "en": "Look! It's like, soooo charming!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0003",
+    "locuteur": "Nanjo",
+    "en": "The heaviness of sturdier armor can be{SAUT}a fly in the ointment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0004",
+    "locuteur": "Brown",
+    "en": "Man, I look good in just about anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0005",
+    "locuteur": "Brown",
+    "en": "So it takes me forever to decide!{SAUT}Mwahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0006",
+    "locuteur": "Elly",
+    "en": "Where was this armor imported from?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:099:0007",
+    "locuteur": "Elly",
+    "en": "It gives one rather a turn to consider{SAUT}its origin...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0000",
+    "locuteur": "Yukino",
+    "en": "Even now, our time keeps slipping away.{SAUT}It's frustrating.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0001",
+    "locuteur": "Yukino",
+    "en": "Makes me think I might be powerless{SAUT}after all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0002",
+    "locuteur": "Ayase",
+    "en": "It's kinda nice, having everyone work{SAUT}together toward something like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0003",
+    "locuteur": "Nanjo",
+    "en": "＊ahem＊... How much longer do you intend{SAUT}that we stay here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0004",
+    "locuteur": "Brown",
+    "en": "It sucks that this happened to our school,{SAUT}no doubt about that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0005",
+    "locuteur": "Brown",
+    "en": "But then again, it's a break from our{SAUT}boring everyday lives! That's kinda cool!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:100:0006",
+    "locuteur": "Elly",
+    "en": "Thanatos Tower and Tartarus... It's all{SAUT}like something from Greek mythology.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0000",
+    "locuteur": "Yukino",
+    "en": "So mirror shards can be in treasure{SAUT}boxes, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0001",
+    "locuteur": "Yukino",
+    "en": "Let's try and check as many treasure{SAUT}boxes as we can, time permitting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0002",
+    "locuteur": "Ayase",
+    "en": "I always get goosebumps when we're about{SAUT}to open up a treasure box!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0003",
+    "locuteur": "Nanjo",
+    "en": "It's always so unsightly to witness one{SAUT}rummaging through treasure boxes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0004",
+    "locuteur": "Nanjo",
+    "en": "Oh, no, I didn't mean you in particular.{SAUT}Just... in the general sense. Yes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0005",
+    "locuteur": "Brown",
+    "en": "Hey, to tell you the truth, you're so{SAUT}quiet, I always thought you were weird...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0006",
+    "locuteur": "Brown",
+    "en": "But after fighting along with you, I get{SAUT}it now! You're one hip, happenin' dude!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0007",
+    "locuteur": "Brown",
+    "en": "You're like, the next strongest and{SAUT}second most reliable, after me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0008",
+    "locuteur": "Brown",
+    "en": "I gotta give you props! Seriously.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0009",
+    "locuteur": "Elly",
+    "en": "I admit, my opinion of you has slightly{SAUT}improved.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0010",
+    "locuteur": "Elly",
+    "en": "You haven't uttered a word of complaint,{SAUT}even in a situation like this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0011",
+    "locuteur": "Elly",
+    "en": "You've been a real unifying force. I never{SAUT}knew you had such a brave heart.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0012",
+    "en": "{FERME}   > Open the box?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:101:0013",
+    "en": "(*UNK_0E,0000*){FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shard(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:101:0014",
+    "en": "{FERME}> You decide not to open the treasure box.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:101:0015",
+    "en": "{FERME}> The treasure box is already empty.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:102:0000",
+    "locuteur": "Yukino",
+    "en": "I wonder if this Tartarus is Yuriko's{SAUT}treasure hoard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0001",
+    "locuteur": "Yukino",
+    "en": "There sure are a lot of boxes here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0002",
+    "locuteur": "Ayase",
+    "en": "Hey, if we beat the Snow Queen and rescue{SAUT}Ms. Saeko... that's it, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0003",
+    "locuteur": "Ayase",
+    "en": "Everyone will go back to normal, and we{SAUT}can, like, go home, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0004",
+    "locuteur": "Nanjo",
+    "en": "I'm worried about Ms. Saeko, of course,{SAUT}but that Masao...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0005",
+    "locuteur": "Nanjo",
+    "en": "I wonder if he's all right. He isn't{SAUT}very smart, after all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0006",
+    "locuteur": "Nanjo",
+    "en": "Damn and blast!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0007",
+    "locuteur": "Brown",
+    "en": "Ughhhh! This is supposedly the world{SAUT}after death, but there's nothing here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0008",
+    "locuteur": "Brown",
+    "en": "Boooooriiiiiing!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0009",
+    "locuteur": "Brown",
+    "en": "Hey! Let's start heading back up the{SAUT}tower and go see Yuriko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0010",
+    "locuteur": "Elly",
+    "en": "Haha... it's really rather amusing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0011",
+    "locuteur": "Elly",
+    "en": "We five never knew each other well, yet{SAUT}here we are on an adventure together...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0012",
+    "locuteur": "Elly",
+    "en": "And not only that... part of me takes{SAUT}a real delight in this situation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:102:0013",
+    "locuteur": "Elly",
+    "en": "It really is amazing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0000",
+    "locuteur": "Yukino",
+    "en": "It sounds strange saying this in the{SAUT}world after death, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0001",
+    "locuteur": "Yukino",
+    "en": "I hope we all make it back alive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0002",
+    "locuteur": "Ayase",
+    "en": "Hey, hey, some of these treasure boxes{SAUT}might have mirror shards in them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0003",
+    "locuteur": "Nanjo",
+    "en": "The enemies here are strong.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0004",
+    "locuteur": "Nanjo",
+    "en": "If we don't equip ourselves well,{SAUT}we won't have a prayer against Yuriko.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0005",
+    "locuteur": "Brown",
+    "en": "Cerberus was right... this Tartarus place{SAUT}sure is exhausting...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0006",
+    "locuteur": "Elly",
+    "en": "Checking every single treasure box may{SAUT}strain our time limitations.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:103:0007",
+    "en": "{FERME} > Open the box?{ATTENTE}",
+    "fr": ""
+  }
+]

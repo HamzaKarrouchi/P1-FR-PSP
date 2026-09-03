@@ -1,0 +1,608 @@
+[
+  {
+    "id": "E0.BIN:153:0000",
+    "locuteur": "Mark",
+    "en": "H-Hey... it disappeared!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0001",
+    "locuteur": "Mark",
+    "en": "Now what!? We can't get back like this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0002",
+    "locuteur": "Nanjo",
+    "en": "Something must have happened at the town{SAUT}inside Maki's heart...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0003",
+    "locuteur": "Nanjo",
+    "en": "With Kandori gone, she's the only one{SAUT}who could do something like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0004",
+    "locuteur": "Reiji",
+    "en": "What about Kandori's mirror? Let's just{SAUT}have it send us back.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0005",
+    "locuteur": "Elly",
+    "en": "Mark! If we make a wish to Kandori's{SAUT}mirror, can't we get back to that town?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0006",
+    "locuteur": "Brown",
+    "en": "Oh yeah! We still got Kandori's mirror!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0007",
+    "locuteur": "Brown",
+    "en": "We just have to make a wish, and poof!{SAUT}We're back in business!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0008",
+    "locuteur": "Ayase",
+    "en": "Oh hey, what about Kandori's mirror!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0009",
+    "locuteur": "Ayase",
+    "en": "Let's just like, wish for it to send us{SAUT}back there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0010",
+    "locuteur": "Mark",
+    "en": "Oh yeah, we could still do that, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0011",
+    "locuteur": "Mark",
+    "en": "Whoa! I-Is this for real!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0012",
+    "locuteur": "Nanjo",
+    "en": "Is Maki resisting us...!? It seems{SAUT}that way to me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0013",
+    "locuteur": "Mark",
+    "en": "Dammit! What're we gonna do... Hm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0014",
+    "locuteur": "Mark",
+    "en": "Maki must've dropped this. But it won't{SAUT}do us any good on its own...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0015",
+    "locuteur": "Nanjo",
+    "en": "What is it, Masao?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0016",
+    "locuteur": "Mark",
+    "en": "It's Maki's compact...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0017",
+    "locuteur": "Nanjo",
+    "en": "Hm. There's no mirror inside...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0018",
+    "locuteur": "Reiji",
+    "en": "Hey, the Maki over here has a{SAUT}compact, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0019",
+    "locuteur": "Elly",
+    "en": "Hey! The original Maki has a{SAUT}compact, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0020",
+    "locuteur": "Brown",
+    "en": "Hey, the real Maki has a compact, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0021",
+    "locuteur": "Ayase",
+    "en": "Look! The real Maki has a compact too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0022",
+    "locuteur": "Nanjo",
+    "en": "Let's see here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0023",
+    "locuteur": "Nanjo",
+    "en": "The real Maki's compact and the ideal{SAUT}Maki's compact...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0024",
+    "locuteur": "Nanjo",
+    "en": "The real one has a mirror. Hmm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0025",
+    "locuteur": "Mark",
+    "en": "Gimme that, Nanjo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0026",
+    "locuteur": "Mark",
+    "en": "Please! Send us back into Maki's heart!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0027",
+    "locuteur": "Mark",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0028",
+    "locuteur": "Nanjo",
+    "en": "The compact couldn't possibly have such{SAUT}powers in the real world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0029",
+    "locuteur": "Nanjo",
+    "en": "If only the ideal Maki's compact was{SAUT}complete, then maybe...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0030",
+    "locuteur": "Mark",
+    "en": "Maki... Everyone wants to see you,{SAUT}y'know? There's no need to suffer alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0031",
+    "locuteur": "Mark",
+    "en": "Just call on us, please... I'd go{SAUT}anywhere for you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0032",
+    "locuteur": "Nanjo",
+    "en": "The ideal Maki is the manifestation of{SAUT}Maki wanting to change herself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0033",
+    "locuteur": "Nanjo",
+    "en": "But if her ideal self denied its own{SAUT}existence...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0034",
+    "locuteur": "Nanjo",
+    "en": "Maki... have you really lost hope?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0035",
+    "locuteur": "Nanjo",
+    "en": "If there's even a fragment left,{SAUT}call out to us...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0036",
+    "locuteur": "Reiji",
+    "en": "Quit sticking your head in a hole,{SAUT}Maki! It's the easy way out...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0037",
+    "locuteur": "Reiji",
+    "en": "My mom was Kandori's dad's old mistress.{SAUT}She got thrown away like an old rag.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0038",
+    "locuteur": "Reiji",
+    "en": "But even knowing that would happen...{SAUT}She still gave birth to me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0039",
+    "locuteur": "Reiji",
+    "en": "Know why she did that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0040",
+    "locuteur": "Reiji",
+    "en": "She told me she couldn't neglect her own{SAUT}child's life...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0041",
+    "locuteur": "Reiji",
+    "en": "You have a mom too. No parent alive{SAUT}doesn't love their child.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0042",
+    "locuteur": "Reiji",
+    "en": "You're gonna see your mom again, so hurry{SAUT}and wake up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0043",
+    "locuteur": "Elly",
+    "en": "Maki! Please wake up! Please...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0044",
+    "locuteur": "Elly",
+    "en": "You're not the only one who suffers from{SAUT}having multiple aspects of yourself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0045",
+    "locuteur": "Elly",
+    "en": "Everyone says how elegant and beautiful{SAUT}I am, but it's not true at all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0046",
+    "locuteur": "Elly",
+    "en": "I've always acted like someone I'm not.{SAUT}I hate seeing boys talk to other girls...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0047",
+    "locuteur": "Elly",
+    "en": "That's why I always wear a fake smile.{SAUT}It was so stifling... I'm no good, am I?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0048",
+    "locuteur": "Elly",
+    "en": "But I understand now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0049",
+    "locuteur": "Elly",
+    "en": "What I really needed are friends I can{SAUT}trust. The ones I have with me here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0050",
+    "locuteur": "Elly",
+    "en": "I like someone now. You probably like{SAUT}him too, Maki... Please wake up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0051",
+    "locuteur": "Elly",
+    "en": "I wish I could talk to you again, about{SAUT}things like him. Okay? So wake up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0052",
+    "locuteur": "Brown",
+    "en": "Rise and shine, Maki, and I'll tell you{SAUT}the funniest story I know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0053",
+    "locuteur": "Brown",
+    "en": "Y'know how they call me Brown? It's a{SAUT}nickname I picked up in middle school...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0054",
+    "locuteur": "Brown",
+    "en": "People think it's about my brown hair...{SAUT}But really... {PAUSE}[6000]It's 'cause I crapped myself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0055",
+    "locuteur": "Brown",
+    "en": "See? Isn't that funny? Man, it was{SAUT}embarrassing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0056",
+    "locuteur": "Brown",
+    "en": "I spent most of middle school as the{SAUT}butt of every joke in the class...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0057",
+    "locuteur": "Brown",
+    "en": "I was sick of myself. I came to Hermelin{SAUT}'cause I couldn't take the local schools.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0058",
+    "locuteur": "Brown",
+    "en": "So when I got to high school, I did my{SAUT}best to act like Mr. Cool...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0059",
+    "locuteur": "Brown",
+    "en": "But I was lying to myself all this time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0060",
+    "locuteur": "Brown",
+    "en": "No more, though. I realized how dumb I{SAUT}was being from watching you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0061",
+    "locuteur": "Brown",
+    "en": "So there it is. Now c'mon... give us{SAUT}a smile...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0062",
+    "locuteur": "Ayase",
+    "en": "Wakey wakey, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0063",
+    "locuteur": "Ayase",
+    "en": "I still have your handkerchief. Anything{SAUT}you wanna talk about, I'll listen...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0064",
+    "locuteur": "Ayase",
+    "en": "I get how you feel. I used to think the{SAUT}same way...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0065",
+    "locuteur": "Ayase",
+    "en": "I would like, wish there would be no{SAUT}future...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0066",
+    "locuteur": "Ayase",
+    "en": "I worry about the future a lot. I think{SAUT}that's why I party so hard...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0067",
+    "locuteur": "Ayase",
+    "en": "'Cause the future's too depressing to{SAUT}think about, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0068",
+    "locuteur": "Ayase",
+    "en": "So I made up my mind to live only for{SAUT}now, and ran away from the future...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0069",
+    "locuteur": "Ayase",
+    "en": "But it doesn't work like that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0070",
+    "locuteur": "Ayase",
+    "en": "It's my future. I have to come up with{SAUT}it myself... So I've made my choice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0071",
+    "locuteur": "Ayase",
+    "en": "I'm gonna snag a great guy so I can live{SAUT}on easy street! So, Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0072",
+    "locuteur": "Ayase",
+    "en": "I wanna hear your dreams for the future,{SAUT}too. Please, Maki... please...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0073",
+    "en": "{FERME} > A (*TEXTBOX_PARAM,0700*)shard of the Chaos Mirror(*TEXTBOX_PARAM,0000*) is on{SAUT}the floor.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0074",
+    "en": "{FERME}> Pick it up?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0075",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*)?{PAUSE}[5800]{SAUT}Is that a shard of Kandori's mirror!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0076",
+    "locuteur": "Nanjo",
+    "en": "This size and shape... I think it may{SAUT}fit Maki's compact!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0077",
+    "locuteur": "Mark",
+    "en": "Seriously!? Maybe we can use this to{SAUT}go back!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0078",
+    "locuteur": "Mark",
+    "en": "Lemme see that, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0079",
+    "locuteur": "Mark",
+    "en": "It's a perfect fit!{PAUSE}[5800]{PAGE}(*SPEAKER*)Mark{SAUT}Whoa!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0080",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Chaos Mirror Shard(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0081",
+    "en": "{FERME}  > The real Maki won't wake up...{SAUT}She sleeps as though dead...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0082",
+    "locuteur": "Nanjo",
+    "en": "Where are you going? Are you going to{SAUT}leave Maki this way?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0083",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Green Compact(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0084",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Broken Compact(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0085",
+    "en": "{FERME}  > The Mirror of Chaos is cracked...{SAUT}What could have happened to the town{SAUT}inside Maki's heart...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0086",
+    "en": "{FERME}  > It's Maki's painting, the \"Gate to{SAUT}Paradise.\" You wonder how she felt when{SAUT}she painted this...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:153:0087",
+    "en": "{FERME}  > It's a holographic model of the Deva{SAUT}System. It seems Maki is connected{SAUT}directly to the machine.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:156:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 4,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

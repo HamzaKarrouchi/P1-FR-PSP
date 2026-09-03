@@ -1,0 +1,665 @@
+[
+  {
+    "id": "E3.BIN:036:0000",
+    "en": "> There seems to be nothing here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0001",
+    "en": "{FERME} > A small piece of paper is stuck to{SAUT}the frozen floor.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0002",
+    "en": "{FERME}> Read it?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0003",
+    "en": "(*UNK_0E,0000*){FERME}  \"Get rid of the main character's{SAUT}old costume from the 'Snow Queen.'{SAUT}It's dirty, and bad luck to boot.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0004",
+    "en": "{PAGE}\"It's to the right of the vaulting horse.{SAUT}I'm counting on you, first-year!{SAUT}         -Drama club president & star\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0005",
+    "en": "{FERME}  > There's an antique costume nestled{SAUT}amongst the junk.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0006",
+    "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Mask(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0007",
+    "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Mail(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0008",
+    "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Beine(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0009",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Blade(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0010",
+    "en": "{FERME}   > They are frozen.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0012",
+    "locuteur": "Yukino",
+    "en": "This girl looks like she wants to{SAUT}say something...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0013",
+    "locuteur": "Yukino",
+    "en": "We gotta do all we can for these guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0014",
+    "locuteur": "Ayase",
+    "en": "Y'think they'd melt if I cast Agi on 'em?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:036:0016",
+    "locuteur": "Nanjo",
+    "en": "\"Set your mind at ease that even the fire{SAUT}may seem cool and refreshing.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0017",
+    "locuteur": "Nanjo",
+    "en": "Wait... That makes it feel even colder.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0018",
+    "locuteur": "Nanjo",
+    "en": "That was quite a windfall. One hardly{SAUT}expects such an amazing find.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0020",
+    "locuteur": "Brown",
+    "en": "Night Queen or no, I'm not letting{SAUT}whoever did this off the hook!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0021",
+    "locuteur": "Brown",
+    "en": "A main character's costume? It should go{SAUT}to me, naturally! ...Oh, man...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0022",
+    "locuteur": "Brown",
+    "en": "It doesn't fit! Aw well... Much as it{SAUT}breaks my heart to do this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0023",
+    "locuteur": "Brown",
+    "en": "I guess I'll give it to you, (*APELLIDO_HEROE*).{SAUT}Just kidding!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0024",
+    "locuteur": "Brown",
+    "en": "Hunh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0025",
+    "locuteur": "Brown",
+    "en": "H-Hey! Look... There's something on{SAUT}the floor.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0026",
+    "locuteur": "Brown",
+    "en": "I-I-Is it a 10,000-yen bill!? 'Cause if{SAUT}it is, dibs!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0027",
+    "locuteur": "Brown",
+    "en": "Dibs, you hear me!? I saw it first!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0028",
+    "locuteur": "Yukino",
+    "en": "Do you ever stop being such a greedy{SAUT}bastard!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0029",
+    "locuteur": "Brown",
+    "en": "Oh, Yukino, please.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0030",
+    "locuteur": "Brown",
+    "en": "I would never steal money like that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0031",
+    "locuteur": "Brown",
+    "en": "In fact, I'll offer it to you.{SAUT}No, no, seriously.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0032",
+    "locuteur": "Yukino",
+    "en": "You moron. What I'm saying is, that's{SAUT}not a 10,000-yen bill!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0033",
+    "locuteur": "Brown",
+    "en": "Huh? O-Ohhh... you're right. Awwww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0034",
+    "locuteur": "Ayase",
+    "en": "Totally stupid. There's no doubt you'll{SAUT}pay the piper.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0035",
+    "locuteur": "Brown",
+    "en": "U-Urgh! Why's Ayase saying that now!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0036",
+    "locuteur": "Brown",
+    "en": "Awww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0037",
+    "locuteur": "Elly",
+    "en": "Good heavens... here, too...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:036:0038",
+    "locuteur": "Elly",
+    "en": "What an incredible find!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0000",
+    "locuteur": "Yukino",
+    "en": "How'd that girl get all the way up here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0001",
+    "locuteur": "Ayase",
+    "en": "Hey, look! His eyelashes are frozen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0002",
+    "locuteur": "Nanjo",
+    "en": "Under normal circumstances, I find Ayase{SAUT}barely tolerable...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0003",
+    "locuteur": "Nanjo",
+    "en": "But it's something of a relief to have{SAUT}her around at a time like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0004",
+    "locuteur": "Brown",
+    "en": "I'm starting to get sleepy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0005",
+    "locuteur": "Elly",
+    "en": "The same scenery, wherever we go...{SAUT}Are we really moving forward?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0013",
+    "locuteur": "Mariko",
+    "en": "I was just exploring those three freaky{SAUT}towers that popped up around campus!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:037:0014",
+    "locuteur": "Mariko",
+    "en": "They're chock-full of demons! You wouldn't{SAUT}believe the photos I got!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:037:0015",
+    "locuteur": "Mariko",
+    "en": "I'm gonna submit these babies to some{SAUT}national magazines!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:037:0018",
+    "locuteur": "Mariko",
+    "en": "I'm pretty much done exploring the{SAUT}towers, so I came back this way...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0019",
+    "locuteur": "Mariko",
+    "en": "But just like I thought, I'm pretty{SAUT}bushed now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0020",
+    "locuteur": "Mariko",
+    "en": "This is so exciting, though!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0021",
+    "locuteur": "Mariko",
+    "en": "\"A Mysteriously Frozen School\"!{SAUT}\"The Revival of Demons\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0022",
+    "locuteur": "Mariko",
+    "en": "\"The Bizarre Towers and the School that{SAUT}Became a Labyrinth\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0023",
+    "locuteur": "Mariko",
+    "en": "So what do you think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:037:0024",
+    "locuteur": "Mariko",
+    "en": "Me, I say it's all a secret conspiracy{SAUT}to take over the world by sorcery...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0000",
+    "locuteur": "Reiho",
+    "en": "Hee-ho! This is the 4th floor.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0001",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Hey, you guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0002",
+    "locuteur": "Raiho",
+    "en": "Will you be friends with me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0003",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Just 95 more people until I make{SAUT}100 friends!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0004",
+    "locuteur": "Raiho",
+    "en": "Well, friends? Is there anything I can{SAUT}do for you, ho?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0005",
+    "locuteur": "Raiho",
+    "en": "I hee-know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0006",
+    "locuteur": "Raiho",
+    "en": "Want me-ho to take you upstairs?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0007",
+    "locuteur": "Reiho",
+    "en": "Tch.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:038:0008",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Well then, hee-close your eyes{SAUT}for a minute, ho...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:038:0010",
+    "locuteur": "Yukino",
+    "en": "It's those snowmen again. What are they{SAUT}up to this time?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0011",
+    "locuteur": "Ayase",
+    "en": "I think they like, want you to talk{SAUT}to them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0012",
+    "locuteur": "Nanjo",
+    "en": "Are they lonesome?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0013",
+    "locuteur": "Brown",
+    "en": "I was looking at their mouths, and I got{SAUT}this craving for watermelon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:038:0014",
+    "locuteur": "Elly",
+    "en": "It seems some demons are amiable and{SAUT}naturally curious as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0000",
+    "locuteur": "Yukino",
+    "en": "What is this floor?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0001",
+    "locuteur": "Ayase",
+    "en": "I've seen this room before... in an old,{SAUT}framed photo in the principal's office.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0002",
+    "locuteur": "Ayase",
+    "en": "It's the wooden school building that was{SAUT}here before they built the one we have.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0003",
+    "locuteur": "Nanjo",
+    "en": "I'd expect Ayase to know. She's certainly{SAUT}been to the principal's office enough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0004",
+    "locuteur": "Brown",
+    "en": "Warmth of handmade wooden buildings,{SAUT}my ass!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0005",
+    "locuteur": "Brown",
+    "en": "The wind blows through the cracks in the{SAUT}walls and it smells all musty...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0006",
+    "locuteur": "Brown",
+    "en": "Makes me want a hot bath.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0007",
+    "locuteur": "Elly",
+    "en": "This certainly is an antique building.{SAUT}If we weren't in our current situation,{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:039:0008",
+    "locuteur": "Elly",
+    "en": "I'd have enjoyed looking around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0000",
+    "locuteur": "Yukino",
+    "en": "Did the building change because the past{SAUT}Snow Queens attended class in this one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0001",
+    "locuteur": "Yukino",
+    "en": "...That would mean the demons have gotten{SAUT}even stronger.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0002",
+    "locuteur": "Ayase",
+    "en": "So people back then went to class in{SAUT}rooms like these? Weren't they cold...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0003",
+    "locuteur": "Nanjo",
+    "en": "Mayuzumi is right. From this point on,{SAUT}we should brace for the worst.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0004",
+    "locuteur": "Brown",
+    "en": "This place creeps me out. It's bad enough{SAUT}that it's an old building...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0005",
+    "locuteur": "Brown",
+    "en": "But it's all frozen over, and our{SAUT}footsteps echo way too loud.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0006",
+    "locuteur": "Elly",
+    "en": "It's said many generations of memories{SAUT}are ingrained into old schools.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:040:0007",
+    "locuteur": "Elly",
+    "en": "I only hope that doesn't mean evil things{SAUT}are in store for us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0000",
+    "locuteur": "Reiho",
+    "en": "Hee-ho! This is the 5th floor.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0002",
+    "locuteur": "Raiho",
+    "en": "Want me-ho to take you downstairs?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0006",
+    "locuteur": "Yukino",
+    "en": "What kind of magic trick is this{SAUT}snowman using?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0007",
+    "locuteur": "Ayase",
+    "en": "Whoa... this is like, kinda creepy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0008",
+    "locuteur": "Nanjo",
+    "en": "It's a wooden building now, I see.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0009",
+    "locuteur": "Nanjo",
+    "en": "Did the Night Queen run out of funds to{SAUT}complete the castle's construction?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0010",
+    "locuteur": "Brown",
+    "en": "Oh, hell no! This place is even colder!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:041:0011",
+    "locuteur": "Elly",
+    "en": "This place...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0000",
+    "locuteur": "Yukino",
+    "en": "That Night Queen was calling the frozen{SAUT}school an Ice Castle...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0001",
+    "locuteur": "Yukino",
+    "en": "And yeah, it's a castle, all right.{SAUT}Going forward is a real pain.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0002",
+    "locuteur": "Ayase",
+    "en": "I've always been bad at stuff like mazes{SAUT}and funhouses. Grrrr! This, like, sucks!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0003",
+    "locuteur": "Nanjo",
+    "en": "I'm considering implementing a labyrinth{SAUT}to enhance my home security. Well?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0004",
+    "locuteur": "Brown",
+    "en": "Why's this place so huge!? Does it{SAUT}actually end...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:042:0005",
+    "locuteur": "Elly",
+    "en": "There is no turning back now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

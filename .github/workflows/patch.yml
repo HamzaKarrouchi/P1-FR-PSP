@@ -1,0 +1,66 @@
+# Prépare une version à partir d'une étiquette (`git tag v0.2 && git push --tags`).
+#
+# Le correctif `.xdelta` n'est PAS construit ici, et ne peut pas l'être : il
+# faut l'ISO du jeu et la chaîne d'outils, qui restent du côté privé. Cette
+# action rassemble l'état exact des traductions et ouvre la version en
+# brouillon ; le mainteneur y attache le correctif construit chez lui.
+#
+# Ce que ça garantit : le correctif publié correspond à un état des fichiers
+# qu'on peut retrouver, à la ligne près, des mois plus tard.
+name: Préparer une version
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  preparer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Tout revalider
+        run: ruby outils/check_trad.rb trad/dialogues/*.json
+
+      - name: Recompter
+        run: python outils/stats.py
+
+      - name: Empaqueter les traductions
+        run: |
+          nom="traductions-${GITHUB_REF_NAME:-brouillon}"
+          mkdir -p "dist/$nom"
+          cp -r trad "dist/$nom/"
+          cp SUIVI.md docs/Dictionnaire.md "dist/$nom/"
+          (cd dist && zip -qr "$nom.zip" "$nom")
+          sha256sum "dist/$nom.zip" > "dist/$nom.zip.sha256"
+
+      - name: Ouvrir la version en brouillon
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          name: ${{ github.ref_name }}
+          files: |
+            dist/*.zip
+            dist/*.sha256
+          body: |
+            Traductions à l'étiquette `${{ github.ref_name }}`.
+
+            Le correctif `.xdelta` est construit hors de GitHub et attaché à la
+            main : il exige l'ISO du jeu, qui n'est ni publiée ni publiable.
+
+            **Pour jouer** : il faut posséder une copie légale de
+            *Shin Megami Tensei: Persona* (PSP, ULUS-10432), appliquer le
+            correctif sur l'ISO, et activer le remplacement de textures dans
+            PPSSPP pour les accents. Aucune ISO n'est distribuée ici.

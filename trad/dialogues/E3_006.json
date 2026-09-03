@@ -1,0 +1,694 @@
+[
+  {
+    "id": "E3.BIN:043:0000",
+    "locuteur": "Yukino",
+    "en": "Yuka's acting like a child again. Though{SAUT}this time, I can see why.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:043:0001",
+    "locuteur": "Ayase",
+    "en": "Seriously! Isn't there some cool spell{SAUT}that'll warp us right to the Queen!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:043:0002",
+    "locuteur": "Nanjo",
+    "en": "This place is as spacious as my own{SAUT}home. I'm impressed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:043:0003",
+    "locuteur": "Brown",
+    "en": "Whew! Let's take five.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:043:0004",
+    "locuteur": "Elly",
+    "en": "I've wondered for some time now...{SAUT}What do you fight for, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0000",
+    "locuteur": "Masked man",
+    "en": "Yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0001",
+    "locuteur": "Masked man",
+    "en": "Do you want to go back downstairs?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0002",
+    "locuteur": "Masked man",
+    "en": "I see. Then hurry to the highest floor.{SAUT}The Queen awaits.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0005",
+    "locuteur": "Masked man",
+    "en": "So you've come this far, yet you still{SAUT}wish to return to the beginning.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0006",
+    "locuteur": "Masked man",
+    "en": "Well, so be it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0007",
+    "locuteur": "Yukino",
+    "en": "What's he scheming?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0008",
+    "locuteur": "Ayase",
+    "en": "He said he'll do it for us. If we wanna{SAUT}go back, let's try asking him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0010",
+    "locuteur": "Brown",
+    "en": "Hey, you're not gonna say \"yes\" after we{SAUT}came this far, are you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:044:0011",
+    "locuteur": "Elly",
+    "en": "Be careful. We can't say for sure yet{SAUT}whether he's human or demon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0000",
+    "locuteur": "Elly",
+    "en": "Wh... What...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0001",
+    "locuteur": "Brown",
+    "en": "Oh, no... no no no...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0002",
+    "locuteur": "Ayase",
+    "en": "N-No! What is this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0003",
+    "locuteur": "Yukino",
+    "en": "This is \"Eternal Night\"!? To hell{SAUT}with this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0004",
+    "locuteur": "Yukino",
+    "en": "Hey, so-called \"Night Queen\"!{SAUT}Quit hiding and come on out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0005",
+    "locuteur": "Yukino",
+    "en": "Fight us fair and square!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0006",
+    "locuteur": "Night Queen's voice",
+    "en": "Ahaha... Now, you too will slumber as{SAUT}a statue of ice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0007",
+    "locuteur": "Tsutomu's voice",
+    "en": "Aaaaagh... s-stop... ngh...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0008",
+    "locuteur": "Elly",
+    "en": "＊gasp＊ That was from inside the school!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0009",
+    "locuteur": "Nanjo",
+    "en": "That fiend! What's it doing inside{SAUT}the school!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0010",
+    "locuteur": "Night Queen's voice",
+    "en": "Ahahaha... Run! Run away, or you'll{SAUT}be frozen as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0011",
+    "locuteur": "Toro's voice",
+    "en": "Waaaaah! Stop, stop--Nooooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0012",
+    "locuteur": "Nurse Natsumi's voice",
+    "en": "Hey! Who're you...!? Aaaaa... aaaargh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0013",
+    "locuteur": "Ayase",
+    "en": "Toro? Nurse Natsumi!? No...{SAUT}This can't be...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0014",
+    "locuteur": "Yukino",
+    "en": "Ms. Saeko!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0015",
+    "locuteur": "Ms. Saeko",
+    "en": "Almost everyone in the school building{SAUT}is frozen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0016",
+    "locuteur": "Ms. Saeko",
+    "en": "I gotta get you out before the{SAUT}Queen returns...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0017",
+    "locuteur": "Student's spirit",
+    "en": "Please, run away! You must live on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0018",
+    "locuteur": "Ayase",
+    "en": "R-Run away? But how!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0019",
+    "locuteur": "Student's spirit",
+    "en": "We'll use what power we have left to{SAUT}send you all out of the school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0020",
+    "locuteur": "Yukino",
+    "en": "We can't just run away with our tails{SAUT}between our legs! No way, I'm staying--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0021",
+    "locuteur": "Ms. Saeko",
+    "en": "It's coming back! There's no time!{SAUT}Are you ready?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0022",
+    "locuteur": "Ms. Saeko",
+    "en": "(*APELLIDO_HEROE*)! I'm leaving everyone in{SAUT}your hands! Please... survive for us...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:048:0023",
+    "locuteur": "Yukino",
+    "en": "Ms. Saekoooooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:065:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 1,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:066:0012",
+    "locuteur": "Mariko",
+    "en": "Huh? They don't sell film here... Ugh!{SAUT}Of all the rotten luck!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:067:0004",
+    "locuteur": "Brown",
+    "en": "Oh man, this is totally perfect for me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:067:0005",
+    "locuteur": "Brown",
+    "en": "Though I look good in anything, of course.{SAUT}Mwahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:068:0000",
+    "locuteur": "Yukino",
+    "en": "So we have until the hour hand points to{SAUT}12 o'clock... This won't be easy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:068:0001",
+    "locuteur": "Ayase",
+    "en": "I've been feeling totally sleepy ever{SAUT}since we came to this tower!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:068:0002",
+    "locuteur": "Nanjo",
+    "en": "That Snow Queen... I'm sure it's sneering{SAUT}as it watches us gather (*TEXTBOX_PARAM,0500*)mirror shards(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:068:0003",
+    "locuteur": "Brown",
+    "en": "Hey, don't you feel all sleepy for some{SAUT}reason? No, no, I mean it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:068:0004",
+    "locuteur": "Elly",
+    "en": "I wonder what kind of foe awaits us in{SAUT}this tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0000",
+    "locuteur": "Kumi's father",
+    "en": "...Are you still up fooling around with{SAUT}that script, Kumi?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0001",
+    "locuteur": "Kumi's father",
+    "en": "Refresh my memory, what are you going{SAUT}to school for again?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0002",
+    "locuteur": "Kumi's father",
+    "en": "To study? Or to fool around?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0003",
+    "locuteur": "Kumi",
+    "en": "U-Um... it's just... the \"Snow Queen,\"{SAUT}see... I was pick--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0004",
+    "locuteur": "Kumi's father",
+    "en": "Yes, your mother told me. Apparently you{SAUT}scored in the 70s on some tests lately?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0005",
+    "locuteur": "Kumi's father",
+    "en": "You get those low scores because you don't{SAUT}study. You just fool around all the time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0006",
+    "locuteur": "Kumi",
+    "en": "But--My average was eighty--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0007",
+    "locuteur": "Kumi's father",
+    "en": "I gave up drinking and smoking, as much{SAUT}as I loved them...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0008",
+    "locuteur": "Kumi's father",
+    "en": "And I quit playing golf on weekends so I{SAUT}could make more money.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0009",
+    "locuteur": "Kumi's father",
+    "en": "Who do you think that's for!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0010",
+    "locuteur": "Kumi's father",
+    "en": "I'm providing for you and your mother,{SAUT}aren't I?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0011",
+    "locuteur": "Kumi's father",
+    "en": "You're attending that school now because{SAUT}your father's working himself to death.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0012",
+    "locuteur": "Kumi",
+    "en": "...I know, Father.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0013",
+    "locuteur": "Kumi's father",
+    "en": "But you still don't even think about what{SAUT}I'm going through...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0014",
+    "locuteur": "Kumi's father",
+    "en": "Instead, you get lost in some club and{SAUT}never spend a moment studying.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0015",
+    "locuteur": "Kumi's father",
+    "en": "You're in the wrong here, Kumi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0016",
+    "locuteur": "Kumi",
+    "en": "...I'm sorry...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0017",
+    "locuteur": "Kumi's father",
+    "en": "See, you understand. So why don't you{SAUT}drop that script and hit the books?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0018",
+    "locuteur": "Kumi's father",
+    "en": "Keep studying and get a good job at a{SAUT}good company so you can repay us someday.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:069:0019",
+    "locuteur": "Kumi's father",
+    "en": "Hahah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0000",
+    "locuteur": "Kumi",
+    "en": "...Why is everyone cross at me?{SAUT}What did I do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0001",
+    "locuteur": "Kumi",
+    "en": "Whether I do or don't do anything,{SAUT}it's always like that... All of them...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0002",
+    "locuteur": "Kumi",
+    "en": "The world around me. The people around me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0003",
+    "locuteur": "Kumi",
+    "en": "Everyone's so... full of hostility...{SAUT}I feel like I don't have any freedom...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0004",
+    "locuteur": "Kumi",
+    "en": "Do I have to exist in this reality with{SAUT}all these other people...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0005",
+    "locuteur": "Kumi",
+    "en": "If only there was a gentle world...{SAUT}filled with gentle people...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0006",
+    "locuteur": "Kumi",
+    "en": "A whole world full of kindness and{SAUT}generosity... where I could be free...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0007",
+    "locuteur": "Kumi",
+    "en": "Some dream, huh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0008",
+    "locuteur": "Kumi",
+    "en": "Hah... Yeah, a dream... that only happens{SAUT}when I'm asleep in this bed...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0009",
+    "locuteur": "Kumi",
+    "en": "It's the only free world I have left,{SAUT}where no one complains about me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0010",
+    "locuteur": "Kumi",
+    "en": "The world of dreams... I wish I could{SAUT}just live there...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:070:0011",
+    "locuteur": "Kumi",
+    "en": "In my dream world, made only for me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:071:0000",
+    "locuteur": "Agastya Tree",
+    "en": "Ah. It seems that you are rather{SAUT}exhausted, young ones.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:071:0001",
+    "locuteur": "Agastya Tree",
+    "en": "Halting your journey here to rest for{SAUT}the time being may be a wise decision.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:071:0002",
+    "locuteur": "Agastya Tree",
+    "en": "But I cannot inscribe your story{SAUT}onto myself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:071:0003",
+    "locuteur": "Agastya Tree",
+    "en": "I am only keeping it for your sake until{SAUT}you depart again... Do not forget that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:071:0004",
+    "locuteur": "Agastya Tree",
+    "en": "Will you put a temporary halt to{SAUT}your journey?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:071:0005",
+    "locuteur": "Agastya Tree",
+    "en": "Young ones... I will remember the story{SAUT}of your journey for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:072:0000",
+    "locuteur": "Yukino",
+    "en": "We've come pretty far up. I think we're{SAUT}near the end.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0001",
+    "locuteur": "Yukino",
+    "en": "I better get psyched for what's coming!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0002",
+    "locuteur": "Ayase",
+    "en": "Urgh, I'm soooo tired! Sheesh!{SAUT}Isn't there like, an elevator around!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0003",
+    "locuteur": "Nanjo",
+    "en": "Even if we pick up high-quality equipment,{SAUT}it's useless unless we put it on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0004",
+    "locuteur": "Nanjo",
+    "en": "Be sure to check what you're using from{SAUT}time to time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0005",
+    "locuteur": "Brown",
+    "en": "Gaaaah! I'm so tired! For crying out{SAUT}loud, can't we take a little rest?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:072:0006",
+    "locuteur": "Elly",
+    "en": "Fortunately, we didn't fall asleep.{SAUT}Let's stay cautious and press onward.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0012",
+    "locuteur": "Mariko",
+    "en": "According to my investigation, aliens are{SAUT}behind this school-freezing phenomenon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0013",
+    "locuteur": "Mariko",
+    "en": "Have you been abducted by any UFOs in{SAUT}the last two or three days?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0017",
+    "locuteur": "Yukino",
+    "en": "Hey, how come all the vendors at every{SAUT}weapon shop have the same face?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0018",
+    "locuteur": "Ayase",
+    "en": "Ew, it smells like oil here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0019",
+    "locuteur": "Nanjo",
+    "en": "Incredible! These items are all very{SAUT}specialized.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:082:0022",
+    "locuteur": "Elly",
+    "en": "I wonder where in the demon world that{SAUT}child amassed such a stockpile...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

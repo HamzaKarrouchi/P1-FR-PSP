@@ -1,0 +1,656 @@
+[
+  {
+    "id": "E0.BIN:018:0000",
+    "locuteur": "Maki",
+    "en": "{SAUT}Huh? Convenience stores don't carry{SAUT}weapons? That's weird...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0001",
+    "locuteur": "Nanjo",
+    "en": "Are you finished here? Can we be on our{SAUT}way to the hospital now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0002",
+    "locuteur": "Nanjo",
+    "en": "Hah... It's true, one can pick up daily{SAUT}necessities at the convenience store.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0003",
+    "locuteur": "Mark",
+    "en": "So that's Reiji's mom... She seems so{SAUT}classy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0004",
+    "locuteur": "Mark",
+    "en": "A pretty far cry from mine... Ugh.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0005",
+    "locuteur": "Mark",
+    "en": "Is this the place Yukino works part-{SAUT}time? Oh, wait, that was another store.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0006",
+    "locuteur": "Elly",
+    "en": "Even if we don't buy them here, everyday{SAUT}objects can be useful as weapons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0007",
+    "locuteur": "Yukino",
+    "en": "For all Reiji Kido's an oddball,{SAUT}his mother seems nice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0008",
+    "locuteur": "Yukino",
+    "en": "Sure, it's a convenience store, but being{SAUT}able to buy weapons here is kinda...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0009",
+    "locuteur": "Reiji's mother",
+    "en": "Oh, do you go to St. Hermelin? That's{SAUT}the school my son attends...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0010",
+    "locuteur": "Reiji's mother",
+    "en": "His name's Reiji Kido. Do you know him?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0011",
+    "locuteur": "Reiji's mother",
+    "en": "Oh, so you know him? Ah, you're in the{SAUT}same class?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0012",
+    "locuteur": "Reiji's mother",
+    "en": "I see... Then you must know my son isn't{SAUT}very outgoing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0013",
+    "locuteur": "Reiji's mother",
+    "en": "It may be selfish of me to ask this,{SAUT}but could you make friends with Reiji?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0014",
+    "locuteur": "Reiji's mother",
+    "en": "Ah, I see... I'm sorry to have been{SAUT}so forward.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0015",
+    "locuteur": "Reiji's mother",
+    "en": "Ah, truly? Thank you! Please feel free{SAUT}to come visit him at home sometime!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0016",
+    "locuteur": "Reiji's mother",
+    "en": "I see... I'm not surprised. He does{SAUT}cultivate a bizarre image...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0017",
+    "locuteur": "Reiji's mother",
+    "en": "But deep down, he's really very sweet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0018",
+    "locuteur": "Reiji's mother",
+    "en": "That reminds me... It's not much,{SAUT}but please take this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0019",
+    "locuteur": "Reiji's mother",
+    "en": "I hope you and my son can be friends.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0020",
+    "en": "{PAGE}> Received (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Chewing Soul(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0021",
+    "locuteur": "Reiji's mother",
+    "en": "Oh, you're a student at St. Hermelin...{SAUT}Please make friends with my son.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:018:0022",
+    "locuteur": "Clerk",
+    "en": "Welcome!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:018:0023",
+    "locuteur": "Clerk",
+    "en": "Our store doesn't carry weapons...{SAUT}Is that all right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0024",
+    "locuteur": "Customer",
+    "en": "Are these stores good for anything!?{SAUT}Isn't it odd they don't have weapons?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0025",
+    "locuteur": "Customer",
+    "en": "Yeah! You tell 'em! A store's gotta{SAUT}serve its customers' needs!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0026",
+    "locuteur": "Customer",
+    "en": "Convenience stores are supposed to stock{SAUT}everything!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0027",
+    "locuteur": "Customer",
+    "en": "Why wouldn't they have weapons, too!?{SAUT}Don't you agree?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:018:0028",
+    "locuteur": "Customer",
+    "en": "Yes! Exactly! Shouldn't this store be{SAUT}serving its customers' needs!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:019:0000",
+    "locuteur": "Nanjo",
+    "en": "There's some time until our examinations.{SAUT}Let's visit Maki first, then.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0001",
+    "locuteur": "Nanjo",
+    "en": "Best not be idle, after all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0002",
+    "locuteur": "Mark",
+    "en": "Heh... Cold, man. By the way, Maki's in{SAUT}(*TEXTBOX_PARAM,0700*)Room 302(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0003",
+    "locuteur": "Yukino",
+    "en": "You're pretty well-informed, Masao.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0004",
+    "locuteur": "Mark",
+    "en": "Uh... Shut up! A friend of mine told me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0005",
+    "locuteur": "Mark",
+    "en": "Yo, (*APELLIDO_HEROE*), let's just go already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0006",
+    "locuteur": "Nanjo",
+    "en": "Hospitals certainly enjoy keeping people{SAUT}waiting. Don't they know time is money?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0007",
+    "locuteur": "Mark",
+    "en": "What're you lookin' at me for?{SAUT}Hurry and go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0008",
+    "locuteur": "Yukino",
+    "en": "Huh. Interesting that Masao knew which{SAUT}room Maki was in.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0009",
+    "locuteur": "Receptionist",
+    "en": "Hm? Maki Sonomura? Oh, yes, her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0010",
+    "locuteur": "Receptionist",
+    "en": "She's in room 302.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0011",
+    "locuteur": "Yamaoka",
+    "en": "Oh dear, oh dear! I've been spotted.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0012",
+    "locuteur": "Yamaoka",
+    "en": "I would ask that you keep my presence{SAUT}a secret from the young master...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0013",
+    "locuteur": "College student with her boyfriend",
+    "en": "Hoo boy... Know where the police station{SAUT}is? My boyfriend crashed his motorcycle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0014",
+    "locuteur": "Mark",
+    "en": "What's this now? The police? You mean{SAUT}the place where Baldy works?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0015",
+    "locuteur": "Mark",
+    "en": "Yeah, just head west after you leave{SAUT}the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0016",
+    "locuteur": "College student with her boyfriend",
+    "en": "Exit the hospital and head west...{SAUT}Thanks a bunch!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0017",
+    "locuteur": "Pregnant woman with her husband",
+    "en": "I wonder if my honey's okay... Isn't{SAUT}seeing things a sign of overwork?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0018",
+    "locuteur": "Tired salaryman",
+    "en": "I'm going to work!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0019",
+    "locuteur": "Tired salaryman",
+    "en": "To hell with fake hallways and stairs!{SAUT}To hell with that little ghost girl!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0020",
+    "locuteur": "Tired salaryman",
+    "en": "If you can't handle such things, you{SAUT}have no place at SEBEC! Honestly!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0021",
+    "locuteur": "Injured man",
+    "en": "Oww... Testifying about accidents is{SAUT}such a pain.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0022",
+    "locuteur": "Injured man",
+    "en": "Talk about bad luck.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0023",
+    "locuteur": "Mark",
+    "en": "Dude, you're not gonna visit Maki?{SAUT}You got ice water in your veins?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:019:0024",
+    "locuteur": "Receptionist",
+    "en": "I'm sorry. We're tied up right now,{SAUT}so please wait a little longer.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0000",
+    "locuteur": "Doctor",
+    "en": "I have to go... but you should get some{SAUT}fresh air sometimes. It's good for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0001",
+    "locuteur": "Nurse",
+    "en": "That's right, Maki. Why don't we go for{SAUT}a walk tomorrow?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0002",
+    "locuteur": "Bedridden girl",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0003",
+    "en": "{FERME}(*TEXTBOX_PARAM,0300*)> Maki Sonomura{SAUT}A chronically ill classmate who's been{SAUT}hospitalized for over a year now.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0004",
+    "locuteur": "Doctor",
+    "en": "Oho, it seems your real medication{SAUT}has arrived. I'll leave you kids be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0005",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)... You all came... Thanks.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0006",
+    "locuteur": "Maki",
+    "en": "You're so thoughtful, Masao.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0007",
+    "locuteur": "Nanjo",
+    "en": "What do you mean?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:020:0008",
+    "locuteur": "Maki",
+    "en": "I told Masao I wanted to see everyone{SAUT}when he was here last time...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0009",
+    "locuteur": "Maki",
+    "en": "Isn't that why you all came?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0010",
+    "locuteur": "Yukino",
+    "en": "...Yes, it is. How are you? Have you{SAUT}been feeling okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0011",
+    "locuteur": "Yukino",
+    "en": "...Yes, it is. Oh, and Yuko said she'll{SAUT}come by to return the book she borrowed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0012",
+    "locuteur": "Yukino",
+    "en": "\"Gate to Paradise,\" I think it was.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0013",
+    "locuteur": "Maki",
+    "en": "Ah... That's okay. I've read it so many{SAUT}times, I practically have it memorized.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0014",
+    "locuteur": "Yukino",
+    "en": "Alright, I'll tell her next time I see{SAUT}her. So how've you been? You doing okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0015",
+    "locuteur": "Maki",
+    "en": "Uh-huh. I'm doing much better. I wonder{SAUT}if it's because of that good dream...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0016",
+    "locuteur": "Maki",
+    "en": "It's hard to remember, but I keep{SAUT}dreaming of a really nice man...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0017",
+    "locuteur": "Maki",
+    "en": "He's like a father...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0018",
+    "locuteur": "Yukino",
+    "en": "Like that doctor? He seemed nice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0019",
+    "locuteur": "Maki",
+    "en": "...I don't like him...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0020",
+    "locuteur": "Mark",
+    "en": "Did he do somethin' to you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0021",
+    "locuteur": "Maki",
+    "en": "No, that's not it... I just... don't{SAUT}like doctors...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0022",
+    "locuteur": "Mark",
+    "en": "Well, let's talk about other stuff, then.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0023",
+    "locuteur": "Mark",
+    "en": "Hey, how about your mom? How's she doin'{SAUT}at SEBEC?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0024",
+    "locuteur": "Maki",
+    "en": "She's not my mom! She cares more about{SAUT}her job than me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0025",
+    "locuteur": "Maki",
+    "en": "She doesn't care about me at all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0026",
+    "locuteur": "Mark",
+    "en": "S-Sorry...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0027",
+    "locuteur": "Maki",
+    "en": "Oh... It's all right... Ngh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0028",
+    "locuteur": "Maki",
+    "en": "N-Nooooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0029",
+    "locuteur": "Mark",
+    "en": "Maki!? What's wrong!? Hey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0030",
+    "locuteur": "Yukino",
+    "en": "This isn't good! Call a doctor!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0031",
+    "locuteur": "Nanjo",
+    "en": "...Yamaoka.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0032",
+    "locuteur": "Mark",
+    "en": "I can still feel Maki here...{SAUT}Hang on, Maki. We'll find you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0033",
+    "locuteur": "Yukino",
+    "en": "I'm worried about Maki too, but let's get{SAUT}to the streets. I have a bad feeling...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0034",
+    "locuteur": "Yukino",
+    "en": "What're you gonna do about Maki's mom,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0035",
+    "locuteur": "Yukino",
+    "en": "If we don't hurry, she's in trouble.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0036",
+    "locuteur": "Elly",
+    "en": "Is this Maki's hospital room...?{SAUT}But it seems... so lonely...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0037",
+    "en": "{FERME}   > It's the painting called \"Gate To{SAUT}Paradise\" that Maki won an award for.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:020:0038",
+    "en": "{PAGE}> You can sense Maki's pain just by{SAUT}looking at it...{ATTENTE}",
+    "fr": ""
+  }
+]

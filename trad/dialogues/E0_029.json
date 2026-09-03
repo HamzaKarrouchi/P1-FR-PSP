@@ -1,0 +1,390 @@
+[
+  {
+    "id": "E0.BIN:100:0000",
+    "locuteur": "Harem Queen",
+    "en": "Ugh, more moles? Not again!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0001",
+    "locuteur": "Harem Queen",
+    "en": "This mirror's great, but I hate how I get{SAUT}more moles every time I make a wish!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0002",
+    "locuteur": "Mark",
+    "en": "Chisato!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0003",
+    "locuteur": "Harem Queen",
+    "en": "Ah, you're back! Well, what did you{SAUT}think? Weren't my paintings better!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0004",
+    "locuteur": "Maki",
+    "en": "Chisato... Just end this already...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0005",
+    "locuteur": "Maki",
+    "en": "I know now that your paintings are{SAUT}better. And... and your moles...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0006",
+    "locuteur": "Harem Queen",
+    "en": "Shut up! Don't say things you don't{SAUT}even mean!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0007",
+    "locuteur": "Harem Queen",
+    "en": "You probably think I deserve these moles!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0008",
+    "locuteur": "Harem Queen",
+    "en": "But never mind that... I want to show{SAUT}you something, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0009",
+    "locuteur": "Maki",
+    "en": "My... My painting...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0010",
+    "locuteur": "Harem Queen",
+    "en": "Alright, (*APELLIDO_HEROE*). You saw my{SAUT}paintings in the gallery, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0011",
+    "locuteur": "Harem Queen",
+    "en": "Which did you like more? My masterpieces,{SAUT}or Maki's filth smeared on a canvas?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0012",
+    "locuteur": "Mark",
+    "en": "Maki's painting is a million damn{SAUT}times better than yours!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0013",
+    "locuteur": "Harem Queen",
+    "en": "I don't think I asked you, monkey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0014",
+    "locuteur": "Harem Queen",
+    "en": "Mirror where my face is shown...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0015",
+    "locuteur": "Harem Queen",
+    "en": "Turn these monkeys into stone!{PAUSE}[2000]{SAUT}Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0017",
+    "locuteur": "Nanjo",
+    "en": "Ngh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0018",
+    "locuteur": "Elly",
+    "en": "Eek!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0019",
+    "locuteur": "Brown",
+    "en": "Yikes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0020",
+    "locuteur": "Ayase",
+    "en": "Noooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0021",
+    "locuteur": "Reiji",
+    "en": "......!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0022",
+    "locuteur": "Maki",
+    "en": "Stop it, Chisato!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0023",
+    "locuteur": "Harem Queen",
+    "en": "Aaahahahahaha! Turn to stone,{SAUT}all of you! {PAUSE}[4000]Ack...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0024",
+    "locuteur": "Harem Queen",
+    "en": "Dammit! Even more moles!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0025",
+    "locuteur": "Harem Queen",
+    "en": "Turning them to stone was too nice...{SAUT}I should've made them suffer more!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0026",
+    "locuteur": "Harem Queen",
+    "en": "I'll give you, and only you, one last{SAUT}chance, (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:100:0027",
+    "locuteur": "Harem Queen",
+    "en": "Which is better? My breathtaking{SAUT}painting, or Maki's piece?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:100:0028",
+    "locuteur": "Harem Queen",
+    "en": "And I want an honest answer!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:100:0029",
+    "locuteur": "Mark",
+    "en": "You moron! You actually think that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0030",
+    "locuteur": "Harem Queen",
+    "en": "Hahaha... Aaahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0031",
+    "locuteur": "Harem Queen",
+    "en": "Well, Maki? What now!? He chose mine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0032",
+    "locuteur": "Maki",
+    "en": "...{PAUSE}[2000]...{PAUSE}[2000]...{PAUSE}[2000]...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0033",
+    "locuteur": "Nanjo",
+    "en": "Fortunately, we weren't turned all{SAUT}the way...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0034",
+    "locuteur": "Aki",
+    "en": "Ooohhh! Queeeeen! What're you doing!?{SAUT}I told you to beat these guys up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0035",
+    "locuteur": "Harem Queen",
+    "en": "I'm sorry, Miss Angel. I just didn't{SAUT}want any more moles...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0036",
+    "locuteur": "Aki",
+    "en": "Well... how about this? Beat them,{SAUT}and I'll put your face back to normal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0037",
+    "locuteur": "Harem Queen",
+    "en": "Really!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0038",
+    "locuteur": "Harem Queen",
+    "en": "All right... I'll do it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0039",
+    "locuteur": "Harem Queen",
+    "en": "I'm sorry, (*APELLIDO_HEROE*). I was actually{SAUT}fond of you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0040",
+    "locuteur": "Harem Queen",
+    "en": "Mirror, mirror, now's the hour:{SAUT}Give to me your strongest power!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0041",
+    "locuteur": "Harem Queen",
+    "en": "Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0042",
+    "locuteur": "Mark",
+    "en": "Hah! How do you like that? This guy{SAUT}ain't a coward you can bully around!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0043",
+    "locuteur": "Mark",
+    "en": "Ngh...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0044",
+    "locuteur": "Harem Queen",
+    "en": "I thought you would understand,{SAUT}(*APELLIDO_HEROE*), but I guess I was wrong.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0045",
+    "locuteur": "Harem Queen",
+    "en": "I'll return this humiliation tenfold...{SAUT}You can turn to stone like the rest!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0046",
+    "locuteur": "Aki",
+    "en": "Yeesh, you're still at it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0047",
+    "locuteur": "Aki",
+    "en": "Hey Queen, if you beat these guys up,{SAUT}I'll fix your face back to normal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0048",
+    "locuteur": "Harem Queen",
+    "en": "If that's what Miss Angel wants,{SAUT}then the plan has changed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0049",
+    "locuteur": "Harem Queen",
+    "en": "I'll kill you all myself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0050",
+    "locuteur": "Yosuke",
+    "en": "Chisato, you dummy... You should trust{SAUT}me more.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0051",
+    "locuteur": "Chisato",
+    "en": "I-I was afraid, Yosuke...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0052",
+    "locuteur": "Chisato",
+    "en": "I didn't know what I'd do if you{SAUT}stopped liking me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0053",
+    "locuteur": "Yosuke",
+    "en": "Haha! Come on... As if I'd ever stop{SAUT}liking you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0054",
+    "locuteur": "Yosuke",
+    "en": "Now drop that sad face and give me{SAUT}a smile, okay Chi-Chi?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:100:0055",
+    "locuteur": "Mark",
+    "en": "\"Chi-Chi\"...? {PAUSE}[3000]I think we're in the way{SAUT}here... Let's go back, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

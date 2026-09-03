@@ -1,0 +1,659 @@
+[
+  {
+    "id": "E3.BIN:012:0000",
+    "locuteur": "Toro",
+    "en": "No way... All that's left is milk and{SAUT}cheese? I can't even eat my sorrow away?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0001",
+    "locuteur": "Toro",
+    "en": "I'm lactose intolerant...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0002",
+    "locuteur": "Toro",
+    "en": "This is a conspiracy by someone who{SAUT}knows! Yeah, that's gotta be it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0003",
+    "locuteur": "Toro",
+    "en": "Everyone in the world is laughing at my{SAUT}bad luck! ＊sob＊ Dammit...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0004",
+    "locuteur": "Toro",
+    "en": "Huh? Huhhh? Why was I sleeping here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0005",
+    "locuteur": "Toro",
+    "en": "Oh... hi everyone. Don't look at me like{SAUT}that, it's embarrassing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0006",
+    "locuteur": "Toro",
+    "en": "＊sob＊ Why do these things always happen{SAUT}to me...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:012:0008",
+    "locuteur": "Toro",
+    "en": "Oh, I almost forgot.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0009",
+    "locuteur": "Toro",
+    "en": "Tsutomu told me to give this to you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0010",
+    "locuteur": "Toro",
+    "en": "When him and me were coming back from the{SAUT}tower, we found this shiny thing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0011",
+    "locuteur": "Toro",
+    "en": "But his muscles hurt so bad that he{SAUT}couldn't hold it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0012",
+    "locuteur": "Toro",
+    "en": "So I'm giving it to you in his place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0013",
+    "en": "{FERME}> Obtained 2 (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shards(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0014",
+    "locuteur": "Toro",
+    "en": "I'm not the only one going through hard{SAUT}times, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0015",
+    "locuteur": "Toro",
+    "en": "You and Ayase and everyone are all trying{SAUT}as hard as you can.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0016",
+    "locuteur": "Toro",
+    "en": "Alright, then! I'm gonna try as hard as{SAUT}I can... to drink milk!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0017",
+    "en": "{FERME} (*SCENE_END*)β> Kenta Yokouchi (Nickname: Toro){SAUT}His love of food has made him physically{SAUT}strong, but emotionally fragile.(*SCENE_END*) {ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0018",
+    "locuteur": "Male student",
+    "en": "Everything froze over all of a sudden.{SAUT}Did demons do that, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0019",
+    "locuteur": "Male student",
+    "en": "I just took a look and we're starting to{SAUT}run low on food...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0020",
+    "locuteur": "Male student",
+    "en": "No surprise that Toro's panicking.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0021",
+    "locuteur": "Male student",
+    "en": "Huh? You're asking why I didn't go get{SAUT}the teacher?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0022",
+    "locuteur": "Male student",
+    "en": "I did! But she wouldn't give me the time{SAUT}of day.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0023",
+    "locuteur": "Male student",
+    "en": "She said she was busy, and that it'd{SAUT}heal on its own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0024",
+    "locuteur": "Male student",
+    "en": "Anyway, I'm just glad our food is safe.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0025",
+    "locuteur": "Male student",
+    "en": "First he gets dumped by his crush and now{SAUT}he has to drink milk...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0026",
+    "locuteur": "Male student",
+    "en": "Man, this just isn't Toro's day. Though{SAUT}some days are like that, I guess.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0027",
+    "locuteur": "Rumor-loving boy",
+    "en": "That classroom wasn't open until now...{SAUT}You know, the one to our left.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0028",
+    "locuteur": "Rumor-loving boy",
+    "en": "I heard the ice thawed a little and you{SAUT}can get inside now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0029",
+    "locuteur": "Rumor-loving boy",
+    "en": "Rumor is there's this beautiful sphere{SAUT}inside. But should we go near it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0030",
+    "locuteur": "Yukino",
+    "en": "We can't waste our time here! Let's go{SAUT}find someone we can rely on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0031",
+    "locuteur": "Yukino",
+    "en": "Well then, let's make our way to{SAUT}the tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0032",
+    "locuteur": "Yukino",
+    "en": "We have the (*TEXTBOX_PARAM,0500*)Mirror Shards(*TEXTBOX_PARAM,0000*)! Let's hurry{SAUT}to the courtyard!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0033",
+    "locuteur": "Yukino",
+    "en": "I'm not seeing Hidehiko... Wasn't he{SAUT}going to keep an eye on Toro?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0034",
+    "locuteur": "Yukino",
+    "en": "The little prick must've ducked out.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0035",
+    "locuteur": "Yukino",
+    "en": "Doesn't it seem like it's gotten a{SAUT}little warmer?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0036",
+    "locuteur": "Ayase",
+    "en": "Even the inside of the school's frozen!{SAUT}How could that monster do this to us!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0037",
+    "locuteur": "Ayase",
+    "en": "I wonder if Toro's okay. I mean, like,{SAUT}not that I care or anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0038",
+    "locuteur": "Ayase",
+    "en": "Let's hurry out of here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0039",
+    "locuteur": "Nanjo",
+    "en": "THAT'S how he reacts to rejection!?{SAUT}He'll never succeed with that attitude.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0040",
+    "locuteur": "Nanjo",
+    "en": "That gluttonous pig had something coming{SAUT}out of his stomach. Is he... well?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0041",
+    "locuteur": "Nanjo",
+    "en": "It seems that he's matured.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0042",
+    "locuteur": "Brown",
+    "en": "Aaaaaaa-choooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0043",
+    "locuteur": "Brown",
+    "en": "Oh, sorry. Did that get on your clothes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0044",
+    "locuteur": "Brown",
+    "en": "I seriously feel like some wilted lettuce{SAUT}stuck in the fridge. It's depressing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0045",
+    "locuteur": "Brown",
+    "en": "I thought about having some hot ramen,{SAUT}but I can't boil any water.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0046",
+    "locuteur": "Brown",
+    "en": "Plus, Toro's freaking out. Says he's gonna{SAUT}eat all the food to get over being dumped.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0047",
+    "locuteur": "Brown",
+    "en": "That's why I hurried to hide everything{SAUT}except the dairy stuff.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0048",
+    "locuteur": "Brown",
+    "en": "I mean, who knows what'll happen, y'know?{SAUT}I'm like, so on top of things!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0049",
+    "locuteur": "Brown",
+    "en": "The whole school's in a panic, and it{SAUT}can't be easy for Teach, either.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0050",
+    "locuteur": "Brown",
+    "en": "I dunno how you did it, but I'm glad{SAUT}everyone's calmed down.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0051",
+    "locuteur": "Brown",
+    "en": "Me and some other guy are gonna keep{SAUT}watch, so you can leave it to us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0052",
+    "locuteur": "Brown",
+    "en": "Just when I thought Toro had vanished, he{SAUT}started ranting about milk and torture.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0053",
+    "locuteur": "Brown",
+    "en": "Well, me and some other guy are gonna{SAUT}keep watch, so you can leave it to us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0054",
+    "locuteur": "Brown",
+    "en": "Persona, huh...? Well, depending how you{SAUT}use it, anything might be possible.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0055",
+    "locuteur": "Brown",
+    "en": "Persona's pretty scary.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0056",
+    "locuteur": "Brown",
+    "en": "Then again, I have no flaws, so there's{SAUT}nothing for me to worry about.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0057",
+    "locuteur": "Elly",
+    "en": "Even food is valuable in a situation{SAUT}like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0058",
+    "locuteur": "Elly",
+    "en": "We went through hell, no thanks to{SAUT}Ayase. Honestly, that girl...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0059",
+    "locuteur": "Elly",
+    "en": "A room with a beautiful sphere?{SAUT}This sounds well worth investigating.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:012:0060",
+    "locuteur": "Elly",
+    "en": "Let's hurry to the next floor.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0000",
+    "en": "> They are frozen.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0001",
+    "en": "{FERME}> They are frozen.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:032:0002",
+    "locuteur": "Yukino",
+    "en": "I'd wondered where some of the students{SAUT}had gone. Now I've got my answer...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0003",
+    "locuteur": "Yukino",
+    "en": "Just wait for us, guys. We'll rescue{SAUT}you all soon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0004",
+    "locuteur": "Ayase",
+    "en": "How awful... Who does stuff like this{SAUT}for fun?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0005",
+    "locuteur": "Nanjo",
+    "en": "Mm. It seems the enemy is resorting to{SAUT}force now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:032:0007",
+    "locuteur": "Elly",
+    "en": "They appear to still be alive. Eternal{SAUT}Night... so this is what it means.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0000",
+    "locuteur": "Reiho",
+    "en": "Jab! Jab! Hee-ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0001",
+    "locuteur": "Raiho",
+    "en": "There's no sumo club hee-here, so we're{SAUT}gonna join the boxing club, ho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0002",
+    "locuteur": "Reiho",
+    "en": "Hey! A sandbag can't move like that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0003",
+    "locuteur": "Raiho",
+    "en": "Hee-ho? Are you talking about me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0004",
+    "locuteur": "Reiho",
+    "en": "Don't you hee-member? How the boy at the{SAUT}fencing club was beaten up by a girl?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0005",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! I see... so girls are strong, ho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0006",
+    "locuteur": "Raiho",
+    "en": "...Please... {PAUSE}[0700]Be gentle... {PAUSE}[0700]okay? {PAUSE}[0700]Hee-ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0007",
+    "locuteur": "Yukino",
+    "en": "These guys again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0008",
+    "locuteur": "Ayase",
+    "en": "It's nice they get along so well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0009",
+    "locuteur": "Nanjo",
+    "en": "They always act as though they're in the{SAUT}middle of a stand-up routine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0010",
+    "locuteur": "Brown",
+    "en": "Watching them really warms my heart.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:033:0011",
+    "locuteur": "Elly",
+    "en": "I wonder if Jack Frosts actually have{SAUT}distinct genders.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0000",
+    "en": "> Touch the ball of light?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0001",
+    "locuteur": "Yukino",
+    "en": "What just happened?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0002",
+    "locuteur": "Yukino",
+    "en": "Are we going through it again?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0003",
+    "locuteur": "Ayase",
+    "en": "Huh? I feel like we're missing someone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0004",
+    "locuteur": "Ayase",
+    "en": "It's glowing, but it's cold.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0005",
+    "locuteur": "Nanjo",
+    "en": "Is everyone all right? What was that{SAUT}just now...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0006",
+    "locuteur": "Nanjo",
+    "en": "It seems that we can be teleported{SAUT}elsewhere by touching this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0007",
+    "locuteur": "Brown",
+    "en": "Huhhh!? What was that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0008",
+    "locuteur": "Brown",
+    "en": "Staring at it hurts my eyes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0009",
+    "locuteur": "Elly",
+    "en": "Has anything changed? Let's have a look{SAUT}outside this room!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:034:0010",
+    "locuteur": "Elly",
+    "en": "Could this be something like a wormhole?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:035:0000",
+    "locuteur": "Yukino",
+    "en": "Any wounds, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:035:0001",
+    "locuteur": "Ayase",
+    "en": "My hands are going numb.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:035:0002",
+    "locuteur": "Nanjo",
+    "en": "How on earth is this building laid out?{SAUT}It's hard to believe it was our school...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:035:0003",
+    "locuteur": "Brown",
+    "en": "Whew, let's take a breather. I feel like{SAUT}my legs are gonna fall off.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:035:0004",
+    "locuteur": "Elly",
+    "en": "Both the demons and the building's{SAUT}structure are becoming more formidable.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "id": "E0.BIN:133:0000",
+    "locuteur": "Maki",
+    "en": "Someone's collapsed on the floor!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0001",
+    "locuteur": "Mark",
+    "en": "I-It's Reiji!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0002",
+    "locuteur": "Mark",
+    "en": "Yo, Reiji! Hang in there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0003",
+    "locuteur": "Reiji",
+    "en": "...Ngh... Dammit...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0004",
+    "locuteur": "Kandori",
+    "en": "Hmh. Youth oft destroys itself...{SAUT}A common failing of headstrong boys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0005",
+    "locuteur": "Mark",
+    "en": "You bastard...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0006",
+    "locuteur": "Nanjo",
+    "en": "Kandori... We meet again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0007",
+    "locuteur": "Mark",
+    "en": "You've messed with us for the last time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0008",
+    "locuteur": "Maki",
+    "en": "Aki! He's not your Daddy. Don't you{SAUT}know that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:133:0009",
+    "locuteur": "Elly",
+    "en": "Looks like this is it, Mr. Kandori.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0010",
+    "locuteur": "Brown",
+    "en": "You low-down, dirty coward! I'll shove{SAUT}your dirty tricks down your throat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0011",
+    "locuteur": "Ayase",
+    "en": "Hey, give us that compact back!{SAUT}I need it for... uh... stuff!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0012",
+    "locuteur": "Aki",
+    "en": "Pbbbbbt! You can't hurt Daddy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0013",
+    "locuteur": "Kandori",
+    "en": "It seems you've endured unspeakable{SAUT}hardships, all for vengeance's sake.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0014",
+    "locuteur": "Maki",
+    "en": "Where's the compact? Give it back!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0015",
+    "locuteur": "Aki",
+    "en": "It's right here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0016",
+    "locuteur": "Kandori",
+    "en": "The two compacts reunite in my hands...{SAUT}I have you to thank, young man.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0017",
+    "locuteur": "Nanjo",
+    "en": "You snake... What's your plan for{SAUT}the compact!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0018",
+    "locuteur": "Kandori",
+    "en": "Show them, Aki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0019",
+    "locuteur": "Aki",
+    "en": "Okay, Daddy! Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0020",
+    "locuteur": "Maki",
+    "en": "What is this...? A mirror!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0021",
+    "locuteur": "Kandori",
+    "en": "It's my ambition given shape...{SAUT}Now witness its power!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0022",
+    "locuteur": "Reiji",
+    "en": "Takahisa Kandori... You're going nowhere!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0023",
+    "locuteur": "Kandori",
+    "en": "Don't be so coarse with your brother's{SAUT}name. Watch your tongue...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0024",
+    "locuteur": "Kandori",
+    "en": "You may be the child of Father's mistress,{SAUT}but Kandori blood flows in you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0025",
+    "locuteur": "Kandori",
+    "en": "...But what's the use? A stray bitch{SAUT}will breed stray dogs.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0026",
+    "locuteur": "Mark",
+    "en": "Reiji...? You're that slimebag's{SAUT}brother!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0027",
+    "locuteur": "Reiji",
+    "en": "Shut up! My name's Kido! Reiji Kido!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0028",
+    "locuteur": "Reiji",
+    "en": "This is for my mother--the woman your dad{SAUT}used and threw away like a dirty rag!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0029",
+    "locuteur": "Reiji",
+    "en": "This wound will never forget!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0030",
+    "locuteur": "Kandori",
+    "en": "Hmph... Nonsense. Take your grievance up{SAUT}with my father's grave.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0031",
+    "locuteur": "Reiji",
+    "en": "Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0032",
+    "locuteur": "Kandori",
+    "en": "What a bothersome dog...{SAUT}Muzzle him, Aki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0033",
+    "locuteur": "Mark",
+    "en": "Reiji!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0034",
+    "locuteur": "Mark",
+    "en": "You've messed with us one too many{SAUT}times!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0035",
+    "locuteur": "Maki",
+    "en": "Is that Mai's compact!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:133:0037",
+    "locuteur": "Maki",
+    "en": "Give that compact back!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0000",
+    "locuteur": "Mark",
+    "en": "Wh... What is that...? Don't tell me{SAUT}that's our town...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0001",
+    "locuteur": "Kandori",
+    "en": "That's right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0002",
+    "locuteur": "Kandori",
+    "en": "It's my new castle... I call it{SAUT}Deva Yuga.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0003",
+    "locuteur": "Kandori",
+    "en": "A worthy name for something that will{SAUT}usher in a new, shining era...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0004",
+    "locuteur": "Elly",
+    "en": "Oh my God...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0005",
+    "locuteur": "Brown",
+    "en": "＊gulp＊ The whole town disappeared...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0006",
+    "locuteur": "Ayase",
+    "en": "No way... Did all those people die...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0007",
+    "locuteur": "Reiji",
+    "en": "Ngh... You little...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0008",
+    "locuteur": "Nanjo",
+    "en": "Kandori, you devil...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0009",
+    "locuteur": "Maki",
+    "en": "I can't believe you did that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0010",
+    "locuteur": "Kandori",
+    "en": "Heh... Hahahaha! This Mirror of Chaos{SAUT}is just what I've yearned for!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0011",
+    "locuteur": "Kandori",
+    "en": "How exquisite... It's no mere compact.{SAUT}You've all seen its majestic power!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0012",
+    "locuteur": "Kandori",
+    "en": "I've acquired the power to make my{SAUT}desires reality...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0013",
+    "locuteur": "Kandori",
+    "en": "Power over the dimensions without need{SAUT}for the Deva System!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0014",
+    "locuteur": "Nanjo",
+    "en": "Yes... I'm starting to see now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0015",
+    "locuteur": "Nanjo",
+    "en": "The compacts and the Deva System were{SAUT}only laying the groundwork.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0016",
+    "locuteur": "Nanjo",
+    "en": "Now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0017",
+    "locuteur": "Kandori",
+    "en": "I will become a god on Earth. And a god{SAUT}has only one duty...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0018",
+    "locuteur": "Kandori",
+    "en": "To wield the rod of judgement upon the{SAUT}wayward human race!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0019",
+    "locuteur": "Maki",
+    "en": "I get it... You're planning on{SAUT}annihilating humanity...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0020",
+    "locuteur": "Mark",
+    "en": "Like hell!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0021",
+    "locuteur": "Nanjo",
+    "en": "I won't allow it, Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0022",
+    "locuteur": "Kandori",
+    "en": "Such senseless defiance...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0023",
+    "locuteur": "Maki",
+    "en": "Masao! Kei!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0024",
+    "locuteur": "Kandori",
+    "en": "I'll now return to the real world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0025",
+    "locuteur": "Kandori",
+    "en": "Do you despise me? If so, then follow{SAUT}me there... after defeating this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0026",
+    "locuteur": "Nanjo",
+    "en": "Ngh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0027",
+    "locuteur": "Mark",
+    "en": "Y-You son of a...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0028",
+    "locuteur": "Kandori",
+    "en": "Objects of one's desire cannot be{SAUT}easily obtained.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0029",
+    "locuteur": "Kandori",
+    "en": "But the joy of overcoming obstacles to{SAUT}obtain them is the highest bliss...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0030",
+    "locuteur": "Kandori",
+    "en": "So speaks your new god!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:134:0031",
+    "locuteur": "Maki",
+    "en": "Wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:134:0032",
+    "locuteur": "Saurva",
+    "en": "It is showtime! I'll make you dance...{SAUT}A dance of death!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

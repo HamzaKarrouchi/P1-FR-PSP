@@ -1,0 +1,517 @@
+[
+  {
+    "id": "E0.BIN:101:0101",
+    "locuteur": "Chisato",
+    "en": "But you know, that girl said that she{SAUT}lives in a castle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0102",
+    "locuteur": "Mark",
+    "en": "A castle? Say what!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0103",
+    "locuteur": "Nanjo",
+    "en": "It's not all that surprising.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0104",
+    "locuteur": "Nanjo",
+    "en": "Though still a child, Aki's powers are{SAUT}immense. Making a castle would be easy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0105",
+    "locuteur": "Maki",
+    "en": "Alright, then that's our next goal.{SAUT}Let's find that castle!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0106",
+    "locuteur": "Yosuke",
+    "en": "Oh, I forgot to tell you, Chisato, but{SAUT}that Maki isn't the Maki we know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0107",
+    "locuteur": "Chisato",
+    "en": "Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0000",
+    "locuteur": "Maki",
+    "en": "So this is your hideout! It's the{SAUT}end of the line for you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0001",
+    "locuteur": "Aki",
+    "en": "Pbbbbbt! You can't get in from here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0002",
+    "locuteur": "Aki",
+    "en": "If the one in the forest was here, yeah,{SAUT}but she's too much of a scaredy cat.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0003",
+    "locuteur": "Aki",
+    "en": "That's how come no one can stop me{SAUT}and my Daddy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0004",
+    "locuteur": "Maki",
+    "en": "Hey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0005",
+    "locuteur": "Maki",
+    "en": "Ugh! Sheesh... she got away again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0006",
+    "locuteur": "Nanjo",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:116:0007",
+    "locuteur": "Mark",
+    "en": "Damn... it won't even budge.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0008",
+    "locuteur": "Mark",
+    "en": "Hey Nanjo, quit starin' into space!{SAUT}Don't you have a plan or somethin'?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0009",
+    "locuteur": "Nanjo",
+    "en": "The girl placed something onto that{SAUT}pedestal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0010",
+    "locuteur": "Nanjo",
+    "en": "We won't gain access without a key{SAUT}fitting this half-moon-shaped hollow.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0011",
+    "locuteur": "Elly",
+    "en": "Judging by what she said, someone{SAUT}else must have it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0012",
+    "locuteur": "Brown",
+    "en": "Urgh, another doohickey hunt?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0013",
+    "locuteur": "Ayase",
+    "en": "Hey, open up right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0014",
+    "locuteur": "Maki",
+    "en": "The forest... it must be the one on the{SAUT}west side. It was a flower garden once...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0015",
+    "locuteur": "Maki",
+    "en": "But now they call it the (*TEXTBOX_PARAM,0700*)Lost Forest(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0016",
+    "locuteur": "Elly",
+    "en": "Then let's go back. We need to find{SAUT}whoever has that key.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0017",
+    "locuteur": "Brown",
+    "en": "Uuugh... we have to go back?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0018",
+    "locuteur": "Brown",
+    "en": "How about having the leader stay here{SAUT}to keep watch? No? Alright, fine...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0019",
+    "locuteur": "Ayase",
+    "en": "What!? We came all this way... and now{SAUT}we're going BACK!? This is the worst!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0020",
+    "locuteur": "Mark",
+    "en": "Oh well. Guess we'll go back... We gotta{SAUT}find whoever that brat was talking about.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0021",
+    "locuteur": "Maki",
+    "en": "When the Lost Forest was a flower garden,{SAUT}a girl named Mai used to play there...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0022",
+    "locuteur": "Maki",
+    "en": "Is she the one we're looking for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0023",
+    "locuteur": "Mark",
+    "en": "That brat HAS to be Kandori's kid.{SAUT}She sure takes after him...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0024",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*)... doesn't that child's{SAUT}behavior trouble you somewhat?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0025",
+    "locuteur": "Nanjo",
+    "en": "I can't quite shake the feeling that{SAUT}we're being manipulated.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0026",
+    "locuteur": "Elly",
+    "en": "Kandori must be very precious to that{SAUT}girl... I'm slightly jealous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0027",
+    "locuteur": "Elly",
+    "en": "Oh, I'm sorry if that came off as{SAUT}strange.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0028",
+    "locuteur": "Brown",
+    "en": "Alright, I'll go back with you. I mean,{SAUT}what would you do without a leader?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0029",
+    "locuteur": "Ayase",
+    "en": "Hey (*APELLIDO_HEROE*), gimme a piggyback{SAUT}ride to the other side!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0030",
+    "locuteur": "Ayase",
+    "en": "C'mon, you'd get to feel me warm on your{SAUT}back all the way there. Pretty please?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0031",
+    "locuteur": "Reiji",
+    "en": "The bastard's up there, eh? I won't let{SAUT}him escape... He better be ready to die.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0032",
+    "locuteur": "Reiji",
+    "en": "You better get out of the way.{SAUT}I'm going to destroy it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0033",
+    "locuteur": "Mark",
+    "en": "Whoa there, Reiji. This isn't something{SAUT}you can just smash like that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0034",
+    "locuteur": "Mark",
+    "en": "You sure lose it when Kandori's involved.{SAUT}Well, I'm not gonna ask...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0035",
+    "locuteur": "Mark",
+    "en": "But man, you don't have to carry whatever{SAUT}it is all by yourself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0037",
+    "locuteur": "Maki",
+    "en": "Masao's right, Reiji. We're all in{SAUT}this together, after all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0038",
+    "locuteur": "Reiji",
+    "en": "...I have no reason to play nice. \"All in{SAUT}this together\"? You disgust me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0039",
+    "locuteur": "Reiji",
+    "en": "And you, Masao? You disgust me most{SAUT}of all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0040",
+    "locuteur": "Maki",
+    "en": "Reiji! That's not nice!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0041",
+    "locuteur": "Mark",
+    "en": "It's cool, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0042",
+    "locuteur": "Mark",
+    "en": "Get disgusted or don't, dude, but we{SAUT}have to go back together for now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0043",
+    "locuteur": "Mark",
+    "en": "'Cause we're all after the same thing.{SAUT}C'mon, (*APELLIDO_HEROE*), let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0044",
+    "locuteur": "Maki",
+    "en": "Boys are so complicated. Masao's getting{SAUT}along with Reiji... I think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0045",
+    "locuteur": "Mark",
+    "en": "Huh? Am I feeling okay? What are you{SAUT}talking about...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0046",
+    "locuteur": "Nanjo",
+    "en": "I'm surprised he stood there and took{SAUT}that from Masao. Heh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0047",
+    "locuteur": "Nanjo",
+    "en": "He must sense another like himself.{SAUT}Feral beasts can do that, I suppose.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0048",
+    "en": "{FERME} > The door is tightly closed.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:116:0049",
+    "en": "{FERME} > There's a depression shaped like{SAUT}a half-moon.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0000",
+    "locuteur": "Maki",
+    "en": "Until last month, this place was a{SAUT}beautiful garden of flowers.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0001",
+    "locuteur": "Maki",
+    "en": "Oh, sorry, I was lost in thought for a{SAUT}minute... Let's get to the castle!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0002",
+    "locuteur": "Mark",
+    "en": "In our world, this was a police station.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0003",
+    "locuteur": "Mark",
+    "en": "C'mon, we should get back to that{SAUT}weird castle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0004",
+    "locuteur": "Nanjo",
+    "en": "This world must have amazing security{SAUT}prior to this incident.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0005",
+    "locuteur": "Nanjo",
+    "en": "The police simply don't exist here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0006",
+    "locuteur": "Nanjo",
+    "en": "Sorry... I need some time alone{SAUT}to think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0007",
+    "locuteur": "Reiji",
+    "en": "...You don't need to talk to me.{SAUT}Hurry and go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0008",
+    "locuteur": "Reiji",
+    "en": "...We have no business being here{SAUT}anymore. Let's hurry and go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0009",
+    "locuteur": "Elly",
+    "en": "What a lonely forest...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0010",
+    "locuteur": "Elly",
+    "en": "You're not hurt, are you, (*APELLIDO_HEROE*)?{SAUT}Hm? Why do I ask...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0011",
+    "locuteur": "Elly",
+    "en": "No particular reason... Why? Did it{SAUT}seem like an odd question?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0012",
+    "locuteur": "Brown",
+    "en": "This place seems pretty dangerous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0013",
+    "locuteur": "Brown",
+    "en": "That girl asked some pretty heavy stuff.{SAUT}I'm still kinda sorting it all out.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0014",
+    "locuteur": "Ayase",
+    "en": "It's been a while since I saw this many{SAUT}trees in one place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0015",
+    "locuteur": "Ayase",
+    "en": "Did you know this smell is called ozone?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0016",
+    "locuteur": "Ayase",
+    "en": "...Hey (*APELLIDO_HEROE*), have you ever like,{SAUT}thought seriously about your future?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:117:0017",
+    "locuteur": "Ayase",
+    "en": "I've... Eh, never mind. Let's not talk{SAUT}about that stuff... Just forget it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

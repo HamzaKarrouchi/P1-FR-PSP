@@ -1,0 +1,405 @@
+[
+  {
+    "id": "E0.BIN:137:0000",
+    "locuteur": "Mark",
+    "en": "Tch... So it was a trap after all!{SAUT}Let's do this, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0001",
+    "locuteur": "Hariti",
+    "en": "Maki...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0002",
+    "locuteur": "Hariti",
+    "en": "Oh, Maki, I finally found you.{SAUT}You're safe...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0003",
+    "locuteur": "Nanjo",
+    "en": "That voice... There's no mistaking it.{SAUT}It's Maki's mother...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0004",
+    "locuteur": "Hariti",
+    "en": "I've been looking for you all this{SAUT}time... Please come to me, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0005",
+    "locuteur": "Elly",
+    "en": "Maki! It's no use... It seems that{SAUT}the demon is controlling her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0006",
+    "locuteur": "Elly",
+    "en": "I know the voice is unquestionably{SAUT}Maki's mother's...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0007",
+    "locuteur": "Elly",
+    "en": "But you can't trust that! Let's get the{SAUT}first strike, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0008",
+    "locuteur": "Brown",
+    "en": "Dude, (*APODO_HEROE*), what do we do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0009",
+    "locuteur": "Brown",
+    "en": "That demon's gonna kill Maki! We gotta{SAUT}defeat it, now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0010",
+    "locuteur": "Ayase",
+    "en": "Well, what's it gonna be, (*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0011",
+    "locuteur": "Ayase",
+    "en": "That monster could kill Maki! Let's get{SAUT}it already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0012",
+    "locuteur": "Reiji",
+    "en": "Is it right to leave Maki be, (*APELLIDO_HEROE*)?{SAUT}We should destroy that demon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0013",
+    "locuteur": "Mark",
+    "en": "But that voice... That's Maki's mom,{SAUT}I'm dead sure...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0014",
+    "locuteur": "Mark",
+    "en": "Isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0015",
+    "locuteur": "Mark",
+    "en": "I don't know why she'd look like that,{SAUT}but what if it really is her mom...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0016",
+    "locuteur": "Mark",
+    "en": "Put your weapon away, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0019",
+    "locuteur": "Hariti",
+    "en": "Why are you getting in my way? Give me{SAUT}back my daughter!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0020",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Ngh... This isn't... the infirmary...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0021",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Oh, it's the haunted mansion. I was just{SAUT}having a dream about this place...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0022",
+    "locuteur": "Mark",
+    "en": "See? Maki's mom doesn't exist in this{SAUT}world, so...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0023",
+    "locuteur": "Mark",
+    "en": "This has to be her! But what's she{SAUT}doing here...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0024",
+    "locuteur": "Mark",
+    "en": "You okay, lady?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0025",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Yes... I'm all right...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0026",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Maki used to get lost at this haunted{SAUT}mansion often when she was little...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0027",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I'm used to looking for her here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0028",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I was just dreaming about those days...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0029",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I was searching for her in this huge{SAUT}mansion, and I heard Maki call to me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0030",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I don't remember anything after that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0031",
+    "locuteur": "Maki",
+    "en": "Um, Miss? I'm... not your real child{SAUT}after all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0032",
+    "locuteur": "Setsuko Sonomura",
+    "en": "What...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0033",
+    "locuteur": "Nanjo",
+    "en": "Allow me to explain.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0034",
+    "locuteur": "Setsuko Sonomura",
+    "en": "So that's it... You're the Maki of{SAUT}this world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0035",
+    "locuteur": "Setsuko Sonomura",
+    "en": "But why don't I exist here...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0036",
+    "locuteur": "Maki",
+    "en": "Uh-oh! The dimensional passageway is{SAUT}about to disappear...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0037",
+    "locuteur": "Mark",
+    "en": "I'm sorry, lady, but we have to chase{SAUT}down Kandori.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0038",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Alright. Just give me one moment!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0039",
+    "locuteur": "Setsuko Sonomura",
+    "en": "The dimensional passageway is very{SAUT}unstable right now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0040",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Someone has to stay here and operate{SAUT}the machine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0041",
+    "locuteur": "Maki",
+    "en": "What? No...! We can't leave anyone here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0042",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I'll do it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0043",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Don't worry... Go ahead on your own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0044",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Though I'd be grateful if you came to{SAUT}get me when this is all over with.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0045",
+    "locuteur": "Maki",
+    "en": "Miss...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0046",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Yes? Speak quickly... There isn't{SAUT}much time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0047",
+    "locuteur": "Maki",
+    "en": "I... don't have a mother...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0048",
+    "locuteur": "Maki",
+    "en": "But if I did... I'd hope for one as{SAUT}kind and caring as you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0049",
+    "locuteur": "Maki",
+    "en": "We'll beat Kandori and save your Maki{SAUT}while we're at it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:137:0050",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Yes... Please do. Thank you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:137:0052",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Now get going, all of you!{SAUT}And be careful!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:138:0006",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Maki was constantly getting lost at this{SAUT}haunted mansion when she was little...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:138:0022",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I'll do it! Don't worry... Go ahead{SAUT}on your own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:138:0029",
+    "locuteur": "Setsuko Sonomura",
+    "en": "...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]...{PAUSE}[1000]Yes... Please do.{PAUSE}[4000]{SAUT}Thank you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "id": "E0.BIN:149:0000",
+    "locuteur": "Maki",
+    "en": "This... This can't be...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0001",
+    "locuteur": "Maki",
+    "en": "You idiot! Why did you kill Daddy!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0002",
+    "locuteur": "Maki",
+    "en": "Don't you know what you did!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0003",
+    "locuteur": "Maki",
+    "en": "Waaaaaaaaaaaah!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0004",
+    "locuteur": "Maki",
+    "en": "This is me...? No... I made everyone{SAUT}suffer...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0005",
+    "locuteur": "Maki",
+    "en": "You killed the only one the real me{SAUT}could rely on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0006",
+    "locuteur": "Maki",
+    "en": "No one will save us now! It's all over!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0007",
+    "locuteur": "Reiji",
+    "en": "There's three Makis... Are they all her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0008",
+    "locuteur": "Elly",
+    "en": "Three's... three of her... Jesus Christ.{SAUT}They're all Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0009",
+    "locuteur": "Brown",
+    "en": "There's three Makis? No way... This is{SAUT}some sick joke, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0010",
+    "locuteur": "Ayase",
+    "en": "They're all Maki? Seriously?{SAUT}That's just...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0012",
+    "locuteur": "Maki",
+    "en": "No... Don't come near me... Don't look{SAUT}at me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0013",
+    "locuteur": "Mark",
+    "en": "Calm down, Maki! This has to be some{SAUT}kinda mistake... right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0014",
+    "locuteur": "Maki",
+    "en": "Stop saying that! That's a lie!{SAUT}This is me, I can tell!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0015",
+    "locuteur": "Maki",
+    "en": "I messed up the town and made everyone{SAUT}suffer! I did that...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0016",
+    "locuteur": "Reiji",
+    "en": "Don't take it so hard. He was using you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0017",
+    "locuteur": "Elly",
+    "en": "Calm down, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0018",
+    "locuteur": "Elly",
+    "en": "You were being used... There's no need{SAUT}to let it get to you, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0019",
+    "locuteur": "Brown",
+    "en": "Calm down! You were being used, and it{SAUT}sucks, but that's all it was.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0020",
+    "locuteur": "Brown",
+    "en": "Okay? C'mon, get over here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0021",
+    "locuteur": "Ayase",
+    "en": "Maki! You don't have to take it so hard!{SAUT}It was all Kandori's fault anyways!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0022",
+    "locuteur": "Maki",
+    "en": "No... that's not it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0023",
+    "locuteur": "Maki",
+    "en": "Please don't be nice to me...{SAUT}I understand everything now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0024",
+    "locuteur": "Maki",
+    "en": "I was jealous of everyone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0025",
+    "locuteur": "Maki",
+    "en": "Wearing cute clothes, walking{SAUT}around town...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0026",
+    "locuteur": "Maki",
+    "en": "Gossiping about each other's{SAUT}boyfriends...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0027",
+    "locuteur": "Maki",
+    "en": "Laughing and joking...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0028",
+    "locuteur": "Maki",
+    "en": "I envied everyone who went to school{SAUT}and had fun with their friends...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0029",
+    "locuteur": "Maki",
+    "en": "I wished... that school and the town{SAUT}would all be swallowed up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0030",
+    "locuteur": "Mark",
+    "en": "Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0031",
+    "locuteur": "Maki",
+    "en": "Even if I wanted to do something about it,{SAUT}I couldn't... I cried and cried...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0032",
+    "locuteur": "Maki",
+    "en": "My jealousy and loathing grew... I made{SAUT}up an ideal town to comfort myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0033",
+    "locuteur": "Maki",
+    "en": "Now do you understand? I'm hopeless...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0034",
+    "locuteur": "Maki",
+    "en": "I don't deserve to live!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0035",
+    "locuteur": "Maki",
+    "en": "＊sniffle＊... Y-You!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0036",
+    "locuteur": "Maki",
+    "en": "It's all over for you, too.{SAUT}Kandori is gone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0037",
+    "locuteur": "Maki",
+    "en": "Erusaer Tsymmom.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:149:0038",
+    "locuteur": "Maki",
+    "en": "N-No! Noooo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0039",
+    "locuteur": "Maki",
+    "en": "Now this quiet town will go back to how{SAUT}it was... Thank you, mister.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0040",
+    "locuteur": "Maki",
+    "en": "You're... You're going to keep living{SAUT}there!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0041",
+    "locuteur": "Maki",
+    "en": "Yes... If I don't, I'll feel sorry{SAUT}for myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0042",
+    "locuteur": "Maki",
+    "en": "You're going back, too. I want you to{SAUT}keep acting as my ideal self.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0043",
+    "locuteur": "Maki",
+    "en": "No! I don't want to go back there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0045",
+    "locuteur": "Maki",
+    "en": "No!{SAUT}(*APELLIDO_HEROE*)...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0046",
+    "locuteur": "Maki",
+    "en": "Hm... You like this boy now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0047",
+    "locuteur": "Maki",
+    "en": "Okay. I'll make him, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0048",
+    "locuteur": "Maki",
+    "en": "It's easy... Bye bye, mister.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0049",
+    "locuteur": "Mark",
+    "en": "Maki!{SAUT}{PAUSE}[5800]Makiiii!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0050",
+    "locuteur": "Maki",
+    "en": "Yes, it's all over! Everyone should{SAUT}just disappear!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0051",
+    "locuteur": "Maki",
+    "en": "Disappear, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0052",
+    "locuteur": "Mark",
+    "en": "Maki! Come over here, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0053",
+    "locuteur": "Maki",
+    "en": "I... I can't be with you all anymore...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0054",
+    "locuteur": "Maki",
+    "en": "Please... send me back into my heart!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0056",
+    "locuteur": "Mark",
+    "en": "You... you idiot! Why, dammit!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0057",
+    "locuteur": "Mark",
+    "en": "(*APELLIDO_HEROE*)! Let's go back into Maki's{SAUT}heart!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0058",
+    "locuteur": "Nanjo",
+    "en": "...Wait, Masao. Do you know the story of{SAUT}the foolish girl named Pandora?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0059",
+    "locuteur": "Mark",
+    "en": "Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0060",
+    "locuteur": "Nanjo",
+    "en": "The legend says she opened the gods' box,{SAUT}releasing all sorts of evils...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0061",
+    "locuteur": "Nanjo",
+    "en": "It applies to Maki. This town owes its{SAUT}miserable condition to her wishes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0062",
+    "locuteur": "Nanjo",
+    "en": "Rather than save her, we should focus{SAUT}on destroying the Deva System.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0063",
+    "locuteur": "Mark",
+    "en": "Y-You asshole... How can you talk that{SAUT}way about a friend!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0064",
+    "locuteur": "Mark",
+    "en": "If we destroy that thing, what's gonna{SAUT}happen to Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0065",
+    "locuteur": "Nanjo",
+    "en": "From the looks of it, the system is{SAUT}keeping Maki alive...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0066",
+    "locuteur": "Nanjo",
+    "en": "If we destroy it, Maki will most likely{SAUT}die as a result.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0067",
+    "locuteur": "Nanjo",
+    "en": "But as long as the system is intact, the{SAUT}fundamental problem remains unsolved.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0068",
+    "locuteur": "Nanjo",
+    "en": "Don't let your personal feelings sway{SAUT}you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0069",
+    "locuteur": "Nanjo",
+    "en": "A small sacrifice for the greater{SAUT}good... The choice is obvious.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0070",
+    "locuteur": "Mark",
+    "en": "I hope you're ready for this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0071",
+    "locuteur": "Mark",
+    "en": "I had you all wrong... I didn't think{SAUT}you could really be that cold.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0072",
+    "locuteur": "Mark",
+    "en": "Maybe what you're sayin' is true.{SAUT}It's the kinda logic an adult would use.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0073",
+    "locuteur": "Mark",
+    "en": "But dude... Maki might've made us suffer,{SAUT}but she also tried to save us all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0074",
+    "locuteur": "Mark",
+    "en": "I believe in Maki. I know she has what{SAUT}it takes to break away from that machine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0075",
+    "locuteur": "Elly",
+    "en": "Yes... We need to let Maki know that{SAUT}she isn't alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0076",
+    "locuteur": "Brown",
+    "en": "You said it, man. If this'll help Maki{SAUT}make peace with herself, I'm in.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0077",
+    "locuteur": "Ayase",
+    "en": "I'm gonna go, too. I borrowed her{SAUT}handkerchief, y'know...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0078",
+    "locuteur": "Reiji",
+    "en": "I'm going in... if that girl in white{SAUT}is Maki too, I owe her for rescuing me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0079",
+    "locuteur": "Nanjo",
+    "en": "Heh... You believe in her, eh?{SAUT}Yamaoka said he believed in me, too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0080",
+    "locuteur": "Nanjo",
+    "en": "Man is an emotional creature, I suppose.{SAUT}We can split hairs all we like...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0081",
+    "locuteur": "Nanjo",
+    "en": "But the ultimate decision is made by{SAUT}one's heart.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0082",
+    "locuteur": "Nanjo",
+    "en": "I'll go in as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0083",
+    "locuteur": "Mark",
+    "en": "Sheesh, you and your arguments. You coulda{SAUT}just come out and said so...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0084",
+    "locuteur": "Mark",
+    "en": "Wouldn't a clever, mature adult stay here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0085",
+    "locuteur": "Nanjo",
+    "en": "Unfortunately, as a boy of 17, I'm not{SAUT}legally considered an adult yet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0086",
+    "locuteur": "Mark",
+    "en": "Heheh... When will I learn? You always{SAUT}got some kinda comeback all ready...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0087",
+    "locuteur": "Nanjo",
+    "en": "Good deeds should be done swiftly.{SAUT}Let's dive back into Maki's soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0088",
+    "locuteur": "Elly",
+    "en": "What the--Something's in the mirror!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0089",
+    "locuteur": "Brown",
+    "en": "H-Hey! Something appeared in the mirror!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0090",
+    "locuteur": "Ayase",
+    "en": "Huh!? Something's in the mirror now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:149:0091",
+    "locuteur": "Reiji",
+    "en": "Look, the mirror! There's something{SAUT}there now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

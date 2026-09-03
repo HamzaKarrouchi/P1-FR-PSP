@@ -1,0 +1,557 @@
+[
+  {
+    "id": "E0.BIN:147:0000",
+    "locuteur": "Mark",
+    "en": "Kandori! This is it! I hope you're ready!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0001",
+    "locuteur": "Reiji",
+    "en": "We finally found you... You're not going{SAUT}anywhere this time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0002",
+    "locuteur": "Aki",
+    "en": "You guys are so aggravating! I won't{SAUT}let you get in my Daddy's way!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0003",
+    "locuteur": "Kandori",
+    "en": "...That's enough, Aki. Stay back.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0004",
+    "locuteur": "Aki",
+    "en": "But, Daddy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0005",
+    "locuteur": "Kandori",
+    "en": "Wait in the other room. I'll be with{SAUT}you soon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0006",
+    "locuteur": "Aki",
+    "en": "...Okay, Daddy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0007",
+    "locuteur": "Maki",
+    "en": "Stop causin' all this pain! Turn everyone{SAUT}back to normal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0008",
+    "locuteur": "Kandori",
+    "en": "...Don't worry. I won't do anything{SAUT}further.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0010",
+    "locuteur": "Brown",
+    "en": "What the hell!? What, all of a sudden{SAUT}you're not in the mood anymore?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0011",
+    "locuteur": "Brown",
+    "en": "What a bunch of crap... After all we{SAUT}did to get here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0012",
+    "locuteur": "Elly",
+    "en": "What!? Something seems peculiar{SAUT}about this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0013",
+    "locuteur": "Ayase",
+    "en": "Hey! Did you finally snap or something?{SAUT}Apologizing now won't help!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0014",
+    "locuteur": "Ayase",
+    "en": "I'm too pissed off now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0015",
+    "locuteur": "Reiji",
+    "en": "...What the hell's with you? Decided to{SAUT}beg for your life all of a sudden?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0016",
+    "locuteur": "Kandori",
+    "en": "...What are you living for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0017",
+    "locuteur": "Mark",
+    "en": "Huh!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0018",
+    "locuteur": "Kandori",
+    "en": "People aren't strong enough to live{SAUT}without a goal. Everyone wants something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0019",
+    "locuteur": "Kandori",
+    "en": "No matter how small the desire...{SAUT}It gives them the strength to carry on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0020",
+    "locuteur": "Kandori",
+    "en": "But... if every desire is fulfilled,{SAUT}what's left to strive for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0021",
+    "locuteur": "Kandori",
+    "en": "When one's wishes have been granted,{SAUT}the only thing that awaits...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0022",
+    "locuteur": "Kandori",
+    "en": "...is a bottomless solitude; an eternal{SAUT}emptiness.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0023",
+    "locuteur": "Kandori",
+    "en": "Then wouldn't it be better if one chose{SAUT}not to ascend the stairs of desire?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0024",
+    "locuteur": "Kandori",
+    "en": "That way... one's dreams are kept alive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0025",
+    "locuteur": "Kandori",
+    "en": "I... kept ascending that stair to destroy{SAUT}this worthless world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0026",
+    "locuteur": "Kandori",
+    "en": "But it no longer matters. Right now...{SAUT}nothing is beyond my grasp.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0027",
+    "locuteur": "Kandori",
+    "en": "Hah. The winds of solitude and emptiness{SAUT}blow within me... Such is a god's lot.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0028",
+    "locuteur": "Maki",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E0.BIN:147:0029",
+    "locuteur": "Kandori",
+    "en": "Boy... I allowed you to come here in{SAUT}order to ask you this:{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0030",
+    "locuteur": "Kandori",
+    "en": "Why do you cling to life?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0031",
+    "locuteur": "Kandori",
+    "en": "What are you living for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0032",
+    "locuteur": "Maki",
+    "en": "That's right! Our reason for living...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0033",
+    "locuteur": "Maki",
+    "en": "We may never understand it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0034",
+    "locuteur": "Maki",
+    "en": "But I still believe in myself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0035",
+    "locuteur": "Maki",
+    "en": "With or without a reason, I'm going to{SAUT}live a life I won't regret!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:147:0036",
+    "locuteur": "Maki",
+    "en": "That's not it at all! Our reason for{SAUT}living...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0037",
+    "locuteur": "Maki",
+    "en": "We may never understand it.{PAUSE}[5800]{SAUT}But I still believe in myself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0039",
+    "locuteur": "Mark",
+    "en": "Dumbass! How old are you? And you don't{SAUT}even know that yet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0040",
+    "locuteur": "Mark",
+    "en": "We're alive so we can do the best we can,{SAUT}every second of every day.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0041",
+    "locuteur": "Mark",
+    "en": "You're always so frickin' sulky. It's not{SAUT}good for you, man!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0042",
+    "locuteur": "Mark",
+    "en": "You gotta look on the sunny side!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0043",
+    "locuteur": "Reiji",
+    "en": "Why else...? To kill you and put an end{SAUT}to your filthy bloodline!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0044",
+    "locuteur": "Reiji",
+    "en": "Until I do that, I can't give my mother{SAUT}the happiness she deserves!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0045",
+    "locuteur": "Elly",
+    "en": "I live to protect the things I treasure.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0046",
+    "locuteur": "Elly",
+    "en": "The people you see here are my most{SAUT}trusted friends...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0047",
+    "locuteur": "Elly",
+    "en": "Now that I have them, I won't give them{SAUT}up that easily!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0048",
+    "locuteur": "Brown",
+    "en": "So I can be a better man! I'm sick of{SAUT}lying and running like a coward!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0049",
+    "locuteur": "Brown",
+    "en": "I've made my decision...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0050",
+    "locuteur": "Brown",
+    "en": "I'm gonna beat you and say adios to{SAUT}the lame, fake me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0051",
+    "locuteur": "Ayase",
+    "en": "For my future husband! I won't have it{SAUT}easy, I know...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0052",
+    "locuteur": "Ayase",
+    "en": "But I'm gonna have a house, even if it's{SAUT}small, and I want a boy and a girl.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0053",
+    "locuteur": "Ayase",
+    "en": "I'll name them Takuya and Yuki, and...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0054",
+    "locuteur": "Nanjo",
+    "en": "Kandori... Just stop this. It's painful{SAUT}seeing you so far out on a limb.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0055",
+    "locuteur": "Kandori",
+    "en": "What...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0056",
+    "locuteur": "Nanjo",
+    "en": "Surely you must know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0057",
+    "locuteur": "Nanjo",
+    "en": "The seat of power you've reached by{SAUT}using people is no divine throne.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0058",
+    "locuteur": "Nanjo",
+    "en": "Deep down, you know none of it was{SAUT}your doing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0059",
+    "locuteur": "Kandori",
+    "en": "You miserable...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0060",
+    "locuteur": "Nanjo",
+    "en": "You're suffering.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0061",
+    "locuteur": "Nanjo",
+    "en": "You despair at your inability to live{SAUT}any other way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0062",
+    "locuteur": "Kandori",
+    "en": "Stop...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0063",
+    "locuteur": "Nanjo",
+    "en": "The same goes for her wish to erase{SAUT}mankind.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0064",
+    "locuteur": "Nanjo",
+    "en": "It stems from one's anxiety for the{SAUT}future.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0065",
+    "locuteur": "Kandori",
+    "en": "Silence!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0066",
+    "locuteur": "Nanjo",
+    "en": "\"I want to risk it... But I can't...{SAUT}If only I could disappear...\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0067",
+    "locuteur": "Nanjo",
+    "en": "Did you think burdening all mankind with{SAUT}your fears would make them go away?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0068",
+    "locuteur": "Kandori",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0069",
+    "locuteur": "Nanjo",
+    "en": "Why continue rationalizing your neurosis{SAUT}with these grandiose principles?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0070",
+    "locuteur": "Nanjo",
+    "en": "No one knows the foolishness of that{SAUT}more than you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0071",
+    "locuteur": "Kandori",
+    "en": "...I cannot forgive your offenses against{SAUT}god. I'll cleanse you from this world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0072",
+    "locuteur": "Mark",
+    "en": "Heh, looks like you're finally ready{SAUT}to throw down!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0073",
+    "locuteur": "Kandori",
+    "en": "Can you defeat me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0074",
+    "locuteur": "Kandori",
+    "en": "Can you protect the things you claim{SAUT}are precious?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0075",
+    "locuteur": "Reiji",
+    "en": "...For my mother and my friends,{SAUT}I'll kill you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0076",
+    "locuteur": "Elly",
+    "en": "Yes! We can!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0077",
+    "locuteur": "Brown",
+    "en": "'Course we can!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0078",
+    "locuteur": "Ayase",
+    "en": "Like, duh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0079",
+    "locuteur": "Kandori",
+    "en": "Then prove it before god's throne!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:147:0080",
+    "locuteur": "Kandori",
+    "en": "You, boy... I haven't heard your answer{SAUT}yet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

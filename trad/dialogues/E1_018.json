@@ -1,0 +1,719 @@
+[
+  {
+    "id": "E1.BIN:086:0000",
+    "locuteur": "Yukino",
+    "en": "Michiko Matsudaira! We're here for you!{SAUT}Give us the key to free Toro and Tsutomu!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0001",
+    "locuteur": "Yukino",
+    "en": "We can take it by force, if that's the{SAUT}way you want to play it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0002",
+    "locuteur": "Yukino",
+    "en": "That's my plan, anyway. I have a feeling{SAUT}you won't give up that easily, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0003",
+    "locuteur": "Michiko",
+    "en": "I-Impossible! You're here so soon!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0004",
+    "locuteur": "Michiko",
+    "en": "Wh-What about the Mirror Shard? Didn't...{SAUT}Didn't you go get it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0005",
+    "locuteur": "Michiko",
+    "en": "Oh... Oh...! How can this be!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0006",
+    "locuteur": "Michiko",
+    "en": "The source of my strength... the power{SAUT}of negative emotion...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0007",
+    "locuteur": "Michiko",
+    "en": "The hatred and anger is too weak! This{SAUT}won't be enough at all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0008",
+    "locuteur": "Michiko",
+    "en": "Not only that, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0009",
+    "locuteur": "Michiko",
+    "en": "What are these disgusting feelings that{SAUT}flow into me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0010",
+    "locuteur": "Michiko",
+    "en": "Gratitude...? Friendship...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0011",
+    "locuteur": "Michiko",
+    "en": "THIS is what those two are thinking as{SAUT}they're being tortured?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0012",
+    "locuteur": "Michiko",
+    "en": "＊gasp＊ You couldn't have...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0013",
+    "locuteur": "Michiko",
+    "en": "You figured out how this tower works!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0014",
+    "locuteur": "Michiko",
+    "en": "No! Simply impossible! My plans were{SAUT}flawless!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0015",
+    "locuteur": "Michiko",
+    "en": "Without exceptions, humans think, \"As{SAUT}long as I'm okay, others don't matter.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0016",
+    "locuteur": "Michiko",
+    "en": "This mindset... no, it's even more{SAUT}atavistic than that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0017",
+    "locuteur": "Michiko",
+    "en": "It's instinct!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0018",
+    "locuteur": "Michiko",
+    "en": "My plans revolve around the basic human{SAUT}instinct for self-preservation!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0019",
+    "locuteur": "Michiko",
+    "en": "So why? Why!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0020",
+    "locuteur": "Michiko",
+    "en": "Why would you try to help others with{SAUT}the expectation of no reward?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0021",
+    "locuteur": "Michiko",
+    "en": "I can't understand at all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0022",
+    "locuteur": "Michiko",
+    "en": "My strength... This level of power is{SAUT}FAR from adequate!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0023",
+    "locuteur": "Michiko",
+    "en": "What am I supposed to do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0024",
+    "locuteur": "Nanjo",
+    "en": "Frankly, I'd normally be happy to leave{SAUT}those two and retrieve the Mirror Shard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0025",
+    "locuteur": "Nanjo",
+    "en": "Hmph! As if I gave a damn what that empty{SAUT}head of yours was scheming.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0026",
+    "locuteur": "Nanjo",
+    "en": "But you made one fatal error...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0027",
+    "locuteur": "Nanjo",
+    "en": "You have angered me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0028",
+    "locuteur": "Nanjo",
+    "en": "Did you seriously think you could mock{SAUT}me and walk away unharmed?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0029",
+    "locuteur": "Nanjo",
+    "en": "Kei Nanjo is no one's pet!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0030",
+    "locuteur": "Nanjo",
+    "en": "You will pay for your insult with your{SAUT}life. Prepare yourself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0031",
+    "locuteur": "Brown",
+    "en": "I'd never turn my back on my friends!{SAUT}It's bad for my rep, man!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0032",
+    "locuteur": "Brown",
+    "en": "And I'd DEFINITELY never forgive{SAUT}a bitch like you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0033",
+    "locuteur": "Brown",
+    "en": "This is for torturing Toro and Tsutomu!{SAUT}For calling us all \"whelps\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0034",
+    "locuteur": "Brown",
+    "en": "But most of all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0035",
+    "locuteur": "Brown",
+    "en": "For saying I'm your pet! You're gonna{SAUT}pay royally for that one!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0036",
+    "locuteur": "Brown",
+    "en": "Now let's get this showdown started!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0037",
+    "locuteur": "Ayase",
+    "en": "And you know what?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0038",
+    "locuteur": "Ayase",
+    "en": "We don't even need all 12 Mirror Shards!{SAUT}Eight or so should do the job just fine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0039",
+    "locuteur": "Ayase",
+    "en": "I like, don't care too much about what{SAUT}happens to Toro or Tsutomu.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0040",
+    "locuteur": "Ayase",
+    "en": "But seeing a jerk like you act like{SAUT}some stuck-up celeb...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0041",
+    "locuteur": "Ayase",
+    "en": "Now that totally pisses me off! Get it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0042",
+    "locuteur": "Michiko",
+    "en": "＊shriek＊ Silence! Silence! SILENCE!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0043",
+    "locuteur": "Michiko",
+    "en": "Let me be clear on this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0044",
+    "locuteur": "Michiko",
+    "en": "You're saying that I am inferior to that{SAUT}hideous pair?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0045",
+    "locuteur": "Michiko",
+    "en": "I, the lovely Michiko?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0046",
+    "locuteur": "Michiko",
+    "en": "Oh... Oh...! This is outrageous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0047",
+    "locuteur": "Michiko",
+    "en": "My magnificent plans were simply too{SAUT}sophisticated for you mangy curs!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0048",
+    "locuteur": "Michiko",
+    "en": "Oh... Oh...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0049",
+    "locuteur": "Michiko",
+    "en": "I knew I should have slain you all as{SAUT}soon as you entered this tower!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0050",
+    "locuteur": "Michiko",
+    "en": "Ohhhhh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0051",
+    "locuteur": "Nanjo",
+    "en": "Will you cease those \"oh\"s of yours?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0052",
+    "locuteur": "Nanjo",
+    "en": "Hmph. You sound like a seal...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0053",
+    "locuteur": "Nanjo",
+    "en": "Regardless, it's just as Yuka said.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0054",
+    "locuteur": "Nanjo",
+    "en": "A Mirror Shard or two either way has no{SAUT}impact whatsoever on our victory!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0055",
+    "locuteur": "Nanjo",
+    "en": "We cannot allow your ilk to continue{SAUT}these ruthless, selfish acts!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0056",
+    "locuteur": "Nanjo",
+    "en": "Today marks the end of your tyranny!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0057",
+    "locuteur": "Elly",
+    "en": "Give in, Michiko.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0058",
+    "locuteur": "Elly",
+    "en": "The more you squall, the more prominent{SAUT}your unsightliness becomes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0059",
+    "locuteur": "Elly",
+    "en": "You should see yourself in a mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0060",
+    "locuteur": "Elly",
+    "en": "Ahaha... I, for one, would be ashamed to{SAUT}look that way in public.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0061",
+    "locuteur": "Elly",
+    "en": "Ayase is right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0062",
+    "locuteur": "Elly",
+    "en": "A failure to acquire a couple of Mirror{SAUT}Shards in this tower won't hurt a bit.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0063",
+    "locuteur": "Elly",
+    "en": "Let's draw a line under this conversation,{SAUT}shall we?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0064",
+    "locuteur": "Elly",
+    "en": "However much we explain it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0065",
+    "locuteur": "Elly",
+    "en": "You'll never understand our reasons for{SAUT}coming directly here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0066",
+    "locuteur": "Elly",
+    "en": "Now, en garde!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0067",
+    "locuteur": "Michiko",
+    "en": "No! I won't succumb to the human heart!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0068",
+    "locuteur": "Michiko",
+    "en": "Kindness!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0069",
+    "locuteur": "Michiko",
+    "en": "Friendship!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0070",
+    "locuteur": "Michiko",
+    "en": "Trust!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0071",
+    "locuteur": "Michiko",
+    "en": "Such things simply do not exist in{SAUT}this world!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0072",
+    "locuteur": "Michiko",
+    "en": "I'll prove it to you with your defeat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0073",
+    "locuteur": "Michiko",
+    "en": "Lord Nemesis... Be the shield which{SAUT}protects me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:086:0074",
+    "locuteur": "Michiko",
+    "en": "Lord Nemesis... Be the sword which{SAUT}vanquishes my foe!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:086:0075",
+    "locuteur": "Michiko",
+    "en": "Heed my call!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:086:0076",
+    "locuteur": "Michiko",
+    "en": "Go! Nemesis!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:086:0077",
+    "locuteur": "Yukino",
+    "en": "Getting your Persona out, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0078",
+    "locuteur": "Yukino",
+    "en": "Okay, guys, battle stations! This one's{SAUT}for Toro and Tsutomu!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0079",
+    "locuteur": "Yukino",
+    "en": "Looks like Michiko's room...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0080",
+    "locuteur": "Yukino",
+    "en": "But talk about bad taste.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0081",
+    "locuteur": "Yukino",
+    "en": "What are these faces on the walls?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0083",
+    "locuteur": "Michiko",
+    "en": "These faces are all that's left of those{SAUT}who didn't obey me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0084",
+    "locuteur": "Michiko",
+    "en": "These faces are your future!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0085",
+    "locuteur": "Michiko",
+    "en": "Hmhm... Five new faces for my collection.{SAUT}Truly a red-letter day!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0087",
+    "locuteur": "Michiko",
+    "en": "So, what do you think of my collection?{SAUT}I hope you appreciate it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0088",
+    "locuteur": "Michiko",
+    "en": "Dirty thieves who value material objects{SAUT}over friends should pay special attention.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0089",
+    "locuteur": "Michiko",
+    "en": "Oh yes, don't think I didn't notice you{SAUT}accepted my gift of the Mirror Shard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0091",
+    "locuteur": "Michiko",
+    "en": "I can't believe you fell so easily into{SAUT}my trap!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0092",
+    "locuteur": "Michiko",
+    "en": "Lured by a single Mirror Shard...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0093",
+    "locuteur": "Michiko",
+    "en": "Thereby throwing away your only chance{SAUT}of defeating me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0094",
+    "locuteur": "Michiko",
+    "en": "Ohohohohoho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0095",
+    "locuteur": "Nanjo",
+    "en": "Eh? A trap!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0096",
+    "locuteur": "Nanjo",
+    "en": "＊gasp＊ That letter...! What was that{SAUT}all about? Answer me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0097",
+    "locuteur": "Brown",
+    "en": "Huh? We fell into your trap?{SAUT}Whaddaya mean?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0098",
+    "locuteur": "Brown",
+    "en": "Hey, you better explain this to us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0099",
+    "locuteur": "Ayase",
+    "en": "Whatever, ugly!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0100",
+    "locuteur": "Ayase",
+    "en": "You're just bluffing 'cause we got the{SAUT}Mirror Shard and you're outta luck!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:086:0101",
+    "locuteur": "Ayase",
+    "en": "You're such a liar! Just let us beat{SAUT}you already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:086:0102",
+    "locuteur": "Michiko",
+    "en": "Hohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

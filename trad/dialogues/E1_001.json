@@ -1,0 +1,563 @@
+[
+  {
+    "id": "E1.BIN:001:0000",
+    "locuteur": "Ayase",
+    "en": "Owww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0001",
+    "locuteur": "Ayase",
+    "en": "Huh? Uh... where am I?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0002",
+    "locuteur": "Yukino",
+    "en": "Hey... This is the courtyard! What the{SAUT}hell's going on here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0003",
+    "locuteur": "Ayase",
+    "en": "Whoa! Look!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0004",
+    "locuteur": "Yukino",
+    "en": "Ms. Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:001:0005",
+    "locuteur": "Yukino",
+    "en": "What the--!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0006",
+    "locuteur": "Ms. Saeko",
+    "en": "Hahaha... Finally! I've been waiting{SAUT}so long!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0007",
+    "locuteur": "Yukino",
+    "en": "Ms. Saeko...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0008",
+    "locuteur": "Ms. Saeko",
+    "en": "Saeko? Oh... I see what's happening.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0009",
+    "locuteur": "Ms. Saeko",
+    "en": "Poor Saeko... Hahahah.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0010",
+    "locuteur": "Yukino",
+    "en": "Huh? But you are Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0011",
+    "locuteur": "Yukino",
+    "en": "Are you okay!? Did you trip and hit{SAUT}your head or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0012",
+    "locuteur": "Ms. Saeko",
+    "en": "Hahaha... \"I wore it, and I'm okay,\" eh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0013",
+    "locuteur": "Ms. Saeko",
+    "en": "Teeheehee... Ahahaha! That's the Saeko{SAUT}I remember so well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0014",
+    "locuteur": "Ms. Saeko",
+    "en": "Self-confident... self-centered...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0015",
+    "locuteur": "Ms. Saeko",
+    "en": "She'd step on anyone to get to be the{SAUT}center of attention.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0016",
+    "locuteur": "Yukino",
+    "en": "What's wrong with you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0017",
+    "locuteur": "Yukino",
+    "en": "Stop with the jokes, 'cause they{SAUT}aren't funny!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0018",
+    "locuteur": "Ms. Saeko",
+    "en": "Jokes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0019",
+    "locuteur": "Ms. Saeko",
+    "en": "Look around you. Hahaha... you think{SAUT}this is a joke?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0020",
+    "locuteur": "Ms. Saeko",
+    "en": "Beautiful, isn't it? A peaceful,{SAUT}perfectly still landscape.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0021",
+    "locuteur": "Ms. Saeko",
+    "en": "You'll all be dressed in ice and stay{SAUT}beautiful forever.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0022",
+    "locuteur": "Ms. Saeko",
+    "en": "So come on over...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0023",
+    "locuteur": "Ayase",
+    "en": "What are you saying!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0024",
+    "locuteur": "Ayase",
+    "en": "You're our teacher! This is just...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0025",
+    "locuteur": "Ms. Saeko",
+    "en": "Oh, what a lovely girl.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0026",
+    "locuteur": "Ms. Saeko",
+    "en": "Hahaha... Come closer, girl, and I'll{SAUT}give you ageless beauty.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0027",
+    "locuteur": "Yukino",
+    "en": "Don't do it, Yuka!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0028",
+    "locuteur": "Yukino",
+    "en": "It's the mask... It must have taken{SAUT}her over!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0029",
+    "locuteur": "Yukino",
+    "en": "Okay, monster, you lay one finger on{SAUT}Ms. Saeko and your ass is grass!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0030",
+    "locuteur": "Mask",
+    "en": "\"Taken her over\"? That's not very nice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0031",
+    "locuteur": "Mask",
+    "en": "Tell me, who was it who undid the seal{SAUT}on the mask?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0032",
+    "locuteur": "Mask",
+    "en": "Who put it on without thinking twice?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0033",
+    "locuteur": "Mask",
+    "en": "Not to mention... isn't it rude to go{SAUT}around calling people monsters?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0034",
+    "locuteur": "Mask",
+    "en": "I think I'd prefer... the Snow Queen.{SAUT}Very fitting for this mask, isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0035",
+    "locuteur": "Snow Queen",
+    "en": "Hahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0036",
+    "locuteur": "Yukino",
+    "en": "Can it! What do you want with Ms. Saeko!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0037",
+    "locuteur": "Snow Queen",
+    "en": "What a reckless young lady. Your teacher{SAUT}is going to be... a sacrifice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0038",
+    "locuteur": "Ayase",
+    "en": "A... A sacrifice?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0039",
+    "locuteur": "Snow Queen",
+    "en": "Yes, that's right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0040",
+    "locuteur": "Snow Queen",
+    "en": "Saeko is so full of hope. If I offer her{SAUT}as a sacrifice...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0041",
+    "locuteur": "Snow Queen",
+    "en": "The stillness of despair--the Eternal{SAUT}Night--is sure to descend.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0042",
+    "locuteur": "Ayase",
+    "en": "Huh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0043",
+    "locuteur": "Ayase",
+    "en": "Does that mean everyone's gonna get{SAUT}frozen? I hate being cold!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0044",
+    "locuteur": "Yukino",
+    "en": "That's not gonna happen! I'm taking back{SAUT}Ms. Saeko, right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0045",
+    "locuteur": "Snow Queen",
+    "en": "Well, aren't you brave? Fine... you can{SAUT}have her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0046",
+    "locuteur": "Snow Queen",
+    "en": "But Saeko will stay frozen as long as{SAUT}she has this mask on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0047",
+    "locuteur": "Snow Queen",
+    "en": "So will the school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0048",
+    "locuteur": "Snow Queen",
+    "en": "And don't think you can leave. You'll see{SAUT}what I mean if you walk around a little.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0049",
+    "locuteur": "Snow Queen",
+    "en": "There's no escape.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0050",
+    "locuteur": "Snow Queen",
+    "en": "You only have two choices...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0051",
+    "locuteur": "Snow Queen",
+    "en": "Welcome the Eternal Night, or take the{SAUT}mask off Saeko.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0052",
+    "locuteur": "Ayase",
+    "en": "Okay, but like, how do we do that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0053",
+    "locuteur": "Snow Queen",
+    "en": "Hahaha, keep fighting it. Nothing's more{SAUT}beautiful than despair after a struggle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0054",
+    "locuteur": "Snow Queen",
+    "en": "I can't wait to bask in your beautiful{SAUT}despair...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0055",
+    "locuteur": "Ayase",
+    "en": "Hey! I asked you a question!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0056",
+    "locuteur": "Yukino",
+    "en": "＊gasp＊ Ms. Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0057",
+    "locuteur": "Snow Queen's voice",
+    "en": "Hahaha... Watch it, or Saeko and the mask{SAUT}will both shatter into smithereens.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0058",
+    "locuteur": "Snow Queen's voice",
+    "en": "I have a few rituals to perform, so there{SAUT}is still time before the Eternal Night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0059",
+    "locuteur": "Snow Queen's voice",
+    "en": "Why don't we pass the time with a game?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0060",
+    "locuteur": "Yukino",
+    "en": "A game!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0061",
+    "locuteur": "Snow Queen's voice",
+    "en": "This school is now a castle of ice. There{SAUT}are three towers, each with a guardian.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0062",
+    "locuteur": "Snow Queen's voice",
+    "en": "If you can defeat them before the clocks{SAUT}in each tower strikes twelve...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0063",
+    "locuteur": "Snow Queen's voice",
+    "en": "I'll turn Saeko and the school back{SAUT}to normal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0064",
+    "locuteur": "Snow Queen's voice",
+    "en": "I must leave this mask now and prepare{SAUT}to call down the Eternal Night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0065",
+    "locuteur": "Snow Queen's voice",
+    "en": "I hope you enjoy yourselves while I'm{SAUT}gone. Hahaha... I'll see you later.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0066",
+    "locuteur": "Ayase",
+    "en": "Hey, wait! Don't leave...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0067",
+    "locuteur": "Ayase",
+    "en": "Omigod... Wh-What're we gonna do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0068",
+    "locuteur": "Ayase",
+    "en": "This is all your fault, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0069",
+    "locuteur": "Ayase",
+    "en": "If you never found that stupid mask,{SAUT}this wouldn't have happened!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0070",
+    "locuteur": "Ayase",
+    "en": "You better own up! Are you a man or{SAUT}not!? Say something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0071",
+    "locuteur": "Yukino",
+    "en": "Stop it, Yuka! Pointing fingers won't{SAUT}help the situation any.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0072",
+    "locuteur": "Yukino",
+    "en": "It's not like (*APELLIDO_HEROE*) knew what was{SAUT}gonna happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0073",
+    "locuteur": "Ayase",
+    "en": "But Yukino...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0074",
+    "locuteur": "Ayase",
+    "en": "Whoa! What was that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0075",
+    "locuteur": "Yukino",
+    "en": "That thing again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:001:0076",
+    "locuteur": "Ayase",
+    "en": "Huh...? \"Again\"?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:002:0000",
+    "locuteur": "アガスティアの[1058]",
+    "en": "[0A61][0A52]よ…よく[06A4]の[08B3]へ[10C8]てくれたな。{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:002:0001",
+    "locuteur": "アガスティアの[1058]",
+    "en": "[0E30]の[078C][115E]を[06A4]に[094F]むのか?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:002:0002",
+    "locuteur": "アガスティアの[1058]",
+    "en": "[0A61][0A52]よ…くれぐれも[0783]を[0F34]けて[0933]くがよい。{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "E1.BIN:129:0000",
+    "locuteur": "Yukino",
+    "en": "It's the end of the line for you, Yuriko!{SAUT}Be a good girl and accept it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0001",
+    "locuteur": "Yukino",
+    "en": "Or are you gonna go cry to the nice Snow{SAUT}Queen who gave you eternal beauty?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0002",
+    "locuteur": "Yukino",
+    "en": "What's it gonna be, huh!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0003",
+    "locuteur": "Yuriko",
+    "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0004",
+    "locuteur": "Yuriko",
+    "en": "I... {PAUSE}[1E00]I don't...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0005",
+    "locuteur": "Yuriko",
+    "en": "I don't like the Snow Queen...{PAUSE}[1E00]{SAUT}I really don't.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0006",
+    "locuteur": "Yuriko",
+    "en": "I'm glad... it ended like this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0007",
+    "locuteur": "Yuriko",
+    "en": "I had fun with you guys. I got to talk{SAUT}to you... have a nice battle...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0008",
+    "locuteur": "Yuriko",
+    "en": "And now... {PAUSE}[1E00]I got beaten...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0009",
+    "locuteur": "Yuriko",
+    "en": "It's a good thing. {PAUSE}[1E00]That's right...{SAUT}I'm... human.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0010",
+    "locuteur": "Yuriko",
+    "en": "And humans have to die...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0011",
+    "locuteur": "Yuriko",
+    "en": "I was so stupid...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0012",
+    "locuteur": "Yuriko",
+    "en": "Why didn't I understand something{SAUT}so easy...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0013",
+    "locuteur": "Nanjo",
+    "en": "What? {PAUSE}[1E00]Are you crying...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0014",
+    "locuteur": "Nanjo",
+    "en": "Hmp. Stop your charade. What's your scheme{SAUT}this time?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0015",
+    "locuteur": "Nanjo",
+    "en": "Did you think you could fool us{SAUT}that easily?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0016",
+    "locuteur": "Nanjo",
+    "en": "I've had enough of your mockery.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0017",
+    "locuteur": "Nanjo",
+    "en": "You, the Snow Queen's minion, claim of{SAUT}all things not to like her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0018",
+    "locuteur": "Nanjo",
+    "en": "Go ahead, pull the other one.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0019",
+    "locuteur": "Brown",
+    "en": "Huh? Geez, are you crying?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0020",
+    "locuteur": "Brown",
+    "en": "I admit I've got a soft spot for a cute{SAUT}girl in tears, but I know you're faking.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0021",
+    "locuteur": "Brown",
+    "en": "You've gotta be up to no good again.{SAUT}Well, it's not gonna work this time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0022",
+    "locuteur": "Brown",
+    "en": "Sure, maybe you coulda fooled someone{SAUT}else...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0023",
+    "locuteur": "Brown",
+    "en": "But not me! Nnnnope!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0024",
+    "locuteur": "Brown",
+    "en": "I mean, you were all about the Snow Queen,{SAUT}and now you're saying you don't like her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0025",
+    "locuteur": "Brown",
+    "en": "Hah! That's a new one on me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0026",
+    "locuteur": "Brown",
+    "en": "If you're gonna lie, try to come up with{SAUT}something better than that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0027",
+    "locuteur": "Ayase",
+    "en": "You idiot! {PAUSE}[1E00]She's crying for reals!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0028",
+    "locuteur": "Ayase",
+    "en": "Can't you tell!? Ugh, no wonder you still{SAUT}don't have a girlfriend!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0029",
+    "locuteur": "Ayase",
+    "en": "You don't understand girls at all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0030",
+    "locuteur": "Ayase",
+    "en": "And c'mon, Yukino, don't be so hard on{SAUT}her! Give her a chance.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0031",
+    "locuteur": "Ayase",
+    "en": "I don't think she's all that bad. {PAUSE}[1E00]I...{SAUT}I can't explain it, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0032",
+    "locuteur": "Yuriko",
+    "en": "...Thank you. {PAUSE}[1E00]You're... Yuka, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0033",
+    "locuteur": "Yuriko",
+    "en": "I wish we'd met and become friends...{PAUSE}[1E00]{SAUT}while I was still alive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0034",
+    "locuteur": "Yuriko",
+    "en": "To tell you the truth... {PAUSE}[1E00]I was scared.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0035",
+    "locuteur": "Yuriko",
+    "en": "I used to hang out with my friends,{SAUT}and we'd go out and have fun...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0036",
+    "locuteur": "Yuriko",
+    "en": "I had a lot of friends and a lot of guys{SAUT}who said they liked me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0037",
+    "locuteur": "Yuriko",
+    "en": "Plus, my mom and dad were really sweet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0038",
+    "locuteur": "Yuriko",
+    "en": "Every day was fun, and I was so happy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0039",
+    "locuteur": "Yuriko",
+    "en": "I thought, \"It just doesn't get better{SAUT}than this!\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0040",
+    "locuteur": "Yuriko",
+    "en": "But then... I got scared...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0041",
+    "locuteur": "Yuriko",
+    "en": "\"If it doesn't get better than this...{SAUT}Is it all downhill from here?\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0042",
+    "locuteur": "Yuriko",
+    "en": "\"For the rest of my life...\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0043",
+    "locuteur": "Yuriko",
+    "en": "\"Will I ever be happier than I am now?\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0044",
+    "locuteur": "Yuriko",
+    "en": "\"Am I just gonna grow up, get old, turn{SAUT}ugly... and die...?\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0045",
+    "locuteur": "Yuriko",
+    "en": "I couldn't shake those questions. I got{SAUT}so scared, I couldn't sleep at night...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0046",
+    "locuteur": "Yuriko",
+    "en": "That's when the Snow Queen's mask I wore{SAUT}in the play spoke to me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0047",
+    "locuteur": "Yuriko",
+    "en": "It said, \"I can help you live forever,{SAUT}exactly as you are now.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0048",
+    "locuteur": "Yuriko",
+    "en": "Before I knew it, I was in this tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0049",
+    "locuteur": "Yuriko",
+    "en": "And I've been here ever since...{SAUT}all by myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0050",
+    "locuteur": "Yuriko",
+    "en": "Mom... Dad... My friends... All gone.{SAUT}Just me... I was so selfish!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0051",
+    "locuteur": "Yuriko",
+    "en": "I was stupid for not wanting to die or{SAUT}grow old! Every human has to!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0052",
+    "locuteur": "Yuriko",
+    "en": "That's why I fell for the Snow Queen's{SAUT}offer...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0053",
+    "locuteur": "Yuriko",
+    "en": "I was such an idiot!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0054",
+    "locuteur": "Yuriko",
+    "en": "I felt empty, being on my own for so{SAUT}long...! I wanted to just end it all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0055",
+    "locuteur": "Yuriko",
+    "en": "I couldn't stand it anymore!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0056",
+    "locuteur": "Yuriko",
+    "en": "That's why... when you guys showed up...{PAUSE}[1E00]{SAUT}I was really happy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0057",
+    "locuteur": "Yuriko",
+    "en": "I'd finally be able to put an end to{SAUT}this... one way or another...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0058",
+    "locuteur": "Yuriko",
+    "en": "I wouldn't have to be alone anymore!{PAUSE}[1E00]{SAUT}That's why I... I...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0059",
+    "locuteur": "Nanjo",
+    "en": "Hmph... I see.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0060",
+    "locuteur": "Nanjo",
+    "en": "Your egotistic, spoiled nature was the{SAUT}source of your tremendous power.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0061",
+    "locuteur": "Nanjo",
+    "en": "In your state of absolute solitude, that{SAUT}already unbearable sorrow and regret...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0062",
+    "locuteur": "Nanjo",
+    "en": "It was amplified and warped by the{SAUT}seemingly infinite time you spent here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0063",
+    "locuteur": "Nanjo",
+    "en": "The result was boundless sorrow--far more{SAUT}intense than your initial despair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0064",
+    "locuteur": "Nanjo",
+    "en": "Thus was born your eccentric demeanor,{SAUT}providing Thanatos with power.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0065",
+    "locuteur": "Nanjo",
+    "en": "What a fine mess it created! Though...{SAUT}I suppose it's understandable.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0066",
+    "locuteur": "Elly",
+    "en": "So that overwhelming power that seemed{SAUT}almost unnatural...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0067",
+    "locuteur": "Elly",
+    "en": "It came from your unfathomable sadness...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0068",
+    "locuteur": "Elly",
+    "en": "The utter loneliness and bottomless grief{SAUT}you felt...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0069",
+    "locuteur": "Elly",
+    "en": "That gave rise to despair far stronger{SAUT}than any of your prior feelings.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0070",
+    "locuteur": "Elly",
+    "en": "Combined with your sadness, that was the{SAUT}root of both your peculiar attitude...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0071",
+    "locuteur": "Elly",
+    "en": "...and the frightening power of your{SAUT}Persona, Thanatos.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0072",
+    "locuteur": "Elly",
+    "en": "I see now, Yuriko, that you too were{SAUT}a victim of the Snow Queen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0073",
+    "locuteur": "Yuriko",
+    "en": "But it's finally over...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0074",
+    "locuteur": "Yuriko",
+    "en": "I can't thank you enough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0075",
+    "locuteur": "Yuriko",
+    "en": "Thanks to all of you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0076",
+    "locuteur": "Yuriko",
+    "en": "I can die... feeling like a human...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0077",
+    "locuteur": "Yuriko",
+    "en": "I... {PAUSE}[1E00]I have to go {PAUSE}[1E00]now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0078",
+    "locuteur": "Yuriko",
+    "en": "Thank you so much. {PAUSE}[1E00]Goodbye...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0080",
+    "en": "{FERME}  > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) x3.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0081",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) x2.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0083",
+    "locuteur": "Yukino",
+    "en": "Damn you, Snow Queen...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0084",
+    "locuteur": "Yukino",
+    "en": "I'll make you pay for toying with{SAUT}people's lives!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0085",
+    "locuteur": "Yukino",
+    "en": "Yuriko... We're doing this for you{SAUT}now, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0086",
+    "locuteur": "Yukino",
+    "en": "So don't worry... rest well...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:129:0087",
+    "en": "{FERME}  > You have conquered Thanatos Tower!{ATTENTE}",
+    "fr": ""
+  }
+]

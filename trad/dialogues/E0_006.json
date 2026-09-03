@@ -1,0 +1,110 @@
+[
+  {
+    "id": "E0.BIN:013:0267",
+    "en": "{PAGE}The Chosen display at the top shows{SAUT}the numbers in use.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0268",
+    "en": "{SAUT}All numbers, 1 through 9, must be used{SAUT}in the code.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:013:0269",
+    "en": "{SAUT}Use the Chosen display to see which{SAUT}numbers are missing from your guess.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:013:0270",
+    "en": "{PAGE}This game accepts (*TEXTBOX_PARAM,0700*)Metal Cards(*TEXTBOX_PARAM,0000*) instead{SAUT}of coins.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0273",
+    "en": "{PAGE}<During play>{SAUT}Decreases the selected number.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0276",
+    "en": "{PAGE}<During play>{SAUT}Marks the selected number by changing{SAUT}its color.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 18
+  },
+  {
+    "id": "E0.BIN:013:0277",
+    "en": "{SAUT}Use this to mark numbers you know are{SAUT}correct.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:013:0280",
+    "en": "{PAGE}<During play>{SAUT}Increases the selected number.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0286",
+    "en": "{PAGE}<Before starting>{SAUT}Inserts 1 Metal Card to start the game.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0289",
+    "en": "{PAGE}<Before starting>{SAUT}Quit the game.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:013:0293",
+    "en": "{PAGE}<During play>{SAUT}Moves the cursor.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0294",
+    "en": "{FERME}  H indicates how many exact matches{SAUT}are in a row／column.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0295",
+    "en": "{PAGE}B shows how many numbers belong in{SAUT}that row／column, but not in their{SAUT}present position.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0296",
+    "en": "{PAGE}The key to the game is to determine{SAUT}where a hit (H) is on both the row{SAUT}and the column.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0297",
+    "en": "{PAGE}It's best to mark places where both{SAUT}the row and the column are hits.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:013:0298",
+    "en": "{PAGE}The Results of your previous guesses{SAUT}can also be useful hints.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "E0.BIN:014:0017",
+    "locuteur": "Mark",
+    "en": "Huh? Oh, hey, yeah, it's Reiji.{SAUT}What's he doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:015:0017",
+    "locuteur": "Mark",
+    "en": "(*SPEAKER*)Mark{SAUT}Huh? Oh, hey, yeah, it's Reiji.{SAUT}What's he doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "id": "E0.BIN:160:0000",
+    "locuteur": "Setsuko Sonomura",
+    "en": "You kids!? Are you all right!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0001",
+    "locuteur": "Mark",
+    "en": "Owwww! Ugh... Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0002",
+    "locuteur": "Mark",
+    "en": "I get it... The compact brought{SAUT}us here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0003",
+    "locuteur": "Nanjo",
+    "en": "Ngh... Where are we!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0004",
+    "locuteur": "Reiji",
+    "en": "Looks like it worked...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0005",
+    "locuteur": "Reiji",
+    "en": "This looks like the forest where that{SAUT}girl in white was... the child-Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0006",
+    "locuteur": "Elly",
+    "en": "Bingo! This is child-Maki's forest!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0007",
+    "locuteur": "Brown",
+    "en": "Hey, it worked! Isn't this the forest{SAUT}where that little Maki was!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0008",
+    "locuteur": "Ayase",
+    "en": "Wow, talk about luck! Isn't this that{SAUT}little Maki's forest!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0009",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Why have you all come back!?{SAUT}What about Kandori!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0010",
+    "locuteur": "Mark",
+    "en": "Same to you, lady! Why're YOU here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0011",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I... don't really know...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0012",
+    "locuteur": "Setsuko Sonomura",
+    "en": "After I transported you all, I thought{SAUT}I heard Maki's voice again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0013",
+    "locuteur": "Setsuko Sonomura",
+    "en": "And when I came to, I was here...{SAUT}But why have you all come back?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0014",
+    "locuteur": "Nanjo",
+    "en": "Allow me to explain. You should know{SAUT}the truth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0015",
+    "locuteur": "Setsuko Sonomura",
+    "en": "No... That can't be...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0016",
+    "locuteur": "Setsuko Sonomura",
+    "en": "What about Maki!? What's going to{SAUT}happen to her!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0017",
+    "locuteur": "Nanjo",
+    "en": "If we leave her be, she'll stay that way{SAUT}for the rest of her life. Or worse...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0018",
+    "locuteur": "Setsuko Sonomura",
+    "en": "No... Can't you do something!?{SAUT}My Maki...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0019",
+    "locuteur": "Mark",
+    "en": "Cool it, lady! That's why we came back.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0020",
+    "locuteur": "Reiji",
+    "en": "Don't worry... We won't let it end{SAUT}like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0021",
+    "locuteur": "Elly",
+    "en": "Don't worry. We definitely won't leave{SAUT}Maki hanging!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0022",
+    "locuteur": "Brown",
+    "en": "Relax! Just have fate in us--you can{SAUT}forget all about it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0023",
+    "locuteur": "Nanjo",
+    "en": "That's \"faith,\" you cretin!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0024",
+    "locuteur": "Brown",
+    "en": "Yeah, faith, exactly! It'll be fine!{SAUT}Hahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0025",
+    "locuteur": "Mark",
+    "en": "The dude shows his true colors. After{SAUT}all that stuff about pretending...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0026",
+    "locuteur": "Nanjo",
+    "en": "Indeed. He's innately imbecilic... not{SAUT}a man to be ashamed of soiling himself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0027",
+    "locuteur": "Brown",
+    "en": "Mwahahahahahah!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0028",
+    "locuteur": "Ayase",
+    "en": "Don't worry, Maki-Mom! I'm more{SAUT}competent than I look, y'know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0029",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Thank you, everyone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0030",
+    "locuteur": "Mai's voice",
+    "en": "Waaah... ＊sniff＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0031",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Was that Maki's voice!? She must be{SAUT}just past here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0032",
+    "locuteur": "Mark",
+    "en": "Let's go! That li'l Maki might know{SAUT}something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0033",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Wait! Please... take me with you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0034",
+    "locuteur": "Setsuko Sonomura",
+    "en": "She's my daughter! I can't leave her{SAUT}suffering like this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0035",
+    "locuteur": "Nanjo",
+    "en": "...Very well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0036",
+    "locuteur": "Nanjo",
+    "en": "However, this forest is hazardous.{SAUT}Your survival is far from assured.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0037",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I don't care about that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0038",
+    "locuteur": "Nanjo",
+    "en": "Then that settles that. Come on,{SAUT}(*PLAYER_NAME*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0039",
+    "locuteur": "Nanjo",
+    "en": "Let's reunite a mother with her child.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0040",
+    "locuteur": "Mark",
+    "en": "Heh... She's one super mom.{SAUT}Good looking, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0041",
+    "locuteur": "Mark",
+    "en": "My mom... she's just a loud nag.{SAUT}But she better still be alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0042",
+    "locuteur": "Mark",
+    "en": "I don't think she'd die that easy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0043",
+    "locuteur": "Mark",
+    "en": "C'mon! We gotta hurry, or we'll be in{SAUT}even more hot water!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0044",
+    "locuteur": "Nanjo",
+    "en": "That woman is a true mother...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0045",
+    "locuteur": "Nanjo",
+    "en": "I don't even know my own mother's{SAUT}birthday...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0046",
+    "locuteur": "Nanjo",
+    "en": "At home, everyone other than Yamaoka{SAUT}was like a total stranger to me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0047",
+    "locuteur": "Nanjo",
+    "en": "All I received from my parents was{SAUT}money and material possessions.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0048",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*)... We must reunite her with{SAUT}Maki, even at the cost of our lives.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0049",
+    "locuteur": "Nanjo",
+    "en": "This whole ordeal has made me think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0050",
+    "locuteur": "Nanjo",
+    "en": "I never considered the multiple sides of{SAUT}myself... but now they're irrefutable.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0051",
+    "locuteur": "Reiji",
+    "en": "That's how mothers really are inside...{SAUT}Their kids just don't know it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0052",
+    "locuteur": "Reiji",
+    "en": "How long do you intend to stand around{SAUT}here? Aren't we going to the shrine?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0053",
+    "locuteur": "Elly",
+    "en": "(*APELLIDO_HEROE*)...... Is it weird to hear me{SAUT}talk like this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0054",
+    "locuteur": "Elly",
+    "en": "Did you... like the way I used to talk{SAUT}better?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0055",
+    "locuteur": "Elly",
+    "en": "I see... Then I'll speak more politely.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0056",
+    "locuteur": "Elly",
+    "en": "Good! I was worried you would think{SAUT}it was weird!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0057",
+    "locuteur": "Elly",
+    "en": "(*APELLIDO_HEROE*)... Thanks...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0058",
+    "locuteur": "Elly",
+    "en": "Quickly! We must hurry and get to{SAUT}the shrine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0059",
+    "locuteur": "Elly",
+    "en": "Hurry up! We need to move it and get{SAUT}to the shrine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0060",
+    "locuteur": "Brown",
+    "en": "Hey, (*APODO_HEROE*)! If you think I'm the{SAUT}same me I always was, you're dead wrong!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0061",
+    "locuteur": "Brown",
+    "en": "Now that I've matured a little, call me{SAUT}Brown Mk.II!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0062",
+    "locuteur": "Brown",
+    "en": "Huh? Whaddaya mean, that sounds lame?{SAUT}So what should I call myself, then?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0063",
+    "locuteur": "Brown",
+    "en": "We're going to the shrine next, right?{SAUT}Well, \"more haste, less speed\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0064",
+    "locuteur": "Brown",
+    "en": "Huh? That's not what that means...?{SAUT}Well, it is when I say it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0065",
+    "locuteur": "Ayase",
+    "en": "Huh... Y'know, up close, you're a {SAUT}pretty good-looking guy, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0066",
+    "locuteur": "Ayase",
+    "en": "Want me to put you down on my list{SAUT}of potential husbands?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0067",
+    "locuteur": "Ayase",
+    "en": "Beep! Got it! Okay, keep working{SAUT}yourself to the bone for me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0068",
+    "locuteur": "Ayase",
+    "en": "What!? Are you saying I'm not good{SAUT}enough for you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0069",
+    "locuteur": "Ayase",
+    "en": "Fine! Like I care! I'll dump even more{SAUT}of my share of the work on you now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0070",
+    "locuteur": "Ayase",
+    "en": "We're going to the shrine, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0071",
+    "locuteur": "Ayase",
+    "en": "I wonder if all this trudging around{SAUT}counts as a workout.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0072",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I'm... such an awful mother.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0073",
+    "locuteur": "Setsuko Sonomura",
+    "en": "My daughter is suffering, and I can't{SAUT}do anything for her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0074",
+    "locuteur": "Maki",
+    "en": "The next one's the real me, huh?{SAUT}I wonder how many mes there are...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0075",
+    "locuteur": "Elly",
+    "en": "Little Maki... She's all alone in{SAUT}this desolate place...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0076",
+    "locuteur": "Elly",
+    "en": "Child-Maki... She's all alone in{SAUT}such an isolated place...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0077",
+    "locuteur": "Ayase",
+    "en": "Hey (*APELLIDO_HEROE*), that teeny Maki's all{SAUT}alone here, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0078",
+    "locuteur": "Ayase",
+    "en": "I couldn't stand it, if it was me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:160:0079",
+    "locuteur": "Ayase",
+    "en": "Hey (*APODO_HEROE*), that teeny Maki's all{SAUT}alone here, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0081",
+    "en": "{FERME}   > The (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Chaos Mirror Shard(*TEXTBOX_PARAM,0000*) fit perfectly.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:160:0082",
+    "en": "{PAGE}> The (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Broken Compact(*TEXTBOX_PARAM,0000*) has become the{SAUT}(*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Red Compact(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  }
+]

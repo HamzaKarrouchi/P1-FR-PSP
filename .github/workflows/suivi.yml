@@ -1,0 +1,54 @@
+# Recalcule l'avancement après chaque fusion, et à heure fixe pour tenir à jour
+# le tableau « qui est sur quoi » quand une proposition s'ouvre ou se ferme.
+#
+# Personne ne met SUIVI.md à jour à la main : c'est la seule façon qu'il soit
+# juste, et un chiffre faux sur la page d'accueil décourage plus qu'il ne
+# recrute.
+name: Mettre à jour le suivi
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'trad/**.json'
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi
+  cancel-in-progress: true
+
+jobs:
+  suivi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Relever les propositions ouvertes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr list --state open --json number,author,files > /tmp/pr.json || echo '[]' > /tmp/pr.json
+
+      - name: Recompter
+        run: python outils/stats.py --reservations /tmp/pr.json
+
+      - name: Committer si ça a bougé
+        run: |
+          if git diff --quiet -- SUIVI.md .github/badge.json; then
+            echo "rien de neuf"
+            exit 0
+          fi
+          git config user.name  "robot du suivi"
+          git config user.email "actions@github.com"
+          git add SUIVI.md .github/badge.json
+          git commit -m "[Suivi] Avancement recalcule"
+          git push

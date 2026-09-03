@@ -1,0 +1,547 @@
+[
+  {
+    "id": "E1.BIN:160:0000",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! We saw a girl wearing a funky{SAUT}mask upstairs.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0001",
+    "locuteur": "Reiho",
+    "en": "She-ho was saying crazy stuff, like{SAUT}\"I'll hee-stroy this schoo!\", ho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0002",
+    "locuteur": "Raiho",
+    "en": "Nooo! What are we-ho gonna do if the{SAUT}hee-school gets destroyed?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0003",
+    "locuteur": "Reiho",
+    "en": "Work! Work your hee-hiney off and{SAUT}support me for life!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0004",
+    "locuteur": "Raiho",
+    "en": "So cold...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0005",
+    "locuteur": "Reiho",
+    "en": "Going up? Well, hee-have fun.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0006",
+    "locuteur": "Raiho",
+    "en": "Hee, you know what? We saw a girl{SAUT}wearing a funky mask upstairs.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0011",
+    "locuteur": "Raiho",
+    "en": "Why not exchange your (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) for one{SAUT}of my hee-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0012",
+    "en": "{FERME}   > Ask about exchanging Ambrosia?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0013",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Woah... That's a pretty nice{SAUT}thing you have.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0014",
+    "locuteur": "Reiho",
+    "en": "Hee! You're right! He's got (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0015",
+    "locuteur": "Raiho",
+    "en": "That's hee-so cool! I want one!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0016",
+    "locuteur": "Reiho",
+    "en": "Give it! Give it now, you hee-hear me!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0017",
+    "locuteur": "Raiho",
+    "en": "Ummm... Reiho... Our teacher said it's{SAUT}bad to steal-ho from people...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0018",
+    "locuteur": "Reiho",
+    "en": "Awww, human rules are such a pain.{SAUT}Then hee-how about a trade, ho?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0020",
+    "locuteur": "Raiho",
+    "en": "I'll exchange one of my (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) for a{SAUT}piece of (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0021",
+    "locuteur": "Reiho",
+    "en": "I hear-ho if you fuse the totems with{SAUT}demons, something good will hee-happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0022",
+    "locuteur": "Raiho",
+    "en": "I have five totems, and you have five{SAUT}people...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0023",
+    "locuteur": "Reiho",
+    "en": "So it's one totem per person, ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0024",
+    "locuteur": "Raiho",
+    "en": "Think about hee-how much Ambrosia you{SAUT}have left before you decide who gets one.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0025",
+    "locuteur": "Reiho",
+    "en": "When you're ready, talk to whoever you{SAUT}want to get a hee-totem for, ho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0026",
+    "locuteur": "Raiho",
+    "en": "If you want your own totem, talk to{SAUT}one of us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0027",
+    "locuteur": "Reiho",
+    "en": "Hee... All this talking makes me-ho{SAUT}tired.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0029",
+    "locuteur": "Raiho",
+    "en": "You want your totem?{SAUT}(*UNK_0E,0000*){FERME} (*SPEAKER*)Reiho{SAUT}Are you sure, ho?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0030",
+    "locuteur": "Reiho",
+    "en": "You're sure you hee-won't regret it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0031",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Then it's a deal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0032",
+    "locuteur": "Raiho",
+    "en": "Hee-here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0033",
+    "en": "{FERME} > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0034",
+    "locuteur": "Raiho",
+    "en": "Hee-hokay! Go ahead and talk to{SAUT}your friends!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0035",
+    "locuteur": "Yukino",
+    "en": "Are they following us or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0036",
+    "locuteur": "Yukino",
+    "en": "Alright, thanks.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0037",
+    "locuteur": "Yukino",
+    "en": "I got mine already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0038",
+    "locuteur": "Yukino",
+    "en": "We don't have many Ambrosia. You should{SAUT}think hard about who gets a totem.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0039",
+    "locuteur": "Yukino",
+    "en": "You want me to have one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0040",
+    "locuteur": "Yukino",
+    "en": "You're the boss. Whatever you say is cool{SAUT}with me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0041",
+    "locuteur": "Yukino",
+    "en": "I just wanna be clear... You're cool{SAUT}with this, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0042",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Bisonskin Drums(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0043",
+    "en": "{FERME} > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Bisonskin Drums(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0044",
+    "locuteur": "Yukino",
+    "en": "I'll hold on to these.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0045",
+    "locuteur": "Ayase",
+    "en": "Whoa, she's got him totally under{SAUT}her thumb.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0046",
+    "locuteur": "Ayase",
+    "en": "Uhhh... I have one, remember?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0047",
+    "locuteur": "Ayase",
+    "en": "Why'd it have to be a stuffed CORPSE!?{SAUT}This is terrible!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0048",
+    "locuteur": "Ayase",
+    "en": "Totems are valuable, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0049",
+    "locuteur": "Ayase",
+    "en": "Ooh, I can have one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0050",
+    "locuteur": "Ayase",
+    "en": "Fine! Jerk!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0051",
+    "locuteur": "Ayase",
+    "en": "Awesome! No fooling?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0052",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0053",
+    "en": "{FERME}> Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0054",
+    "locuteur": "Ayase",
+    "en": "W-W-Wait... THIS is what you meant by{SAUT}a stuffed deer!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0055",
+    "locuteur": "Ayase",
+    "en": "I-I thought you meant, like...{SAUT}I don't want this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0056",
+    "locuteur": "Nanjo",
+    "en": "It appears that he's having his own{SAUT}difficulties...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0057",
+    "locuteur": "Nanjo",
+    "en": "Yamaoka...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0059",
+    "locuteur": "Nanjo",
+    "en": "I'm sure you're aware that Ambrosia is{SAUT}a rare commodity.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0060",
+    "locuteur": "Nanjo",
+    "en": "Am I to understand that you want me to{SAUT}have a totem?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0061",
+    "locuteur": "Nanjo",
+    "en": "I leave it to your judgement.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0062",
+    "locuteur": "Nanjo",
+    "en": "If you're sure...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0063",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0064",
+    "en": "{FERME}   > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0065",
+    "locuteur": "Nanjo",
+    "en": "These are... Yamaoka's! Why are{SAUT}they here...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0066",
+    "locuteur": "Nanjo",
+    "en": "Do you still watch over me, Yamaoka...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0067",
+    "locuteur": "Elly",
+    "en": "These demons don't seem hostile.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0068",
+    "locuteur": "Elly",
+    "en": "I'm taking good care of mine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0069",
+    "locuteur": "Elly",
+    "en": "Thank you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:160:0070",
+    "locuteur": "Elly",
+    "en": "Totems are quite valuable. It's best that{SAUT}you give them to those most in need.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0071",
+    "locuteur": "Elly",
+    "en": "You'd like me to have one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0072",
+    "locuteur": "Elly",
+    "en": "By all means, take your time before{SAUT}deciding.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0073",
+    "locuteur": "Elly",
+    "en": "Are you certain?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0074",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0075",
+    "en": "{FERME}  > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0077",
+    "locuteur": "Brown",
+    "en": "Poor dude... I can totally sympathize.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0078",
+    "locuteur": "Brown",
+    "en": "Heheh, right on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0079",
+    "locuteur": "Brown",
+    "en": "Heheh... this is great!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0080",
+    "locuteur": "Brown",
+    "en": "Look, I'm the leader here. Therefore,{SAUT}I deserve a totem. Got that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0081",
+    "locuteur": "Brown",
+    "en": "So this one's mine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0082",
+    "locuteur": "Brown",
+    "en": "C'mon... you won't reconsider?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0083",
+    "locuteur": "Brown",
+    "en": "R-Really? You don't mind?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0084",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0085",
+    "en": "{FERME}  > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:160:0086",
+    "locuteur": "Brown",
+    "en": "Mwahaha, now that's a classy totem.{SAUT}Very fitting for moi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

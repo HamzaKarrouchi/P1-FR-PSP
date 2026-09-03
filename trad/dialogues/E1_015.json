@@ -1,0 +1,457 @@
+[
+  {
+    "id": "E1.BIN:080:0000",
+    "locuteur": "Yukino",
+    "en": "It feels weird in here... like someone's{SAUT}giving me a nasty look...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0001",
+    "locuteur": "Haughty voice",
+    "en": "Ohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0002",
+    "locuteur": "Haughty voice",
+    "en": "Good day to you all. It's a delight to{SAUT}see you here in this tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0003",
+    "locuteur": "Haughty voice",
+    "en": "Allow me to extend a warm welcome.{SAUT}Ohohohohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0004",
+    "locuteur": "Nanjo",
+    "en": "Show yourself, whoever you are! Ha...{SAUT}Calling yourself this tower's guardian.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0005",
+    "locuteur": "Nanjo",
+    "en": "You're merely an ass in lionskin,{SAUT}hiding behind the Snow Queen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0006",
+    "locuteur": "Elly",
+    "en": "Who are you? Show yourself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0007",
+    "locuteur": "Elly",
+    "en": "I assume you're the guardian of{SAUT}this tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0008",
+    "locuteur": "Elly",
+    "en": "Can't you even appear before us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0009",
+    "locuteur": "Elly",
+    "en": "Haha... I suppose there's nothing{SAUT}to be done for it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0010",
+    "locuteur": "Elly",
+    "en": "You call yourself a guardian, but you're{SAUT}powerless without the Snow Queen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0011",
+    "locuteur": "Ayase",
+    "en": "Yeah, you hear that? You're scared of us,{SAUT}aren't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0012",
+    "locuteur": "Ayase",
+    "en": "Hahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0013",
+    "locuteur": "Ayase",
+    "en": "Hey guys! This tower's boss seems, like,{SAUT}totally weak, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0014",
+    "locuteur": "Ayase",
+    "en": "Lucky us! Hahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0015",
+    "locuteur": "Haughty schoolgirl",
+    "en": "Ohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0016",
+    "locuteur": "Haughty schoolgirl",
+    "en": "What a litter of witless, yapping{SAUT}whelps you are!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0017",
+    "locuteur": "Haughty schoolgirl",
+    "en": "But it's all to the good... I think you{SAUT}can keep me entertained for a while.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0018",
+    "locuteur": "Haughty schoolgirl",
+    "en": "Weak playmates fall so easily I rarely{SAUT}get to enjoy my sport!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0019",
+    "locuteur": "Haughty schoolgirl",
+    "en": "Ohoho... I haven't introduced myself,{SAUT}have I? My deepest apologies.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0020",
+    "locuteur": "Haughty schoolgirl",
+    "en": "I am the Snow Queen's faithful servant...{SAUT}The guardian of Nemesis Tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0021",
+    "locuteur": "Haughty schoolgirl",
+    "en": "Michiko Matsudaira.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0022",
+    "locuteur": "Michiko",
+    "en": "I hope you grasp the honor of dying by{SAUT}my hand.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0023",
+    "locuteur": "Michiko",
+    "en": "Incidentally...{PAUSE}[1E00]... {PAUSE}[1E00]Hm? {PAUSE}[1E00]You...{SAUT}{PAUSE}[1E00]Yes, you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0024",
+    "locuteur": "Michiko",
+    "en": "Oh, what a pleasant surprise!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0025",
+    "locuteur": "Michiko",
+    "en": "Such a fine, {PAUSE}[1E00]handsome {PAUSE}[1E00]gentleman!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0026",
+    "locuteur": "Michiko",
+    "en": "I'll spare your life if you become my{SAUT}pet. What say you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0027",
+    "locuteur": "Nanjo",
+    "en": "Wh-{PAUSE}[1E00]Wh-{PAUSE}[1E00]Wha-{PAUSE}[1E00]WHAT!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0028",
+    "locuteur": "Nanjo",
+    "en": "Me? {PAUSE}[1E00]Are you referring to ME!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0029",
+    "locuteur": "Nanjo",
+    "en": "A woman like you... {PAUSE}[1E00]repulsive in manner,{PAUSE}[1E00]{SAUT}appearance, {PAUSE}[1E00]and soul...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0030",
+    "locuteur": "Nanjo",
+    "en": "You expect me to lower myself to{SAUT}become YOUR plaything!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0031",
+    "locuteur": "Nanjo",
+    "en": "How dare you insult me thus!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0032",
+    "locuteur": "Nanjo",
+    "en": "I'll personally make you regret speaking{SAUT}that way to Kei Nanjo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0033",
+    "locuteur": "Brown",
+    "en": "Uh... what!? {PAUSE}[1E00]Me!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0034",
+    "locuteur": "Brown",
+    "en": "W-W-Wait a second! What the hell!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0035",
+    "locuteur": "Brown",
+    "en": "Who do you think you are, Ugly!? Comin'{SAUT}outta nowhere and saying that stuff...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0036",
+    "locuteur": "Brown",
+    "en": "You think that I, {PAUSE}[1E00]the magnificent Brown,{PAUSE}[1E00]{SAUT}would stoop to be your pet!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0037",
+    "locuteur": "Brown",
+    "en": "'Cause that ain't funny, dammit!{SAUT}I'm gonna beat the crap outta you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0038",
+    "locuteur": "Brown",
+    "en": "I'll take that ugly face and make{SAUT}it uglier!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0039",
+    "locuteur": "Michiko",
+    "en": "＊gasp＊ {PAUSE}[1E00]Th-{PAUSE}[1E00]This is outrageous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0040",
+    "locuteur": "Michiko",
+    "en": "I take pity on you... {PAUSE}[1E00]and you bite back{SAUT}in response!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0041",
+    "locuteur": "Michiko",
+    "en": "H-Hmph!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0042",
+    "locuteur": "Michiko",
+    "en": "I suppose you commoners could never{SAUT}understand my greatness.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0043",
+    "locuteur": "Michiko",
+    "en": "Very well... Then I'll execute each of{SAUT}you whelps myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0044",
+    "locuteur": "Michiko",
+    "en": "The time restriction on this tower is{SAUT}hereby lifted!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0045",
+    "locuteur": "Michiko",
+    "en": "Take all the time you want! Come to me,{SAUT}no matter what it takes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0046",
+    "locuteur": "Michiko",
+    "en": "Once more... take as much time as{SAUT}you want!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0047",
+    "locuteur": "Michiko",
+    "en": "I look forward to seeing you!{SAUT}Until then... farewell!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0048",
+    "locuteur": "Yukino",
+    "en": "Michiko Matsudaira...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0049",
+    "locuteur": "Yukino",
+    "en": "Looks like she won't go down easy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0050",
+    "locuteur": "Yukino",
+    "en": "No time limit? From the way she was{SAUT}acting, there's gotta be a catch.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0051",
+    "locuteur": "Yukino",
+    "en": "Don'tcha think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0052",
+    "locuteur": "Ayase",
+    "en": "Hmm... That Michiko girl totally reminds{SAUT}me of someone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0053",
+    "locuteur": "Ayase",
+    "en": "You know how she's like, super arrogant?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0054",
+    "locuteur": "Nanjo",
+    "en": "What an insolent girl! Ugh, did you see{SAUT}how she looked down on us!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0055",
+    "locuteur": "Nanjo",
+    "en": "Does she think she's the greatest woman{SAUT}on Earth or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0056",
+    "locuteur": "Nanjo",
+    "en": "Well, I'm very much offended! Not to put{SAUT}too fine a point on it, I'm infuriated!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0057",
+    "locuteur": "Brown",
+    "en": "She's so egotistical, it's like she was{SAUT}born that way...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0058",
+    "locuteur": "Brown",
+    "en": "And she acts like she's better than{SAUT}everyone in the whole world!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0059",
+    "locuteur": "Brown",
+    "en": "Just between you and me, she's a lot{SAUT}like our very own Mr. N!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0060",
+    "locuteur": "Elly",
+    "en": "No time restriction...? I wonder what{SAUT}that's all about.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0061",
+    "locuteur": "Elly",
+    "en": "Is it her way of saying even without{SAUT}a handicap, we're no match for her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0062",
+    "locuteur": "Elly",
+    "en": "Or... is it something else?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0063",
+    "locuteur": "Elly",
+    "en": "Whatever the truth, it's clear that she's{SAUT}hiding something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:080:0064",
+    "locuteur": "Elly",
+    "en": "It may be best for us to hurry, even{SAUT}without a strict time limit to observe.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

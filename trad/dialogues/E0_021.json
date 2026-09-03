@@ -1,0 +1,623 @@
+[
+  {
+    "id": "E0.BIN:067:0000",
+    "locuteur": "Mark",
+    "en": "Dude, even you can use a Persona?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0001",
+    "locuteur": "Reiji",
+    "en": "What? Then you can all...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0002",
+    "locuteur": "Nanjo",
+    "en": "That seems to be the case. By the way...{SAUT}You appear to be the real Reiji.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0003",
+    "locuteur": "Reiji",
+    "en": "What's that mean?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0004",
+    "locuteur": "Elly",
+    "en": "This world looks very similar to ours,{SAUT}but it isn't. Do you see?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0005",
+    "locuteur": "Brown",
+    "en": "Heheh, prick up those ears and I'll{SAUT}tell you all about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0006",
+    "locuteur": "Brown",
+    "en": "This place is and isn't the school{SAUT}we know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0007",
+    "locuteur": "Brown",
+    "en": "It's a school... in another world!{SAUT}Pretty shocking, huh? Huh? {PAUSE}[3C00]＊siiigh＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0008",
+    "locuteur": "Ayase",
+    "en": "That's what I wanna know! Can you{SAUT}believe this place is another world?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0009",
+    "locuteur": "Ayase",
+    "en": "I'm, like, totally lost here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0010",
+    "locuteur": "Nanjo",
+    "en": "Kandori sent us here, to an alternate{SAUT}world. I take it you met the same fate.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0011",
+    "locuteur": "Nanjo",
+    "en": "That scientist mentioned a young man{SAUT}sent through the dimensional rift...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0012",
+    "locuteur": "Nanjo",
+    "en": "You, I presume? So why are you here, safe{SAUT}and sound? Why are you pursuing Kandori?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0013",
+    "locuteur": "Reiji",
+    "en": "...As I was drifting through a vast,{SAUT}empty space, a kid in white appeared...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0014",
+    "locuteur": "Reiji",
+    "en": "When I came to, I was here. That's all...{SAUT}You don't need to know the rest.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0015",
+    "locuteur": "Maki",
+    "en": "A child wearing white...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0016",
+    "locuteur": "Mark",
+    "en": "C'mon, drop the hotshot act. We're gonna{SAUT}smack Kandori around and find a way back.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0017",
+    "locuteur": "Mark",
+    "en": "You should come. I bet your mom's{SAUT}worried about you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0018",
+    "locuteur": "Reiji",
+    "en": "Shut up! I got no reason to join your{SAUT}little crew! I'm playing this my way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0019",
+    "locuteur": "Mark",
+    "en": "What's with that attitude!? Guess that'll{SAUT}teach me to be worried about you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0020",
+    "locuteur": "Mark",
+    "en": "Fine, do what you want. Like I give a{SAUT}damn if you wind up dead, idiot.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0021",
+    "locuteur": "Mark",
+    "en": "What's with that guy? All I do is bring{SAUT}up his mom and he goes nuclear...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0022",
+    "locuteur": "Maki",
+    "en": "Stop it, Masao. It's useless...{SAUT}He's got that look in his eyes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0023",
+    "locuteur": "Maki",
+    "en": "I'm sure Kandori hurt something{SAUT}precious to him, just like us...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0024",
+    "locuteur": "Elly",
+    "en": "Something precious...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0025",
+    "locuteur": "Brown",
+    "en": "Alright, no more questions!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0026",
+    "locuteur": "Brown",
+    "en": "Everyone has things they hate to talk{SAUT}about, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0027",
+    "locuteur": "Nanjo",
+    "en": "Are you ill, Hidehiko? That's rather{SAUT}considerate, coming from you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0028",
+    "locuteur": "Nanjo",
+    "en": "You seem to be a man sensitive to{SAUT}others prying into his past, yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0029",
+    "locuteur": "Brown",
+    "en": "Wh... What? Straight shooters like me{SAUT}are pretty rare, y'know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0030",
+    "locuteur": "Brown",
+    "en": "I wouldn't be surprised if they named{SAUT}me a national treasure someday!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0031",
+    "locuteur": "Nanjo",
+    "en": "Perhaps I spoke too soon...{SAUT}Shall we be going, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0032",
+    "locuteur": "Brown",
+    "en": "Nanjo!? What's up with that? See if you{SAUT}ever get to talk to a national treasure!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0033",
+    "locuteur": "Ayase",
+    "en": "Huuuh? Is that what's wrong with him?{SAUT}I thought he was just antisocial...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0034",
+    "locuteur": "Maki",
+    "en": "Was that... Reiji? I'm sure even Reiji{SAUT}has things that are important to him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0035",
+    "locuteur": "Maki",
+    "en": "Friends, maybe... or it could be his{SAUT}hopes for the future.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0036",
+    "locuteur": "Ayase",
+    "en": "Hopes for the future? Psh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0037",
+    "locuteur": "Ayase",
+    "en": "Who cares about the future? I wanna have{SAUT}fun right now! What a dweeb...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0038",
+    "locuteur": "Maki",
+    "en": "This place isn't your world. I don't{SAUT}know how else to explain it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0039",
+    "locuteur": "Reiji",
+    "en": "What? That bastard's here, too...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0040",
+    "locuteur": "Reiji",
+    "en": "Alright... I'll go with you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0041",
+    "locuteur": "Maki",
+    "en": "It's decided, then! Nice to meet you,{SAUT}Reiji! I'm Maki Sonomura!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0043",
+    "locuteur": "Maki",
+    "en": "What, is something on my face?{SAUT}{PAUSE}[6C00]Oh, I get it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0044",
+    "locuteur": "Maki",
+    "en": "You were admiring me. Well, I am pretty{SAUT}cute! It's only natural.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0045",
+    "locuteur": "Mark",
+    "en": "C'mon, we can't keep wastin' time here.{SAUT}Let's go already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0046",
+    "locuteur": "Maki",
+    "en": "Reiji said a child wearing white{SAUT}rescued him, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0047",
+    "locuteur": "Maki",
+    "en": "Could that have been Mai...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0048",
+    "locuteur": "Maki",
+    "en": "I've seen her several times, but she's{SAUT}a very mysterious girl...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0049",
+    "locuteur": "Mark",
+    "en": "That idiot...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0050",
+    "locuteur": "Mark",
+    "en": "C'mon, let's get a move on already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0051",
+    "locuteur": "Mark",
+    "en": "Huh? Whaddaya mean, what's got me so{SAUT}pissed off? Shuddup, dude!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0052",
+    "locuteur": "Nanjo",
+    "en": "Leave him be. We're after the same man,{SAUT}so we're sure to see one another again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0053",
+    "locuteur": "Nanjo",
+    "en": "He can do what he wants so long as he{SAUT}doesn't get in our way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0054",
+    "locuteur": "Nanjo",
+    "en": "You're asking me why Reiji is after{SAUT}Kandori?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0055",
+    "locuteur": "Nanjo",
+    "en": "Mm... we'll find out eventually. For now,{SAUT}it's enough that our goals dovetail.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0056",
+    "locuteur": "Elly",
+    "en": "Something important... Someone who's{SAUT}precious... (*APELLIDO_HEROE*), do you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0057",
+    "locuteur": "Elly",
+    "en": "Do you have someone precious to you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0058",
+    "locuteur": "Elly",
+    "en": "I see... {PAUSE}[3C00]I... {PAUSE}[3C00]I'm sorry to ask such an{SAUT}odd question...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0059",
+    "locuteur": "Elly",
+    "en": "I see... {PAUSE}[3C00]You're like me, then...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0060",
+    "locuteur": "Brown",
+    "en": "Dude, it's not nice to try to dig up the{SAUT}skeletons in a guy's closet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0061",
+    "locuteur": "Brown",
+    "en": "You must have stuff you're hiding too,{SAUT}right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0062",
+    "locuteur": "Brown",
+    "en": "See? See? Am I right or am I right?{SAUT}That's just how people are!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0063",
+    "locuteur": "Brown",
+    "en": "That's a joke, right? Was our friendship{SAUT}that shallow...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0064",
+    "locuteur": "Ayase",
+    "en": "It's no use worrying about what might{SAUT}happen, don't you think, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0065",
+    "locuteur": "Ayase",
+    "en": "As long as I'm having fun now, who cares{SAUT}about tomorrow?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0066",
+    "locuteur": "Ayase",
+    "en": "Thought so! You and me, like,{SAUT}think alike.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0067",
+    "locuteur": "Ayase",
+    "en": "...What!? That's stupid! Stupid, stupid,{SAUT}stupidstupidstupidstupidstupid!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0068",
+    "locuteur": "Reiji",
+    "en": "That Maki girl... I don't think this is{SAUT}the first time we've met. Who is she...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0069",
+    "locuteur": "Girl who was under attack",
+    "en": "Is his name Reiji? He's so awesome...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:067:0070",
+    "en": "{FERME}  (*TEXTBOX_PARAM,0200*)> Reiji Kido (Nickname: Reiji){SAUT}A quiet loner who transferred to{SAUT}St. Hermelin High six months ago.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0000",
+    "locuteur": "Maki",
+    "en": "Hey! There she is!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0001",
+    "locuteur": "Girl in black",
+    "en": "Heeey! You're the ones who were making{SAUT}trouble for my Daddy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0002",
+    "locuteur": "Maki",
+    "en": "You better fix the school, or I'll spank{SAUT}you 'til your butt swells up twice as big!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0003",
+    "locuteur": "Girl in black",
+    "en": "No way, Jose! I don't listen to anybody{SAUT}but my Daddy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0004",
+    "locuteur": "Aki",
+    "en": "Try and stop me, flatty!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0005",
+    "locuteur": "Maki",
+    "en": "Flat--!? Oh, that does it!{SAUT}What a little brat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0006",
+    "locuteur": "Mark",
+    "en": "Cool it, Maki... She's just a kid.{SAUT}You gotta have patience with--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0007",
+    "locuteur": "Aki",
+    "en": "Shuddup, monkeyboy! Ook ook, eek eek,{SAUT}it's a monkeyboy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0008",
+    "locuteur": "Mark",
+    "en": "What did you call me, you spoiled brat!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0009",
+    "locuteur": "Nanjo",
+    "en": "Calm down, monkeyman.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0010",
+    "locuteur": "Mark",
+    "en": "Nanjo, you jerk! You're next!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0011",
+    "locuteur": "Aki",
+    "en": "Geez, won't you shut up!? Now would{SAUT}be a good time... for you to die here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0012",
+    "locuteur": "Aki",
+    "en": "Erusaer Tsymmom!{SAUT}Come out, Tesso!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0013",
+    "locuteur": "Tesso",
+    "en": "Tesso! Tesso! Sgweaaaaak!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0014",
+    "locuteur": "Elly",
+    "en": "Mark! This is no time to fool around!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0015",
+    "locuteur": "Brown",
+    "en": "Yikes! C'mon people, look alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0016",
+    "locuteur": "Ayase",
+    "en": "Hey, like... some weird thing just{SAUT}showed up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0017",
+    "locuteur": "Aki",
+    "en": "Get them, Tesso!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:068:0018",
+    "locuteur": "Reiji",
+    "en": "...You'd all better snap out of it,{SAUT}or it'll be your funeral.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

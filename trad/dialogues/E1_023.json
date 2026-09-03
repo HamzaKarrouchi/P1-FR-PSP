@@ -1,0 +1,641 @@
+[
+  {
+    "id": "E1.BIN:099:0000",
+    "locuteur": "Yukino",
+    "en": "What's this? It looks different from the{SAUT}rest of the tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0001",
+    "locuteur": "Large beast",
+    "en": "HUMANS. WHY ARE YOU HERE?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0002",
+    "locuteur": "Large beast",
+    "en": "BE AWARE THAT THIS IS THE ENTRANCE{SAUT}TO THE UNDERWORLD...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0003",
+    "locuteur": "Large beast",
+    "en": "AND I AM ITS GUARDIAN, CERBERUS.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0004",
+    "locuteur": "Nanjo",
+    "en": "Don't stand in our way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0005",
+    "locuteur": "Nanjo",
+    "en": "We won't hesitate to do away with{SAUT}you, beast!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0006",
+    "locuteur": "Brown",
+    "en": "This animal's trying to stop me? What,{SAUT}does he think he's a king or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0007",
+    "locuteur": "Brown",
+    "en": "He does look strong, though... I know!{SAUT}I'll strike up a little conversation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0008",
+    "locuteur": "Brown",
+    "en": "Umm... \"ME MAD. YOU MOVE.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0009",
+    "locuteur": "Ayase",
+    "en": "Look, we don't wanna fight you, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0010",
+    "locuteur": "Ayase",
+    "en": "We just wanna see what's through there.{SAUT}Pretty please?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0011",
+    "locuteur": "Cerberus",
+    "en": "BEYOND HERE IS THE LAND OF THE DEAD,{SAUT}WHERE DECEASED SOULS GATHER.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0012",
+    "locuteur": "Cerberus",
+    "en": "I DOUBT YOU HAVE ANY BUSINESS THERE.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0013",
+    "locuteur": "Nanjo",
+    "en": "The land of the dead, eh? Mmm...{SAUT}Interesting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0014",
+    "locuteur": "Nanjo",
+    "en": "With demons running rampant, this tower{SAUT}itself is much like Hell already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0015",
+    "locuteur": "Nanjo",
+    "en": "There is nothing left for us to fear.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0016",
+    "locuteur": "Nanjo",
+    "en": "Besides, it may be linked to the loss{SAUT}of our Personas en route.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0017",
+    "locuteur": "Nanjo",
+    "en": "What Yuriko said to us... \"I'll be taking{SAUT}your other life\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0018",
+    "locuteur": "Nanjo",
+    "en": "It implies the lost Persona.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0019",
+    "locuteur": "Nanjo",
+    "en": "Taking one's life signifies death,{SAUT}naturally...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0020",
+    "locuteur": "Nanjo",
+    "en": "And here we are, where the souls of the{SAUT}deceased gather.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0021",
+    "locuteur": "Nanjo",
+    "en": "It's self-evident that our \"other self,\"{SAUT}the Persona, is here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0022",
+    "locuteur": "Nanjo",
+    "en": "You're under orders from Yuriko to bar{SAUT}our path, aren't you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0023",
+    "locuteur": "Nanjo",
+    "en": "I demand you let us through!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0024",
+    "locuteur": "Elly",
+    "en": "Ahaha... The key to the mystery of{SAUT}our lost Persona power may be here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0025",
+    "locuteur": "Elly",
+    "en": "When Yuriko said, \"I'll take your{SAUT}other life\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0026",
+    "locuteur": "Elly",
+    "en": "What she meant was that she'd taken{SAUT}away the Persona.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0027",
+    "locuteur": "Elly",
+    "en": "Taking life means death, after all.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0028",
+    "locuteur": "Elly",
+    "en": "And this is apparently where the souls{SAUT}of the deceased gather...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0029",
+    "locuteur": "Elly",
+    "en": "Where else could our missing \"other{SAUT}soul\" be?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0030",
+    "locuteur": "Elly",
+    "en": "Excuse me, Cerberus?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0031",
+    "locuteur": "Elly",
+    "en": "Am I correct in thinking you've been set{SAUT}here by Yuriko to keep us out?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0032",
+    "locuteur": "Elly",
+    "en": "You must let us through! Or else...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0033",
+    "locuteur": "Cerberus",
+    "en": "VERY PERCEPTIVE.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0034",
+    "locuteur": "Cerberus",
+    "en": "YOUR DEDUCTIONS ARE LARGELY CORRECT.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0035",
+    "locuteur": "Cerberus",
+    "en": "YES. YOUR SO-CALLED \"PERSONA\"{SAUT}IS HERE.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0036",
+    "locuteur": "Cerberus",
+    "en": "BUT I HAVE NO DEALINGS WITH YURIKO.{SAUT}I GUARD THIS PLACE OF MY OWN WILL.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0037",
+    "locuteur": "Cerberus",
+    "en": "THE LAND OF THE DEAD NEEDS NO{SAUT}INCOMPLETE SOULS.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0038",
+    "locuteur": "Cerberus",
+    "en": "TAKE WHAT IS YOURS.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0039",
+    "locuteur": "Yukino",
+    "en": "Sounds good. Then we'll be on our way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0040",
+    "locuteur": "Yukino",
+    "en": "No need to bother you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0041",
+    "locuteur": "Yukino",
+    "en": "The land of the dead, huh? Never thought{SAUT}I'd go there while I was still alive.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0042",
+    "locuteur": "Ayase",
+    "en": "Ooooh, the afterlife! Freaky!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0043",
+    "locuteur": "Nanjo",
+    "en": "I'd prefer to avoid it, but I suppose{SAUT}I have business there at the moment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0044",
+    "locuteur": "Brown",
+    "en": "Whoa, the land of the dead! Cooool!{SAUT}Maybe we can get on TV after all this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0045",
+    "locuteur": "Brown",
+    "en": "\"A Student in the Afterlife,\" starring{SAUT}Hidehiko Uesugi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0046",
+    "locuteur": "Brown",
+    "en": "Mwahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:099:0047",
+    "locuteur": "Elly",
+    "en": "Wow! I get to visit the underworld while{SAUT}I'm still alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0048",
+    "locuteur": "Elly",
+    "en": "I'm the luckiest girl on Earth!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0049",
+    "locuteur": "Cerberus",
+    "en": "THE DEMONS OF TARTARUS ARE STRONGER{SAUT}THAN THOSE OF THE TOWER.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0050",
+    "locuteur": "Cerberus",
+    "en": "THEIR HATRED OF THE LIVING IS FIERCE.{SAUT}BE CAREFUL.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0051",
+    "en": "{FERME}   > Cold air blows from beyond the door.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:099:0052",
+    "en": "{FERME}> Enter Tartarus?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0000",
+    "locuteur": "Yukino",
+    "en": "Seeing my own Persona like this drives{SAUT}home how mysterious a Persona really is.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0001",
+    "locuteur": "Ayase",
+    "en": "I thought this place would be, like,{SAUT}way scarier, but this isn't so bad.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0002",
+    "locuteur": "Nanjo",
+    "en": "The world that's home to the souls of{SAUT}the deceased...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0003",
+    "locuteur": "Nanjo",
+    "en": "It's certainly not a comfortable place{SAUT}to be, but it has a certain solemn air.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0004",
+    "locuteur": "Nanjo",
+    "en": "It puts me in a contemplative mood.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0005",
+    "locuteur": "Brown",
+    "en": "If I die, I'm going straight to heaven{SAUT}for sure!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0006",
+    "locuteur": "Brown",
+    "en": "So this is the last time I'm gonna be{SAUT}seeing the underworld! Yep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0007",
+    "locuteur": "Elly",
+    "en": "This place is very different from our{SAUT}common perception of the underworld.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0008",
+    "locuteur": "Mariko",
+    "en": "This'll knock your socks off...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0009",
+    "locuteur": "Mariko",
+    "en": "Sometimes these images appear on the{SAUT}walls here, and they look like you guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0010",
+    "locuteur": "Mariko",
+    "en": "I took a few snaps. I'll give you a print{SAUT}once the film's developed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0011",
+    "locuteur": "Mariko",
+    "en": "Not many people have photos of their{SAUT}own ghosts!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0012",
+    "en": "{FERME}> Your Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0013",
+    "en": "{FERME}   > Reclaim your Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0014",
+    "en": "(*UNK_0E,0000*){FERME} > You feel the power of Persona return{SAUT}to you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0015",
+    "en": "{FERME}  > There seems to be nothing here.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:112:0016",
+    "en": "{FERME} > Yukino's Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0017",
+    "en": "{FERME}   > Reclaim Yukino's Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0018",
+    "en": "(*UNK_0E,0000*){FERME} > Yukino's power of Persona has been{SAUT}restored...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0020",
+    "en": "{FERME} > Ayase's Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0021",
+    "en": "{FERME}> Reclaim Ayase's Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0022",
+    "en": "(*UNK_0E,0000*){FERME}  > Ayase's power of Persona has been{SAUT}restored...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0024",
+    "en": "{FERME} > Nanjo's Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0025",
+    "en": "{FERME}> Reclaim Nanjo's Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0026",
+    "en": "(*UNK_0E,0000*){FERME}  > Nanjo's power of Persona has been{SAUT}restored...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0028",
+    "en": "{FERME} > Brown's Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0029",
+    "en": "{FERME}> Reclaim Brown's Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0030",
+    "en": "(*UNK_0E,0000*){FERME}  > Brown's power of Persona has been{SAUT}restored...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0032",
+    "en": "{FERME} > Elly's Persona is here.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0033",
+    "en": "{FERME} > Reclaim Elly's Persona?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0034",
+    "en": "(*UNK_0E,0000*){FERME}   > Elly's power of Persona has been{SAUT}restored...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0035",
+    "en": "{FERME}> There seems to be nothing here.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:112:0036",
+    "en": "{FERME} > You decide to leave the Persona{SAUT}where it is.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:112:0037",
+    "locuteur": "Girl with a camera",
+    "en": "Oh, hello! Nice to meet you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0038",
+    "locuteur": "Girl with a camera",
+    "en": "I'm Mariko Yabe from Yamakumo High's{SAUT}Paranormal Watchers Club!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0039",
+    "locuteur": "Mariko",
+    "en": "Good to know you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0040",
+    "locuteur": "Mariko",
+    "en": "It's an unofficial club, and I'm the{SAUT}president and only member!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0041",
+    "locuteur": "Mariko",
+    "en": "My homeroom teach refuses to recognize my{SAUT}club, just 'cause he thinks it's lame!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0042",
+    "locuteur": "Mariko",
+    "en": "So I came to visit Tsutomu, my fellow{SAUT}devotee, but... {PAUSE}[1E00]I... {PAUSE}[1E00]this is...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0043",
+    "locuteur": "Mariko",
+    "en": "This is GREAT! I'm SO lucky I get to see{SAUT}an awesome paranormal event like this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0044",
+    "locuteur": "Mariko",
+    "en": "I've taken so many pics already! I'm gonna{SAUT}submit these babies to national magazines!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:112:0045",
+    "locuteur": "Mariko",
+    "en": "If the media admits they're real, maybe{SAUT}my teach will recognize my club!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E1.BIN:112:0046",
+    "locuteur": "Mariko",
+    "en": "Here goes nothin'!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  }
+]

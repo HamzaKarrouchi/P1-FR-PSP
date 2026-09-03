@@ -1,0 +1,269 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Validateur des fichiers de traduction JSON.
+#
+#   ruby game/tools/check_trad.rb game/scripts/intro/E0_000.json [...]
+#
+# Ne modifie rien, ne touche à aucun fichier de jeu : il lit du JSON et
+# signale. Trois contrôles, du plus grave au moins grave :
+#
+#   1. STRUCTURE — les codes de contrôle du français doivent être identiques
+#      à ceux de l'anglais, en nombre et en ordre. Un code perdu, et le moteur
+#      lit la suite de travers.
+#   2. ENCODAGE  — chaque caractère doit exister dans la table du jeu, ET son
+#      glyphe doit être réellement dessiné dans la police. Les deux, parce que
+#      ce n'est pas la même chose : les accents français ont tous un code dans
+#      la table, mais leur case est vide ou ne contient qu'une marque isolée
+#      dans `pack/sys.bin`. Encodable ≠ affichable — c'est précisément le genre
+#      de fausse assurance qui a laissé passer la troncature pendant des mois.
+#   3. BUDGET    — une entrée EBOOT plus longue que `max` peut rester en
+#      anglais SANS aucune erreur au build. Observé : la zone BE redirige vers
+#      un code cave et passe, la zone LE ne le fait pas et garde l'anglais.
+#      Avertissement, donc, pas une interdiction — mais à vérifier en jeu.
+#   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte. Mesuré sur
+#      le script anglais : plafond observé à 43, aucune ligne au-delà.
+
+#   5. CANARI    — la colonne anglaise doit être identique à l'extraction.
+#      Un contributeur qui écrase une lettre de l'anglais en tapant sa
+#      traduction fabrique une divergence que plus rien ne rattrape : le
+#      moteur cherche la ligne d'origine et ne la retrouve pas.
+#
+# Aucune dépendance au moteur p1es : la table de caractères est lue directement
+# depuis le .tbl. C'est ce qui permet de publier ce fichier tel quel dans le
+# dépôt communautaire, où le moteur, lui, n'a pas sa place.
+
+require 'json'
+require 'set'
+require 'digest'
+
+AQUI = File.dirname(File.expand_path(__FILE__)) unless defined?(AQUI)
+
+module CheckTrad
+  LARGEUR_MAX = 40   # visé ; le script anglais monte à 43 en chasse étroite
+  LARGEUR_DURE = 43  # au-delà, débordement certain
+
+  # Repère un code de contrôle sous ses trois formes : nom lisible {SAUT},
+  # balise du moteur (*TAG*) ou code brut [1234].
+  JETON = /\{[A-Z]+\}|\(\*[^*]*\*\)|\[[0-9A-Fa-f]{4}\]/
+
+  module_function
+
+  def jetons(texte)
+    texte.to_s.scan(JETON)
+  end
+
+  def lignes_affichees(texte)
+    texte.to_s.split(/\{SAUT\}|\{PAGE\}|\{ATTENTE\}|\{FERME\}|\{PAUSE\}/)
+         .map { |l| l.gsub(JETON, '').strip }
+         .reject(&:empty?)
+  end
+
+  # Lit la table de caractères du jeu : des lignes `XXXX=c`, hexadécimal à
+  # gauche, caractère à droite. Rend { caractère => code }.
+  #
+  # Un même caractère peut apparaître plusieurs fois ; la première occurrence
+  # gagne, comme dans le moteur.
+  def charger_table(chemin)
+    table = {}
+    File.read(chemin, encoding: 'UTF-8').each_line do |ligne|
+      ligne = ligne.chomp
+      next if ligne.lstrip.empty? || ligne.lstrip.start_with?('#')
+
+      hex, car = ligne.split('=', 2)
+      next if car.nil? || car.empty?
+      next unless hex.to_s.strip.length == 4
+
+      code = Integer(hex.strip, 16) rescue next
+      table[car] ||= code
+    end
+    table
+  end
+
+  def caracteres_hors_table(texte, tabla)
+    texte.to_s.gsub(JETON, '').each_char.reject do |c|
+      c == ' ' || tabla.key?(c)
+    end.uniq
+  end
+
+  # Caractères encodables mais dont le glyphe n'est pas dessiné : ils
+  # s'écriront dans le fichier et s'afficheront comme un blanc en jeu.
+  #
+  # Limité aux LETTRES à dessein. La ponctuation basse (virgule 0x0003, point
+  # 0x0004…) partage ses codes avec des commandes du moteur, qui les rend par
+  # un chemin à lui : sa case d'atlas est vide alors que le jeu l'affiche très
+  # bien. L'inclure ne produirait que du faux positif.
+  def caracteres_sans_glyphe(texte, tabla, glyphes)
+    return [] if glyphes.nil?
+
+    texte.to_s.gsub(JETON, '').each_char.reject do |c|
+      next true unless c =~ /[[:alpha:]]/
+
+      code = tabla[c]
+      code.nil? || glyphes.include?(code)
+    end.uniq
+  end
+
+  def charger_glyphes
+    chemin = File.join(AQUI, 'glyphes_disponibles.json')
+    return nil unless File.exist?(chemin)
+
+    JSON.parse(File.read(chemin))['codes'].to_set
+  rescue StandardError
+    nil
+  end
+
+  # Empreinte d'une entrée telle qu'extraite du jeu. Douze caractères
+  # hexadécimaux suffisent : on cherche l'édition accidentelle, pas la fraude.
+  def empreinte(anglais, locuteur)
+    Digest::SHA256.hexdigest("#{locuteur} #{anglais}")[0, 12]
+  end
+
+  # Le canari se cherche à côté du fichier vérifié, puis dans le dossier
+  # parent : les fichiers de travail vivent dans `trad/dialogues/`, le canari
+  # à la racine de `trad/`. Absent, on ne contrôle rien — c'est le cas des
+  # brouillons locaux, qui n'ont pas à en porter un.
+  def charger_canari(chemin)
+    dossier = File.dirname(File.expand_path(chemin))
+    [dossier, File.dirname(dossier)].each do |d|
+      candidat = File.join(d, '_canari.json')
+      return JSON.parse(File.read(candidat, encoding: 'UTF-8')) if File.exist?(candidat)
+    end
+    nil
+  rescue StandardError
+    nil
+  end
+
+  def verifier(chemin, tabla, glyphes, canari = nil)
+    entrees = JSON.parse(File.read(chemin, encoding: 'UTF-8'))
+    soucis = []
+    traduites = 0
+
+    entrees.each do |e|
+      id = e['id']
+
+      if canari
+        attendue = canari[id]
+        if attendue.nil?
+          soucis << "#{id} [CANARI] identifiant inconnu — entrée ajoutée à la main ?"
+        elsif empreinte(e['en'], e['locuteur']) != attendue
+          soucis << "#{id} [CANARI] l'anglais d'origine a été modifié — restaurer 'en' et 'locuteur'"
+        end
+      end
+
+      %w[locuteur fr].each do |champ|
+        next unless champ == 'locuteur'
+        next if e['locuteur_fr'].to_s.empty?
+
+        hors = caracteres_hors_table(e['locuteur_fr'], tabla)
+        soucis << "#{id} [ENCODAGE] locuteur : #{hors.join(' ')} absent(s) de la table" if hors.any?
+
+        muets = caracteres_sans_glyphe(e['locuteur_fr'], tabla, glyphes)
+        soucis << "#{id} [GLYPHE] locuteur : #{muets.join(' ')} sans dessin dans la police" if muets.any?
+      end
+
+      next if e['fr'].to_s.empty?
+
+      traduites += 1
+
+      # `[0000]` est l'espace encodé de certaines zones EBOOT, pas une
+      # structure : le nombre de mots change forcément en français.
+      attendus = jetons(e['en']).reject { |j| j == '[0000]' }
+      obtenus  = jetons(e['fr']).reject { |j| j == '[0000]' }
+      if attendus != obtenus
+        soucis << "#{id} [STRUCTURE] codes attendus #{attendus.inspect}, obtenus #{obtenus.inspect}"
+      end
+
+      hors = caracteres_hors_table(e['fr'], tabla)
+      soucis << "#{id} [ENCODAGE] #{hors.join(' ')} absent(s) de la table" if hors.any?
+
+      muets = caracteres_sans_glyphe(e['fr'], tabla, glyphes)
+      soucis << "#{id} [GLYPHE] #{muets.join(' ')} sans dessin dans la police" if muets.any?
+
+      # Dépasser `max` ne provoque AUCUNE erreur au build : le moteur garde
+      # simplement l'anglais. Silencieux, donc à attraper ici.
+      if e['max']
+        # `max` est un nombre de caractères, jetons non comptés : compter pareil.
+        n = e['fr'].gsub(JETON, '').length
+        if n > e['max']
+          soucis << "#{id} [BUDGET] #{n} caractères pour un maximum de #{e['max']} — peut rester en anglais, vérifier en jeu"
+        end
+      end
+
+      lignes_affichees(e['fr']).each do |l|
+        if l.length > LARGEUR_DURE
+          soucis << "#{id} [LARGEUR] #{l.length} car. (debordement certain) : #{l.inspect}"
+        elsif l.length > LARGEUR_MAX
+          soucis << "#{id} [LARGEUR] #{l.length} car. (a surveiller) : #{l.inspect}"
+        end
+      end
+    end
+
+    [entrees.length, traduites, soucis]
+  end
+
+  # Numéro de ligne de chaque entrée dans le fichier JSON, repéré sur son `id`.
+  # Les fichiers sont écrits en JSON indenté : un `id` par ligne, dans l'ordre.
+  # Sert aux annotations GitHub, qui se posent alors sur la bonne ligne du diff
+  # — y compris pour une proposition venue d'un fork, où le robot n'a pas le
+  # droit d'écrire un commentaire.
+  def lignes_des_ids(chemin)
+    lignes = {}
+    File.readlines(chemin, encoding: 'UTF-8').each_with_index do |ligne, i|
+      m = ligne.match(/"id"\s*:\s*"?([^",]+)"?/)
+      lignes[m[1]] ||= i + 1 if m
+    end
+    lignes
+  rescue StandardError
+    {}
+  end
+
+  # Format attendu par GitHub Actions. Les retours à la ligne doivent être
+  # échappés, sinon l'annotation est tronquée à la première.
+  def annoter(chemin, ligne, message)
+    propre = message.gsub('%', '%25').gsub("\r", '%0D').gsub("\n", '%0A')
+    puts "::error file=#{chemin},line=#{ligne},title=Traduction::#{propre}"
+  end
+
+  def main(argv)
+    annotations = argv.delete('--annoter')
+
+    if argv.empty?
+      puts 'usage: ruby game/tools/check_trad.rb [--annoter] <fichier.json> [...]'
+      return 2
+    end
+
+    tbl = [File.join(AQUI, 'persona1_psp.tbl'),
+           File.join(AQUI, 'p1es', 'persona1_psp.tbl')].find { |c| File.exist?(c) }
+    if tbl.nil?
+      warn 'erreur : persona1_psp.tbl introuvable'
+      return 2
+    end
+
+    tabla = charger_table(tbl)
+    glyphes = charger_glyphes
+    warn 'note : glyphes_disponibles.json absent — contrôle des glyphes ignoré' if glyphes.nil?
+    total_soucis = 0
+
+    argv.each do |chemin|
+      canari = charger_canari(chemin)
+      total, traduites, soucis = verifier(chemin, tabla, glyphes, canari)
+      etat = soucis.empty? ? '✅' : "❌ #{soucis.length}"
+      puts "#{etat}  #{chemin} — #{traduites}/#{total} traduites"
+      soucis.each { |s| puts "      #{s}" }
+      total_soucis += soucis.length
+
+      next unless annotations && soucis.any?
+
+      lignes = lignes_des_ids(chemin)
+      soucis.each do |s|
+        id = s.split(' ', 2).first
+        annoter(chemin, lignes[id] || 1, s)
+      end
+    end
+
+    total_soucis.zero? ? 0 : 1
+  end
+end
+
+exit(CheckTrad.main(ARGV)) if __FILE__ == $PROGRAM_NAME

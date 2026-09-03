@@ -1,0 +1,457 @@
+[
+  {
+    "id": "E1.BIN:096:0000",
+    "locuteur": "Yukino",
+    "en": "Whoa, a creepy room right off the bat.{SAUT}What're these skulls about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0001",
+    "locuteur": "Cheerful schoolgirl",
+    "en": "Hi, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0002",
+    "locuteur": "Cheerful schoolgirl",
+    "en": "Welcome to good old Thanatos Tower!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0003",
+    "locuteur": "Cheerful schoolgirl",
+    "en": "How're you all doing today?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0004",
+    "locuteur": "Cheerful schoolgirl",
+    "en": "I'm your host, everyone's favorite idol,{SAUT}Yuriko Yamamoto!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0005",
+    "locuteur": "Nanjo",
+    "en": "What nonsense is this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0006",
+    "locuteur": "Nanjo",
+    "en": "Perhaps it's none of my business...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0007",
+    "locuteur": "Nanjo",
+    "en": "But isn't it a bit conceited to claim{SAUT}you're everyone's favorite idol?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0008",
+    "locuteur": "Nanjo",
+    "en": "Your arrogance is rather irksome.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0009",
+    "locuteur": "Brown",
+    "en": "Yeaaaaah! Y! {PAUSE}[1E00]U! {PAUSE}[1E00]R! {PAUSE}[1E00]I! {PAUSE}[1E00]K! {PAUSE}[1E00]O!{SAUT}Yurikoooo! {PAUSE}[1E00]＊whistle＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0010",
+    "locuteur": "Brown",
+    "en": "...Ugh! I got carried away...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0011",
+    "locuteur": "Brown",
+    "en": "Who the heck are you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0012",
+    "locuteur": "Ayase",
+    "en": "Oh. My. God. You look, like, SO dumb.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0013",
+    "locuteur": "Ayase",
+    "en": "Who do you think you are, weirdo?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0014",
+    "locuteur": "Yuriko",
+    "en": "Uh, hello? Who's calling who a weirdo?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0015",
+    "locuteur": "Yuriko",
+    "en": "Ohh! Are you jealous 'cause I'm so{SAUT}cutesy-wutesy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0016",
+    "locuteur": "Yuriko",
+    "en": "＊sigh＊... Being too pretty is a sin,{SAUT}isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0017",
+    "locuteur": "Yuriko",
+    "en": "Sorry 'bout that! Ahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0018",
+    "locuteur": "Nanjo",
+    "en": "So... why are you here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0019",
+    "locuteur": "Nanjo",
+    "en": "We're on a tight schedule here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0020",
+    "locuteur": "Nanjo",
+    "en": "Have you come to fight us? If so,{SAUT}we gladly accept the challenge!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0021",
+    "locuteur": "Elly",
+    "en": "Er... so... why are you here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0022",
+    "locuteur": "Elly",
+    "en": "Is it a battle you seek? We'd have no{SAUT}objections to that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0023",
+    "locuteur": "Yuriko",
+    "en": "Awww, don't talk like that, guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0024",
+    "locuteur": "Yuriko",
+    "en": "I'm just here to tell you how to open the{SAUT}door back there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0025",
+    "locuteur": "Yuriko",
+    "en": "So put your listening hats on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0026",
+    "locuteur": "Yuriko",
+    "en": "Reaaaady? Then here goes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0027",
+    "locuteur": "Yuriko",
+    "en": "You see those two candles? One to the{SAUT}right of the door, one to the left?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0028",
+    "locuteur": "Yuriko",
+    "en": "Good! All you have to do is blow one{SAUT}out, and poof! Door's open!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0029",
+    "locuteur": "Yuriko",
+    "en": "Okey-dokey! I hope you try 200% to get{SAUT}to me! Bye-bye!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0030",
+    "locuteur": "Yukino",
+    "en": "Well, uh... this is definitely a trap.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0031",
+    "locuteur": "Yukino",
+    "en": "But that girl... Yuriko, right? I get the{SAUT}feeling she's tougher than she looks.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0032",
+    "locuteur": "Yukino",
+    "en": "It's hard to describe how, but... this{SAUT}tower has an eerie feel to it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0033",
+    "locuteur": "Yukino",
+    "en": "Damn that Yuriko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0034",
+    "locuteur": "Yukino",
+    "en": "She acts like an airhead, but she's{SAUT}a hardcore con artist!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0035",
+    "locuteur": "Ayase",
+    "en": "I can't believe that girl! What a loser!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0036",
+    "locuteur": "Ayase",
+    "en": "What does she think life's all about?{SAUT}Who does she think she is!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0037",
+    "locuteur": "Ayase",
+    "en": "Oooooh, she's so aggravating! Right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0038",
+    "locuteur": "Nanjo",
+    "en": "Good grief... Our hands are already full{SAUT}with Yuka's incessant yapping.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0039",
+    "locuteur": "Nanjo",
+    "en": "And now we face a tower guardian exactly{SAUT}like her... I've got to get out of here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0040",
+    "locuteur": "Brown",
+    "en": "Psst! Hey! Yuriko's a cutie, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0041",
+    "locuteur": "Elly",
+    "en": "What frightens me is that I can't tell{SAUT}what Yuriko is thinking...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0042",
+    "locuteur": "Elly",
+    "en": "It seems as if she enjoys our{SAUT}confrontations...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0043",
+    "locuteur": "Elly",
+    "en": "And catching us in her traps.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0044",
+    "locuteur": "Elly",
+    "en": "It's as Yukino says... this won't be easy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0045",
+    "en": "{FERME} > Blow out the candle?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0046",
+    "locuteur": "Yukino",
+    "en": "Huh!? Wh-What's happening...?{PAUSE}[1E00]{SAUT}S-Something's being yanked out of me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0047",
+    "locuteur": "Yukino",
+    "en": "Aagh! AAAAAAAAHHHHHHHH!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0048",
+    "locuteur": "Yuriko",
+    "en": "Teeheehee! Gotcha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0049",
+    "locuteur": "Yuriko",
+    "en": "Teeheeheeheeheehee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0050",
+    "locuteur": "Yuriko",
+    "en": "Did you really think you could get past{SAUT}here for free? Silly billies!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0051",
+    "locuteur": "Yuriko",
+    "en": "Tit for tat's the name of the game!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0052",
+    "locuteur": "Yuriko",
+    "en": "If you want anything in this tower,{SAUT}you gotta give something up in return!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0053",
+    "locuteur": "Yuriko",
+    "en": "Life is hard, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0054",
+    "locuteur": "Yuriko",
+    "en": "Well, I'll be taking your other life...{PAUSE}[1E00]{SAUT}Per-{PAUSE}[1E00]so-{PAUSE}[1E00]na!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0055",
+    "locuteur": "Yuriko",
+    "en": "Thanks! Teeheeheeheehee! See ya!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:096:0056",
+    "locuteur": "Yukino",
+    "en": "Dammit! What's up with that twit!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0057",
+    "locuteur": "Yukino",
+    "en": "What was that all about, anyway? \"I'll be{SAUT}taking your other life\"?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0058",
+    "locuteur": "Yukino",
+    "en": "What did she mean?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0059",
+    "en": "{FERME}> Blow out the candle?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0068",
+    "en": "{FERME}   > You decide not to blow out the candle.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0069",
+    "en": "{FERME}  > The candle is unlit.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0070",
+    "en": "{FERME}> The candle is lit.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0071",
+    "en": "{FERME}  > It seems you must extinguish one of{SAUT}the candles to unlock the door.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0072",
+    "en": "{FERME} > The door seems to be unlocked now...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:096:0073",
+    "en": "{FERME}> Open the door?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

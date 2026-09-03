@@ -1,0 +1,631 @@
+[
+  {
+    "id": "E0.BIN:048:0000",
+    "locuteur": "Maki",
+    "en": "So this is... the police station.{SAUT}That's right... It WAS like this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0001",
+    "locuteur": "Nanjo",
+    "en": "Er... yes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0002",
+    "locuteur": "Nanjo",
+    "en": "Masao should be detained in the prison{SAUT}cells, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0003",
+    "locuteur": "Nanjo",
+    "en": "But we can't access that section without{SAUT}a key. What to do...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0004",
+    "locuteur": "Maki",
+    "en": "They might have left it somewhere.{SAUT}Let's see if we can find it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0005",
+    "locuteur": "Nanjo",
+    "en": "True. Could you help search,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0006",
+    "en": "{FERME}> Found the Prison Key...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0007",
+    "en": "{PAGE}> Obtained the (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Prison Key(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0008",
+    "en": "{FERME}   > There don't seem to be any more{SAUT}useful keys...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0009",
+    "locuteur": "Nanjo",
+    "en": "Excellent! We should be able to access{SAUT}the prison cells now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0010",
+    "locuteur": "Nanjo",
+    "en": "Masao should be in the prison.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0011",
+    "locuteur": "Nanjo",
+    "en": "I'm loathe to rescue him, but he does{SAUT}have the security card.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0012",
+    "locuteur": "Maki",
+    "en": "Prison... Oh, yes, the prison cells.{SAUT}Yes, that's right, they did have those.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0013",
+    "locuteur": "Maki",
+    "en": "Hey, (*APELLIDO_HEROE*)... Nanjo keeps saying{SAUT}something's wrong with me. You think so?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0014",
+    "locuteur": "Brown",
+    "en": "'Fess up, (*APODO_HEROE*)... You came to save{SAUT}me 'cause you thought I'd blown it, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0015",
+    "locuteur": "Brown",
+    "en": "Boy, were you wrong!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0016",
+    "locuteur": "Brown",
+    "en": "I'd already come up with a super-daring,{SAUT}super-awesome escape plan, y'know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0017",
+    "locuteur": "Brown",
+    "en": "Maaan, now I'll never get to use it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0018",
+    "locuteur": "Nanjo",
+    "en": "I'm wondering if we should have left{SAUT}those two locked up once we had the card.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0019",
+    "locuteur": "Mark",
+    "en": "Baldy better not let the demons{SAUT}overtake the police that easy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0020",
+    "locuteur": "Mark",
+    "en": "Me and Baldy... I mean, that lieutenant,{SAUT}had run-ins before, and it pissed me off...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0021",
+    "locuteur": "Mark",
+    "en": "But he really was worried about me.{SAUT}Could that demon have...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0022",
+    "locuteur": "Mark",
+    "en": "Nah, it can't be... There's no way that{SAUT}dude would lay down and die, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0023",
+    "locuteur": "Maki",
+    "en": "The prison door won't open without{SAUT}a key, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0024",
+    "locuteur": "Maki",
+    "en": "Let's find that first.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:048:0025",
+    "locuteur": "Nanjo",
+    "en": "They must keep the key in here somewhere.{SAUT}Try searching a little more.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0000",
+    "locuteur": "Mark",
+    "en": "Who the hell do you think you are,{SAUT}lockin' us up in here like this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0001",
+    "locuteur": "Mark",
+    "en": "You won't get away with this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0002",
+    "locuteur": "Brown",
+    "en": "Q-Quit it, Mark... Getting them mad at{SAUT}us won't help any!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0003",
+    "locuteur": "Brown",
+    "en": "We should play nice for now and...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0004",
+    "locuteur": "Brown",
+    "en": "Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0005",
+    "locuteur": "Maki",
+    "en": "Hey, there they are! You okay, Masao?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0006",
+    "locuteur": "Maki",
+    "en": "...Huh? Hidehiko's here too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0007",
+    "locuteur": "Nanjo",
+    "en": "Hah... A cage suits this monkey.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0008",
+    "locuteur": "Mark",
+    "en": "Nanjo, you dickweed! What took you guys!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0009",
+    "locuteur": "Mark",
+    "en": "Wait a sec... Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0010",
+    "locuteur": "Brown",
+    "en": "Hey, it's you guys. Ohhh, I get it...{SAUT}You missed me that much, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0011",
+    "locuteur": "Maki",
+    "en": "Hey, Hidehiko? Why were you gonna play{SAUT}nice with us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0012",
+    "locuteur": "Brown",
+    "en": "Urgh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0013",
+    "locuteur": "Nanjo",
+    "en": "Most likely, he mistook us for someone{SAUT}else. Fortunately, we're on your side.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0014",
+    "locuteur": "Nanjo",
+    "en": "Isn't that good to hear, Hidehiko?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0015",
+    "locuteur": "Nanjo",
+    "en": "But tell me... Why are you here, too?{SAUT}We thought only Masao had been detained.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0016",
+    "locuteur": "Maki",
+    "en": "That can wait for later. Let's get{SAUT}them out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0017",
+    "locuteur": "Brown",
+    "en": "I thought even a tough guy like me{SAUT}couldn't beat demons without weapons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0018",
+    "locuteur": "Brown",
+    "en": "So I came here looking for some, but{SAUT}I ended up getting caught with Mark!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0019",
+    "locuteur": "Mark",
+    "en": "Shuddup, Hidehiko! Just... shut up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0020",
+    "locuteur": "Mark",
+    "en": "Maki... Why're you here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0021",
+    "locuteur": "Mark",
+    "en": "It must've been a long trip... Are you{SAUT}feelin' okay!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0022",
+    "locuteur": "Maki",
+    "en": "C'mon, Masao, why're you joking around{SAUT}like that? I'm totally fine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0023",
+    "locuteur": "Mark",
+    "en": "S-So I see... Okay, then. Anyways--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0024",
+    "locuteur": "Brown",
+    "en": "...Who's there!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0025",
+    "locuteur": "Lieutenant",
+    "en": "Masaooo... You're not allowed out on{SAUT}your owwwn.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0026",
+    "locuteur": "Policeman",
+    "en": "It's against the ruuules.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0027",
+    "locuteur": "Mark",
+    "en": "Look, Baldy, this is goin' too damn far,{SAUT}even for a joke. I haven't done anything!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0028",
+    "locuteur": "Nanjo",
+    "en": "Wait... something's wrong.{SAUT}Masao, they're--!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0029",
+    "locuteur": "Policeman",
+    "en": "Lieutenaaant, this kid broke out of{SAUT}priiison.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0030",
+    "locuteur": "Lieutenant",
+    "en": "I seeee... Vicious criminals must be{SAUT}execuuuted.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0031",
+    "locuteur": "Mark",
+    "en": "Ugh, that stink... Don't tell me...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0032",
+    "locuteur": "Demon policeman",
+    "en": "Execute, execute, ex, ec, ute,{SAUT}eheheheeeexecuuuute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0033",
+    "locuteur": "Demon lieutenant",
+    "en": "That's riiiight! Men... kiiill theeeem!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:049:0034",
+    "en": "{FERME} > Used the (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Prison Key(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0000",
+    "locuteur": "Brown",
+    "en": "Hey, wh-what was that!? Why was I--{SAUT}What was that thing!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0001",
+    "locuteur": "Nanjo",
+    "en": "You too, eh, Hidehiko? But why him,{SAUT}of all people...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0002",
+    "locuteur": "Mark",
+    "en": "Alright, lemme explain it to you.{SAUT}Listen up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0003",
+    "locuteur": "Brown",
+    "en": "Awesome! I really am a superhero!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0004",
+    "locuteur": "Brown",
+    "en": "Ever since I was a kid... I suspected{SAUT}something was different about me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0005",
+    "locuteur": "Mark",
+    "en": "I don't think he really gets it...{SAUT}Oh well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0006",
+    "locuteur": "Mark",
+    "en": "Anyways, I'm comin' too, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0007",
+    "locuteur": "Mark",
+    "en": "I'd be nervous for you guys if you were{SAUT}on your own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0008",
+    "locuteur": "Nanjo",
+    "en": "We could say the same about you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0009",
+    "locuteur": "Nanjo",
+    "en": "You should leave the security card in{SAUT}(*APELLIDO_HEROE*)'s care, Masao.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0010",
+    "locuteur": "Mark",
+    "en": "Alright...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0011",
+    "locuteur": "Mark",
+    "en": "Here's the security card, man. Better{SAUT}not lose that thing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0012",
+    "locuteur": "Nanjo",
+    "en": "We have a firearm for you, Masao.{SAUT}Just don't shoot us by mistake.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0013",
+    "locuteur": "Brown",
+    "en": "Hey, hey, think I should come with{SAUT}you guys?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0014",
+    "locuteur": "Brown",
+    "en": "Without me, you fools don't have any{SAUT}star power, y'know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0015",
+    "locuteur": "Brown",
+    "en": "You guys need me to whip you into{SAUT}shape! How about it, (*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0016",
+    "locuteur": "Mark",
+    "en": "...It's your call, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0017",
+    "locuteur": "Nanjo",
+    "en": "Are you certain that you want to bring{SAUT}Hidehiko along?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0018",
+    "locuteur": "Nanjo",
+    "en": "Are you certain that you don't want to{SAUT}bring Hidehiko along?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0019",
+    "locuteur": "Brown",
+    "en": "Great! I'm down--not like I have a{SAUT}choice! Hahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0020",
+    "locuteur": "Nanjo",
+    "en": "Then here's a firearm for you, too,{SAUT}Hidehiko. Don't be careless with it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0021",
+    "locuteur": "Nanjo",
+    "en": "...What's that look for...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0022",
+    "locuteur": "Brown",
+    "en": "Oh? Is that... Really? You're sure{SAUT}you won't regret it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0023",
+    "locuteur": "Brown",
+    "en": "Alright... Guess I'll head to the{SAUT}school, then. Later, chumps!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0024",
+    "locuteur": "Maki",
+    "en": "Hooray! Now that everyone's together...{SAUT}Uh, where were we going?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0025",
+    "locuteur": "Nanjo",
+    "en": "Hold on tight to that security card.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0026",
+    "locuteur": "Nanjo",
+    "en": "We need it to get into the secret freight{SAUT}entrance at the abandoned factory.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0027",
+    "locuteur": "Mark",
+    "en": "I can't believe ol' Baldy turned into{SAUT}a demon... This is so messed up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0028",
+    "locuteur": "Brown",
+    "en": "Should my battle cry be \"Let's go!\"{SAUT}or \"Persona!\"?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:050:0029",
+    "locuteur": "Brown",
+    "en": "...Nah, those are both too lame. Maybe{SAUT}something like, \"Go get 'em!\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

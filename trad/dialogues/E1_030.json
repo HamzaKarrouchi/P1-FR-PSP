@@ -1,0 +1,675 @@
+[
+  {
+    "id": "E1.BIN:200:0000",
+    "locuteur": "Night Queen",
+    "en": "Hmhm... You came all the way up here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0001",
+    "locuteur": "Night Queen",
+    "en": "It would have been easier if you'd just{SAUT}waited for the Eternal Night to fall.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0002",
+    "locuteur": "Night Queen",
+    "en": "But if you insist... I shall grant your{SAUT}wish with despair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0003",
+    "locuteur": "Night Queen",
+    "en": "You won't find me as easy as Tomomi.{PAUSE}[1E00]{SAUT}Hmhmhmhm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0004",
+    "locuteur": "Masked girl",
+    "en": "Why are you trying so hard to protect{SAUT}this place?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0005",
+    "locuteur": "Masked girl",
+    "en": "I hate school... {PAUSE}[1E00]I wish it would{SAUT}disappear from the face of the earth!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0006",
+    "locuteur": "Masked man",
+    "en": "Allow us to assist you, Night Queen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0007",
+    "locuteur": "Masked man",
+    "en": "Though it's a bit crowded here for the{SAUT}three of us to combine our strength...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0008",
+    "locuteur": "Masked man",
+    "en": "I invite you all to the uppermost floor.{PAUSE}[1E00]{SAUT}You may take your time in coming to us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0009",
+    "locuteur": "Masked man",
+    "en": "Are you ready?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0010",
+    "locuteur": "Masked man",
+    "en": "Have you made your preparations to{SAUT}advance to the next floor?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0011",
+    "locuteur": "Masked man",
+    "en": "Very well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:200:0012",
+    "locuteur": "Masked man",
+    "en": "Then resume your training.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0013",
+    "locuteur": "Masked man",
+    "en": "Whether this side or that prevails in{SAUT}the end... It's no concern of mine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0014",
+    "locuteur": "Yukino",
+    "en": "Let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0015",
+    "locuteur": "Ayase",
+    "en": "I'm all set!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0017",
+    "locuteur": "Brown",
+    "en": "Our happy ending's just around the corner.{SAUT}And once this place is back to normal...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0018",
+    "locuteur": "Brown",
+    "en": "There'll be a new school legend--the{SAUT}amazing Brown and his decent flunkies!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0019",
+    "locuteur": "Brown",
+    "en": "Mwahahahah! {PAUSE}[1E00]C'mon, let's get to it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:200:0020",
+    "locuteur": "Elly",
+    "en": "I'm glad this freezing cold won't last{SAUT}much longer.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:202:0000",
+    "locuteur": "Night Queen",
+    "en": "I've been waiting for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:202:0001",
+    "locuteur": "Masked girl",
+    "en": "No more school! Ever!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:202:0002",
+    "locuteur": "Masked man",
+    "en": "Let's see what you can do.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0000",
+    "locuteur": "Night Queen's voice",
+    "en": "Urgh... I failed... against these youths?{SAUT}How distressing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0001",
+    "locuteur": "Night Queen's voice",
+    "en": "But heed my words...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0002",
+    "locuteur": "Night Queen's voice",
+    "en": "Eternal night will fall again so long as{SAUT}people seek to turn hope to despair...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0003",
+    "locuteur": "Masked girl",
+    "en": "No... How could this happen!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0004",
+    "locuteur": "Masked girl",
+    "en": "This is my world...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0005",
+    "locuteur": "Masked man",
+    "en": "As I thought. Improvising didn't suffice,{SAUT}and we must take matters into our hands.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:203:0006",
+    "locuteur": "Masked man",
+    "en": "Your name was (*PLAYER_NAME*), yes? I have{SAUT}a feeling we'll see each other again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0000",
+    "locuteur": "Ms. Saeko",
+    "en": "You're really going?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0001",
+    "locuteur": "Nanjo",
+    "en": "Yes. I'm worried about Maki and Masao.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0002",
+    "locuteur": "Nanjo",
+    "en": "And something else, too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0003",
+    "locuteur": "Nanjo",
+    "en": "That student in that white mask reminded{SAUT}me somewhat of Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0004",
+    "locuteur": "Elly",
+    "en": "Yes! I hope Maki and Mark are okay.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0005",
+    "locuteur": "Elly",
+    "en": "I have something else on my mind, too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0006",
+    "locuteur": "Elly",
+    "en": "That girl with the white mask looked{SAUT}just like Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0007",
+    "locuteur": "Yukino",
+    "en": "Yeah, there's still some business we{SAUT}gotta take care of.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0009",
+    "locuteur": "Yukino",
+    "en": "We gotta find Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0010",
+    "locuteur": "Yukino",
+    "en": "She looked like she was in pain to me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0011",
+    "locuteur": "Yukino",
+    "en": "＊sigh＊ What can I say? You'll get it{SAUT}sooner or later.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0012",
+    "locuteur": "Ms. Saeko",
+    "en": "...Alright. Then you go do what you{SAUT}gotta do!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0013",
+    "locuteur": "Ms. Saeko",
+    "en": "You're adults now, setting out on your{SAUT}own. I won't stop you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0014",
+    "locuteur": "Ms. Saeko",
+    "en": "But promise me this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0015",
+    "locuteur": "Ayase",
+    "en": "Huh? Like what?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0016",
+    "locuteur": "Ms. Saeko",
+    "en": "Come back and see me before you get{SAUT}all old and wrinkled!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0017",
+    "locuteur": "Ms. Saeko",
+    "en": "And come back to report in when it's{SAUT}all over with!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0018",
+    "locuteur": "Yukino",
+    "en": "Oh, we will, don't worry about that!{SAUT}We're your best students, remember?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0019",
+    "locuteur": "Ms. Saeko",
+    "en": "She says, while wearing an outfit that's{SAUT}against the dress code.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0020",
+    "locuteur": "Ms. Saeko",
+    "en": "You should try being in my shoes, getting{SAUT}yelled at every day by the vice principal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0021",
+    "locuteur": "Ms. Saeko",
+    "en": "Haha... it looks like this incident has{SAUT}given him second thoughts, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0022",
+    "locuteur": "Ms. Saeko",
+    "en": "He asked me to thank you guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0023",
+    "locuteur": "Ms. Saeko",
+    "en": "Maybe now he won't be so strict...{SAUT}for a while, at least.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0024",
+    "locuteur": "Ayase",
+    "en": "Hah! That cueball? As if!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0025",
+    "locuteur": "Ms. Saeko",
+    "en": "Oh, he's not really all that bad.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0026",
+    "locuteur": "Ms. Saeko",
+    "en": "But anyway! You should stop chitchatting{SAUT}and get going before it's too late!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0027",
+    "locuteur": "Yukino",
+    "en": "Right!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0028",
+    "locuteur": "Brown",
+    "en": "C'mon, what's there to worry about?{SAUT}I'll be with them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0029",
+    "locuteur": "Brown",
+    "en": "C'mon, honey... Don't spoil that pretty{SAUT}face with tears.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0031",
+    "locuteur": "Elly",
+    "en": "The school's returned to normal...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0032",
+    "locuteur": "Elly",
+    "en": "But that's only the beginning.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0033",
+    "locuteur": "Elly",
+    "en": "Our true battle comes later. First, we{SAUT}must restore peace to our city.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0034",
+    "locuteur": "Elly",
+    "en": "We're still young... there's a lot of{SAUT}life yet to fight through.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0035",
+    "locuteur": "Elly",
+    "en": "I'll rise to the challenge!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0036",
+    "locuteur": "Nanjo",
+    "en": "Where there's a will, there's a way...{SAUT}That's how I feel with friends like these.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0037",
+    "locuteur": "Nanjo",
+    "en": "Rest assured, Ms. Saeko, we'll find{SAUT}Masao and Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0038",
+    "locuteur": "Nanjo",
+    "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0039",
+    "locuteur": "Ayase",
+    "en": "Y'know, up to now, I've just been doing{SAUT}whatever I feel like...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0040",
+    "locuteur": "Ayase",
+    "en": "But when I see Yukino and the others try{SAUT}so hard, I feel like I can do way better.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0041",
+    "locuteur": "Ayase",
+    "en": "I dunno how exactly, but that can wait{SAUT}until after we save the town.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0042",
+    "locuteur": "Ayase",
+    "en": "Catch you later, Ms. Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0043",
+    "locuteur": "Yukino",
+    "en": "Once the town's back to normal, I'm going{SAUT}to hit the books.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0044",
+    "locuteur": "Yukino",
+    "en": "Just you watch! I'll be just as awesome{SAUT}a teacher as you, Ms. Saeko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0045",
+    "locuteur": "Yukino",
+    "en": "Haha... I'll see you later, yeah?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0046",
+    "locuteur": "Ms. Saeko",
+    "en": "Thanks for everything, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0047",
+    "locuteur": "Ms. Saeko",
+    "en": "Looks like they have ideas for their{SAUT}future. How about you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0048",
+    "locuteur": "Ms. Saeko",
+    "en": "Do you have a future in mind?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0049",
+    "locuteur": "Ms. Saeko",
+    "en": "Great!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0050",
+    "locuteur": "Ms. Saeko",
+    "en": "You've done something amazing here.{SAUT}Savor that feeling and give it your all!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0051",
+    "locuteur": "Ms. Saeko",
+    "en": "I see...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0052",
+    "locuteur": "Ms. Saeko",
+    "en": "Well, you're still young. No need to rush.{SAUT}Anyway, look after them for me, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0053",
+    "locuteur": "Ms. Saeko",
+    "en": "Phew. Now then...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0054",
+    "locuteur": "Ms. Saeko",
+    "en": "Hm? Hey there, little guy. Where did{SAUT}you come from?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:205:0055",
+    "locuteur": "Ms. Saeko",
+    "en": "Are you here to wish them luck, too?{SAUT}Haha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0000",
+    "locuteur": "Nanjo",
+    "en": "Masao!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0001",
+    "locuteur": "Brown",
+    "en": "M-Mark!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0002",
+    "locuteur": "Ayase",
+    "en": "Huh? Hey, where's Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0003",
+    "locuteur": "Mark",
+    "en": "Oh, man... Guys, I need your help!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0004",
+    "locuteur": "Yukino",
+    "en": "Did something happen to Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0005",
+    "locuteur": "Mark",
+    "en": "I'm sorry... I never shoulda let it{SAUT}happen...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0006",
+    "locuteur": "Mark",
+    "en": "We went to the SEBEC building, but the{SAUT}demons inside got her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0007",
+    "locuteur": "Mark",
+    "en": "They're pretty tough, and I don't think{SAUT}I can handle 'em on my own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0009",
+    "locuteur": "Elly",
+    "en": "We must rescue her, quickly!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0010",
+    "locuteur": "Brown",
+    "en": "Aha! Now's the time for the amazing hero{SAUT}Brown and his flunkies to shine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0011",
+    "locuteur": "Yukino",
+    "en": "Alright!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:207:0012",
+    "locuteur": "Everyone",
+    "en": "Let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

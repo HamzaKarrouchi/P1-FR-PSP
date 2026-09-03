@@ -1,0 +1,392 @@
+[
+  {
+    "id": "E3.BIN:104:0000",
+    "locuteur": "Yukino",
+    "en": "There's no end to this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0001",
+    "locuteur": "Yukino",
+    "en": "The clock's ticking. If we don't stop this{SAUT}at some point, we might be in trouble.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0002",
+    "locuteur": "Ayase",
+    "en": "Just being around treasure boxes makes me,{SAUT}like, totally happy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0003",
+    "locuteur": "Nanjo",
+    "en": "After so many battles together, I have a{SAUT}higher opinion of you. You're strong.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0004",
+    "locuteur": "Nanjo",
+    "en": "Anyway... I'm only putting out feelers,{SAUT}but once we defeat the Snow Queen...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0005",
+    "locuteur": "Nanjo",
+    "en": "Would you mind coming along to rescue{SAUT}Masao? More manpower can hardly hurt.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0006",
+    "locuteur": "Nanjo",
+    "en": "I won't force you... just consider it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0007",
+    "locuteur": "Brown",
+    "en": "Treasure boxes! What could be greater!?{SAUT}Man! Treasure boxes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0008",
+    "locuteur": "Brown",
+    "en": "Everyone knows what they are, but how{SAUT}many have actually touched a real one!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0009",
+    "locuteur": "Elly",
+    "en": "Please do keep our time limitations{SAUT}in mind.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:104:0010",
+    "en": "{FERME}> Open the box?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0000",
+    "locuteur": "Yukino",
+    "en": "I hope Ms. Saeko's okay... Dammit...{SAUT}We need to hurry this up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0001",
+    "locuteur": "Ayase",
+    "en": "This totally sucks! What am I gonna do{SAUT}without a Persona!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0002",
+    "locuteur": "Nanjo",
+    "en": "We never previously realized the existence{SAUT}of Personas...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0003",
+    "locuteur": "Nanjo",
+    "en": "But I now realize how taxing it can be{SAUT}when one suddenly loses it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0004",
+    "locuteur": "Brown",
+    "en": "Damn! Fighting without a Persona?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0005",
+    "locuteur": "Brown",
+    "en": "This tower has really strong monsters{SAUT}in it, too! This is no joke!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0006",
+    "locuteur": "Elly",
+    "en": "It seems that if you transgress in some{SAUT}way while in this tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0007",
+    "locuteur": "Elly",
+    "en": "There is a rule that you will pay with{SAUT}your \"life.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:105:0008",
+    "locuteur": "Elly",
+    "en": "But in our case, it seems we'll lose our{SAUT}Personas instead of our lives.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0000",
+    "locuteur": "Yukino",
+    "en": "Not that it matters, but the treasure{SAUT}boxes in this tower are shaped funny.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0001",
+    "locuteur": "Ayase",
+    "en": "I'm hungry... Do any of these treasure{SAUT}boxes have, like, food in 'em?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0002",
+    "locuteur": "Nanjo",
+    "en": "Supplies are only meaningful if you put{SAUT}them to use.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0003",
+    "locuteur": "Nanjo",
+    "en": "We must take care to ensure that they{SAUT}don't end up being useless.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0004",
+    "locuteur": "Brown",
+    "en": "Even if we had more time, it still{SAUT}wouldn't be enough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0005",
+    "locuteur": "Brown",
+    "en": "This \"Eternal Night\" thingy could happen{SAUT}any second... What a drag.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0006",
+    "locuteur": "Elly",
+    "en": "Eternal Night...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:106:0007",
+    "locuteur": "Elly",
+    "en": "What would that world be like? Despite my{SAUT}curiosity, I dread it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:121:0002",
+    "locuteur": "Agastya Tree",
+    "en": "Take care on your journey, young ones...。{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Prenez soin de vous, jeunes gens...。{ATTENTE}"
+  },
+  {
+    "id": "E4.BIN:192:0000",
+    "en": "monument.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "E4.BIN:192:0001",
+    "en": "{PAGE}> \"Man's deadly sin of Lust is{SAUT}interred here.\"{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E4.BIN:192:0002",
+    "en": "{PAGE}> Examine the monument?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 17
+  },
+  {
+    "id": "E4.BIN:192:0003",
+    "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8402][D012] (*PLAY_SFX*)[9802][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5B00]Í (*SET_CHOICE*)[4400]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8402](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:192:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Pearl(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Dark Wave Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:193:0001",
+    "en": "{PAGE}> \"Man's deadly sin of Gluttony is{SAUT}interred here.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:193:0003",
+    "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8302][D812] (*PLAY_SFX*)[9702][A812] (*SCENE_LOAD*) [D812] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5A00]Í (*SET_CHOICE*)[4D00]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E012] (*SHOW_MSG*) (*PLAY_BGM*)[8302](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:193:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Ruby(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Holywrit Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:194:0003",
+    "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8502][D012] (*PLAY_SFX*)[9902][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5900]Í (*SET_CHOICE*)[4600]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8502](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:194:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Emerald(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Ebon Rope Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:195:0001",
+    "en": "{PAGE}> \"Man's deadly sin of Wrath is{SAUT}interred here.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:195:0003",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8002][D012] (*PLAY_SFX*)[9402][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5700]Í (*SET_CHOICE*)[2700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8002](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:195:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Diamond(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Evil Fire Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:196:0001",
+    "en": "{PAGE}> \"Man's deadly sin of Sloth is{SAUT}interred here.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:196:0003",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8202][D012] (*PLAY_SFX*)[9602][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5800]Í (*SET_CHOICE*)[4500]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8202](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:196:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Sapphire(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Doggerel Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:197:0001",
+    "en": "{PAGE}> \"Man's deadly sin of Pride is{SAUT}interred here.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:197:0003",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8102][D012] (*PLAY_SFX*)[9502][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5600]Í (*SET_CHOICE*)[3700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8102](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:197:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0600](*TEXTBOX_PARAM,0500*)Alexandrite(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:198:0001",
+    "en": "{PAGE}> \"White and black... Two nightmares{SAUT}are interred here.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:198:0003",
+    "en": "(*UNK_0E,0000*){FERME}   (*PLAY_SFX*)[9302][E012] (*PLAY_SFX*)[9A02][B812] (*SCENE_LOAD*) [E012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[7F01]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E812] (*SHOW_MSG*) (*PLAY_BGM*)[9302](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:198:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ruins Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:198:0005",
+    "en": "{PAGE}> (*APELLIDO_HEROE*) and the others have conquered{SAUT}the Mikage Ruins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:201:0000",
+    "en": "the monument...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "E4.BIN:201:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8902][6812] (*PLAY_SFX*)[9B02][5012] (*SCENE_LOAD*) [6812] (*HIDE_MSG*) (*WAIT_INPUT*) [7012] (*SHOW_MSG*) (*PLAY_BGM*)[8902](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:202:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8A02][6812] (*PLAY_SFX*)[9C02][5012] (*SCENE_LOAD*) [6812] (*HIDE_MSG*) (*WAIT_INPUT*) [7012] (*SHOW_MSG*) (*PLAY_BGM*)[8A02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:203:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8B02][6812] (*PLAY_SFX*)[9D02][5012] (*SCENE_LOAD*) [6812] (*HIDE_MSG*) (*WAIT_INPUT*) [7012] (*SHOW_MSG*) (*PLAY_BGM*)[8B02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:204:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8C02][6812] (*PLAY_SFX*)[9E02][5012] (*SCENE_LOAD*) [6812] (*HIDE_MSG*) (*WAIT_INPUT*) [7012] (*SHOW_MSG*) (*PLAY_BGM*)[8C02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:205:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[8D02][C812] (*PLAY_SFX*)[9F02][B012] (*SCENE_LOAD*) [C812] (*HIDE_MSG*) (*WAIT_INPUT*) [D012] (*SHOW_MSG*) (*PLAY_BGM*)[8D02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:206:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[8E02][C812] (*PLAY_SFX*)[A002][B012] (*SCENE_LOAD*) [C812] (*HIDE_MSG*) (*WAIT_INPUT*) [D012] (*SHOW_MSG*) (*PLAY_BGM*)[8E02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:207:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[8F02][C812] (*PLAY_SFX*)[A102][B012] (*SCENE_LOAD*) [C812] (*HIDE_MSG*) (*WAIT_INPUT*) [D012] (*SHOW_MSG*) (*PLAY_BGM*)[8F02](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:208:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[9002][C812] (*PLAY_SFX*)[A202][B012] (*SCENE_LOAD*) [C812] (*HIDE_MSG*) (*WAIT_INPUT*) [D012] (*SHOW_MSG*) (*PLAY_BGM*)[9002](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:209:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[9102][C812] (*PLAY_SFX*)[A302][B012] (*SCENE_LOAD*) [C812] (*HIDE_MSG*) (*WAIT_INPUT*) [D012] (*SHOW_MSG*) (*PLAY_BGM*)[9102](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:210:0002",
+    "en": "(*UNK_0E,0000*){FERME}(*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [5812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A702](*UNK_28*)[7901](*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [9811] (*SET_ANIM_LAYER*) [8812] (*SHOW_MSG*) (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_BGM*)[A802](*UNK_28*)[7901](*SCENE_INIT*) (*PLAY_SFX*)[9202][D812] (*PLAY_SFX*)[A402][B012] (*SCENE_LOAD*) [D812] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[8001]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E012] (*SHOW_MSG*) (*PLAY_BGM*)[9202](*SCENE_INIT*) (*SCENE_INIT*)   > The malicious power emanating from{SAUT}the monument has subsided...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:210:0003",
+    "en": "{PAGE}> Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:210:0004",
+    "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Snow Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E4.BIN:210:0005",
+    "en": "{PAGE}> (*APELLIDO_HEROE*) and the others have conquered{SAUT}Devil's Peak.{ATTENTE}",
+    "fr": ""
+  }
+]

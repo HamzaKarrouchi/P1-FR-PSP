@@ -1,0 +1,682 @@
+[
+  {
+    "id": "E2.BIN:165:0000",
+    "locuteur": "Maki",
+    "en": "I feel like I've seen this place before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0001",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*)... Are your weapons ready?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0002",
+    "locuteur": "Nanjo",
+    "en": "(*APELLIDO_HEROE*)... Are your weapons ready?{SAUT}We won't let him escape this time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0003",
+    "locuteur": "Mark",
+    "en": "Just a little longer... Soon we'll beat{SAUT}Kandori and get the town back to normal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0004",
+    "locuteur": "Mark",
+    "en": "Let's get that Kandori and bring this{SAUT}town back to normal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0005",
+    "locuteur": "Elly",
+    "en": "Is it me, or do you hear the loud{SAUT}clanking of machinery?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0006",
+    "locuteur": "Brown",
+    "en": "...I wish ＊I＊ had my own scientists.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0007",
+    "locuteur": "Ayase",
+    "en": "Those guys are the worst! All they care{SAUT}about is their own research!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0008",
+    "locuteur": "Scientist",
+    "en": "Is Kandori planning on staying in a safe{SAUT}location while the demons get us!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0009",
+    "locuteur": "Scientist",
+    "en": "I don't see Dr. Nicholai anywhere...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0010",
+    "locuteur": "Scientist",
+    "en": "I knew he had his own secret projects,{SAUT}but he must've been in with Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:165:0011",
+    "locuteur": "Scientist",
+    "en": "At this rate, all our valuable test data{SAUT}will be ruined! My precious research...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0000",
+    "locuteur": "Maki",
+    "en": "What does SEBEC do, anyway?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0001",
+    "locuteur": "Maki",
+    "en": "Let's hurry after Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0002",
+    "locuteur": "Nanjo",
+    "en": "I've never gotten along with Kandori,{SAUT}ever since meeting him at a party.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0003",
+    "locuteur": "Nanjo",
+    "en": "I wish I had known his scheme then...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0004",
+    "locuteur": "Mark",
+    "en": "It's possible we'll all end up dead.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0005",
+    "locuteur": "Mark",
+    "en": "And y'know, that's fine, but imagining{SAUT}that hag...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0006",
+    "locuteur": "Mark",
+    "en": "I mean, my mom, crying over it...{SAUT}It bugs the hell out of me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0007",
+    "locuteur": "Elly",
+    "en": "I wonder what's going to happen next.{SAUT}Ahaha... I can hardly contain myself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0008",
+    "locuteur": "Elly",
+    "en": "Let's hurry after Mr. Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0009",
+    "locuteur": "Brown",
+    "en": "C'mon, let's go beat that Kandori jerk!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0010",
+    "locuteur": "Brown",
+    "en": "Th-There's no way I'm letting him get{SAUT}to me, y'know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0011",
+    "locuteur": "Brown",
+    "en": "Are, uh... are we really in a rush{SAUT}to get to Kandori...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:166:0012",
+    "locuteur": "Ayase",
+    "en": "Tch, I'm like, totally not scared.{SAUT}...Okay, okay, I kinda am.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0000",
+    "locuteur": "Yuko",
+    "en": "My father's going to hire me a bodyguard{SAUT}so I don't get attacked by demons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0001",
+    "locuteur": "Yuko",
+    "en": "Why don't you get one, too? Oh...{SAUT}I suppose that's impossible for you, hmm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0002",
+    "locuteur": "Yuko",
+    "en": "It would cost quite a bit of money,{SAUT}after all. So sorry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0003",
+    "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Yuko Himeno{SAUT}You knew her as a kind girl working part-{SAUT}time to support her family, but...(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:167:0004",
+    "locuteur": "Mark",
+    "en": "...That was Yuko, right? Am I seein'{SAUT}things? Did she used to be like that...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0005",
+    "locuteur": "Yuko",
+    "en": "Oh my, Nanjo. Are you still mingling{SAUT}with that sort?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0006",
+    "locuteur": "Nanjo",
+    "en": "...It's not as though I enjoy it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0007",
+    "locuteur": "Mark",
+    "en": "\"That sort\"? Is she talkin' about us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0008",
+    "locuteur": "Brown",
+    "en": "She's... she's talking about me! Hey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0009",
+    "locuteur": "Ayase",
+    "en": "What the hell!? Was Yuko always this{SAUT}stuck-up?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0010",
+    "locuteur": "Elly",
+    "en": "...\"That sort\"? I thought for a moment{SAUT}I heard her say something like that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0011",
+    "locuteur": "Elly",
+    "en": "But I must have been hearing things,{SAUT}surely?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0012",
+    "locuteur": "Nanjo",
+    "en": "True, they're a pack of imbeciles and{SAUT}could be considered \"that sort\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0013",
+    "locuteur": "Nanjo",
+    "en": "But then why does it anger me so to{SAUT}hear others say it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0014",
+    "locuteur": "Nanjo",
+    "en": "What on earth...? Did your dinner{SAUT}disagree with you, Yuko?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0015",
+    "locuteur": "Mark",
+    "en": "Whaddaya mean, \"that sort\"!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0016",
+    "locuteur": "Brown",
+    "en": "Y'know, I've always thought I should{SAUT}choose my friends more carefully!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0017",
+    "locuteur": "Elly",
+    "en": "It's good to be self-confident, but...{SAUT}That's going too far.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0018",
+    "locuteur": "Ayase",
+    "en": "That's SO not like Yuko! She's not{SAUT}that kinda girl!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0019",
+    "locuteur": "Yuko",
+    "en": "Yes? What is it? Don't speak to me{SAUT}without a good reason!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0020",
+    "locuteur": "Male student",
+    "en": "I can't stand Yuko! Why is Maki still{SAUT}friends with her, anyway?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:167:0021",
+    "locuteur": "Female student",
+    "en": "Everyone loves Maki and everyone hates{SAUT}Yuko. But oddly enough, they're friends.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0000",
+    "locuteur": "Brown",
+    "en": "Chisato sure was pretty...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0001",
+    "locuteur": "Brown",
+    "en": "Hey Mark, why don't you go get yourself{SAUT}kidnapped in her place?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0002",
+    "locuteur": "Nanjo",
+    "en": "Chisato Kasai... So she's missing here,{SAUT}too. The fates must have it in for her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0003",
+    "locuteur": "Mark",
+    "en": "Man, I forget sometimes what a good{SAUT}painter Maki is.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0004",
+    "locuteur": "Elly",
+    "en": "A girl in black... Very strange indeed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0005",
+    "locuteur": "Ayase",
+    "en": "I wonder if Chisato really liked Yosuke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0006",
+    "locuteur": "Ayase",
+    "en": "I mean, he wasn't exactly her type.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0007",
+    "locuteur": "Male student",
+    "en": "Maki's painting won another art contest!{SAUT}I'm pretty proud of her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0008",
+    "locuteur": "Male student",
+    "en": "Chisato, on the other hand, never won{SAUT}anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0009",
+    "locuteur": "Male student",
+    "en": "Plus she got taken by the girl in black...{SAUT}She's got some seriously bad luck.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0010",
+    "locuteur": "Female student",
+    "en": "Did you hear? Chisato got kidnapped by{SAUT}the girl in black.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0011",
+    "locuteur": "Female student",
+    "en": "I feel so bad for Yosuke that I can{SAUT}hardly stand to look at him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:168:0012",
+    "locuteur": "Female student",
+    "en": "Maki was good friends with Chisato.{SAUT}She must be awfully worried.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0000",
+    "locuteur": "Maki",
+    "en": "Ms. Saeko is always so sad! She's kinda{SAUT}getting me down, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0001",
+    "locuteur": "Brown",
+    "en": "Huh? Is something up, Ms. Saeko?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0002",
+    "locuteur": "Brown",
+    "en": "It feels wrong when Ms. Saeko doesn't{SAUT}have enough energy to light the room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0003",
+    "locuteur": "Nanjo",
+    "en": "Even Ms. Saeko is acting strangely...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0004",
+    "locuteur": "Nanjo",
+    "en": "I'm sure Yukino would be shocked to see{SAUT}Ms. Saeko this way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0005",
+    "locuteur": "Mark",
+    "en": "H-Huh? {PAUSE}[2000]Hey, what's wrong, Ms. Saeko?{SAUT}And don't just say you overate again!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0006",
+    "locuteur": "Mark",
+    "en": "We might be better off with this one. She{SAUT}won't make us do push-ups as punishment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0007",
+    "locuteur": "Elly",
+    "en": "This version of Ms. Saeko is silent...?{PAUSE}[2000]{SAUT}I wonder if she's angry about something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0008",
+    "locuteur": "Elly",
+    "en": "Her face is the same, but her altered{SAUT}demeanor makes her seem like someone else.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0009",
+    "locuteur": "Ayase",
+    "en": "Ewww... she's all mopey.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0010",
+    "locuteur": "Ayase",
+    "en": "Our Ms. Saeko is way prettier.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0011",
+    "locuteur": "Reiji",
+    "en": "...{PAUSE}[2000]Hmph. I like her better now that{SAUT}she's not so loud.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0012",
+    "locuteur": "Nurse Natsumi",
+    "en": "Oh, (*APELLIDO_HEROE*), did you hurt yourself?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0013",
+    "locuteur": "Mark",
+    "en": "Ooh, it's Nurse Natsumi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0014",
+    "locuteur": "Ms. Saeko",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:169:0015",
+    "locuteur": "Brown",
+    "en": "Hey, Ms. Saeko! Long time no see!{SAUT}You're beautiful as always...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0016",
+    "locuteur": "Ayase",
+    "en": "Heeey! It's Ms. Saeko! Look, Ms. Saeko,{SAUT}it's me, Ayase! Could you tell?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0017",
+    "locuteur": "Elly",
+    "en": "Oh, Ms. Saeko... I'm sorry I caused you{SAUT}such trouble before...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0018",
+    "locuteur": "Nanjo",
+    "en": "Ah, Ms. Saeko. It feels as though we{SAUT}haven't seen you in a while.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0019",
+    "locuteur": "Mark",
+    "en": "She's... {PAUSE}[3000]She's all depressed...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0020",
+    "locuteur": "Nurse Natsumi",
+    "en": "That was quite a shock, a moment ago!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0021",
+    "locuteur": "Nurse Natsumi",
+    "en": "But I hear you rescued us, so thanks{SAUT}very much!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0022",
+    "locuteur": "Nanjo",
+    "en": "She's... {PAUSE}[3000]She's so despondent...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0026",
+    "locuteur": "Nurse Natsumi",
+    "en": "If you're not feeling well, come to the{SAUT}infirmary! Let's have a look at you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:169:0027",
+    "locuteur": "Nurse Natsumi",
+    "en": "Alright, that should do it. Don't let{SAUT}the demons get you, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:170:0000",
+    "locuteur": "Brown",
+    "en": "Huh? Wasn't that dude the student council{SAUT}president at our school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0001",
+    "locuteur": "Nanjo",
+    "en": "So someone else is president here...{SAUT}A wise decision.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0002",
+    "locuteur": "Nanjo",
+    "en": "Though it doesn't seem as though there{SAUT}was a new election...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0003",
+    "locuteur": "Mark",
+    "en": "Heh, guy got what he deserved!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0004",
+    "locuteur": "Mark",
+    "en": "The one before had big plans, but did{SAUT}diddly squat.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0005",
+    "locuteur": "Elly",
+    "en": "Now this is the way a student council{SAUT}is supposed to be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0006",
+    "locuteur": "Ayase",
+    "en": "I hated that other president. He was{SAUT}like, all high and mighty.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0007",
+    "locuteur": "Student council member",
+    "en": "What are these fools thinking, passing me{SAUT}over as president!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0008",
+    "locuteur": "Student council member",
+    "en": "I dreamed of going down in St. Hermelin{SAUT}history as a perfect council president!!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0009",
+    "locuteur": "Student council president",
+    "en": "Now that I'm president, I'll see to it{SAUT}that the council works hard for everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0010",
+    "locuteur": "Student council member",
+    "en": "Our president's really into it. It makes{SAUT}us feel like we should try just as hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:170:0011",
+    "locuteur": "Student council member",
+    "en": "He's supposedly trying to be like one of{SAUT}the past presidents... Yama-something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

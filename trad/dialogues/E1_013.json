@@ -1,0 +1,423 @@
+[
+  {
+    "id": "E1.BIN:073:0000",
+    "locuteur": "Yukino",
+    "en": "Wh-What the!? Are we... in space!?{SAUT}What the hell is this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0001",
+    "locuteur": "Yukino",
+    "en": "Huh...? Who're you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0002",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "Um... hello.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0003",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "I'm Kumi Hirose. The Snow Queen entrusted{SAUT}me with guarding this tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0004",
+    "locuteur": "Kumi",
+    "en": "I've, um... been ordered to kill you{SAUT}all, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0005",
+    "locuteur": "Kumi",
+    "en": "To be honest, I'd rather not.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0006",
+    "locuteur": "Kumi",
+    "en": "So why don't you surrender? That way,{SAUT}we can live happily in the Dream World.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0007",
+    "locuteur": "Kumi",
+    "en": "That way... at least I can spare{SAUT}your life.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0008",
+    "locuteur": "Nanjo",
+    "en": "Kumi Hirose...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0009",
+    "locuteur": "Nanjo",
+    "en": "A girl like you is this tower's guardian?{SAUT}Enough mockery!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0010",
+    "locuteur": "Nanjo",
+    "en": "You wear our school's uniform, I see..{SAUT}What grade are you in?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0011",
+    "locuteur": "Nanjo",
+    "en": "If you're trying to play a prank on us,{SAUT}you've chosen a singularly bad time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0012",
+    "locuteur": "Nanjo",
+    "en": "What are you doing here!? Answer me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0013",
+    "locuteur": "Brown",
+    "en": "Hey, wait a sec. You're a St. Hermelin{SAUT}girl, I can tell by the uniform.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0014",
+    "locuteur": "Brown",
+    "en": "So a cutie like you is the boss here?{SAUT}Haha, gimme a break! Dream on...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0015",
+    "locuteur": "Ayase",
+    "en": "What, you think we're dumb or something!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0016",
+    "locuteur": "Ayase",
+    "en": "How can a scrawny, depressed-looking,{SAUT}four-eyes like you be a boss!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0017",
+    "locuteur": "Kumi",
+    "en": "Hehe... You shouldn't judge people by{SAUT}their looks...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0018",
+    "locuteur": "Kumi",
+    "en": "I could kill you fools right now,{SAUT}you know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0019",
+    "locuteur": "Kumi",
+    "en": "It's always the same... No one ever{SAUT}listens to what I say!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0020",
+    "locuteur": "Kumi",
+    "en": "Everyone is so stupid...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0021",
+    "locuteur": "Kumi",
+    "en": "Well, I've had enough. I want you all{SAUT}out of my sight... forever.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0022",
+    "locuteur": "Nanjo",
+    "en": "What the--Can you feel that? Was what{SAUT}she said true, then!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0023",
+    "locuteur": "Nanjo",
+    "en": "Her intentions are crystal clear...{SAUT}She's going to attack!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0024",
+    "locuteur": "Elly",
+    "en": "Oh my... That sudden, evil aura...{SAUT}Is she really going to...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0025",
+    "locuteur": "Elly",
+    "en": "Watch out, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0026",
+    "locuteur": "Kumi",
+    "en": "Hehe... Sir Hypnos... Sir Hypnos...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0027",
+    "locuteur": "Kumi",
+    "en": "Sir Hypnos, my Prince! Please crush them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0028",
+    "locuteur": "Kumi",
+    "en": "They're villains who came to hurt me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0029",
+    "locuteur": "Yukino",
+    "en": "A Persona!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0030",
+    "locuteur": "Yukino",
+    "en": "Okay... now I get it. No point in{SAUT}holding back, guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0031",
+    "locuteur": "Yukino",
+    "en": "Let's do this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0032",
+    "locuteur": "Yukino",
+    "en": "Well, here we are...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0033",
+    "locuteur": "Yukino",
+    "en": "Right, Kumi!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0034",
+    "locuteur": "Yukino",
+    "en": "Sorry to keep you waiting... But we're{SAUT}here now to straighten you out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0035",
+    "locuteur": "Kumi",
+    "en": "So you came...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0036",
+    "locuteur": "Kumi",
+    "en": "You fools. You can't see outside the{SAUT}bounds of reality...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0037",
+    "locuteur": "Kumi",
+    "en": "You can't grasp or accept the paradise{SAUT}of dreams!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0038",
+    "locuteur": "Nanjo",
+    "en": "Excuse me, but who's calling who a fool?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0039",
+    "locuteur": "Nanjo",
+    "en": "You're the coward who lived her life{SAUT}constantly fleeing from her problems...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0040",
+    "locuteur": "Nanjo",
+    "en": "And now you flee even from that life!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0041",
+    "locuteur": "Nanjo",
+    "en": "What more is there to say? Prepare{SAUT}yourself to face us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0042",
+    "locuteur": "Brown",
+    "en": "Kumi... I dunno what to say...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0043",
+    "locuteur": "Brown",
+    "en": "It really tears me up having to fight{SAUT}a cutie like you... But I gotta.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0044",
+    "locuteur": "Brown",
+    "en": "But I gotta! For truth, justice,{SAUT}and the St. Hermelin way!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0045",
+    "locuteur": "Brown",
+    "en": "Plus I gotta show off all these wicked{SAUT}skills I know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0046",
+    "locuteur": "Ayase",
+    "en": "Like, whatever!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0047",
+    "locuteur": "Ayase",
+    "en": "Us five can take a nerd like you any day!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0048",
+    "locuteur": "Ayase",
+    "en": "Now's the time to apologize if you're{SAUT}gonna!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0049",
+    "locuteur": "Kumi",
+    "en": "Judging others by their appearances only{SAUT}proves how foolish you are...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0050",
+    "locuteur": "Kumi",
+    "en": "Sir Hypnos!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:073:0051",
+    "locuteur": "Kumi",
+    "en": "Help me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0052",
+    "locuteur": "Kumi",
+    "en": "Defeat them, please!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0053",
+    "locuteur": "Nanjo",
+    "en": "What the devil...!? That's the figure we{SAUT}saw in the Dream World!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0054",
+    "locuteur": "Nanjo",
+    "en": "He wasn't merely a part of her dream?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0055",
+    "locuteur": "Elly",
+    "en": "Could that be... Kumi's Persona!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0056",
+    "locuteur": "Elly",
+    "en": "Then the Hypnos we met in the Dream{SAUT}World wasn't a product of her dream!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0058",
+    "locuteur": "Kumi",
+    "en": "They've invaded my dream to bully me!{SAUT}Please, crush them!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0059",
+    "locuteur": "Yukino",
+    "en": "Hmph! If she's a Persona-user, there's{SAUT}no need to pull our punches!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:073:0060",
+    "locuteur": "Yukino",
+    "en": "Alright guys, here we go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

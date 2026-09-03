@@ -1,0 +1,649 @@
+[
+  {
+    "id": "E1.BIN:119:0000",
+    "locuteur": "Yukino",
+    "en": "Who's that girl with the camera around{SAUT}her neck?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0001",
+    "locuteur": "Yukino",
+    "en": "That Mariko girl's a real weirdo.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0002",
+    "locuteur": "Yukino",
+    "en": "Same goes for Tsutomu. I just don't get{SAUT}these guys who're into the occult.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0003",
+    "locuteur": "Ayase",
+    "en": "That girl's freaky. Like, totally.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0004",
+    "locuteur": "Ayase",
+    "en": "Her pink uniform's cute, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0005",
+    "locuteur": "Nanjo",
+    "en": "Who is that girl? She doesn't appear to{SAUT}be from our school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0006",
+    "locuteur": "Nanjo",
+    "en": "That Mariko... She certainly is enjoying{SAUT}the situation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0007",
+    "locuteur": "Brown",
+    "en": "That's Yamakumo High's uniform. They're{SAUT}a pretty liberal school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0008",
+    "locuteur": "Brown",
+    "en": "And wow, she's pretty cute! I wonder who{SAUT}she is...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0009",
+    "locuteur": "Brown",
+    "en": "Maybe I should explore this tower{SAUT}with Mariko...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0010",
+    "locuteur": "Elly",
+    "en": "Whatever is that girl doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0011",
+    "locuteur": "Elly",
+    "en": "She may be even more of a danger to{SAUT}herself than Tsutomu...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0012",
+    "locuteur": "Mariko",
+    "en": "Huh? You wanna know if anything used to{SAUT}be in that chest over there?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0013",
+    "locuteur": "Mariko",
+    "en": "Yeah, sure! This broken mirror piece!{SAUT}I can feel strong spiritual energy in it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0014",
+    "locuteur": "Mariko",
+    "en": "It's gotta be some kinda powerful{SAUT}supernatural object.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0015",
+    "locuteur": "Mariko",
+    "en": "Huh? You want it...? Hmmmm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0016",
+    "locuteur": "Mariko",
+    "en": "How 'bout this? I'll sell it for{SAUT}5,000 yen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0017",
+    "locuteur": "Mariko",
+    "en": "I found it first, after all... It's not{SAUT}such a bad price, is it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0018",
+    "en": "{FERME}   > Buy the Mirror Shard from her?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0019",
+    "locuteur": "Mariko",
+    "en": "Thanks!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0020",
+    "locuteur": "Mariko",
+    "en": "I've been taking roll after roll of pics{SAUT}here, so I'm nearly out of film.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0021",
+    "locuteur": "Mariko",
+    "en": "Now I can buy some more!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0023",
+    "locuteur": "Mariko",
+    "en": "Oh, so you don't want it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0024",
+    "locuteur": "Mariko",
+    "en": "That's cool. I'll just send it to the{SAUT}Atlantis News and have 'em appraise it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0025",
+    "locuteur": "Mariko",
+    "en": "Huh? You don't even have 5,000 yen?{SAUT}＊sigh＊ That's just sad!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0026",
+    "locuteur": "Mariko",
+    "en": "Tell you what, you can work it off as{SAUT}my assistant.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0027",
+    "locuteur": "Mariko",
+    "en": "What? No way...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0028",
+    "locuteur": "Mariko",
+    "en": "Then fork over the cash!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0029",
+    "locuteur": "Mariko",
+    "en": "I'm one lucky skunk!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0030",
+    "locuteur": "Mariko",
+    "en": "It's not every day you get to take photos{SAUT}of the afterlife!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0031",
+    "locuteur": "Mariko",
+    "en": "I'm gonna send these in to the Fortean{SAUT}Times as soon as I get back!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:119:0032",
+    "en": "{FERME}> The chest is empty.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0000",
+    "locuteur": "Yukino",
+    "en": "Looks like we've reached Yuriko's room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0001",
+    "locuteur": "Yukino",
+    "en": "But this isn't what I was expecting from{SAUT}her cutesy attitude...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0002",
+    "locuteur": "Yukino",
+    "en": "Hey, Yuriko! You know we're here, right?{SAUT}Hurry up and come on out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0003",
+    "locuteur": "Yukino",
+    "en": "Or are you up to something again?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0004",
+    "locuteur": "Yuriko",
+    "en": "Geez Louise! You don't have to wake the{SAUT}dead, y'know! I can hear you just fine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0005",
+    "locuteur": "Yuriko",
+    "en": "Anyway... You have a really nice face!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0006",
+    "locuteur": "Yuriko",
+    "en": "How 'bout you die here? That way you can{SAUT}keep your looks forever!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0007",
+    "locuteur": "Yuriko",
+    "en": "If you keep on living, you'll get older{SAUT}and end up all wrinkly and ugly!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0008",
+    "locuteur": "Yuriko",
+    "en": "So c'mon, why not die right now, when{SAUT}you're most beautiful, like I did?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0009",
+    "locuteur": "Yuriko",
+    "en": "Then we can live in this tower together,{SAUT}looking gorgeous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0010",
+    "locuteur": "Yuriko",
+    "en": "Does that sound great or what? C'mon, we{SAUT}totally should!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0011",
+    "locuteur": "Yuriko",
+    "en": "It'll be soooo much fun!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0012",
+    "locuteur": "Yuriko",
+    "en": "I'm super glad I came to this tower,{SAUT}like the Snow Queen's mask said!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0013",
+    "locuteur": "Yuriko",
+    "en": "I'll stay young and pretty forever{SAUT}and ever!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0014",
+    "locuteur": "Yuriko",
+    "en": "But I was getting a little bored, being{SAUT}here all by my lonesome.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0015",
+    "locuteur": "Yuriko",
+    "en": "And I don't wanna fight you guys, so...{SAUT}Whaddaya say?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0016",
+    "locuteur": "Nanjo",
+    "en": "Do you understand the substance of what{SAUT}you're saying?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0017",
+    "locuteur": "Nanjo",
+    "en": "What you obtained through death and the{SAUT}power of the mask...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0018",
+    "locuteur": "Nanjo",
+    "en": "It is merely the end of your existence,{SAUT}the real world without you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0019",
+    "locuteur": "Nanjo",
+    "en": "Absolute, unending solitude within{SAUT}this tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0020",
+    "locuteur": "Nanjo",
+    "en": "This is not the eternal beauty you{SAUT}wished for!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0021",
+    "locuteur": "Brown",
+    "en": "Huh? Yuriko... what're you saying?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0022",
+    "locuteur": "Brown",
+    "en": "The Snow Queen's mask killed you and now{SAUT}you're the guardian of this tower, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0023",
+    "locuteur": "Brown",
+    "en": "Well, if you're dead now, I guess you{SAUT}won't get any older, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0024",
+    "locuteur": "Brown",
+    "en": "That's not worth throwing away our lives,{SAUT}our futures, in the real world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0025",
+    "locuteur": "Brown",
+    "en": "Sorry, but I'm gonna have to pass on{SAUT}this \"eternal beauty\" gig!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0026",
+    "locuteur": "Yuriko",
+    "en": "Sh-Shut up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0027",
+    "locuteur": "Yuriko",
+    "en": "You guys just don't understand how it is{SAUT}to be a girl!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0028",
+    "locuteur": "Yuriko",
+    "en": "H-How about you? You're totally the cutest{SAUT}one of the bunch.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0029",
+    "locuteur": "Yuriko",
+    "en": "You get what I'm saying, right? You can{SAUT}have eternal beauty, right here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0030",
+    "locuteur": "Yuriko",
+    "en": "We'll stay pretty... and...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0031",
+    "locuteur": "Ayase",
+    "en": "Not one more word!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0032",
+    "locuteur": "Ayase",
+    "en": "Don't think for a second that you and{SAUT}me are the same type!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0033",
+    "locuteur": "Ayase",
+    "en": "You really, and I mean REALLY, piss{SAUT}me off!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0034",
+    "locuteur": "Ayase",
+    "en": "I would never die just to stay pretty!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0035",
+    "locuteur": "Ayase",
+    "en": "You know what? You gave up on dying!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0036",
+    "locuteur": "Ayase",
+    "en": "And growing older!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0037",
+    "locuteur": "Ayase",
+    "en": "And living your life like a normal person!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0038",
+    "locuteur": "Ayase",
+    "en": "You gave up on everything you had!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0039",
+    "locuteur": "Ayase",
+    "en": "Yeah, you heard me! You're a loser who{SAUT}threw away all her responsibilities!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0040",
+    "locuteur": "Nanjo",
+    "en": "Well said, Yuka.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0041",
+    "locuteur": "Nanjo",
+    "en": "\"Even a worm will turn,\" indeed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0042",
+    "locuteur": "Nanjo",
+    "en": "Give it up, Yuriko.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0043",
+    "locuteur": "Nanjo",
+    "en": "Yuka is most like you of all of us, and{SAUT}you can see she has utterly rejected you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0044",
+    "locuteur": "Nanjo",
+    "en": "In other words, no one is buying the{SAUT}nonsense you're trying to peddle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0045",
+    "locuteur": "Elly",
+    "en": "Spot on! That was so cool!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0046",
+    "locuteur": "Elly",
+    "en": "I couldn't have said it better myself,{SAUT}Ayase! You blew me away!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0047",
+    "locuteur": "Elly",
+    "en": "Now then, Yuriko...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0048",
+    "locuteur": "Elly",
+    "en": "Since you've been rejected by Ayase, the{SAUT}one who could identify with you most...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0049",
+    "locuteur": "Elly",
+    "en": "I doubt anyone else here would have time{SAUT}for you! What will you do now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0050",
+    "locuteur": "Yuriko",
+    "en": "But... I...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0051",
+    "locuteur": "Yuriko",
+    "en": "I was only trying to help you guys out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0052",
+    "locuteur": "Yuriko",
+    "en": "I just wanted to have some laughs with{SAUT}everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0053",
+    "locuteur": "Yuriko",
+    "en": "What about that don't you get!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0054",
+    "locuteur": "Yuriko",
+    "en": "That's it! No more Ms. Nice Yuriko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0055",
+    "locuteur": "Yuriko",
+    "en": "You have no idea how strong I am! Beg for{SAUT}your life if you want--I won't listen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0056",
+    "locuteur": "Yuriko",
+    "en": "I'll crush you so hard there'll be nothing{SAUT}left! Not even your soul!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0057",
+    "locuteur": "Yukino",
+    "en": "Heh... As Kei would probably say, \"Only{SAUT}death can cure a fool!\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0058",
+    "locuteur": "Yukino",
+    "en": "Too bad death doesn't seem to have helped{SAUT}in your case!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0059",
+    "locuteur": "Yukino",
+    "en": "Come on, then! We'll kill all the stupid{SAUT}out of you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:128:0060",
+    "locuteur": "Yukino",
+    "en": "Here we go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

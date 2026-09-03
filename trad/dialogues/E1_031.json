@@ -1,0 +1,676 @@
+[
+  {
+    "id": "E1.BIN:209:0000",
+    "locuteur": "Ayase",
+    "en": "Did that do it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0001",
+    "locuteur": "Yukino",
+    "en": "Where's Ms. Saeko!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0002",
+    "locuteur": "Voice",
+    "en": "Hmhmhm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0003",
+    "locuteur": "Voice",
+    "en": "Ahahahaha...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0004",
+    "locuteur": "Ayase",
+    "en": "Wh-Who's that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0005",
+    "locuteur": "Queen",
+    "en": "Saeko, your beacon of hope, has become{SAUT}a sacrifice... as did Tomomi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0006",
+    "locuteur": "Queen",
+    "en": "I am the Persona known as Night Queen,{SAUT}who once dwelled within Tomomi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0007",
+    "locuteur": "Night Queen",
+    "en": "You have my thanks. I am at last freed{SAUT}from my host and the mask that bound me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0008",
+    "locuteur": "Night Queen",
+    "en": "And once the Eternal Night arrives,{SAUT}I shall be complete.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0009",
+    "locuteur": "Night Queen",
+    "en": "I shall enshroud this world in black and{SAUT}white; nothingness and despair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0010",
+    "locuteur": "Night Queen",
+    "en": "Ahahahahahahaha...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0012",
+    "locuteur": "Night Queen",
+    "en": "Fools! Open your eyes and witness the{SAUT}advent of the Eternal Night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0014",
+    "locuteur": "Night Queen",
+    "en": "Hmhmhm... Ahahahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:209:0015",
+    "locuteur": "Yukino",
+    "en": "H-Hey! Wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0000",
+    "locuteur": "Ayase",
+    "en": "Omigod...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0001",
+    "locuteur": "Ayase",
+    "en": "They're frozen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0002",
+    "locuteur": "Brown",
+    "en": "It's over...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0003",
+    "locuteur": "Nanjo",
+    "en": "This is... unthinkable...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0004",
+    "locuteur": "Ayase",
+    "en": "It's... It's all a bad joke, right,{SAUT}Nurse Natsumi!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0005",
+    "locuteur": "Ayase",
+    "en": "C'mon, Tsutomu! I'm talking to you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0006",
+    "locuteur": "Ayase",
+    "en": "Please... say something...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0007",
+    "locuteur": "Yukino",
+    "en": "Look through the hole... The whole town{SAUT}is frozen over...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0008",
+    "locuteur": "Elly",
+    "en": "Then... the only ones left alive are...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0009",
+    "locuteur": "Brown",
+    "en": "H-Hold on... does that mean...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0010",
+    "locuteur": "Ayase",
+    "en": "We're all that's left!? No one else{SAUT}made it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0011",
+    "locuteur": "Ayase",
+    "en": "I did the best I could... We all did,{SAUT}didn't we!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0012",
+    "locuteur": "Ayase",
+    "en": "How could it have ended like this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0013",
+    "locuteur": "Ayase",
+    "en": "No... No, no, no... NO!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:210:0014",
+    "locuteur": "Yukino",
+    "en": "What's gonna happen to us...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0000",
+    "locuteur": "Nanjo",
+    "en": "What's the matter? Are the school gates{SAUT}closed?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0001",
+    "locuteur": "Nanjo",
+    "en": "If we don't hurry, visiting hours at the{SAUT}hospital might end.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0002",
+    "locuteur": "Mark",
+    "en": "Ugh, it's Hamya. I hate that guy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0003",
+    "locuteur": "Mark",
+    "en": "Cheese it, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0004",
+    "locuteur": "Yukino",
+    "en": "Tch... Isn't there one decent teacher here{SAUT}besides Ms. Saeko and the principal?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0005",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Who told you kids that you could go{SAUT}through here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0006",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "If you want to get outside, the school{SAUT}gates are there for a reason!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0007",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Our school's swarming with degenerates{SAUT}like you! Ooishi is far too lenient!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0008",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Now get outta here! I'm going to call{SAUT}a specialist and have this blocked off!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:000:0010",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "You there! I TOLD you not to use{SAUT}this place!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0000",
+    "locuteur": "Meek girl",
+    "en": "Um... (*APELLIDO_HEROE*)? You're going to the{SAUT}hospital, right...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0001",
+    "en": "{FERME}   (*TEXTBOX_PARAM,0300*)> Yuko Himeno{SAUT}Maki's friend. She works part-time to{SAUT}support her family.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0002",
+    "locuteur": "Yuko",
+    "en": "Um, I hate to ask, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0003",
+    "locuteur": "Yuko",
+    "en": "Could you tell Maki I'll give back that{SAUT}book next time I go visit her...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0004",
+    "locuteur": "Yuko",
+    "en": "U-Um, thanks. I'm sorry to ask you to{SAUT}go out of your way like that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0005",
+    "locuteur": "Yuko",
+    "en": "O-Oh... Um, sorry I asked... It's okay,{SAUT}don't worry about it...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0006",
+    "locuteur": "Yukino",
+    "en": "(*APELLIDO_HEROE*)! Don't be such an asshole!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0007",
+    "locuteur": "Yuko",
+    "en": "It was a really good book, so I wanted{SAUT}to read it again before I return it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0008",
+    "locuteur": "Mark",
+    "en": "That good, huh? What's it called?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0009",
+    "locuteur": "Yuko",
+    "en": "U-Um, \"Gate to Paradise\"...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0010",
+    "locuteur": "Mark",
+    "en": "Whoa, that's deep! I didn't know Maki{SAUT}was into that kinda thing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0011",
+    "locuteur": "Nanjo",
+    "en": "If you enjoyed it that much, why not{SAUT}simply buy your own copy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0012",
+    "locuteur": "Yuko",
+    "en": "W-Well... It's kind of expensive... and{SAUT}my brothers and sisters need new clothes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0013",
+    "locuteur": "Yukino",
+    "en": "Nanjo, you moron! Don't you know she{SAUT}works part-time to help her family out?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0014",
+    "locuteur": "Mark",
+    "en": "Alright, well, we gotta get goin', but{SAUT}we'll be sure to pass on your message!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0015",
+    "locuteur": "Yuko",
+    "en": "U-Um... Did you tell Maki...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0016",
+    "locuteur": "Yukino",
+    "en": "Uh, sorry, not yet. But we're going soon,{SAUT}promise.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:001:0017",
+    "locuteur": "Yukino",
+    "en": "...Hey (*APELLIDO_HEROE*)! Let's get to the{SAUT}hospital already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0000",
+    "locuteur": "Nanjo",
+    "en": "Reiji Kido, eh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0001",
+    "locuteur": "Nanjo",
+    "en": "He keeps to himself... I feel as though{SAUT}he does so deliberately.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0002",
+    "locuteur": "Mark",
+    "en": "That girl's supposedly got a thing{SAUT}for Reiji...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0003",
+    "locuteur": "Mark",
+    "en": "Not that I'm jealous or anything!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0004",
+    "locuteur": "Yukino",
+    "en": "We don't have time to deal with this{SAUT}nonsense. Let's get to the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0005",
+    "locuteur": "Smitten girl",
+    "en": "Um, there's a guy named Reiji in your{SAUT}class, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0006",
+    "locuteur": "Smitten girl",
+    "en": "No matter how much I hang around your{SAUT}homeroom at break or after school...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0007",
+    "locuteur": "Smitten girl",
+    "en": "I never see him! How am I supposed to{SAUT}strike up a conversation?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:002:0008",
+    "locuteur": "Smitten girl",
+    "en": "That romantic air of mystery he has...{SAUT}Ooooh! But yeah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0000",
+    "locuteur": "Nanjo",
+    "en": "It's true that not even I think Chisato{SAUT}has an especially attractive personality.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0001",
+    "locuteur": "Nanjo",
+    "en": "It seemed as if she was dating Yosuke to{SAUT}show off as much as anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0002",
+    "locuteur": "Mark",
+    "en": "Yosuke's handsome and a nice guy. I hate{SAUT}to admit it, but he's hard to beat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0003",
+    "locuteur": "Yukino",
+    "en": "I was surprised too when Chisato started{SAUT}dating Yosuke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0004",
+    "locuteur": "Yukino",
+    "en": "It was so sudden... Chisato never acted{SAUT}like she cared about him before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0005",
+    "locuteur": "Yukino",
+    "en": "Actually, I always thought Ma--{PAUSE}[3000]{SAUT}Hey, shouldn't we get going?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0006",
+    "locuteur": "Female student",
+    "en": "Uh, isn't it time you gave up on Yosuke?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0007",
+    "locuteur": "Female student",
+    "en": "He obviously ran off with his girlfriend!{SAUT}C'mon, it's been two months already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0008",
+    "locuteur": "Female student",
+    "en": "Yosuke was popular with the girls,{SAUT}but no one's seen him in two months.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0009",
+    "locuteur": "Female student",
+    "en": "That's a lie! That Chisato bitch{SAUT}tricked him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0010",
+    "locuteur": "Female student",
+    "en": "Everyone knows that girl's bad news!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:003:0011",
+    "locuteur": "Female student",
+    "en": "Wasn't Yosuke best friends with Maki?{SAUT}If you're visiting her, ask her about it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0000",
+    "locuteur": "Nanjo",
+    "en": "I believe I've asked this before, but{SAUT}shouldn't we be going to the hospital?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0001",
+    "locuteur": "Mark",
+    "en": "Toro's got balls, man! I mean, asking{SAUT}out Ayase!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0002",
+    "locuteur": "Mark",
+    "en": "Dude... I wouldn't go after her in a{SAUT}million years!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0003",
+    "locuteur": "Yukino",
+    "en": "I hate guys who see someone who's serious{SAUT}about something and just make fun of it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0004",
+    "locuteur": "Toro",
+    "en": "I-I had a weird dream! There was this{SAUT}girl, and she was saying, \"Help me...\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0005",
+    "locuteur": "Toro",
+    "en": "Was it a vision? Is there really a girl{SAUT}waiting for me to rescue her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0006",
+    "locuteur": "Toro",
+    "en": "W-Wow... that's awesome...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0007",
+    "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Kenta Yokouchi (Nickname: Toro){SAUT}His love of food has made him physically{SAUT}strong, but emotionally fragile.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0008",
+    "locuteur": "Well-informed student",
+    "en": "Dude, guess what I saw! Toro asked out{SAUT}Ayase and got rejected on the spot!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0009",
+    "locuteur": "Well-informed student",
+    "en": "I hear he's still following her around,{SAUT}though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:004:0010",
+    "en": "{FERME} > The lunchlady seems to have already{SAUT}gone home.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:005:0000",
+    "locuteur": "Nanjo",
+    "en": "I'm not interested in this sort of{SAUT}foolishness.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0001",
+    "locuteur": "Mark",
+    "en": "Guys our age tend to go for older women.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0002",
+    "locuteur": "Yukino",
+    "en": "Seriously, guys, the sun's going down.{SAUT}Are we going to the hospital or not?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0003",
+    "locuteur": "Brown-haired student",
+    "en": "Nurse Natsumi is hot as hell! I love that{SAUT}mature air she has...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0004",
+    "locuteur": "Brown-haired student",
+    "en": "Urk! P-Please... not that... I'm sorry!{SAUT}I shouldn't have said anything!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0005",
+    "locuteur": "Brown-haired student",
+    "en": "Even if she's a bad cook, you could just{SAUT}live off convenience store food.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0006",
+    "locuteur": "Girl with braids",
+    "en": "Oh, reaaaaally!? Then why don't you have{SAUT}her pack your lunches from now on?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:005:0007",
+    "locuteur": "Girl with braids",
+    "en": "That reminds me, I heard Nurse Natsumi{SAUT}just had a breakup. I wonder why?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

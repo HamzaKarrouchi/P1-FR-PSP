@@ -1,0 +1,487 @@
+[
+  {
+    "id": "E3.BIN:010:0000",
+    "locuteur": "Yukino",
+    "en": "(*APELLIDO_HEROE*)! Be careful...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0001",
+    "en": "{FERME}  > Touch the ball of light?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0002",
+    "locuteur": "Ayase",
+    "en": "Hey! What did you do, (*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0003",
+    "locuteur": "Yukino",
+    "en": "Whoa!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0004",
+    "locuteur": "Yukino",
+    "en": "What's this...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0005",
+    "locuteur": "Yukino",
+    "en": "Yeah? I'm ready to go anytime.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0006",
+    "locuteur": "Yukino",
+    "en": "Let's get this show on the road!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0007",
+    "locuteur": "Ayase",
+    "en": "It's like, so pretty...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0008",
+    "locuteur": "Ayase",
+    "en": "What now? You getting cold feet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0009",
+    "locuteur": "Nanjo",
+    "en": "Watch yourself. They say that every rose{SAUT}has its thorn.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:010:0011",
+    "locuteur": "Nanjo",
+    "en": "I've been waiting for you. I went on{SAUT}ahead so that I could give you this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0012",
+    "locuteur": "Nanjo",
+    "en": "It's a (*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*). I'm having some{SAUT}difficulty using it, so it's yours.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0013",
+    "locuteur": "Nanjo",
+    "en": "No need to thank me. You can show your{SAUT}gratitude by saving this school quickly.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0014",
+    "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0015",
+    "locuteur": "Nanjo",
+    "en": "Apparently, if you touch this, you'll be{SAUT}teleported elsewhere.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0016",
+    "locuteur": "Nanjo",
+    "en": "I can't say for sure where that might be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0017",
+    "locuteur": "Brown",
+    "en": "It feels like if I keep staring at it,{SAUT}I'll get sucked inside.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:010:0019",
+    "locuteur": "Brown",
+    "en": "Geez, you're late.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0020",
+    "locuteur": "Brown",
+    "en": "Sorry I can't go with you guys, but I{SAUT}gotta keep an eye on Toro.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:010:0021",
+    "locuteur": "Brown",
+    "en": "This wasn't supposed to make up for it,{SAUT}but you need it more than me. Here y'go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0022",
+    "locuteur": "Brown",
+    "en": "It's a (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0023",
+    "locuteur": "Brown",
+    "en": "I won one at the casino, but I had{SAUT}another one on me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0024",
+    "locuteur": "Brown",
+    "en": "Nah, no need for thanks. Well, good luck!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0025",
+    "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0027",
+    "locuteur": "Elly",
+    "en": "Could it be plasma?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0028",
+    "locuteur": "Elly",
+    "en": "Now, let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0029",
+    "locuteur": "Elly",
+    "en": "I had a feeling you'd be here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0030",
+    "locuteur": "Elly",
+    "en": "I came to give you this. It's a{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0031",
+    "locuteur": "Elly",
+    "en": "I happened to come across it when I was{SAUT}searching for something in the library...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0032",
+    "locuteur": "Elly",
+    "en": "I thought you might be able to make{SAUT}better use of it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0033",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:010:0034",
+    "locuteur": "Elly",
+    "en": "I wonder what's beyond the light?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0000",
+    "locuteur": "Nurse Natsumi",
+    "en": "Is everyone all right? Here, let me{SAUT}take a look at your wounds.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:011:0001",
+    "locuteur": "Nurse Natsumi",
+    "en": "Well, you're all good to go. Try not{SAUT}to push yourself too much!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0002",
+    "locuteur": "Nurse Natsumi",
+    "en": "Why are you staring at me? Wait, let me{SAUT}guess... Have you fallen for me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0003",
+    "locuteur": "Nurse Natsumi",
+    "en": "Speaking of falling for people... Ayase!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0004",
+    "locuteur": "Nurse Natsumi",
+    "en": "Did I hear that Kenta confessed his love{SAUT}for you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0005",
+    "locuteur": "Nurse Natsumi",
+    "en": "What did you say to him!? That boy's been{SAUT}acting very strange lately.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0006",
+    "locuteur": "Nurse Natsumi",
+    "en": "You should take people's feelings into{SAUT}consideration before you say something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0007",
+    "locuteur": "Ayase",
+    "en": "Well said! And like, you would know, with{SAUT}all your experience getting rejected.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0008",
+    "locuteur": "Nurse Natsumi",
+    "en": "...Well, back to work for me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:011:0010",
+    "locuteur": "Nurse Natsumi",
+    "en": "＊sigh＊ I wonder if there are any good-{SAUT}looking men lying around anywhere.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0013",
+    "locuteur": "Setsuko Sonomura",
+    "en": "I can't believe the phenomenon has{SAUT}spread to the school...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0014",
+    "locuteur": "Setsuko Sonomura",
+    "en": "Maki... please be safe...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0015",
+    "locuteur": "Setsuko Sonomura",
+    "en": "If Maki had been a bright, active girl{SAUT}like all of you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0016",
+    "locuteur": "Setsuko Sonomura",
+    "en": "That Nanjo boy left here a moment ago.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0017",
+    "locuteur": "Setsuko Sonomura",
+    "en": "He was saying something about being unable{SAUT}to enter a classroom with a frozen door.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0018",
+    "locuteur": "Female student",
+    "en": "Oww... I fell and landed on my butt.{SAUT}Why's the hall so slippery!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0019",
+    "locuteur": "Wounded girl",
+    "en": "Apparently something happened at the{SAUT}(*TEXTBOX_PARAM,0700*)cafeteria(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0020",
+    "locuteur": "Wounded girl",
+    "en": "I'd go check it out if I hadn't hurt{SAUT}myself when I fell. Owww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0021",
+    "locuteur": "Female student",
+    "en": "Like, did you hear?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0022",
+    "locuteur": "Female student",
+    "en": "Y'know the market they're holding next{SAUT}door that sells those kickass clothes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0023",
+    "locuteur": "Female student",
+    "en": "Apparently their stock is, like,{SAUT}completely different now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0024",
+    "en": "{FERME}(*SCENE_END*)[0300]> Minori Nashimoto{SAUT}Ayase's chatty friend. She loves to talk{SAUT}more than anything.(*SCENE_END*) {ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0025",
+    "locuteur": "Nanjo",
+    "en": "I worry about Masao and Maki out there.{SAUT}We must hurry and defeat the Snow Queen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0026",
+    "locuteur": "Nanjo",
+    "en": "Masao, Maki, wait for us. Once we defeat{SAUT}the Snow Queen, we'll come for you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0027",
+    "locuteur": "Nanjo",
+    "en": "Yes? What is it? Do you still require{SAUT}something of me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0028",
+    "locuteur": "Nanjo",
+    "en": "Do you need my assistance after all?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0036",
+    "locuteur": "Nanjo",
+    "en": "I see. Then I'm going to look for a way{SAUT}out of the school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0037",
+    "locuteur": "Nanjo",
+    "en": "I'll search for a way out of the school{SAUT}on my end as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0038",
+    "locuteur": "Nanjo",
+    "en": "The lot of you should go defeat the{SAUT}Snow Queen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0039",
+    "locuteur": "Yukino",
+    "en": "I hate doctors... but if we get hurt, we{SAUT}should go see Nurse Natsumi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0040",
+    "locuteur": "Yukino",
+    "en": "Better that than force ourselves to keep{SAUT}going while we're injured.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0041",
+    "locuteur": "Yukino",
+    "en": "Everyone doing okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0042",
+    "locuteur": "Ayase",
+    "en": "Is this that Agastya thing? I've heard{SAUT}it has, like, weird powers.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0043",
+    "locuteur": "Ayase",
+    "en": "This place is freezing, too. It's time{SAUT}we ditched all this cold stuff.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0044",
+    "locuteur": "Brown",
+    "en": "I wonder if there are any love potions{SAUT}around here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0045",
+    "locuteur": "Brown",
+    "en": "I wonder if there are any smart drugs{SAUT}around here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0046",
+    "locuteur": "Elly",
+    "en": "Thank goodness the infirmary is still{SAUT}intact.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:011:0047",
+    "locuteur": "Elly",
+    "en": "We must hurry and bring the school back{SAUT}to normal so we can find Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

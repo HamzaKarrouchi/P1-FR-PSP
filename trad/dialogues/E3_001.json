@@ -1,0 +1,665 @@
+[
+  {
+    "id": "E3.BIN:001:0000",
+    "locuteur": "Gambling-addicted student",
+    "en": "(*APELLIDO_HEROE*)! The room in front of{SAUT}the library turned into a casino!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0001",
+    "locuteur": "Gambling-addicted student",
+    "en": "I'm so frickin' excited! You should check{SAUT}it out, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0002",
+    "locuteur": "Gambling-addicted student",
+    "en": "While you guys were gone, I, uh, blew{SAUT}the club's whole budget on poker...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0003",
+    "locuteur": "Gambling-addicted student",
+    "en": "Whoever's playing next is one lucky skunk.{SAUT}The prize bonus must be through the roof!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0004",
+    "locuteur": "Younger girl",
+    "en": "Heh... We're done for.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0005",
+    "locuteur": "Younger girl",
+    "en": "We were always going to die someday...{SAUT}It's just been sped up a bit.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0006",
+    "locuteur": "Younger girl",
+    "en": "Yep... That's all there is to it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0007",
+    "locuteur": "Younger girl",
+    "en": "I get to go out while I'm still beautiful,{SAUT}so I thank the Snow Queen for that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0008",
+    "locuteur": "Younger girl",
+    "en": "Heh... A blue room and a blue piano.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0009",
+    "locuteur": "Younger girl",
+    "en": "Blue curtains and a blue carpet...{SAUT}I wonder what goes on in that room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0010",
+    "locuteur": "Younger girl",
+    "en": "It's the room just to our left. Heh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0011",
+    "locuteur": "Younger girl",
+    "en": "Heh... There's a light floating in a{SAUT}dark room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0012",
+    "locuteur": "Younger girl",
+    "en": "The light takes me to another world.{SAUT}It's wonderful...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0013",
+    "locuteur": "Younger girl",
+    "en": "Leave here and turn left at the cross-{SAUT}roads, then keep going straight.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0014",
+    "locuteur": "Younger girl",
+    "en": "That's how you get there. Heh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0015",
+    "locuteur": "Yukino",
+    "en": "A casino? Sounds tempting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0016",
+    "locuteur": "Yukino",
+    "en": "Huh, so if we've been fighting for a{SAUT}while, the prize might have increased.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0017",
+    "locuteur": "Ayase",
+    "en": "I'm hunnnngryyyy! That reminds me,{SAUT}where did the home ec room go?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0018",
+    "locuteur": "Ayase",
+    "en": "I had ingredients left over after I made{SAUT}sweets this morning, so I left 'em there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0019",
+    "locuteur": "Ayase",
+    "en": "I'm hunnnngryyyy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0020",
+    "locuteur": "Nanjo",
+    "en": "A casino? You'll go to seed if you get{SAUT}involved with such things.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0021",
+    "locuteur": "Nanjo",
+    "en": "The fool... He brought it on himself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0022",
+    "locuteur": "Brown",
+    "en": "Hey, that sounds like fun.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0023",
+    "locuteur": "Brown",
+    "en": "We should try this casino ourselves!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0024",
+    "locuteur": "Brown",
+    "en": "I wanna just kick back and have fun at{SAUT}a casino or somewhere for once.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0025",
+    "locuteur": "Elly",
+    "en": "That girl by the window... She's been{SAUT}muttering something for some time...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:001:0026",
+    "locuteur": "Elly",
+    "en": "That girl by the window... She's still{SAUT}muttering to herself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0000",
+    "locuteur": "Student council president",
+    "en": "Whew... that was close.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0001",
+    "locuteur": "Student council president",
+    "en": "See, I got in a fight.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0002",
+    "locuteur": "Student council president",
+    "en": "The Vice-Principal almost caught me,{SAUT}which would have been bad.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0003",
+    "locuteur": "Student council president",
+    "en": "But I bet he won't find me here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0004",
+    "locuteur": "Student council president",
+    "en": "You guys really do work hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0005",
+    "locuteur": "Student council president",
+    "en": "Leave everything to your ol' student{SAUT}council president and run along, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0006",
+    "locuteur": "Drama club member",
+    "en": "I heard a story about when Ms. Saeko was{SAUT}in the drama club...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0007",
+    "locuteur": "Drama club member",
+    "en": "They say she fought with her best friend{SAUT}over who would play the Snow Queen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0008",
+    "locuteur": "Drama club member",
+    "en": "I forget her last name, but I think her{SAUT}first name was Tomomi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0009",
+    "locuteur": "Drama club member",
+    "en": "There were tears in Ms. Saeko's eyes{SAUT}when she told me about that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0010",
+    "locuteur": "Drama club member",
+    "en": "It seems like there's a tragic legacy{SAUT}behind the Snow Queen's mask.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0011",
+    "locuteur": "Drama club member",
+    "en": "Maybe I should write a play about it once{SAUT}the town's back to normal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0012",
+    "locuteur": "Yukino",
+    "en": "So our drama club's good enough that it{SAUT}can win competitions?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0013",
+    "locuteur": "Yukino",
+    "en": "Let's beat that Night Queen for the sake{SAUT}of the three tower guardians.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0014",
+    "locuteur": "Ayase",
+    "en": "What a teeny-tiny room! I feel like I'm{SAUT}in one big fridge...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0015",
+    "locuteur": "Ayase",
+    "en": "Student council president? More like{SAUT}STUPID council president!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0016",
+    "locuteur": "Ayase",
+    "en": "It really pisses me off that a guy like{SAUT}him ended up in charge!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0017",
+    "locuteur": "Nanjo",
+    "en": "Where did the other club rooms go?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0018",
+    "locuteur": "Nanjo",
+    "en": "There doesn't seem to be anything{SAUT}useful here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0019",
+    "locuteur": "Brown",
+    "en": "Here one may find the sweat and tears of{SAUT}maidens who devoted their youth to acting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0020",
+    "locuteur": "Brown",
+    "en": "Hey, what should we do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0021",
+    "locuteur": "Brown",
+    "en": "I wonder if TV studios are like this{SAUT}backstage... I so want to see one.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0022",
+    "locuteur": "Elly",
+    "en": "Nothing but sheets and sheets of ice...{SAUT}It's not beautiful at all; only cold.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:002:0023",
+    "locuteur": "Elly",
+    "en": "Where could the other club members be?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0000",
+    "locuteur": "Male student",
+    "en": "Ah, so you're here too, (*PLAYER_NAME*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0001",
+    "locuteur": "Male student",
+    "en": "Check it out! With all this, we can stand{SAUT}up to the demons whenever they appear!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0002",
+    "locuteur": "Male student",
+    "en": "Huh? He's selling different stuff now...{SAUT}It looks even more dangerous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0003",
+    "locuteur": "Male teacher",
+    "en": "What is the matter with that child!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0004",
+    "locuteur": "Male teacher",
+    "en": "This is a school! He can't open a store{SAUT}here without permission!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0005",
+    "locuteur": "Clerk",
+    "en": "Welcoooome... I from Devil's Peak.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:003:0006",
+    "locuteur": "Clerk",
+    "en": "Bring very good things.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:003:0007",
+    "locuteur": "Clerk",
+    "en": "Mister need this. I sell at low price,{SAUT}you buy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E3.BIN:003:0008",
+    "locuteur": "Clerk",
+    "en": "I been wait for you! Lucky mister.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0009",
+    "locuteur": "Clerk",
+    "en": "This store close soon. Last sale,{SAUT}be waste if not buy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0010",
+    "locuteur": "Yukino",
+    "en": "From Devil's Peak, huh? Then is that{SAUT}kid a demon too...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:003:0011",
+    "locuteur": "Yukino",
+    "en": "It's making money off humans fighting{SAUT}demons. That's one ballsy kid...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0012",
+    "locuteur": "Ayase",
+    "en": "Hey, are these, like, real?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:003:0013",
+    "locuteur": "Ayase",
+    "en": "I wonder where that kid's from.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0014",
+    "locuteur": "Nanjo",
+    "en": "Amazing! All of these could prove useful{SAUT}for us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:003:0015",
+    "locuteur": "Nanjo",
+    "en": "I wonder how many times we survived{SAUT}as a result of that child.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0016",
+    "locuteur": "Nanjo",
+    "en": "We should express our thanks, even if{SAUT}its prices are a bit exorbitant.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0017",
+    "locuteur": "Brown",
+    "en": "Yikes, what's with the little arms dealer{SAUT}at school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:003:0018",
+    "locuteur": "Brown",
+    "en": "...Well, I guess it's part of that small{SAUT}stuff you're not supposed to sweat.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E3.BIN:003:0019",
+    "locuteur": "Brown",
+    "en": "WHOA! Has it gotten even crazier here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:003:0020",
+    "locuteur": "Elly",
+    "en": "That child is supposedly a merchant{SAUT}of death from the demon world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:003:0021",
+    "locuteur": "Elly",
+    "en": "Does that child care at all who wins{SAUT}between us and the Queen?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0000",
+    "locuteur": "Female student",
+    "en": "Squee! Look, look! This dress is{SAUT}soooo cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0001",
+    "locuteur": "Female student",
+    "en": "Squee! Look, look! This skirt is{SAUT}soooo cheap!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0002",
+    "locuteur": "Yuko",
+    "en": "Oh... such cute clothes... so expensive,{SAUT}though...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0003",
+    "locuteur": "Meek girl",
+    "en": "Oh... such cute clothes... so expensive,{SAUT}though...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0004",
+    "locuteur": "Yuko",
+    "en": "U-Um... Do you think this place will{SAUT}buy uniforms...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0005",
+    "locuteur": "Meek girl",
+    "en": "U-Um... Do you think this place will{SAUT}buy uniforms...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0006",
+    "en": "{FERME}  (*SCENE_END*)[0300](*TEXTBOX_PARAM,0300*)> Yuko Himeno{SAUT}Maki's friend. She works part-time to{SAUT}support her family.(*SCENE_END*) {ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0007",
+    "locuteur": "Clerk",
+    "en": "Wel... come...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E3.BIN:004:0009",
+    "locuteur": "Yukino",
+    "en": "All these clothes have some practical use.{SAUT}They're more like armor than clothes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:004:0010",
+    "locuteur": "Yukino",
+    "en": "Think this shopkeeper came from Devil's{SAUT}Peak like the one across the hall?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0011",
+    "locuteur": "Ayase",
+    "en": "Oh man, this is soooo cool!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:004:0012",
+    "locuteur": "Ayase",
+    "en": "Yikes... I wonder if I've gained weight.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0013",
+    "locuteur": "Nanjo",
+    "en": "The higher an item's price, the sturdier{SAUT}it seems.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:004:0014",
+    "locuteur": "Nanjo",
+    "en": "I wonder how often this armor has saved{SAUT}our lives...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0015",
+    "locuteur": "Nanjo",
+    "en": "It's expensive, but I'm not complaining.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0016",
+    "locuteur": "Brown",
+    "en": "Hey, what's with this store selling these{SAUT}crazy clothes at school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0017",
+    "locuteur": "Brown",
+    "en": "...Eh, whatever. It's not like the school{SAUT}regulations mean anything anymore.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0018",
+    "locuteur": "Brown",
+    "en": "Even if the school goes back to normal,{SAUT}I'm gonna keep wearing stuff from here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E3.BIN:004:0019",
+    "locuteur": "Elly",
+    "en": "Could this be armor? I must say, it's{SAUT}better than no protection whatsoever.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E3.BIN:004:0020",
+    "locuteur": "Elly",
+    "en": "No wonder they stock high-quality goods.{SAUT}If we died, they'd have no customers.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

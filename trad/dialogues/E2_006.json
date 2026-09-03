@@ -1,0 +1,637 @@
+[
+  {
+    "id": "E2.BIN:080:0000",
+    "locuteur": "Nanjo",
+    "en": "If only... {PAUSE}[3000]if only I'd made certain{SAUT}he went home...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0001",
+    "locuteur": "Mark",
+    "en": "With this power, we should be able to{SAUT}find out why this is happenin'!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0002",
+    "locuteur": "Elly",
+    "en": "How marvelous... I'm getting so excited!{SAUT}Oh my, please excuse me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0003",
+    "locuteur": "Yukino",
+    "en": "What is this bullshit!? Whoever's doing{SAUT}this is gonna pay!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0004",
+    "locuteur": "Yukino",
+    "en": "I'll get this place back to normal or{SAUT}die trying!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0005",
+    "locuteur": "Doctor",
+    "en": "Dammit, why can't I get to the ICU!?{SAUT}There's a patient in there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0006",
+    "locuteur": "Doctor",
+    "en": "I have to treat the Sonomura girl...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0007",
+    "locuteur": "Nurse",
+    "en": "The TV's not working, and the phone's{SAUT}dead too! What in the world is going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0008",
+    "locuteur": "Nurse",
+    "en": "I'd treat your wounds at the examination{SAUT}room, but... I can't find it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:080:0009",
+    "locuteur": "Nurse",
+    "en": "Nothing in this hospital is where I{SAUT}remember it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0000",
+    "locuteur": "Nanjo",
+    "en": "...I'm sorry, (*APELLIDO_HEROE*). I'm not{SAUT}thinking as quickly as usual.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0001",
+    "locuteur": "Mark",
+    "en": "Dammit! If only we had a hint or{SAUT}something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0002",
+    "locuteur": "Elly",
+    "en": "I want to help Maki's mother right away.{SAUT}Please come with me to the Alaya Shrine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0003",
+    "locuteur": "Yukino",
+    "en": "It's like even the air's changed...{SAUT}I'm finding it hard to breathe.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0004",
+    "locuteur": "Nurse",
+    "en": "There's a strange haze I can see through{SAUT}the window... It's covering the town.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0005",
+    "locuteur": "Nurse",
+    "en": "You don't think we're trapped here like{SAUT}in the horror novels, do you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0006",
+    "locuteur": "Old man",
+    "en": "Oh, hello again, Hiroshi! Did you come{SAUT}to listen to my stories?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0007",
+    "locuteur": "Old man",
+    "en": "I have something to say that I think{SAUT}you may need to hear.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0008",
+    "locuteur": "Old man",
+    "en": "Stay calm, and think carefully before{SAUT}making a move.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0009",
+    "locuteur": "Old man",
+    "en": "If you do... you'll arrive at the truth{SAUT}come what may.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:081:0010",
+    "locuteur": "Old man",
+    "en": "Say, Akiko? Is lunch ready yet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0000",
+    "locuteur": "Nanjo",
+    "en": "I'll figure this out... There's nothing{SAUT}I can't do if I put my mind to it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0001",
+    "locuteur": "Mark",
+    "en": "Hey, you think the other guys have{SAUT}this power too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0002",
+    "locuteur": "Elly",
+    "en": "We need to go to the Alaya Shrine.{SAUT}Please don't forget!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0003",
+    "locuteur": "Yukino",
+    "en": "This power's kinda unnerving, but it{SAUT}looks like it'll come in handy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0004",
+    "locuteur": "Patient",
+    "en": "Argh, my cavity's hurting again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0005",
+    "locuteur": "Patient",
+    "en": "How can I get it treated when I can't{SAUT}reach the dentistry ward!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0006",
+    "locuteur": "Patient",
+    "en": "I'm prepared for the worst, but I'm{SAUT}worried about my little grandson...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:082:0007",
+    "locuteur": "Patient",
+    "en": "He should be at school... I hope{SAUT}nothing's happened there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0000",
+    "locuteur": "Nanjo",
+    "en": "...{PAUSE}[3000]Hm? Yes, what is it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0001",
+    "locuteur": "Mark",
+    "en": "I wonder if there are other patients{SAUT}besides Maki in trouble right now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0002",
+    "locuteur": "Elly",
+    "en": "I'm concerned about Maki's mother's{SAUT}condition. {PAUSE}[2000]Let's hurry to the shrine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0003",
+    "locuteur": "Yukino",
+    "en": "I always thought you were a pushover,{SAUT}(*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0004",
+    "locuteur": "Yukino",
+    "en": "I'm surprised how calm you are.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0005",
+    "locuteur": "Nurse",
+    "en": "I can't get in touch with the patients!{SAUT}What am I supposed to do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0006",
+    "locuteur": "Nurse",
+    "en": "Can't you do something!?{PAUSE}[2000] ...I'm sorry.{SAUT}I'm asking the impossible.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0007",
+    "locuteur": "Nurse",
+    "en": "I'm just so confused...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0008",
+    "locuteur": "Doctor",
+    "en": "Are you all right? Here, let me take{SAUT}a look...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:083:0009",
+    "locuteur": "Doctor",
+    "en": "I want to save as many people as I can.{SAUT}Try not to push yourself too hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:096:0005",
+    "locuteur": "Nanjo",
+    "en": "Money to spare, but no class whatsoever...{SAUT}Tsk, what a disgrace.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:096:0006",
+    "locuteur": "Kaneda",
+    "en": "Ah! Young master Nanjo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:096:0007",
+    "locuteur": "Katsue",
+    "en": "Can't you have your father or someone{SAUT}tell the police that I'm in trouble?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:096:0008",
+    "locuteur": "Kaneda",
+    "en": "Please, I'm begging you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0000",
+    "locuteur": "Yukino",
+    "en": "'Scuse me! There's demons in town!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0001",
+    "locuteur": "Yukino",
+    "en": "People are hurt. Can you help them, um...{SAUT}Officer...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0002",
+    "locuteur": "Policeman",
+    "en": "Did you say... demons...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0003",
+    "locuteur": "Elly",
+    "en": "Wait, Yukino. Something's not right{SAUT}about him...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0004",
+    "locuteur": "Policeman",
+    "en": "The demons have been and gone. Thanks to{SAUT}them, I ended up like this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0005",
+    "locuteur": "Policeman's spirit",
+    "en": "Dammit... Lieutenant... Please help me...{SAUT}Help...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0006",
+    "locuteur": "Elly",
+    "en": "Just as I thought! Run, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:097:0007",
+    "locuteur": "Yukino",
+    "en": "Tch, looks like the police won't be{SAUT}any help either!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:103:0000",
+    "locuteur": "Maki",
+    "en": "Hmm? Did you stop in for some ice cream?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:103:0001",
+    "locuteur": "Brown",
+    "en": "Where's all the good stuff, man? Are we{SAUT}gonna be okay with lame gear like this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:103:0005",
+    "locuteur": "Ayase",
+    "en": "Hey, uh, what about SEBEC? Are we just{SAUT}gonna ditch that idea?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:103:0006",
+    "locuteur": "Ayase",
+    "en": "C'mon, let's go after Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0000",
+    "locuteur": "Maki",
+    "en": "Do you need a doctor? {PAUSE}[2000]Hey, um... We're{SAUT}not going to be here long, are we?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0001",
+    "locuteur": "Brown",
+    "en": "Do we really gotta go to that factory?{SAUT}It's so dirty for a class act like me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0002",
+    "locuteur": "Brown",
+    "en": "Do we really have to beat Kandori? He got{SAUT}away! Let's just leave it at that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0005",
+    "locuteur": "Mark",
+    "en": "We gotta hurry and catch that Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0007",
+    "locuteur": "Ayase",
+    "en": "Why's SEBEC gotta have such tight{SAUT}security, anyway?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:104:0008",
+    "locuteur": "Ayase",
+    "en": "Wow... SEBEC really was as bad as{SAUT}they say...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:105:0000",
+    "locuteur": "Maki",
+    "en": "Hey, Masao's at the police station,{SAUT}right? Let's hurry and free him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:105:0001",
+    "locuteur": "Maki",
+    "en": "Umm... weren't we going to the abandoned{SAUT}factory?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:105:0002",
+    "locuteur": "Maki",
+    "en": "We have to hurry after Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:105:0003",
+    "locuteur": "Brown",
+    "en": "Man, what a lame store! If it was mine,{SAUT}I'd make it an outdoor cafe!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:105:0008",
+    "locuteur": "Ayase",
+    "en": "I didn't know you liked this stuff,{SAUT}(*APELLIDO_HEROE*)! Awww, that's so cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0000",
+    "locuteur": "Maki",
+    "en": "The owner here really knows how to sell{SAUT}his product.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0001",
+    "locuteur": "Brown",
+    "en": "That was my first time in a jail cell!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0002",
+    "locuteur": "Brown",
+    "en": "I was kinda nervous at first... but it{SAUT}was actually a real blast!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0004",
+    "locuteur": "Mark",
+    "en": "There's too much I gotta say to Kandori...{SAUT}I'm not lettin' that guy off easy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0005",
+    "locuteur": "Elly",
+    "en": "We're headed to the abandoned factory,{SAUT}yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0006",
+    "locuteur": "Elly",
+    "en": "I've never given it a thorough look{SAUT}before, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0007",
+    "locuteur": "Elly",
+    "en": "We need to pursue Mr.Kandori... We can't{SAUT}leave him to his own devices!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0008",
+    "locuteur": "Ayase",
+    "en": "You're right... If we're gonna march{SAUT}into SEBEC, we'll need some medicine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:106:0009",
+    "locuteur": "Ayase",
+    "en": "We gotta go after Kandori... Like, who{SAUT}knows what he's gonna do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0000",
+    "locuteur": "Maki",
+    "en": "Huh... Elly's pretty popular.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0001",
+    "locuteur": "Brown",
+    "en": "Let me be clear on this: my fans come{SAUT}a dime a dozen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0002",
+    "locuteur": "Nanjo",
+    "en": "What a feeble mind you possess.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0003",
+    "locuteur": "Nanjo",
+    "en": "Though I'm actually rather jealous that{SAUT}you can be so calm in this situation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0004",
+    "locuteur": "Mark",
+    "en": "I like the casino too, but right now{SAUT}I just wanna get to the shrine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0005",
+    "locuteur": "Mark",
+    "en": "You don't think they'll block the passage{SAUT}at the factory while we're here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0007",
+    "locuteur": "Ayase",
+    "en": "What a sap! Eriko, like, isn't anywhere{SAUT}near the weakling he thinks she is!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0008",
+    "locuteur": "Yukino",
+    "en": "I'm pretty amazed at how fearless Eriko{SAUT}can be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0018",
+    "en": "{FERME}   > The machine seems to be out of order.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0021",
+    "locuteur": "Clerk",
+    "en": "Won't you purchase some coins? Hmmmm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E2.BIN:107:0022",
+    "locuteur": "Clerk",
+    "en": "I can exchange your coins for items, if{SAUT}that's what you're in the mood for...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E2.BIN:107:0023",
+    "locuteur": "Clerk",
+    "en": "Wanna see what I've got?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E2.BIN:107:0024",
+    "en": "(*UNK_0E,0000*){FERME}   (*SCENE_LOAD*) [3821] (*SCENE_INIT*)   (*SCENE_LOAD*) [5021] (*SCENE_INIT*)   (*SCENE_LOAD*) [6821] (*SCENE_INIT*)   (*SCENE_LOAD*) [8021] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [0825] (*SCENE_LOAD*) [9821] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [0825] (*SCENE_LOAD*) [C821] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [0825] (*SCENE_LOAD*) [F821] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [0825] (*SCENE_LOAD*) [2822] (*SCENE_INIT*) (*WAIT_INPUT*) [4825] (*SET_ANIM_LAYER*) [5822] (*SET_ANIM_LAYER*)Í[B824] (*SET_ANIM_LAYER*)β[5824] (*SET_ANIM_LAYER*)[0300][9822] (*SCENE_INIT*)   (*WAIT_INPUT*) [4825] (*SET_ANIM_LAYER*) [6822] (*SET_ANIM_LAYER*)Í[C024] (*SET_ANIM_LAYER*)β[7024] (*SET_ANIM_LAYER*)[0300][B022] (*SCENE_INIT*)   (*WAIT_INPUT*) [4825] (*SET_ANIM_LAYER*) [7822] (*SET_ANIM_LAYER*)Í[C824] (*SET_ANIM_LAYER*)β[8824] (*SET_ANIM_LAYER*)[0300][C822] (*SCENE_INIT*)   (*WAIT_INPUT*) [4825] (*SET_ANIM_LAYER*) [8822] (*SET_ANIM_LAYER*)Í[D024] (*SET_ANIM_LAYER*)β[A024] (*SET_ANIM_LAYER*)[0300][E022] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D000](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D100](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D200](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D300](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2500](*SET_ANIM_LAYER*)[0300][1824] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2500](*SET_ANIM_LAYER*)[0300][2824] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2500](*SET_ANIM_LAYER*)[0300][3824] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2500](*SET_ANIM_LAYER*)[0300][4824] (*SCENE_INIT*)   (*WAIT_INPUT*) [C025] (*SCENE_LOAD*) [9822] (*SCENE_INIT*)   (*WAIT_INPUT*) [C025] (*SCENE_LOAD*) [B022] (*SCENE_INIT*)   (*WAIT_INPUT*) [C025] (*SCENE_LOAD*) [C822] (*SCENE_INIT*)   (*WAIT_INPUT*) [C025] (*SCENE_LOAD*) [E022] (*SCENE_INIT*)   (*WAIT_INPUT*) [C030] (*SCENE_LOAD*) [9822] (*SCENE_INIT*)   (*WAIT_INPUT*) [C030] (*SCENE_LOAD*) [B022] (*SCENE_INIT*)   (*WAIT_INPUT*) [C030] (*SCENE_LOAD*) [C822] (*SCENE_INIT*)   (*WAIT_INPUT*) [C030] (*SCENE_LOAD*) [E022] (*SCENE_INIT*)   (*WAIT_INPUT*) [E83D] (*SCENE_LOAD*) [9822] (*SCENE_INIT*)   (*WAIT_INPUT*) [E83D] (*SCENE_LOAD*) [B022] (*SCENE_INIT*)   (*WAIT_INPUT*) [E83D] (*SCENE_LOAD*) [B022] (*SCENE_INIT*)   (*WAIT_INPUT*) [E83D] (*SCENE_LOAD*) [C822] (*SCENE_INIT*)   (*SCENE_LOAD*) [9821] (*SCENE_INIT*)   (*SCENE_LOAD*) [C821] (*SCENE_INIT*)   (*SCENE_LOAD*) [F821] (*SCENE_INIT*)   (*SCENE_LOAD*) [2822] (*SCENE_INIT*)   (*WAIT_INPUT*) [D824] (*SCENE_LOAD*) [9821] (*SCENE_INIT*)   (*WAIT_INPUT*) [D824] (*SCENE_LOAD*) [C821] (*SCENE_INIT*)   (*WAIT_INPUT*) [D824] (*SCENE_LOAD*) [F821] (*SCENE_INIT*)   (*WAIT_INPUT*) [D824] (*SCENE_LOAD*) [2822] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0106",
+    "en": "{FERME}  (*SCENE_LOAD*) [8043] (*SCENE_INIT*)   (*SCENE_LOAD*) [9843] (*SCENE_INIT*)   (*SCENE_LOAD*) [B043] (*SCENE_INIT*)   (*SCENE_LOAD*) [C843] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [5047] (*SCENE_LOAD*) [E043] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [5047] (*SCENE_LOAD*) [1044] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [5047] (*SCENE_LOAD*) [4044] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [5047] (*SCENE_LOAD*) [7044] (*SCENE_INIT*) (*WAIT_INPUT*) [9847] (*SET_ANIM_LAYER*) [A044] (*SET_ANIM_LAYER*)Í∞ (*SET_ANIM_LAYER*)β[A046] (*SET_ANIM_LAYER*)[0300][E044] (*SCENE_INIT*)   (*WAIT_INPUT*) [9847] (*SET_ANIM_LAYER*) [B044] (*SET_ANIM_LAYER*)Í[0847] (*SET_ANIM_LAYER*)β[B846] (*SET_ANIM_LAYER*)[0300][F844] (*SCENE_INIT*)   (*WAIT_INPUT*) [9847] (*SET_ANIM_LAYER*) [C044] (*SET_ANIM_LAYER*)Í[1047] (*SET_ANIM_LAYER*)β[D046] (*SET_ANIM_LAYER*)[0300][1045] (*SCENE_INIT*)   (*WAIT_INPUT*) [9847] (*SET_ANIM_LAYER*) [D044] (*SET_ANIM_LAYER*)Í[1847] (*SET_ANIM_LAYER*)β[E846] (*SET_ANIM_LAYER*)[0300][2845] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D400](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D500](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D600](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D700](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][6046] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][7046] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][8046] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][9046] (*SCENE_INIT*)   (*WAIT_INPUT*) [1048] (*SCENE_LOAD*) [E044] (*SCENE_INIT*)   (*WAIT_INPUT*) [1048] (*SCENE_LOAD*) [F844] (*SCENE_INIT*)   (*WAIT_INPUT*) [1048] (*SCENE_LOAD*) [1045] (*SCENE_INIT*)   (*WAIT_INPUT*) [1048] (*SCENE_LOAD*) [2845] (*SCENE_INIT*)   (*WAIT_INPUT*) [C05C] (*SCENE_LOAD*) [E044] (*SCENE_INIT*)   (*WAIT_INPUT*) [C05C] (*SCENE_LOAD*) [F844] (*SCENE_INIT*)   (*WAIT_INPUT*) [C05C] (*SCENE_LOAD*) [1045] (*SCENE_INIT*)   (*WAIT_INPUT*) [C05C] (*SCENE_LOAD*) [2845] (*SCENE_INIT*)   (*WAIT_INPUT*) [8861] (*SCENE_LOAD*) [E044] (*SCENE_INIT*)   (*WAIT_INPUT*) [8861] (*SCENE_LOAD*) [F844] (*SCENE_INIT*)   (*WAIT_INPUT*) [8861] (*SCENE_LOAD*) [1045] (*SCENE_INIT*)   (*WAIT_INPUT*) [8861] (*SCENE_LOAD*) [2845] (*SCENE_INIT*)   (*SCENE_LOAD*) [E043] (*SCENE_INIT*)   (*SCENE_LOAD*) [1044] (*SCENE_INIT*)   (*SCENE_LOAD*) [4044] (*SCENE_INIT*)   (*SCENE_LOAD*) [7044] (*SCENE_INIT*)   (*WAIT_INPUT*) [2047] (*SCENE_LOAD*) [E043] (*SCENE_INIT*)   (*WAIT_INPUT*) [2047] (*SCENE_LOAD*) [1044] (*SCENE_INIT*)   (*WAIT_INPUT*) [2047] (*SCENE_LOAD*) [4044] (*SCENE_INIT*)   (*WAIT_INPUT*) [2047] (*SCENE_LOAD*) [7044] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0182",
+    "en": "{FERME}  (*SCENE_LOAD*) [C867] (*SCENE_INIT*)   (*SCENE_LOAD*) [E067] (*SCENE_INIT*)   (*SCENE_LOAD*) [F867] (*SCENE_INIT*)   (*SCENE_LOAD*) [1068] (*SCENE_INIT*)   (*SCENE_LOAD*) [2868] (*SCENE_INIT*)   (*SCENE_LOAD*) [4068] (*SCENE_INIT*)   (*SCENE_LOAD*) [5868] (*SCENE_INIT*)   (*SCENE_LOAD*) [7068] (*SCENE_INIT*)   (*SCENE_LOAD*) [8868] (*SCENE_INIT*)   (*SCENE_LOAD*) [A068] (*SCENE_INIT*)   (*SCENE_LOAD*) [B868] (*SCENE_INIT*)   (*SCENE_LOAD*) [D068] (*SCENE_INIT*)   (*SCENE_LOAD*) [E868] (*SCENE_INIT*)   (*SCENE_LOAD*) ← (*SCENE_INIT*)   (*SCENE_LOAD*) [1869] (*SCENE_INIT*)   (*SCENE_LOAD*) [3069] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [4869] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [7869] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [A869] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [D869] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [086A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [386A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [686A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [986A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [C86A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [F86A] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [286B] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [586B] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [886B] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [B86B] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [E86B] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [7876] (*SCENE_LOAD*) [186C] (*SCENE_INIT*) (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [486C] (*SET_ANIM_LAYER*)Í[C875] (*SET_ANIM_LAYER*)β[4874] (*SET_ANIM_LAYER*)[0300][486D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [586C] (*SET_ANIM_LAYER*)Í[D075] (*SET_ANIM_LAYER*)β[6074] (*SET_ANIM_LAYER*)[0300][606D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [686C] (*SET_ANIM_LAYER*)Í[D875] (*SET_ANIM_LAYER*)β[7874] (*SET_ANIM_LAYER*)[0300][786D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [786C] (*SET_ANIM_LAYER*)Í[E075] (*SET_ANIM_LAYER*)β[9074] (*SET_ANIM_LAYER*)[0300][906D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [886C] (*SET_ANIM_LAYER*)Í[E875] (*SET_ANIM_LAYER*)β[A874] (*SET_ANIM_LAYER*)[0300][A86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [986C] (*SET_ANIM_LAYER*)Í[F075] (*SET_ANIM_LAYER*)β[C074] (*SET_ANIM_LAYER*)[0300][C06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [A86C] (*SET_ANIM_LAYER*)Í[F875] (*SET_ANIM_LAYER*)β[D874] (*SET_ANIM_LAYER*)[0300][D86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [B86C] (*SET_ANIM_LAYER*)ÍË (*SET_ANIM_LAYER*)β[F074] (*SET_ANIM_LAYER*)[0300][F06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [C86C] (*SET_ANIM_LAYER*)Í[0876] (*SET_ANIM_LAYER*)β[0875] (*SET_ANIM_LAYER*)[0300][086E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [D86C] (*SET_ANIM_LAYER*)Í[1076] (*SET_ANIM_LAYER*)β[2075] (*SET_ANIM_LAYER*)[0300][206E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [E86C] (*SET_ANIM_LAYER*)Í[1876] (*SET_ANIM_LAYER*)β[3875] (*SET_ANIM_LAYER*)[0300][386E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [F86C] (*SET_ANIM_LAYER*)Í[2076] (*SET_ANIM_LAYER*)β[5075] (*SET_ANIM_LAYER*)[0300][506E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [086D] (*SET_ANIM_LAYER*)Í[2876] (*SET_ANIM_LAYER*)β[6875] (*SET_ANIM_LAYER*)[0300][686E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [186D] (*SET_ANIM_LAYER*)Í[3076] (*SET_ANIM_LAYER*)β[8075] (*SET_ANIM_LAYER*)[0300][806E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [286D] (*SET_ANIM_LAYER*)Í[3876] (*SET_ANIM_LAYER*)β[9875] (*SET_ANIM_LAYER*)[0300][986E] (*SCENE_INIT*)   (*WAIT_INPUT*) [A876] (*SET_ANIM_LAYER*) [386D] (*SET_ANIM_LAYER*)Í[4076] (*SET_ANIM_LAYER*)β[B075] (*SET_ANIM_LAYER*)[0300][B06E] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D800](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[D900](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DA00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DB00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DC00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DD00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DE00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[DF00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E000](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E100](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E200](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E300](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E400](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E500](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E600](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E700](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][4873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][5873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][6873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][7873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][8873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][9873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][A873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][B873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][C873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][D873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][E873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][F873] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][0874] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][1874] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][2874] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][3874] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [486D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [606D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [786D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [906D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [A86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [C06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [D86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [F06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [086E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [206E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [386E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [506E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [686E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [806E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [986E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2077] (*SCENE_LOAD*) [B06E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [486D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [606D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [786D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [906D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [A86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [C06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [D86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [F06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [086E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [206E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [386E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [506E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [686E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [806E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [986E] (*SCENE_INIT*)   (*WAIT_INPUT*) [C07F] (*SCENE_LOAD*) [B06E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [486D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [606D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [786D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [906D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [A86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [C06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [D86D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [F06D] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [086E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [206E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [386E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [506E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [686E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [806E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [986E] (*SCENE_INIT*)   (*WAIT_INPUT*) [2885] (*SCENE_LOAD*) [B06E] (*SCENE_INIT*)   (*SCENE_LOAD*) [4869] (*SCENE_INIT*)   (*SCENE_LOAD*) [7869] (*SCENE_INIT*)   (*SCENE_LOAD*) [A869] (*SCENE_INIT*)   (*SCENE_LOAD*) [D869] (*SCENE_INIT*)   (*SCENE_LOAD*) [086A] (*SCENE_INIT*)   (*SCENE_LOAD*) [386A] (*SCENE_INIT*)   (*SCENE_LOAD*) [686A] (*SCENE_INIT*)   (*SCENE_LOAD*) [986A] (*SCENE_INIT*)   (*SCENE_LOAD*) [C86A] (*SCENE_INIT*)   (*SCENE_LOAD*) [F86A] (*SCENE_INIT*)   (*SCENE_LOAD*) [286B] (*SCENE_INIT*)   (*SCENE_LOAD*) [586B] (*SCENE_INIT*)   (*SCENE_LOAD*) [886B] (*SCENE_INIT*)   (*SCENE_LOAD*) [B86B] (*SCENE_INIT*)   (*SCENE_LOAD*) [E86B] (*SCENE_INIT*)   (*SCENE_LOAD*) [186C] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [4869] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [7869] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [A869] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [D869] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [086A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [386A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [686A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [986A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [C86A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [F86A] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [286B] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [586B] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [886B] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [B86B] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [E86B] (*SCENE_INIT*)   (*WAIT_INPUT*) [4876] (*SCENE_LOAD*) [186C] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0227",
+    "en": "{FERME}(*SCENE_LOAD*) [9888] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [B089] (*SCENE_LOAD*) [B088] (*SCENE_INIT*) (*WAIT_INPUT*) [E889] (*SET_ANIM_LAYER*) [E088] (*SET_ANIM_LAYER*)Í[7889] (*SET_ANIM_LAYER*)β[6089] (*SET_ANIM_LAYER*)[0300][F088] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E800](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2900](*SET_ANIM_LAYER*)[0300][5089] (*SCENE_INIT*)   (*WAIT_INPUT*) [608A] (*SCENE_LOAD*) [F088] (*SCENE_INIT*)   (*WAIT_INPUT*) [188F] (*SCENE_LOAD*) [F088] (*SCENE_INIT*)   (*WAIT_INPUT*) [1099] (*SCENE_LOAD*) [F088] (*SCENE_INIT*)   (*SCENE_LOAD*) [B088] (*SCENE_INIT*)   (*WAIT_INPUT*) [8089] (*SCENE_LOAD*) [B088] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:107:0278",
+    "en": "{FERME}   (*SCENE_LOAD*) [589D] (*SCENE_INIT*)   (*SCENE_LOAD*) [709D] (*SCENE_INIT*)   (*SCENE_LOAD*) [889D] (*SCENE_INIT*)   (*SCENE_LOAD*) [A09D] (*SCENE_INIT*)   (*SCENE_LOAD*) [B89D] (*SCENE_INIT*)   (*SCENE_LOAD*) [D09D] (*SCENE_INIT*)   (*SCENE_LOAD*) [E89D] (*SCENE_INIT*)   (*SCENE_LOAD*) ∇ (*SCENE_INIT*)   (*SCENE_LOAD*) [189E] (*SCENE_INIT*)   (*SCENE_LOAD*) [309E] (*SCENE_INIT*)   (*SCENE_LOAD*) [489E] (*SCENE_INIT*)   (*SCENE_LOAD*) [609E] (*SCENE_INIT*)   (*SCENE_LOAD*) [789E] (*SCENE_INIT*)   (*SCENE_LOAD*) [909E] (*SCENE_INIT*)   (*SCENE_LOAD*) [A89E] (*SCENE_INIT*)   (*SCENE_LOAD*) [C09E] (*SCENE_INIT*)   (*SCENE_LOAD*) [D89E] (*SCENE_INIT*)   (*SCENE_LOAD*) [F09E] (*SCENE_INIT*)   (*SCENE_LOAD*) [089F] (*SCENE_INIT*)   (*SCENE_LOAD*) [209F] (*SCENE_INIT*)   (*SCENE_LOAD*) [389F] (*SCENE_INIT*)   (*SCENE_LOAD*) [509F] (*SCENE_INIT*)   (*SCENE_LOAD*) [689F] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [809F] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [B09F] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [E09F] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [10A0] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [40A0] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [70A0] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [A0A0] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [D0A0] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) ≪ (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [30A1] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [60A1] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [90A1] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [C0A1] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [F0A1] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [20A2] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [50A2] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [80A2] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [B0A2] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [E0A2] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [10A3] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [40A3] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [70A3] (*SCENE_INIT*) (*HIDE_MSG*) (*WAIT_INPUT*) [68B2] (*SCENE_LOAD*) [A0A3] (*SCENE_INIT*) (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [D0A3] (*SET_ANIM_LAYER*)Í[78B1] (*SET_ANIM_LAYER*)β[50AF] (*SET_ANIM_LAYER*)[0300][40A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [E0A3] (*SET_ANIM_LAYER*)Í[80B1] (*SET_ANIM_LAYER*)β[68AF] (*SET_ANIM_LAYER*)[0300][58A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [F0A3] (*SET_ANIM_LAYER*)Í[88B1] (*SET_ANIM_LAYER*)β[80AF] (*SET_ANIM_LAYER*)[0300][70A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) ∽ (*SET_ANIM_LAYER*)Í[90B1] (*SET_ANIM_LAYER*)β[98AF] (*SET_ANIM_LAYER*)[0300][88A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [10A4] (*SET_ANIM_LAYER*)Í[98B1] (*SET_ANIM_LAYER*)β[B0AF] (*SET_ANIM_LAYER*)[0300][A0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [20A4] (*SET_ANIM_LAYER*)Í[A0B1] (*SET_ANIM_LAYER*)β[C8AF] (*SET_ANIM_LAYER*)[0300][B8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [30A4] (*SET_ANIM_LAYER*)Í[A8B1] (*SET_ANIM_LAYER*)β[E0AF] (*SET_ANIM_LAYER*)[0300][D0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [40A4] (*SET_ANIM_LAYER*)Í[B0B1] (*SET_ANIM_LAYER*)β[F8AF] (*SET_ANIM_LAYER*)[0300][E8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [50A4] (*SET_ANIM_LAYER*)Í[B8B1] (*SET_ANIM_LAYER*)β[10B0] (*SET_ANIM_LAYER*)[0300]∵ (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [60A4] (*SET_ANIM_LAYER*)Í[C0B1] (*SET_ANIM_LAYER*)β[28B0] (*SET_ANIM_LAYER*)[0300][18A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [70A4] (*SET_ANIM_LAYER*)Í[C8B1] (*SET_ANIM_LAYER*)β[40B0] (*SET_ANIM_LAYER*)[0300][30A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [80A4] (*SET_ANIM_LAYER*)Í[D0B1] (*SET_ANIM_LAYER*)β[58B0] (*SET_ANIM_LAYER*)[0300][48A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [90A4] (*SET_ANIM_LAYER*)Í[D8B1] (*SET_ANIM_LAYER*)β[70B0] (*SET_ANIM_LAYER*)[0300][60A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [A0A4] (*SET_ANIM_LAYER*)Í[E0B1] (*SET_ANIM_LAYER*)β[88B0] (*SET_ANIM_LAYER*)[0300][78A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [B0A4] (*SET_ANIM_LAYER*)Í[E8B1] (*SET_ANIM_LAYER*)β[A0B0] (*SET_ANIM_LAYER*)[0300][90A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [C0A4] (*SET_ANIM_LAYER*)Í[F0B1] (*SET_ANIM_LAYER*)β[B8B0] (*SET_ANIM_LAYER*)[0300][A8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [D0A4] (*SET_ANIM_LAYER*)Í[F8B1] (*SET_ANIM_LAYER*)β[D0B0] (*SET_ANIM_LAYER*)[0300][C0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [E0A4] (*SET_ANIM_LAYER*)Í♯ (*SET_ANIM_LAYER*)β[E8B0] (*SET_ANIM_LAYER*)[0300][D8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [F0A4] (*SET_ANIM_LAYER*)Í[08B2] (*SET_ANIM_LAYER*)β‰ (*SET_ANIM_LAYER*)[0300][F0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) ∝ (*SET_ANIM_LAYER*)Í[10B2] (*SET_ANIM_LAYER*)β[18B1] (*SET_ANIM_LAYER*)[0300][08A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [10A5] (*SET_ANIM_LAYER*)Í[18B2] (*SET_ANIM_LAYER*)β[30B1] (*SET_ANIM_LAYER*)[0300][20A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [20A5] (*SET_ANIM_LAYER*)Í[20B2] (*SET_ANIM_LAYER*)β[48B1] (*SET_ANIM_LAYER*)[0300][38A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [A8B2] (*SET_ANIM_LAYER*) [30A5] (*SET_ANIM_LAYER*)Í[28B2] (*SET_ANIM_LAYER*)β[60B1] (*SET_ANIM_LAYER*)[0300][50A7] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E900](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[EA00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[EB00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[EC00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[ED00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[EE00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[EF00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F000](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F100](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F200](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F300](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F400](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F500](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F600](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F700](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F800](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F900](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[FA00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[FB00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[FC00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[FD00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[FE00](*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)(*SCENE_SEP*)(*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][E0AD] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][F0AD] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300]ê (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][10AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][20AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][30AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][40AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][50AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][60AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][70AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][80AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][90AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][A0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][B0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][C0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][D0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][E0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][F0AE] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300]ë (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][10AF] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][20AF] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][30AF] (*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][40AF] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [40A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [58A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [70A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [88A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [A0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [B8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [D0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [E8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) ∵ (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [18A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [30A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [48A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [60A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [78A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [90A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [A8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [C0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [D8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [F0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [08A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [20A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [38A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [20B3] (*SCENE_LOAD*) [50A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [40A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [58A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [70A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [88A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [A0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [B8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [D0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [E8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) ∵ (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [18A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [30A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [48A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [60A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [78A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [90A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [A8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [C0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [D8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [F0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [08A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [20A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [38A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [60B8] (*SCENE_LOAD*) [50A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [40A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [58A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [70A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [88A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [A0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [B8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [D0A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [E8A5] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) ∵ (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [18A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [30A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [48A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [60A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [78A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [90A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [A8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [C0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [D8A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [F0A6] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [08A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [20A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [38A7] (*SCENE_INIT*)   (*WAIT_INPUT*) [38BE] (*SCENE_LOAD*) [50A7] (*SCENE_INIT*)   (*SCENE_LOAD*) [809F] (*SCENE_INIT*)   (*SCENE_LOAD*) [B09F] (*SCENE_INIT*)   (*SCENE_LOAD*) [E09F] (*SCENE_INIT*)   (*SCENE_LOAD*) [10A0] (*SCENE_INIT*)   (*SCENE_LOAD*) [40A0] (*SCENE_INIT*)   (*SCENE_LOAD*) [70A0] (*SCENE_INIT*)   (*SCENE_LOAD*) [A0A0] (*SCENE_INIT*)   (*SCENE_LOAD*) [D0A0] (*SCENE_INIT*)   (*SCENE_LOAD*) ≪ (*SCENE_INIT*)   (*SCENE_LOAD*) [30A1] (*SCENE_INIT*)   (*SCENE_LOAD*) [60A1] (*SCENE_INIT*)   (*SCENE_LOAD*) [90A1] (*SCENE_INIT*)   (*SCENE_LOAD*) [C0A1] (*SCENE_INIT*)   (*SCENE_LOAD*) [F0A1] (*SCENE_INIT*)   (*SCENE_LOAD*) [20A2] (*SCENE_INIT*)   (*SCENE_LOAD*) [50A2] (*SCENE_INIT*)   (*SCENE_LOAD*) [80A2] (*SCENE_INIT*)   (*SCENE_LOAD*) [B0A2] (*SCENE_INIT*)   (*SCENE_LOAD*) [E0A2] (*SCENE_INIT*)   (*SCENE_LOAD*) [10A3] (*SCENE_INIT*)   (*SCENE_LOAD*) [40A3] (*SCENE_INIT*)   (*SCENE_LOAD*) [70A3] (*SCENE_INIT*)   (*SCENE_LOAD*) [A0A3] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [809F] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [B09F] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [E09F] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [10A0] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [40A0] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [70A0] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [A0A0] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [D0A0] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) ≪ (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [30A1] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [60A1] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [90A1] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [C0A1] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [F0A1] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [20A2] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [50A2] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [80A2] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [B0A2] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [E0A2] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [10A3] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [40A3] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [70A3] (*SCENE_INIT*)   (*WAIT_INPUT*) [30B2] (*SCENE_LOAD*) [A0A3] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) (*SHOW_MSG*) (*SCENE_INIT*) > You have (*UNK_1A*)[8200] Metal Cards.{ATTENTE}",
+    "fr": ""
+  }
+]

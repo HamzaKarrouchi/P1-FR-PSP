@@ -1,0 +1,653 @@
+[
+  {
+    "id": "E0.BIN:202:0000",
+    "locuteur": "Maki",
+    "en": "Sorry to keep you all waiting!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0001",
+    "locuteur": "Mark",
+    "en": "'Bout time! I was getting tired of{SAUT}sitting around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0002",
+    "locuteur": "Nanjo",
+    "en": "It seems to have gone well, mm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0003",
+    "locuteur": "Nanjo",
+    "en": "Now then, let's head to the school{SAUT}and meet this Pandora.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0004",
+    "locuteur": "Maki",
+    "en": "They seem to have been pretty bored{SAUT}while we were gone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0005",
+    "locuteur": "Mark",
+    "en": "Yo (*APELLIDO_HEROE*), you didn't try anything{SAUT}funny, did you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0006",
+    "locuteur": "Nanjo",
+    "en": "What's the matter? Did something happen{SAUT}inside?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0007",
+    "locuteur": "Reiji",
+    "en": "Looks like you made it back in one{SAUT}piece. When this is all over...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0008",
+    "locuteur": "Reiji",
+    "en": "What would you say to some sparring{SAUT}to see who's stronger? You up for it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0009",
+    "locuteur": "Elly",
+    "en": "(*APELLIDO_HEROE*)! I'm so glad you're back!{SAUT}You're not hurt anywhere, are you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0010",
+    "locuteur": "Elly",
+    "en": "Oh, (*APELLIDO_HEROE*)! It's good to have you{SAUT}back... Are you hurt anywhere?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0011",
+    "locuteur": "Brown",
+    "en": "Tch... You're pretty tough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0012",
+    "locuteur": "Brown",
+    "en": "I kinda thought you'd eat it. Then I{SAUT}could rush in and rescue the princess!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0013",
+    "locuteur": "Ayase",
+    "en": "Yeesh, (*APELLIDO_HEROE*), you were in there so{SAUT}long I thought you'd died.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0014",
+    "locuteur": "Ayase",
+    "en": "Yeesh, (*APODO_HEROE*), you were in there so{SAUT}long I thought you'd died.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:202:0015",
+    "locuteur": "Mysterious butterfly",
+    "en": "There isn't much time until this world{SAUT}vanishes completely. You must hurry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0000",
+    "locuteur": "Maki",
+    "en": "Chisato! Yosuke! I'm so glad to see you{SAUT}both safe and sound!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0001",
+    "locuteur": "Chisato",
+    "en": "Maki! Oh good, you're safe, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0002",
+    "locuteur": "Mark",
+    "en": "Hey Yosuke, what happened here? There's{SAUT}no one around but you guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0003",
+    "locuteur": "Yosuke",
+    "en": "I'm not sure...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0004",
+    "locuteur": "Yosuke",
+    "en": "It was like this when we got back.{SAUT}The east side of town's vanished, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0005",
+    "locuteur": "Yosuke",
+    "en": "I want to know what's going on just as{SAUT}much as you do!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0006",
+    "locuteur": "Nanjo",
+    "en": "This must be the work of Pandora...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0007",
+    "locuteur": "Chisato",
+    "en": "Pandora?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0008",
+    "locuteur": "Maki",
+    "en": "I'm sorry, both of you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0009",
+    "locuteur": "Maki",
+    "en": "I'm at fault for all of this... It's the{SAUT}real reason behind everything...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0010",
+    "locuteur": "Chisato",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0011",
+    "locuteur": "Yosuke",
+    "en": "So that's it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0012",
+    "locuteur": "Maki",
+    "en": "I promise I'll return everyone to their{SAUT}original world.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0013",
+    "locuteur": "Maki",
+    "en": "I know there's no forgiving me for what{SAUT}I did... but I'm really, really sorry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0014",
+    "locuteur": "Maki",
+    "en": "If you want to hit me, Chisato, I'll{SAUT}understand. Go right ahead.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0015",
+    "locuteur": "Chisato",
+    "en": "You're such an idiot, Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0016",
+    "locuteur": "Chisato",
+    "en": "You're just as thick as you've always{SAUT}been...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0017",
+    "locuteur": "Yosuke",
+    "en": "Hey, Chisato, c'mon...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0018",
+    "locuteur": "Chisato",
+    "en": "It's me who needs to apologize.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0019",
+    "locuteur": "Chisato",
+    "en": "You called me to this world because you{SAUT}thought of me as your best friend, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0020",
+    "locuteur": "Chisato",
+    "en": "And I... I betrayed you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0021",
+    "locuteur": "Chisato",
+    "en": "You've got it backwards, Maki. It's me{SAUT}who needs your forgiveness...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0022",
+    "locuteur": "Maki",
+    "en": "Chisato... Thanks...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0023",
+    "locuteur": "Chisato",
+    "en": "Now go on. We'll wait here so we don't{SAUT}get in your way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0024",
+    "locuteur": "Chisato",
+    "en": "Once things settle down... let's all go{SAUT}to an amusement park together!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0025",
+    "locuteur": "Chisato",
+    "en": "Sound good?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0026",
+    "locuteur": "Maki",
+    "en": "...Yeah.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0027",
+    "locuteur": "Mark",
+    "en": "An amusement park, huh? Heheh... Might be{SAUT}fun to act like a kid again for a day.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0028",
+    "locuteur": "Mark",
+    "en": "So let's hurry up and get this done!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0029",
+    "locuteur": "Nanjo",
+    "en": "Maki, please open the door for us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0030",
+    "locuteur": "Maki",
+    "en": "Will do!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0031",
+    "locuteur": "Maki",
+    "en": "Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0032",
+    "locuteur": "Reiji",
+    "en": "Alright, let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0033",
+    "locuteur": "Elly",
+    "en": "It's open! Let's go, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0034",
+    "locuteur": "Brown",
+    "en": "Alright! Time to do this thing!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0035",
+    "locuteur": "Ayase",
+    "en": "Woo! Let's get going!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0036",
+    "locuteur": "Maki",
+    "en": "All my worst qualities are through this{SAUT}door... I refuse to let them win!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0037",
+    "locuteur": "Mark",
+    "en": "This is finally it... Let's give it{SAUT}everything we got, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0038",
+    "locuteur": "Nanjo",
+    "en": "Hmm... These compacts may represent the{SAUT}three primary colors of light.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0039",
+    "locuteur": "Nanjo",
+    "en": "One's heart can be any color, I suppose.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0040",
+    "locuteur": "Nanjo",
+    "en": "Which color all depends on one's self...{SAUT}Perhaps that's the reasoning behind it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0041",
+    "locuteur": "Reiji",
+    "en": "Hurry and go. I'll take out the small{SAUT}fry for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0042",
+    "locuteur": "Elly",
+    "en": "It comes down to this... Let's end it{SAUT}quickly and visit to the amusement park.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0043",
+    "locuteur": "Elly",
+    "en": "So this is it, huh? Let's hurry so we can{SAUT}get to the amusement park quicker!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0044",
+    "locuteur": "Elly",
+    "en": "I want to ride the ferris wheel with you,{SAUT}(*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0045",
+    "locuteur": "Brown",
+    "en": "I'm pumped!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0046",
+    "locuteur": "Brown",
+    "en": "Anyone who stands in my way will get a{SAUT}faceful of my Persona power!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0047",
+    "locuteur": "Ayase",
+    "en": "Hmmm, an amusement park, huh? I SO wanna{SAUT}ride the freefall!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:208:0048",
+    "locuteur": "Ayase",
+    "en": "Last time I rode it five times in a row--{SAUT}this time I'm gonna shoot for ten!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:208:0049",
+    "locuteur": "Ayase",
+    "en": "And I expect you to be there with me,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0052",
+    "locuteur": "Ayase",
+    "en": "And I expect you to be there with me,{SAUT}(*APODO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0053",
+    "locuteur": "Chisato",
+    "en": "Be careful.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:208:0054",
+    "locuteur": "Chisato",
+    "en": "But man, you've got it made, huh? It's{SAUT}easy to tell who Maki likes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:208:0057",
+    "locuteur": "Chisato",
+    "en": "And it looks like she's not the only{SAUT}one... Better look out, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:208:0058",
+    "locuteur": "Yosuke",
+    "en": "Just keep hanging in there. I can't do{SAUT}much, but I'll be rooting for you guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:210:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 8,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E0.BIN:211:0012",
+    "locuteur": "Igor",
+    "en": "We in this room will lend you inhuman{SAUT}power... the power of demons...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:211:0048",
+    "locuteur": "Igor",
+    "en": "Ready to be summoned forth at any time{SAUT}during battle.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:211:0057",
+    "locuteur": "Igor",
+    "en": "I suggest you examine your status{SAUT}carefully after summoning one.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:211:0077",
+    "locuteur": "Igor",
+    "en": "I suggest gems for obtaining a higher-{SAUT}or lower-ranked fusion within an Arcana.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0000",
+    "locuteur": "Maki",
+    "en": "This school and the people in it are{SAUT}figments of the real me's imagination...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0001",
+    "locuteur": "Maki",
+    "en": "I'm not sure how to feel about that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0002",
+    "locuteur": "Mark",
+    "en": "Sure is quiet here. I don't think{SAUT}anyone's around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0003",
+    "locuteur": "Nanjo",
+    "en": "The entrance to Avidya World is at{SAUT}the library.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0004",
+    "locuteur": "Reiji",
+    "en": "My business with this school, this town,{SAUT}was through when Kandori died...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0005",
+    "locuteur": "Reiji",
+    "en": "Or so I thought.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0006",
+    "locuteur": "Elly",
+    "en": "Do you like school, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:212:0007",
+    "locuteur": "Elly",
+    "en": "I... used to think it was boring.{SAUT}But I'm getting to like it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0008",
+    "locuteur": "Elly",
+    "en": "It's much easier now that I've met{SAUT}you all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0010",
+    "locuteur": "Elly",
+    "en": "I... used to consider it dull. But not{SAUT}anymore, I don't think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0011",
+    "locuteur": "Elly",
+    "en": "That's thanks to my friendship with you{SAUT}and the others...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0012",
+    "locuteur": "Brown",
+    "en": "I actually really like school.{SAUT}I'm a crappy student, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0013",
+    "locuteur": "Brown",
+    "en": "But hey, studying isn't everything!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0014",
+    "locuteur": "Ayase",
+    "en": "Do you like school, (*APELLIDO_HEROE*)?{SAUT}'Cause you know, I kinda do.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:212:0015",
+    "locuteur": "Ayase",
+    "en": "Most of the time, I get to do whatever{SAUT}I want here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:212:0016",
+    "locuteur": "Ayase",
+    "en": "Do you like school, (*APODO_HEROE*)?{SAUT}'Cause you know, I kinda do.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

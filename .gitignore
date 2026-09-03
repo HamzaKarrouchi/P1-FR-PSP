@@ -1,0 +1,10 @@
+# Rien du jeu, jamais.
+*.iso
+*.ISO
+*.BIN
+*.bin
+*.cso
+
+# Sorties locales
+dist/
+__pycache__/

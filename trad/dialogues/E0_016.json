@@ -1,0 +1,701 @@
+[
+  {
+    "id": "E0.BIN:055:0000",
+    "locuteur": "Nanjo",
+    "en": "So this is the delivery entrance. Just the{SAUT}sort of thing Kandori would think of...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0001",
+    "locuteur": "Maki",
+    "en": "Hey, didn't Masao say he drew this?{SAUT}It's really good! He's pretty talented.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0002",
+    "locuteur": "Elly",
+    "en": "Mark drew this graffiti? He may not{SAUT}look it, but he's quite the artist.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0003",
+    "locuteur": "Brown",
+    "en": "You really think so? Isn't it lame,{SAUT}though...? I could do way better.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0004",
+    "locuteur": "Mark",
+    "en": "Heheh... Maki and Elly definitely have{SAUT}good taste in art.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0005",
+    "locuteur": "Mark",
+    "en": "What!? Don't go dissin' my piece!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0006",
+    "locuteur": "Nanjo",
+    "en": "Hold on a moment. You... came here{SAUT}often, yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0007",
+    "locuteur": "Mark",
+    "en": "Hell yeah! This place is like a studio{SAUT}for my buds in the Tailors.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0008",
+    "locuteur": "Nanjo",
+    "en": "So you used this place as a hideout...{SAUT}and never noticed SEBEC's involvement?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0009",
+    "locuteur": "Elly",
+    "en": "That's... unbelievable...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0010",
+    "locuteur": "Brown",
+    "en": "Get outta town! Haha... that's our Mark.{SAUT}Way to go, Moron-in-Chief!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0011",
+    "locuteur": "Mark",
+    "en": "Shuddup! It's like, you know, how stuff{SAUT}under your head is hard to notice!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0012",
+    "locuteur": "Nanjo",
+    "en": "That's \"under your nose,\" you dunce!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0013",
+    "locuteur": "Maki",
+    "en": "Ahahaha! C'mon, that's enough...{SAUT}Let's find the entrance.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0014",
+    "locuteur": "Elly",
+    "en": "Shh! There's someone over there...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0015",
+    "locuteur": "Brown",
+    "en": "H-Hey... Is there something over there?{SAUT}...Go check it out, Mark.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0016",
+    "locuteur": "Mark",
+    "en": "There's something over there! Hey!{SAUT}Come out and show yourself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0017",
+    "locuteur": "Ayase",
+    "en": "Is that... (*APELLIDO_HEROE*) and the others?{SAUT}C'mon, don't scare me like that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0018",
+    "locuteur": "Nanjo",
+    "en": "Is that you, Ayase? What on earth are{SAUT}you doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:055:0019",
+    "locuteur": "Elly",
+    "en": "Ayase, if you're here alone...{SAUT}Did something happen at school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0020",
+    "locuteur": "Brown",
+    "en": "You came by yourself, Ayase? Pretty hard{SAUT}to swallow...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0021",
+    "locuteur": "Ayase",
+    "en": "Hey! I, like, barely got out alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0022",
+    "locuteur": "Ayase",
+    "en": "Can't you be a little nicer to me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0023",
+    "locuteur": "Maki",
+    "en": "Got out alive...? Yuka, did something{SAUT}happen at St. Hermelin!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0024",
+    "locuteur": "Ayase",
+    "en": "Oh man, it's like, awful. That stuff{SAUT}about the school being safe was bogus.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0025",
+    "locuteur": "Ayase",
+    "en": "St. Hermelin's just, like... gone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0026",
+    "locuteur": "Maki",
+    "en": "No way! Then what happened to Yuko{SAUT}and everyone?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0027",
+    "locuteur": "Maki",
+    "en": "Did you run away by yourself!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0028",
+    "locuteur": "Ayase",
+    "en": "How should I know!? Like I have any idea{SAUT}what's going on...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:055:0029",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)! We have to go rescue{SAUT}everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0030",
+    "locuteur": "Nanjo",
+    "en": "Calm down, Maki. The school most likely{SAUT}vanished due to the Deva System's effects.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:055:0031",
+    "locuteur": "Nanjo",
+    "en": "In which case, our best course of action{SAUT}is to make Kandori undo it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:055:0032",
+    "locuteur": "Ayase",
+    "en": "I'm coming with you! If I stay here{SAUT}alone, I'll be totally hosed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0033",
+    "locuteur": "Elly",
+    "en": "Mmm... I'm not so sure. It'd be safer{SAUT}if you found a hiding place, Ayase.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0034",
+    "locuteur": "Nanjo",
+    "en": "Eriko is right. It'll be dangerous for{SAUT}you without the power of Persona.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0035",
+    "locuteur": "Nanjo",
+    "en": "Find a secure hiding spot.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:055:0036",
+    "locuteur": "Brown",
+    "en": "Nothing good ever happens when Ayase's{SAUT}around... As leader, I forbid it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0037",
+    "locuteur": "Nanjo",
+    "en": "This idiot's babbling aside, it would{SAUT}be dangerous for you without a Persona.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0039",
+    "locuteur": "Ayase",
+    "en": "What the hell!? You guys are so mean,{SAUT}picking on me like that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0040",
+    "locuteur": "Ayase",
+    "en": "Well, fine, assholes!! Go to hell!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0041",
+    "locuteur": "Mark",
+    "en": "Ayase, huh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0042",
+    "locuteur": "Ayase",
+    "en": "Woo-hoo! That's the spirit, (*APELLIDO_HEROE*)!{SAUT}You know the score!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0043",
+    "locuteur": "Nanjo",
+    "en": "Here's a gun for you... Just try not to{SAUT}get in the way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0044",
+    "locuteur": "Maki",
+    "en": "It's decided, then. Let's split up and{SAUT}look for an entrance!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0045",
+    "locuteur": "Mark",
+    "en": "You're coming alone, too? Dude, you{SAUT}should just hide until this blows over.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0046",
+    "locuteur": "Ayase",
+    "en": "No! No no no no no no no no!{SAUT}I'm coming, and THAT'S FINAL!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0047",
+    "locuteur": "Maki",
+    "en": "Alright, we get it! You guys are okay{SAUT}with this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0048",
+    "locuteur": "Mark",
+    "en": "Tch... I don't think she's givin' us{SAUT}a choice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0049",
+    "locuteur": "Nanjo",
+    "en": "Now, there must be a machine nearby{SAUT}where we can use the security card.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0050",
+    "locuteur": "Nanjo",
+    "en": "I suggest we split up and look for it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0051",
+    "locuteur": "Mark",
+    "en": "Heheheh, I bombed this wall myself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0052",
+    "locuteur": "Mark",
+    "en": "That's what graf writin' is about...{SAUT}Lettin' your soul shout loud and proud.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0053",
+    "locuteur": "Maki",
+    "en": "Something's off about this town and{SAUT}the people in it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0054",
+    "locuteur": "Maki",
+    "en": "Huh? Wh-What? I don't think the machine{SAUT}is over here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0055",
+    "locuteur": "Brown",
+    "en": "If you find anything, report it to the{SAUT}leader at once. By which I mean, me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0056",
+    "locuteur": "Elly",
+    "en": "I can't find a machine to use the card{SAUT}with anywhere.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0057",
+    "locuteur": "Maki",
+    "en": "I feel kinda sorry for Yuka...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0058",
+    "locuteur": "Nanjo",
+    "en": "Kandori... I sensed he was a crafty one{SAUT}when I met him at a business party...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0059",
+    "locuteur": "Nanjo",
+    "en": "But I didn't imagine he could be this{SAUT}audacious.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0061",
+    "locuteur": "Nanjo",
+    "en": "It's rather unusual to see you alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0062",
+    "locuteur": "Ayase",
+    "en": "Count yourself lucky, (*APELLIDO_HEROE*),{SAUT}'cause I'm coming with you. Got it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0063",
+    "locuteur": "Maki",
+    "en": "Where are you going, (*APELLIDO_HEROE*)?{SAUT}We have to find the entrance.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0064",
+    "locuteur": "Maki",
+    "en": "Yuka!? What happened to the school?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0065",
+    "locuteur": "Maki",
+    "en": "What happened to Yuko and everyone?{SAUT}Did you run away by yourself!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0069",
+    "locuteur": "Mark",
+    "en": "What's the word? Are we gonna bring{SAUT}her along?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0070",
+    "locuteur": "Mark",
+    "en": "Yo (*APELLIDO_HEROE*), are you seriously{SAUT}takin' Ayase with us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0071",
+    "locuteur": "Mark",
+    "en": "Yo (*APELLIDO_HEROE*), are you seriously not{SAUT}gonna take Ayase with us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0072",
+    "en": "(*UNK_0E,0000*){FERME} > Found the security card reader!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0073",
+    "locuteur": "Mark",
+    "en": "You find somethin', (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0074",
+    "locuteur": "Mark",
+    "en": "Huh! Man, so that's where it was!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0075",
+    "locuteur": "Nanjo",
+    "en": "What's the matter?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0076",
+    "locuteur": "Mark",
+    "en": "(*APELLIDO_HEROE*) found the machine we're{SAUT}supposed to use the card on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0077",
+    "locuteur": "Mark",
+    "en": "C'mon, let's give it a try.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0078",
+    "locuteur": "Nanjo",
+    "en": "Wait. We don't know what will happen.{SAUT}Let's think this through--{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0079",
+    "locuteur": "Mark",
+    "en": "Man, whatever. C'mon, fork it over.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0080",
+    "locuteur": "Mark",
+    "en": "Huuuuuh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0081",
+    "locuteur": "Nanjo",
+    "en": "I told you to wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:055:0082",
+    "locuteur": "Maki's voice",
+    "en": "Wh-What's going on? Something happened{SAUT}to the lights...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0000",
+    "locuteur": "Nanjo",
+    "en": "Don't touch anything suspicious without{SAUT}a very good reason! Got that, Masao!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0001",
+    "locuteur": "Mark",
+    "en": "Yeah, yeah, I got it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0002",
+    "locuteur": "Nanjo",
+    "en": "Well then, (*APELLIDO_HEROE*), let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0003",
+    "locuteur": "Maki",
+    "en": "Kandori... I wonder what he's like.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0004",
+    "locuteur": "Maki",
+    "en": "Kandori... Oh, um, it's nothing.{SAUT}Let's go after him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0005",
+    "locuteur": "Mark",
+    "en": "Man... Setting this thing up in our{SAUT}studio... not cool.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0006",
+    "locuteur": "Mark",
+    "en": "Dude, I really dug this place. Now it's{SAUT}all jinxed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0007",
+    "locuteur": "Nanjo",
+    "en": "I'd say our team is rather lacking in{SAUT}solemnity. It makes me a bit anxious...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0008",
+    "locuteur": "Nanjo",
+    "en": "Do you really think this is the time to{SAUT}loiter around, (*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0009",
+    "locuteur": "Nanjo",
+    "en": "Heaven only knows what Kandori may do{SAUT}if we don't hurry and find him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0010",
+    "locuteur": "Elly",
+    "en": "To tell the truth, I've had an interest{SAUT}in SEBEC for quite some time now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0011",
+    "locuteur": "Elly",
+    "en": "I'm very curious to see what's in{SAUT}store here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0012",
+    "locuteur": "Elly",
+    "en": "Where are you going? Our foe is within{SAUT}SEBEC! At least, I think he is...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0013",
+    "locuteur": "Brown",
+    "en": "S-Sure, you can go first. I hate to{SAUT}keep the leader waiting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0014",
+    "locuteur": "Brown",
+    "en": "Hey, c'mon! You don't see Kandori{SAUT}running away, do you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0015",
+    "locuteur": "Brown",
+    "en": "If you wanna turn tail, I can definitely{SAUT}sympathize, but show some backbone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0016",
+    "locuteur": "Brown",
+    "en": "You can start by going in there first!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0017",
+    "locuteur": "Ayase",
+    "en": "Uh, hey, are we like, seriously going{SAUT}in there? Why not just call it off?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0018",
+    "locuteur": "Ayase",
+    "en": "Oh, cool, are we going home? I'm ALL{SAUT}for that! Whaaaat...? We're not!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0019",
+    "en": "{FERME} > Take the elevator?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0020",
+    "en": "(*UNK_0E,0000*){FERME}> There's no need to use the security{SAUT}card anymore.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:056:0021",
+    "locuteur": "Maki",
+    "en": "C'mon, (*APELLIDO_HEROE*)! Let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "id": "E1.BIN:013:0003",
+    "locuteur": "Mysterious butterfly",
+    "en": "This door leads to (*TEXTBOX_PARAM,0700*)Thanatos Tower(*TEXTBOX_PARAM,0000*), one of{SAUT}the three towers surrounding this school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0004",
+    "locuteur": "Mysterious butterfly",
+    "en": "This tower is filled with immensely{SAUT}powerful demons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:013:0005",
+    "locuteur": "Mysterious butterfly",
+    "en": "Gathering the Mirror Shards here will be{SAUT}a formidable task indeed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0009",
+    "locuteur": "Mysterious butterfly",
+    "en": "This is the entrance to (*TEXTBOX_PARAM,0700*)Thanatos Tower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:013:0010",
+    "locuteur": "Mysterious butterfly",
+    "en": "Of the three masters, Thanatos is{SAUT}possessed of the strongest will.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0011",
+    "locuteur": "Mysterious butterfly",
+    "en": "Be fully prepared for the menace within.{SAUT}Though you may be equal to the task...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0016",
+    "locuteur": "Mysterious butterfly",
+    "en": "Your chances of survival are low, but if{SAUT}you insist on going, I will not stop you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0019",
+    "locuteur": "[08B6][0C3A][0D89]な[0D31]",
+    "en": "ここは\"(*TEXTBOX_PARAM,0700*)タナトスの[0DC3](*TEXTBOX_PARAM,0000*)\"への[0E3C][08FB]だ。{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0020",
+    "locuteur": "[08B6][0C3A][0D89]な[0D31]",
+    "en": "[0A65]である[0F13][0947][09F1][0FD3]き[08E3]も[07ED][0CA5]な[110D]を[0A1D]つ[05AB][1002][0CC2]で{SAUT}あふれかえっているからな。{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0021",
+    "locuteur": "[08B6][0C3A][0D89]な[0D31]",
+    "en": "ここで[079A]を[08A4]くと[08BE]うならそれも[05EA][07FB]だが。{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0022",
+    "en": "{FERME}> The door is frozen shut. A heavy,{SAUT}cold draft can be felt from beyond...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0023",
+    "en": "{FERME} > A heavy, cold draft can be felt{SAUT}from beyond the door.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0024",
+    "en": "{FERME}   > Enter Thanatos Tower?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0025",
+    "locuteur": "Yukino",
+    "en": "What an awful feeling... The air here is{SAUT}as bad as the hospital basement.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0026",
+    "locuteur": "Yukino",
+    "en": "Even with Yuriko gone, the air here is{SAUT}still cold.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0027",
+    "locuteur": "Ayase",
+    "en": "It's soooo cooooold... Ow, my{SAUT}lower back...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0028",
+    "locuteur": "Ayase",
+    "en": "I'm hungry... how much longer is this{SAUT}gonna take?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0029",
+    "locuteur": "Nanjo",
+    "en": "Hm. Better weapons would be nice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0030",
+    "locuteur": "Nanjo",
+    "en": "A god of death... That's one Persona{SAUT}I'd as soon not assume.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0031",
+    "locuteur": "Brown",
+    "en": "Wow, it's FREEZING here! I think it's{SAUT}even colder than the other classrooms!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0032",
+    "locuteur": "Brown",
+    "en": "Ah... ah... ACHOO! Argh! We really need{SAUT}to get rid of all this stupid ice!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0033",
+    "locuteur": "Elly",
+    "en": "Hm... Thanatos Tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0034",
+    "locuteur": "Elly",
+    "en": "Thanatos is the Greek god of death.{SAUT}Not someone you'd want as a friend...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:013:0035",
+    "locuteur": "Elly",
+    "en": "The desire to remain beautiful... I can{SAUT}somewhat understand how Yuriko felt.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0000",
+    "locuteur": "Yukino",
+    "en": "What the... Who's that on the floor?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0001",
+    "locuteur": "Yukino",
+    "en": "Tadashi and Tamaki!? And Nurse Natsumi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0002",
+    "locuteur": "Yukino",
+    "en": "What are they doing here? Weren't they{SAUT}back at school? ＊gasp＊ No way...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0003",
+    "locuteur": "Nanjo",
+    "en": "It took some time, but regular students{SAUT}are being claimed as victims...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0004",
+    "locuteur": "Nanjo",
+    "en": "I pity them, but there isn't time to{SAUT}waste. We could be next.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0005",
+    "locuteur": "Brown",
+    "en": "Tadashi... Tamaki... Nurse Natsumi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0006",
+    "locuteur": "Brown",
+    "en": "How could this happen...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0007",
+    "locuteur": "Brown",
+    "en": "Damn that Snow Queen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0008",
+    "locuteur": "Brown",
+    "en": "I'll avenge their deaths if it's the{SAUT}last thing I do!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0009",
+    "locuteur": "Tadashi",
+    "en": "Zzzz... hrnk... {PAUSE}[1E00]lo... you... {PAUSE}[1E00]Tamaki...!{SAUT}Zzzz...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0010",
+    "locuteur": "Yukino",
+    "en": "T-Tamaki!? Is he talking in his sleep?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0011",
+    "locuteur": "Yukino",
+    "en": "Wait... they're all just sleeping!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0012",
+    "locuteur": "Yukino",
+    "en": "Tch... well, that was a lot of panic{SAUT}over nothing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0013",
+    "locuteur": "Nanjo",
+    "en": "Hold it, Yukino.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0014",
+    "locuteur": "Nanjo",
+    "en": "Even if they are only sleeping, it's odd{SAUT}they should be here and not at school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0015",
+    "locuteur": "Nanjo",
+    "en": "It could be a trap of the Snow Queen's.{SAUT}I advise keeping your guard up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0016",
+    "locuteur": "Elly",
+    "en": "Hypnos Tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0017",
+    "locuteur": "Elly",
+    "en": "Hypnos is the god of sleep...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0018",
+    "locuteur": "Elly",
+    "en": "Careful, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0019",
+    "locuteur": "Elly",
+    "en": "These three may have been forced into{SAUT}sleep by the Snow Queen!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0020",
+    "locuteur": "Tamaki",
+    "en": "Zzzz... Mmmm... {PAUSE}[1E00]I love you...{PAUSE}[1E00]{SAUT}da... shi... {PAUSE}[1E00]Zzzz...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0021",
+    "locuteur": "Ayase",
+    "en": "Look at those faces, though... they seem{SAUT}so happy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0022",
+    "locuteur": "Ayase",
+    "en": "I dunno if the Snow Queen really has{SAUT}anything to do with this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0023",
+    "locuteur": "Nurse Natsumi",
+    "en": "Zzzz... Hahaha... {PAUSE}[1E00]Now be a good boy...{PAUSE}[1E00]{SAUT}Clean your plate...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0024",
+    "locuteur": "Ayase",
+    "en": "Ugh... like, what's she dreaming about?{SAUT}It makes me wanna pinch her nose.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0025",
+    "locuteur": "Yukino",
+    "en": "Even if they are just sleeping, we can't{SAUT}leave them here surrounded by monsters.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0026",
+    "locuteur": "Yukino",
+    "en": "Let's wake them up before we move on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0027",
+    "locuteur": "Yukino",
+    "en": "I dunno what to say about Nurse Natsumi.{SAUT}She might as well still be sleeping.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0028",
+    "locuteur": "Ayase",
+    "en": "Y'know what?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0029",
+    "locuteur": "Ayase",
+    "en": "Tadashi acts up a lot, but he's not that{SAUT}bad-looking when he's asleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0030",
+    "locuteur": "Ayase",
+    "en": "＊yawn＊ I'm tired... I'm getting sleepy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0031",
+    "locuteur": "Nanjo",
+    "en": "If they're not in mortal peril, it should{SAUT}be fine to leave them. We don't have time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0032",
+    "locuteur": "Nanjo",
+    "en": "Time is money, as they say. Let's proceed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0033",
+    "locuteur": "Nanjo",
+    "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0034",
+    "locuteur": "Nanjo",
+    "en": "Ugh... I have to make a conscious effort{SAUT}to avoid falling asleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0035",
+    "locuteur": "Nanjo",
+    "en": "I'd like it if we could spend as little{SAUT}time here as possible.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0036",
+    "locuteur": "Brown",
+    "en": "What, so they're just sleeping? I got{SAUT}all anxious over nothing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0037",
+    "locuteur": "Brown",
+    "en": "Then again, I suspected from the start{SAUT}that was what was happening. Really.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0038",
+    "locuteur": "Brown",
+    "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{PAUSE}[1E00]{SAUT}...{PAUSE}[1E00]...{PAUSE}[1E00]Guh!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0039",
+    "locuteur": "Brown",
+    "en": "What!? What is it!? I-I wasn't sleeping.{SAUT}Nope, not me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0040",
+    "locuteur": "Brown",
+    "en": "I was subconsciously coming up with{SAUT}a plan!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0041",
+    "locuteur": "Elly",
+    "en": "If Hypnos is, in fact, tied to their{SAUT}strange slumber...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0042",
+    "locuteur": "Elly",
+    "en": "I doubt they'll wake up no matter how{SAUT}long we wait here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0043",
+    "locuteur": "Elly",
+    "en": "Have a firm grip on yourself and don't{SAUT}fall asleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0044",
+    "locuteur": "Elly",
+    "en": "That's the key to conquering{SAUT}Hypnos Tower.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0045",
+    "locuteur": "Tadashi",
+    "en": "Zzzz... ＊hrnk＊... {PAUSE}[1E00]I'll always hold you{SAUT}close to me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0046",
+    "locuteur": "Tamaki",
+    "en": "Zzzz... {PAUSE}[1E00]I'll always be with you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0047",
+    "locuteur": "Nurse Natsumi",
+    "en": "Zzzz... Mmmm... {PAUSE}[1E00]You won't escape this{SAUT}time... {PAUSE}[1E00]Now eat up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0048",
+    "locuteur": "Nurse Natsumi",
+    "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..!{SAUT}Ow ow ow, my head... Owwww...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0049",
+    "locuteur": "Nurse Natsumi",
+    "en": "I have low blood pressure... Just let{SAUT}me sleep a little more...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0050",
+    "locuteur": "Nurse Natsumi",
+    "en": "...{PAUSE}[1E00]Anyway, be careful, guys...{SAUT}Ow ow ow...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0051",
+    "en": "{FERME}(*SCENE_END*)[0300]> Tamaki{SAUT}A transfer student who joined the Fencing{SAUT}Club. She's always arguing with Tadashi.(*SCENE_END*) {ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:033:0052",
+    "en": "{FERME}   (*SCENE_END*)β> Tadashi{SAUT}A lazy member of the Fencing Club who{SAUT}quarrels with Tamaki every day.(*SCENE_END*) {ATTENTE}",
+    "fr": ""
+  }
+]

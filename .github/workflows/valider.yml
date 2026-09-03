@@ -1,0 +1,63 @@
+# Vérifie chaque proposition de traduction.
+#
+# Les erreurs sont posées en annotations directement sur les lignes du diff,
+# et pas en commentaire : une proposition venue d'un fork — c'est le cas de
+# presque toutes, puisque « modifier ce fichier » depuis le navigateur crée un
+# fork — donne au robot un jeton en lecture seule, avec lequel il ne peut pas
+# commenter. Les annotations, elles, passent toujours.
+name: Valider les traductions
+
+on:
+  pull_request:
+    paths:
+      - 'trad/**.json'
+
+permissions:
+  contents: read
+
+jobs:
+  valider:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Lister les fichiers modifiés
+        id: fichiers
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          liste=$(git diff --name-only --diff-filter=d "$base" HEAD -- 'trad/**.json' \
+                  | grep -v '/_' || true)
+          echo "liste<<FIN" >> "$GITHUB_OUTPUT"
+          echo "$liste" >> "$GITHUB_OUTPUT"
+          echo "FIN" >> "$GITHUB_OUTPUT"
+          if [ -z "$liste" ]; then
+            echo "aucun fichier de traduction modifié"
+          else
+            echo "$liste"
+          fi
+
+      - name: Valider
+        if: steps.fichiers.outputs.liste != ''
+        run: |
+          echo "${{ steps.fichiers.outputs.liste }}" \
+            | xargs ruby outils/check_trad.rb --annoter
+
+      - name: Récapitulatif
+        if: always() && steps.fichiers.outputs.liste != ''
+        run: |
+          {
+            echo "## Validation"
+            echo
+            echo '```'
+            echo "${{ steps.fichiers.outputs.liste }}" \
+              | xargs ruby outils/check_trad.rb 2>&1 || true
+            echo '```'
+            echo
+            echo "Le détail des messages est expliqué dans [la FAQ](docs/FAQ.md)."
+          } >> "$GITHUB_STEP_SUMMARY"

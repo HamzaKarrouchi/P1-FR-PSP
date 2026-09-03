@@ -1,0 +1,574 @@
+[
+  {
+    "id": "E0.BIN:058:0000",
+    "locuteur": "Kandori",
+    "en": "Dr. Nicholai. Are the adjustments{SAUT}complete?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0001",
+    "locuteur": "Dr. Nicholai",
+    "en": "Please reconsider this, Mr. Kandori!{SAUT}Stop the system and atone for your sins!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0002",
+    "locuteur": "Kandori",
+    "en": "Preposterous. It's the rest of mankind{SAUT}that must atone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0003",
+    "locuteur": "Kandori",
+    "en": "What I've done here is nothing more{SAUT}than to facilitate that process.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0004",
+    "locuteur": "Dr. Nicholai",
+    "en": "But that young man... You didn't have{SAUT}to send him into the dimensional rift!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0005",
+    "locuteur": "Dr. Nicholai",
+    "en": "What did you hope to gain by throwing{SAUT}away a child's life!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0006",
+    "locuteur": "Kandori",
+    "en": "I won't allow anyone to stand in my way.{SAUT}Not even a child...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0007",
+    "locuteur": "Kandori",
+    "en": "Judgement will come regardless. It's{SAUT}only a question of sooner, or later.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0008",
+    "locuteur": "Mark",
+    "en": "You're not goin' anywhere, mister!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0009",
+    "locuteur": "Nanjo",
+    "en": "Your time has come, Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0010",
+    "locuteur": "Kandori",
+    "en": "Ah... I had a feeling you'd come. So you{SAUT}beat Takeda? He always was useless...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0011",
+    "locuteur": "Brown",
+    "en": "Guys like that are no sweat to us.{SAUT}Give it up! We're taking you in!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0012",
+    "locuteur": "Brown",
+    "en": "Surrender now and we'll let you off{SAUT}with a life sentence!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0013",
+    "locuteur": "Elly",
+    "en": "I have nothing but contempt for sore{SAUT}losers like you... Surrender already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0014",
+    "locuteur": "Ayase",
+    "en": "C'mon, I got stuff to do! I don't have{SAUT}time to waste on your sorry butt!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0015",
+    "locuteur": "Ayase",
+    "en": "Just give up already and let us take{SAUT}you away!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0016",
+    "locuteur": "Kandori",
+    "en": "Loud noises from young children...{SAUT}I don't have time for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0017",
+    "locuteur": "Kandori",
+    "en": "I have matters to attend to...{SAUT}Come, Dr. Nicholai.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0018",
+    "locuteur": "Mark",
+    "en": "Wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0019",
+    "locuteur": "Nanjo",
+    "en": "So this is the Deva System. What are{SAUT}Kandori's plans for this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0020",
+    "locuteur": "Maki",
+    "en": "This machine... I... Where do I know{SAUT}this thing from...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0021",
+    "locuteur": "Brown",
+    "en": "Whoooooa! Wh-What the--!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0022",
+    "locuteur": "Elly",
+    "en": "What is this? What's going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0023",
+    "locuteur": "Ayase",
+    "en": "Yikes! Wh-What the hell--!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0024",
+    "locuteur": "Maki",
+    "en": "Gah! What the...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0025",
+    "locuteur": "Kandori's voice",
+    "en": "Ngh!? What's happening!?{PAUSE}[5E00]{SAUT}Grraaaaaaaaah!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0026",
+    "locuteur": "Kandori's voice",
+    "en": "I... I'm disappearing! Nicholai!{SAUT}What's happening!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0027",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "It's over, Sir. You and I are going{SAUT}down together!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0028",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "For your treachery, for your crimes,{SAUT}for all mankind... you will atone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0029",
+    "locuteur": "Kandori's voice",
+    "en": "Nicholai, you swine! H-How dare you{SAUT}betray me!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0030",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "Young man! If we are reduced to our{SAUT}component atoms, the system will stop!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0031",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "The barrier enclosing this town will be{SAUT}released! Leave us and escape!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0032",
+    "locuteur": "Kandori's voice",
+    "en": "You out there! Boy! Stop the system!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0033",
+    "locuteur": "Mark",
+    "en": "C'mon, old man! You don't have to{SAUT}throw your life away...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0034",
+    "locuteur": "Mark",
+    "en": "Let's save him! There's no need for the{SAUT}old guy to die just 'cause of Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0035",
+    "locuteur": "Mark",
+    "en": "We'll smack down Kandori ourselves!{SAUT}That's what we came for, isn't it!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0036",
+    "locuteur": "Nanjo",
+    "en": "Wait! The old man must have invented the{SAUT}system. He's taking responsibility...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0037",
+    "locuteur": "Nanjo",
+    "en": "We should respect his wishes. We don't{SAUT}even know how to stop the machine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0038",
+    "locuteur": "Brown",
+    "en": "Y-Yeah! Let's listen to the old dude!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0039",
+    "locuteur": "Brown",
+    "en": "If we don't get outta here quick, we're{SAUT}in big trouble!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0040",
+    "locuteur": "Elly",
+    "en": "There's no time for debate, (*APELLIDO_HEROE*).{SAUT}Let's rescue him, quickly.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0041",
+    "locuteur": "Ayase",
+    "en": "This is totally out of hand!{SAUT}Do something, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0042",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0043",
+    "locuteur": "Maki",
+    "en": "Here! This'll stop the machine!{SAUT}The blue button increases the output...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0044",
+    "locuteur": "Maki",
+    "en": "But the red button is the emergency{SAUT}stop! If you push it, we can save him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0045",
+    "locuteur": "Nanjo",
+    "en": "Maki...? Where did you learn that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0046",
+    "locuteur": "Maki",
+    "en": "I don't know how I know, I just know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0047",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)! Hurry!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0048",
+    "locuteur": "Nanjo",
+    "en": "Be an adult about this, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0049",
+    "locuteur": "Nanjo",
+    "en": "There comes a time when one must take{SAUT}responsibility for one's actions.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0050",
+    "locuteur": "Mark",
+    "en": "Whatever! Death is the end of the{SAUT}line, man!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0051",
+    "locuteur": "Mark",
+    "en": "As long as you're alive, you can still{SAUT}do good!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0052",
+    "locuteur": "Brown",
+    "en": "Let's run away--I mean, get outta here!{SAUT}As your leader, I'm begging you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0053",
+    "locuteur": "Elly",
+    "en": "Stay strong. There may be people to{SAUT}whom that old man is precious...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0054",
+    "locuteur": "Maki",
+    "en": "I've had enough! I don't want any{SAUT}more deaths...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:058:0055",
+    "locuteur": "Maki",
+    "en": "No one wants to die, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:058:0056",
+    "locuteur": "Maki",
+    "en": "We can catch Kandori anytime. This man{SAUT}needs our help!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:058:0057",
+    "locuteur": "Kandori's voice",
+    "en": "Gaaaaaah! H-Hurry and... stop the{SAUT}machine...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0058",
+    "locuteur": "Maki",
+    "en": "N-No way...! It didn't stop!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0059",
+    "locuteur": "Brown",
+    "en": "It, uh... It looks like it's actually{SAUT}getting worse now...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0060",
+    "locuteur": "Ayase",
+    "en": "H-Hey! What did you do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0061",
+    "locuteur": "Elly",
+    "en": "Eek! Wh-What's happening?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0062",
+    "locuteur": "Kandori's voice",
+    "en": "What in the... I'm rematerializing!{SAUT}I see...{PAUSE}[5E00] It's you... You're calling for me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0063",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "H... How can this be!? My plan should{SAUT}have worked perfectly!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0064",
+    "locuteur": "Dr. Nicholai's voice",
+    "en": "Don't tell me... Is she--!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0065",
+    "locuteur": "Maki",
+    "en": "You!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0066",
+    "locuteur": "Girl in black",
+    "en": "{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]I won't let you kill my Daddy!{SAUT}Let's leave now, Daddy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0067",
+    "locuteur": "Kandori's voice",
+    "en": "Heh... Heheh... Hahaha! I refuse to{SAUT}die! Now... take me to your world!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0068",
+    "locuteur": "Mark",
+    "en": "Whoa! Wh-What the!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0069",
+    "locuteur": "Nanjo",
+    "en": "Ugh... K-Kandori...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0070",
+    "locuteur": "Brown",
+    "en": "Waaaaaugh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0071",
+    "locuteur": "Ayase",
+    "en": "Ooooh, I've had enough!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0072",
+    "locuteur": "Elly",
+    "en": "No!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0073",
+    "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Dr. Nicholai{SAUT}The genius scientist who developed the{SAUT}Deva System.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0074",
+    "locuteur": "Ayase",
+    "en": "Sheesh, (*APELLIDO_HEROE*)! Hurry and{SAUT}do something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0075",
+    "locuteur": "Maki",
+    "en": "We can save him if you push the{SAUT}red button!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0076",
+    "locuteur": "Maki",
+    "en": "Red or blue... What's it going to be!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0077",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)!? Where are you going!?{SAUT}You have to do something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0078",
+    "en": "{FERME} > It's the Dimensional Variable{SAUT}Accelerator System, commonly known{SAUT}as the Deva System's holograph.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0079",
+    "en": "{FERME}> Emergency alert. Emergency alert.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0080",
+    "en": "{PAGE}> An unknown virus has been detected{SAUT}in the extradimensional shaft{SAUT}activation program.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0081",
+    "en": "{PAGE}> System cannot shut down.{SAUT}System cannot shut down.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:058:0082",
+    "en": "{PAGE}> Manual override is required to shut{SAUT}down the system.{ATTENTE}",
+    "fr": ""
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "E1.BIN:066:0000",
+    "locuteur": "Yukino",
+    "en": "Ms. Ooishi! Mr. Hanya!{SAUT}You're finally awake!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0001",
+    "locuteur": "Yukino",
+    "en": "How are you feeling?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0002",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Y-Yukino! Just what's going on here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0003",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Where in blazes am I?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0004",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "...This is all your doing, isn't it!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0005",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "You pack of delinquents! What are you up{SAUT}to, locking us in here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0006",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Dammit, I was having such a nice dream,{SAUT}and now I can't remember any of it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0007",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Arrrgh! Will someone please explain to{SAUT}me what's going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0008",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "＊pant＊ ＊pant＊ You ask them, Ms. Ooishi!{SAUT}They'll listen to you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0009",
+    "locuteur": "Principal Ooishi",
+    "en": "Have you calmed down yet, Mr. Hanya?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0010",
+    "locuteur": "Principal Ooishi",
+    "en": "First off, are any of you hurt?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0011",
+    "locuteur": "Principal Ooishi",
+    "en": "...If not, then I have nothing more{SAUT}to say.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0012",
+    "locuteur": "Principal Ooishi",
+    "en": "Now then... where are we? I had the most{SAUT}awful dream, and...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0013",
+    "locuteur": "Nanjo",
+    "en": "This may be difficult for you to grasp,{SAUT}but we saved both of your lives.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0014",
+    "locuteur": "Nanjo",
+    "en": "We aren't asking for your thanks, and we{SAUT}certainly don't deserve your anger.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0015",
+    "locuteur": "Nanjo",
+    "en": "I'm sure you understand, mm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0016",
+    "locuteur": "Nanjo",
+    "en": "That aside... do either of you know{SAUT}anything about the Mirror Shards?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0017",
+    "locuteur": "Nanjo",
+    "en": "They're of the utmost importance to us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0018",
+    "locuteur": "Brown",
+    "en": "Oh, come ON, Mr. Hanya! How can you{SAUT}call us delinquents!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0019",
+    "locuteur": "Brown",
+    "en": "With a little support from these guys,{SAUT}I was risking my neck out there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0020",
+    "locuteur": "Brown",
+    "en": "All to save you and Ms. Ooishi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0021",
+    "locuteur": "Brown",
+    "en": "Wouldn't you say I deserve at least{SAUT}a little thank-you for that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0022",
+    "locuteur": "Brown",
+    "en": "Then again... I guess it's all right.{SAUT}What's done is done!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0023",
+    "locuteur": "Brown",
+    "en": "What's important now is these Mirror{SAUT}Shards. Do either of you know anything?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0024",
+    "locuteur": "Brown",
+    "en": "They're super important if me and these{SAUT}guys are gonna save the school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0025",
+    "locuteur": "Brown",
+    "en": "Any ideas? Any at all...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0026",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Mirror Shards!? {PAUSE}[1E00]Oh, you mean this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0027",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "I don't know how it got there, but that{SAUT}was in my suit pocket.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0028",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "It ripped a hole in the inside!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0029",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "My daughter starts her job soon! I can't{SAUT}ask her to mend my clothes anymore...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0030",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "＊ahem＊ Th-That wasn't relevant.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0031",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Forget what I just said!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0032",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Anyway, just what are you kids planning{SAUT}to do with this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0033",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Nothing good, I'll bet!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0034",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Absolutely not! {PAUSE}[1E00]Out of the question!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0035",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Something tells me if I give you this,{SAUT}the situation will get even worse!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0036",
+    "locuteur": "Ayase",
+    "en": "Seriously!? {PAUSE}[1E00]Are you for real!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0037",
+    "locuteur": "Ayase",
+    "en": "What's wrong with you, cueball!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0038",
+    "locuteur": "Ayase",
+    "en": "You didn't even let us explain, and{SAUT}you're gonna say no just like that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0039",
+    "locuteur": "Ayase",
+    "en": "Ooooooh, you're the worst!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0040",
+    "locuteur": "Ayase",
+    "en": "This is why everyone likes the principal{SAUT}and NO ONE likes you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0041",
+    "locuteur": "Ayase",
+    "en": "Now gimme that shard, chromedome!{PAUSE}[1E00]{SAUT}Hand it over, baldo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0042",
+    "locuteur": "Ayase",
+    "en": "GIVE IT, damn you! You assface!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0043",
+    "locuteur": "Principal Ooishi",
+    "en": "Now, now, Yuka. Ladies shouldn't use{SAUT}such language.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0044",
+    "locuteur": "Principal Ooishi",
+    "en": "Mr. Hanya, please refrain from scolding{SAUT}the students before hearing them out.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0045",
+    "locuteur": "Principal Ooishi",
+    "en": "I'd like you to make an effort to put{SAUT}yourself on their level.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0046",
+    "locuteur": "Principal Ooishi",
+    "en": "It should be clear to you then whether{SAUT}the students are lying or not.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0047",
+    "locuteur": "Principal Ooishi",
+    "en": "You can decide whether to scold them{SAUT}after that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0048",
+    "locuteur": "Principal Ooishi",
+    "en": "Now I ask that you please give them{SAUT}this Mirror Shard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0049",
+    "locuteur": "Principal Ooishi",
+    "en": "I can see in their eyes that they haven't{SAUT}done anything wrong.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0050",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "...{PAUSE}[1E00]...Okay. Here you go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0051",
+    "en": "{FERME}  > Obtained a (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shard(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:066:0052",
+    "locuteur": "Nanjo",
+    "en": "Hmph. You should've simply given it to{SAUT}us in the first place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0053",
+    "locuteur": "Nanjo",
+    "en": "We're the only ones at the school with a{SAUT}clear understanding of what must be done.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0054",
+    "locuteur": "Elly",
+    "en": "I'm sorry...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0055",
+    "locuteur": "Elly",
+    "en": "But we need this, not just for ourselves,{SAUT}but to save the entire school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0056",
+    "locuteur": "Principal Ooishi",
+    "en": "I won't ask for an explanation... not at{SAUT}the moment, anyway.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0057",
+    "locuteur": "Principal Ooishi",
+    "en": "I can see that you're doing what you{SAUT}believe to be right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0058",
+    "locuteur": "Principal Ooishi",
+    "en": "But don't push yourselves too hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0059",
+    "locuteur": "Principal Ooishi",
+    "en": "And whatever you do, don't disappoint{SAUT}those who have you in their hearts.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0060",
+    "locuteur": "Principal Ooishi",
+    "en": "Now, go, and do what you must.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0061",
+    "locuteur": "Principal Ooishi",
+    "en": "Luck be with you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0062",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Hmph! I won't bother trying to stop you.{SAUT}Go on! Do whatever you please!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0063",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "...{PAUSE}[1E00]...But listen up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0064",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "If... When the school is back to{SAUT}normal... see me in the office!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0065",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "I have a special lecture in mind...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0066",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "After which I'll demand a full{SAUT}explanation! So come prepared!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0067",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "The Principal and I will be waiting!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0068",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "I want all of you there, understood?{SAUT}Not one missing!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0069",
+    "locuteur": "Yukino",
+    "en": "Ms. Ooishi... {PAUSE}[1E00]Mr. Hanya...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0070",
+    "locuteur": "Yukino",
+    "en": "Heh... {PAUSE}[1E00]Don't worry, you can hold us{SAUT}to it!{PAUSE}[1E00] All of us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0071",
+    "locuteur": "Yukino",
+    "en": "See you later!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0072",
+    "locuteur": "Yukino",
+    "en": "I don't think there's anything left to{SAUT}do here. We should move on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0073",
+    "locuteur": "Ayase",
+    "en": "Heheh! The vice-principal is gonna love{SAUT}us now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0074",
+    "locuteur": "Nanjo",
+    "en": "He may not have earned our respect,{SAUT}but he is still our teacher.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0075",
+    "locuteur": "Nanjo",
+    "en": "It's good that everything turned out{SAUT}well in the end.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0076",
+    "locuteur": "Brown",
+    "en": "Cool! Now the vice-principal owes me one!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0077",
+    "locuteur": "Brown",
+    "en": "Heheheh... I won't let him walk over me{SAUT}anymore, that's for sure!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0078",
+    "locuteur": "Brown",
+    "en": "...{PAUSE}[1E00]On second thought... {PAUSE}[1E00]I take it back.{SAUT}He's still a scary guy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0079",
+    "locuteur": "Elly",
+    "en": "At any rate, I'm glad the two of them{SAUT}are safe.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0080",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Mmm... It was such an amazing dream...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0081",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Ugh, I can almost remember it! What was{SAUT}it about...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:066:0082",
+    "locuteur": "Principal Ooishi",
+    "en": "I had the worst dream... I'm glad I can't{SAUT}remember anything about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

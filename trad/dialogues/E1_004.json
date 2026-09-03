@@ -1,0 +1,605 @@
+[
+  {
+    "id": "E1.BIN:009:0000",
+    "locuteur": "Brown",
+    "en": "Whaaa...? Something just came outta me{SAUT}to say hi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0001",
+    "locuteur": "Ayase",
+    "en": "What in the world was that...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0002",
+    "locuteur": "Nanjo",
+    "en": "Those things? I decided to call them{SAUT}Personas.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0003",
+    "locuteur": "Elly",
+    "en": "They don't seem to be hostile; at least,{SAUT}not for now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0004",
+    "locuteur": "Yukino",
+    "en": "Looks like our little squad's getting{SAUT}bigger.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0005",
+    "locuteur": "Brown",
+    "en": "Uh... squad?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0006",
+    "locuteur": "Ayase",
+    "en": "Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:009:0007",
+    "locuteur": "Ayase",
+    "en": "You mean you and (*APELLIDO_HEROE*) are like,{SAUT}you know... and stuff?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0008",
+    "locuteur": "Nanjo",
+    "en": "I'm... not sure what you're trying{SAUT}to say, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0009",
+    "locuteur": "Nanjo",
+    "en": "There's definitely a commonality{SAUT}between us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0010",
+    "locuteur": "Yukino",
+    "en": "Yeah, after we had those weird dreams,{SAUT}we can summon... Personas, was it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0011",
+    "locuteur": "Elly",
+    "en": "For some reason, only those who dreamed{SAUT}of the butterfly acquired the power.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0012",
+    "locuteur": "Elly",
+    "en": "It also seems related to the demon{SAUT}invasion somehow...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0013",
+    "locuteur": "Ayase",
+    "en": "Wait a sec, Toro was using a Persona,{SAUT}right? Did he have that dream, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0014",
+    "locuteur": "Nanjo",
+    "en": "If he could summon his Persona, then one{SAUT}assumes so.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0015",
+    "locuteur": "Elly",
+    "en": "Yes, that's the most likely explanation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0016",
+    "locuteur": "Ayase",
+    "en": "Omigod!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0017",
+    "locuteur": "Ayase",
+    "en": "I don't believe it! No... no, it{SAUT}can't be!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0018",
+    "locuteur": "Ayase",
+    "en": "That thing's gonna come out of my tummy,{SAUT}and I'll go berserk!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0019",
+    "locuteur": "Elly",
+    "en": "Er... I don't think so. It's all in how{SAUT}you use it. Take a knife, for example.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0020",
+    "locuteur": "Elly",
+    "en": "It can be a valuable tool in the kitchen,{SAUT}or a weapon on the battlefield.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0021",
+    "locuteur": "Elly",
+    "en": "What it does is determined by its user.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0022",
+    "locuteur": "Nanjo",
+    "en": "I doubt it. The power's application{SAUT}varies between each individual.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0023",
+    "locuteur": "Nanjo",
+    "en": "Dynamite can kill, but it can also be{SAUT}used to blast open a tunnel.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0024",
+    "locuteur": "Nanjo",
+    "en": "It essentially boils down to how its{SAUT}user chooses to apply it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0025",
+    "locuteur": "Nanjo",
+    "en": "If you use this power for personal gain,{SAUT}you'll reap what you sow.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0026",
+    "locuteur": "Brown",
+    "en": "Alright... I should be fine, then.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0027",
+    "locuteur": "Brown",
+    "en": "Oh, duh! I know exactly what that{SAUT}butterfly wants me to do!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0028",
+    "locuteur": "Brown",
+    "en": "It made me a hero so I could save the{SAUT}school--and the city!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0029",
+    "locuteur": "Brown",
+    "en": "Haha, alright... If you guys really{SAUT}need me thaaaat much...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0030",
+    "locuteur": "Brown",
+    "en": "I guess I can pitch in. Follow my lead!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0031",
+    "locuteur": "Nanjo",
+    "en": "How naive...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0032",
+    "locuteur": "Yukino",
+    "en": "Well, if he wants to come, fine with us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0033",
+    "locuteur": "Yukino",
+    "en": "Right, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:009:0034",
+    "locuteur": "Ayase",
+    "en": "(*APELLIDO_HEROE*)... you really, actually want{SAUT}Hidehiko along?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0035",
+    "locuteur": "Brown",
+    "en": "Say what!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0036",
+    "locuteur": "Brown",
+    "en": "C'mon, guys! I know you all want me{SAUT}tagging along! No need to hide it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0037",
+    "locuteur": "Brown",
+    "en": "C'mon, be real!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0038",
+    "locuteur": "Brown",
+    "en": "Miz Yukino here begged me to join!{SAUT}How can I say no to that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0039",
+    "locuteur": "Brown",
+    "en": "Plus, I heard it's your fault the school{SAUT}is in this mess.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0040",
+    "locuteur": "Brown",
+    "en": "With me as leader, we can't lose!{SAUT}Trust me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0041",
+    "locuteur": "Brown",
+    "en": "Mwahahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0042",
+    "locuteur": "Yukino",
+    "en": "What are you doing?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0043",
+    "locuteur": "Yukino",
+    "en": "Quit moping around! We're leaving!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:009:0044",
+    "locuteur": "Brown",
+    "en": "Y-Yes, Boss!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0000",
+    "en": "blowing from beyond.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0001",
+    "en": "{FERME}   > Cold air is blowing from beyond{SAUT}the door.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0002",
+    "en": "{FERME}   > Go to Devil's Peak?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0003",
+    "locuteur": "Raiho",
+    "en": "Hee-ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E1.BIN:010:0004",
+    "locuteur": "Raiho",
+    "en": "We transferred to this hee-school from{SAUT}Devil's Peak-ho behind that door.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0005",
+    "locuteur": "Reiho",
+    "en": "Hee-ho! It's hee-so cool and comfy-ho{SAUT}over here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0006",
+    "locuteur": "Raiho",
+    "en": "School is pretty fun, isn't it, Reiho?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0007",
+    "locuteur": "Reiho",
+    "en": "Yeah... it's all right, ho.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0008",
+    "locuteur": "Raiho",
+    "en": "Think we'll make a hee-hundred friends?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0009",
+    "locuteur": "Reiho",
+    "en": "I doubt it...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0010",
+    "locuteur": "Raiho",
+    "en": "Hee-huh...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0011",
+    "locuteur": "Raiho",
+    "en": "Human girls aren't cold like that, ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0012",
+    "locuteur": "Reiho",
+    "en": "They aren't? Sounds hee-hard...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0014",
+    "locuteur": "Raiho",
+    "en": "Every time you finish a tower, a door hee-{SAUT}hopens at Devil's Peak! I wonder why...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0015",
+    "locuteur": "Reiho",
+    "en": "The mountain has problems too, ho.{SAUT}You know... like a midlife crisis.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0016",
+    "locuteur": "Raiho",
+    "en": "Hee-huh? Well, anyways, that's how the{SAUT}doors open, ho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0017",
+    "locuteur": "Reiho",
+    "en": "Hee... Nothing cool has happened{SAUT}lately.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0018",
+    "locuteur": "Raiho",
+    "en": "Hee-ho! Wanna light the school on{SAUT}fire, ho? Burn, baby, burn!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0019",
+    "locuteur": "Reiho",
+    "en": "Hey, hee-don't be so reckless.{SAUT}That'll make this place too hee-hot.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0020",
+    "locuteur": "Yukino",
+    "en": "What a creepy-looking door.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0021",
+    "locuteur": "Yukino",
+    "en": "Who the hell built snowmen here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0022",
+    "locuteur": "Yukino",
+    "en": "My toes are getting numb.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0023",
+    "locuteur": "Yukino",
+    "en": "Stupid Drama Club! Why'd the Snow Queen{SAUT}have to be their traditional play?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0024",
+    "locuteur": "Yukino",
+    "en": "Why not A Midsummer Night's Dream?{SAUT}I hate the cold...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0025",
+    "locuteur": "Ayase",
+    "en": "Whoa... that door looks like demons{SAUT}could come out of it any minute.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0026",
+    "locuteur": "Ayase",
+    "en": "Omigosh! Look at those dolls!{SAUT}They're, like, sooooo cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0027",
+    "locuteur": "Ayase",
+    "en": "We're not done here yet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0028",
+    "locuteur": "Nanjo",
+    "en": "As the saying goes, \"Discretion is the{SAUT}better part of valor.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:010:0030",
+    "locuteur": "Nanjo",
+    "en": "It's not my business, but those children{SAUT}look pale. They need more iron.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0031",
+    "locuteur": "Brown",
+    "en": "Hey, check out those weirdos!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0032",
+    "locuteur": "Brown",
+    "en": "They keep saying, \"Hee-ho, hee-ho.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0033",
+    "locuteur": "Brown",
+    "en": "I talked to 'em a little... Man, they've{SAUT}been through some hard times.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0034",
+    "locuteur": "Brown",
+    "en": "And they're still so young! It's enough{SAUT}to bring me to tears... ＊sniff＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0035",
+    "locuteur": "Elly",
+    "en": "No one's here. Let's try another room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0036",
+    "locuteur": "Elly",
+    "en": "Oh! Jack Frosts!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0037",
+    "locuteur": "Elly",
+    "en": "Careful... Their outwardly adorable{SAUT}appearance is a ruse to lure people in.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0038",
+    "locuteur": "Elly",
+    "en": "Then, they use their icy breath to{SAUT}freeze their unsuspecting prey!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0039",
+    "locuteur": "Elly",
+    "en": "Innocence and cruelty are two sides of{SAUT}the same coin. Be careful!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0040",
+    "locuteur": "Yukino",
+    "en": "How many (*TEXTBOX_PARAM,0700*)Mirror Shards(*TEXTBOX_PARAM,0000*) we got so far?{SAUT}Can I see the frame?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0041",
+    "en": "{FERME}> Show her the mirror frame?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0042",
+    "locuteur": "Yukino",
+    "en": "Um, okay. But I think we should check{SAUT}every once in a while.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:010:0043",
+    "en": "{FERME}  > The mirror frame contains{SAUT}(*TEXTBOX_PARAM,0700*)(*UNK_1A*)[8100](*TEXTBOX_PARAM,0000*) shard(s).{ATTENTE}",
+    "fr": ""
+  }
+]

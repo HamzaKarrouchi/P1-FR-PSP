@@ -1,0 +1,286 @@
+[
+  {
+    "id": "E0.BIN:097:0000",
+    "locuteur": "Maki",
+    "en": "It's a beautiful painting. It's just{SAUT}not really to my tastes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0001",
+    "locuteur": "Maki",
+    "en": "...Chisato...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0002",
+    "locuteur": "Maki",
+    "en": "I wonder if this was all for the best.{SAUT}What do you think, (*APELLIDO_HEROE*)...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0003",
+    "locuteur": "Nanjo",
+    "en": "I don't claim to understand art...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0004",
+    "locuteur": "Nanjo",
+    "en": "But compared to Maki's work, this leaves{SAUT}me completely cold.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0005",
+    "locuteur": "Nanjo",
+    "en": "So it was Chisato...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0006",
+    "locuteur": "Nanjo",
+    "en": "But how did she set herself up as{SAUT}mistress of this market?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0007",
+    "locuteur": "Nanjo",
+    "en": "They did their utmost to curry favor with{SAUT}Chisato, but now that she's gone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0008",
+    "locuteur": "Nanjo",
+    "en": "Their true hatred for her bubbled quickly{SAUT}to the surface.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0009",
+    "locuteur": "Mark",
+    "en": "This piece looks good at first glance,{SAUT}y'know? But that's not enough.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0010",
+    "locuteur": "Mark",
+    "en": "I know it sounds corny, but I think heart{SAUT}is more important than technique!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0011",
+    "locuteur": "Mark",
+    "en": "This is pretty, but where's the soul?{SAUT}I'm just not feelin' it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0012",
+    "locuteur": "Mark",
+    "en": "Chisato... What are you doin' on Aki's{SAUT}side? Why'd you abandon Yosuke...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0013",
+    "locuteur": "Mark",
+    "en": "Maki might not be as crushed as she{SAUT}looks. At least, I hope she isn't.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0014",
+    "locuteur": "Elly",
+    "en": "Well, I like Maki's paintings better!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0015",
+    "locuteur": "Elly",
+    "en": "Harem... I believe it means a place{SAUT}where fine, strapping men are kept.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0016",
+    "locuteur": "Elly",
+    "en": "But doesn't Chisato have a boyfriend?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0017",
+    "locuteur": "Elly",
+    "en": "One never knows what others are saying{SAUT}behind one's back, don't you think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0018",
+    "locuteur": "Brown",
+    "en": "Paintings are boring. Yeah... this one{SAUT}especially.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0019",
+    "locuteur": "Brown",
+    "en": "Did Chisato always have so many moles?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0020",
+    "locuteur": "Brown",
+    "en": "The Chisato we saw a minute ago was{SAUT}kinda cute...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0021",
+    "locuteur": "Brown",
+    "en": "Kidding! Kidding! It was just a joke!{SAUT}Man, of all the girls Yosuke coulda had...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0022",
+    "locuteur": "Ayase",
+    "en": "So that guy's one of the harem?{SAUT}What the hell! No fair!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0023",
+    "locuteur": "Ayase",
+    "en": "I think Chisato was suffering, too.{SAUT}At least try and understand that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0024",
+    "locuteur": "Ayase",
+    "en": "I wish I had that mirror! I could do{SAUT}without more freckles, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0025",
+    "locuteur": "Reiji",
+    "en": "This Harem Queen must be pretty childish{SAUT}to decorate a room so tastelessly.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0026",
+    "locuteur": "Reiji",
+    "en": "Putting your faith in something like{SAUT}friendship makes no sense.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0027",
+    "locuteur": "Reiji",
+    "en": "That stuff's only superficial...{SAUT}It isn't real.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0028",
+    "locuteur": "Reiji",
+    "en": "Look, we did what we were trying to do,{SAUT}right? There's no use staying here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0029",
+    "locuteur": "Young man",
+    "en": "This is the Harem Queen's painting.{SAUT}Isn't it lovely?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0030",
+    "locuteur": "Young man",
+    "en": "Our Queen is both talented and gorgeous!{SAUT}Her many moles only enhance her beauty!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0031",
+    "locuteur": "Young man",
+    "en": "She once showed me a painting by someone{SAUT}she knew, and I retched at the sight!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0032",
+    "locuteur": "Young man",
+    "en": "I can't believe she had the gall to{SAUT}display this worthless piece in public!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0033",
+    "locuteur": "Young man",
+    "en": "And the nerve of her, calling herself{SAUT}Queen! Ugh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:097:0034",
+    "en": "{FERME}  > It's the piece the Queen supposedly{SAUT}painted. You feel like you've seen this{SAUT}style somewhere...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:097:0035",
+    "locuteur": "Maki",
+    "en": "Hey... I know this painting!{SAUT}It's Chisato's...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:097:0036",
+    "locuteur": "Mark",
+    "en": "What, Chisato Kasai's? I thought they{SAUT}said she went missing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:097:0037",
+    "locuteur": "Mark",
+    "en": "Wait... Chisato's painting is here,{SAUT}and they're saying it's the Queen's...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:097:0038",
+    "locuteur": "Maki",
+    "en": "But why?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:097:0039",
+    "locuteur": "Maki",
+    "en": "Does this mean... Chisato is being held{SAUT}captive by the Harem Queen?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "E2.BIN:205:0000",
+    "locuteur": "Secret Police",
+    "en": "M-My head... it hurts...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0001",
+    "locuteur": "Secret Police",
+    "en": "Let judgement fall on mankind!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0002",
+    "locuteur": "Secret Police",
+    "en": "My head feels so heavy... Like I woke{SAUT}up with a wicked hangover.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0003",
+    "locuteur": "Secret Police",
+    "en": "Mankind doesn't need a future! You think{SAUT}so too, right!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0004",
+    "locuteur": "Secret Police",
+    "en": "The future...? I feel nervous all of{SAUT}a sudden.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0005",
+    "locuteur": "Scientist",
+    "en": "What's the meaning of this!? Everyone's{SAUT}spouting identical nonsense!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0006",
+    "locuteur": "Scientist",
+    "en": "What's the meaning of this!? Why did{SAUT}everyone suddenly come to their senses?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0007",
+    "locuteur": "Maki",
+    "en": "That guy doesn't seem like he{SAUT}was affected.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0009",
+    "locuteur": "Mark",
+    "en": "Man, this is awful... We need to hurry!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0011",
+    "locuteur": "Nanjo",
+    "en": "It seems some others besides us have{SAUT}been able to resist.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0013",
+    "locuteur": "Ayase",
+    "en": "Isn't your skull kinda pounding?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0015",
+    "locuteur": "Brown",
+    "en": "Oh man... Is this for real?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0016",
+    "locuteur": "Brown",
+    "en": "Radio waves sure are scary.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:205:0019",
+    "locuteur": "Reiji",
+    "en": "There's no forgiving that bastard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0000",
+    "locuteur": "Kogal",
+    "en": "Sheesh, here I was, goofing off every{SAUT}day, and now things are, like, crazy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0001",
+    "locuteur": "Kogal",
+    "en": "So I made up my mind! I'm gonna goof{SAUT}off here until the town disappears!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0002",
+    "locuteur": "Ayase",
+    "en": "How stupid are you!? This is no time{SAUT}to be messing around!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0003",
+    "locuteur": "Ayase",
+    "en": "Why don't you, like, do something so{SAUT}the town doesn't disappear?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0004",
+    "locuteur": "Kogal",
+    "en": "Geez, Ayase, what's gotten into you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0005",
+    "locuteur": "Kogal",
+    "en": "You get a fever or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0006",
+    "locuteur": "High school girl",
+    "en": "The town keeps getting worse and worse!{SAUT}What do I do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0007",
+    "locuteur": "Maki",
+    "en": "The real me must be imagining all this.{SAUT}I wish she'd make it more predictable...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0008",
+    "locuteur": "Mark",
+    "en": "Hey! This ain't the time to be loungin'{SAUT}around playin' games!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0009",
+    "locuteur": "Nanjo",
+    "en": "You're playing games now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0010",
+    "locuteur": "Nanjo",
+    "en": "I can't tell if you're supremely confident{SAUT}or supremely uncaring...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0011",
+    "locuteur": "Ayase",
+    "en": "I don't mind if you have a little fun,{SAUT}but keep it short, okay!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0012",
+    "locuteur": "Brown",
+    "en": "Maki dreamed up those clerks too, right?{SAUT}I wish she'd make 'em bunny-girls!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0013",
+    "locuteur": "Elly",
+    "en": "Are you finished with your break?{SAUT}Then let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0014",
+    "locuteur": "Elly",
+    "en": "Are you finished relaxing here?{SAUT}Then let's hurry along!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0015",
+    "locuteur": "Reiji",
+    "en": "This is stupid.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0016",
+    "en": "{FERME}> There's an \"Out Of Order\" sign on it...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0022",
+    "en": "(*UNK_0E,0000*){FERME}   > You have (*UNK_1A*)[8200] Metal Cards.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0065",
+    "en": "{FERME} > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:206:0148",
+    "en": "{FERME}  > You have (*DINERO*) coins.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:206:0271",
+    "en": "{FERME}> You have (*DINERO*) coins.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:207:0000",
+    "locuteur": "Storekeeper",
+    "en": "Ohoho, welcome!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0001",
+    "locuteur": "Storekeeper",
+    "en": "Hey! Get away from there, you frickin'{SAUT}brat!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0002",
+    "locuteur": "Storekeeper",
+    "en": "That's our safe! It's not for customers!{SAUT}Don't make me come over there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0003",
+    "locuteur": "Young man",
+    "en": "The wasteland that used to be there is{SAUT}completely gone now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0004",
+    "locuteur": "Young man",
+    "en": "What in the world is going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0005",
+    "locuteur": "Area man",
+    "en": "I wonder what happened to the girl who{SAUT}used to play in the flower garden.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0006",
+    "locuteur": "Maki",
+    "en": "Did you find a good weapon?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0007",
+    "locuteur": "Mark",
+    "en": "The demons are gettin' stronger. We gotta{SAUT}keep up our weapons, or we're toast.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0008",
+    "locuteur": "Nanjo",
+    "en": "Even the weapons here are products of{SAUT}Maki's imagination... Very strange.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0009",
+    "locuteur": "Ayase",
+    "en": "Do they have any guns with, like, cute{SAUT}flower patterns?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0010",
+    "locuteur": "Brown",
+    "en": "Japan's had it if they ever start selling{SAUT}guns at convenience stores in reality.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0011",
+    "locuteur": "Elly",
+    "en": "No matter how many times I come here,{SAUT}I just can't get used to this store.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0012",
+    "locuteur": "Elly",
+    "en": "This store remains bizarre to me now{SAUT}matter how often we visit.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:207:0013",
+    "locuteur": "Reiji",
+    "en": "Buy something if you're gonna.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:208:0003",
+    "locuteur": "Area man",
+    "en": "This town used to be so pleasant...{SAUT}What happened? Is this all a bad dream?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0004",
+    "locuteur": "Maki",
+    "en": "A pleasant town, huh...? I need to{SAUT}apologize to the townspeople, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0005",
+    "locuteur": "Mark",
+    "en": "This is still one suspicious store.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0006",
+    "locuteur": "Nanjo",
+    "en": "I notice common stores tend to have exotic{SAUT}goods... This town being an exception.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0007",
+    "locuteur": "Ayase",
+    "en": "I'm, like, really hungry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0008",
+    "locuteur": "Ayase",
+    "en": "But I'll deal with it. I mean, Maki's{SAUT}going through way worse.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0009",
+    "locuteur": "Brown",
+    "en": "I'm sick of walking. Then again, now's{SAUT}not the time to complain, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0010",
+    "locuteur": "Elly",
+    "en": "You done shopping?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0011",
+    "locuteur": "Elly",
+    "en": "Have you finished your shopping?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:208:0012",
+    "locuteur": "Reiji",
+    "en": "How much longer are you gonna take?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0000",
+    "locuteur": "Clerk",
+    "en": "Yikes, things are getting crazy. Well,{SAUT}my store will stay open.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0001",
+    "locuteur": "Area man",
+    "en": "I feel like someone's going around and{SAUT}destroying this town...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0002",
+    "locuteur": "Maki",
+    "en": "Sorry, Mr. Tadashi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0003",
+    "locuteur": "Mark",
+    "en": "This song's always on when we come here.{SAUT}It's driving me nuts.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0004",
+    "locuteur": "Nanjo",
+    "en": "Ha! I'm finally used to it! Go ahead and{SAUT}try to brainwash me--it's useless!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0005",
+    "locuteur": "Ayase",
+    "en": "Oooooh, this diaper has cute little frogs{SAUT}on it! It's soooo cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0006",
+    "locuteur": "Brown",
+    "en": "Hey, you think this place has love{SAUT}potions!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0007",
+    "locuteur": "Elly",
+    "en": "Doesn't this place have any normal drugs{SAUT}for everyday stuff?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0008",
+    "locuteur": "Elly",
+    "en": "Does this store not stock any regular{SAUT}medicine for everyday situations?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0009",
+    "locuteur": "Reiji",
+    "en": "What? Is it weird for me to be looking{SAUT}at baby stuff?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:209:0010",
+    "locuteur": "Clerk",
+    "en": "Hm? Hey, the counter is over here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0000",
+    "locuteur": "Mannequin",
+    "en": "Hi there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0001",
+    "locuteur": "Area woman",
+    "en": "I would've preferred it if this place{SAUT}stayed the way it was...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0002",
+    "locuteur": "Maki",
+    "en": "The way it was... But no matter how nice{SAUT}it used to be, it was still a fake.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0003",
+    "locuteur": "Mark",
+    "en": "The real saleslady would probably faint{SAUT}if she saw this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0004",
+    "locuteur": "Nanjo",
+    "en": "We could be shopping for a very long{SAUT}time if we insist on the best...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0005",
+    "locuteur": "Nanjo",
+    "en": "But we should at least be equipped with{SAUT}the minimum necessary.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0006",
+    "locuteur": "Ayase",
+    "en": "Don't they have any armor with, like,{SAUT}animals and stuff on it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0007",
+    "locuteur": "Brown",
+    "en": "What I need is some armor that looks{SAUT}badass... They got that here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0008",
+    "locuteur": "Elly",
+    "en": "I guess I can't complain if it's keeping{SAUT}us alive...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0009",
+    "locuteur": "Elly",
+    "en": "But this stuff really isn't to my taste.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0010",
+    "locuteur": "Elly",
+    "en": "I suppose I shouldn't complain, since it{SAUT}does protect us from harm...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:210:0011",
+    "locuteur": "Elly",
+    "en": "But I can't help feeling that this{SAUT}clashes a bit with my style.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0000",
+    "locuteur": "Clerk",
+    "en": "Customers are gods, and you're a customer.{SAUT}That makes you a god.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0001",
+    "locuteur": "Clerk",
+    "en": "So please fix this town! I'm in a real{SAUT}fix... I can't restock my goods!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0002",
+    "locuteur": "Little girl",
+    "en": "I always had the feeling something wasn't{SAUT}right with this town.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0003",
+    "locuteur": "Little girl",
+    "en": "Maybe it's natural for weird stuff like{SAUT}this to happen here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0004",
+    "locuteur": "Maki",
+    "en": "Hmm... He's right. If it wasn't natural{SAUT}for weird stuff to happen here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0005",
+    "locuteur": "Maki",
+    "en": "I wouldn't have understood anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0006",
+    "locuteur": "Mark",
+    "en": "Let's get to the forest!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0007",
+    "locuteur": "Mark",
+    "en": "Let's get to the shrine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0008",
+    "locuteur": "Mark",
+    "en": "Let's get to the school!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0009",
+    "locuteur": "Nanjo",
+    "en": "Restock...? Say, where does this town{SAUT}restock its supplies from?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0010",
+    "locuteur": "Nanjo",
+    "en": "Then again, it's no use mulling over{SAUT}things that won't necessarily make sense.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0011",
+    "locuteur": "Ayase",
+    "en": "I'm soooo hungry! I just gotta lump it,{SAUT}I guess...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0012",
+    "locuteur": "Brown",
+    "en": "They take saying grace a little far here,{SAUT}don't they? Heeheehee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0013",
+    "locuteur": "Elly",
+    "en": "We need to get a move on, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0014",
+    "locuteur": "Elly",
+    "en": "We don't have much time to waste,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0015",
+    "locuteur": "Reiji",
+    "en": "I'm pretty sure we didn't have any{SAUT}business here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0016",
+    "locuteur": "Reiji",
+    "en": "Seriously... You're either a brave man{SAUT}or an idiot. I don't get you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:211:0017",
+    "locuteur": "Reiji",
+    "en": "Then again, no matter how you slice it,{SAUT}you're an interesting guy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

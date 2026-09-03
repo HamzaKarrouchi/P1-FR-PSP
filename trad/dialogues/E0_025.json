@@ -1,0 +1,650 @@
+[
+  {
+    "id": "E0.BIN:087:0000",
+    "locuteur": "Elly",
+    "en": "Kandori... So he's in this town, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0001",
+    "locuteur": "Ayase",
+    "en": "Kandori's here, too? Aw man, I have,{SAUT}like, a really bad feeling about this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0002",
+    "locuteur": "Brown",
+    "en": "Kandori, huh? Even a total stud like me{SAUT}would rather not deal with that guy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0003",
+    "locuteur": "Reiji",
+    "en": "Kandori... So the bastard's here...{SAUT}Saves us the trouble of looking for him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0004",
+    "locuteur": "Mark",
+    "en": "He said there's a demon in the subway.{SAUT}And this, uh... {PAUSE}[2000]Exp... {PAUSE}[2000]Expel...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0005",
+    "locuteur": "Nanjo",
+    "en": "The (*TEXTBOX_PARAM,0700*)Expel Mirror(*TEXTBOX_PARAM,0000*). He said if we have it,{SAUT}we can cross to the east side.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0006",
+    "locuteur": "Nanjo",
+    "en": "Kandori evidently wasn't satisfied with{SAUT}simply overtaking our town...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0007",
+    "locuteur": "Nanjo",
+    "en": "But I'll teach him that his brand of{SAUT}greed will be his ruin.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0008",
+    "locuteur": "Maki",
+    "en": "But I've never even heard of this{SAUT}\"Expel Mirror\" before...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0009",
+    "locuteur": "Nanjo",
+    "en": "Hm... I feel as though I've heard that{SAUT}name somewhere...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0010",
+    "locuteur": "Nanjo",
+    "en": "What do you think, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0011",
+    "locuteur": "Maki",
+    "en": "The wall dividing this town is new.{SAUT}We used to be able to go across town.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0012",
+    "locuteur": "Nanjo",
+    "en": "I know I've heard of that mirror{SAUT}before... it's on the tip of my tongue.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0013",
+    "locuteur": "Mark",
+    "en": "\"Expel\" sounds like a pretty old-timey{SAUT}name for it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0014",
+    "locuteur": "Brown",
+    "en": "So, uh... he said there's a monster{SAUT}in the subway, yeah?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0015",
+    "locuteur": "Brown",
+    "en": "I... {PAUSE}[2600]don't really need to go to the{SAUT}east side. H-Haha... just kidding...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0016",
+    "locuteur": "Brown",
+    "en": "A monster in the subway, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0017",
+    "locuteur": "Brown",
+    "en": "...We're gonna have to fight it,{SAUT}aren't we? {PAUSE}[1500]＊siiiiigh＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0018",
+    "locuteur": "Elly",
+    "en": "That mirror must have been thought to have{SAUT}the power to \"expel\" since ancient times.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0019",
+    "locuteur": "Elly",
+    "en": "To ward off evil, in other words.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0020",
+    "locuteur": "Ayase",
+    "en": "Y'know, it'd be nice if this subway{SAUT}monster wasn't too disgusting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0021",
+    "locuteur": "Ayase",
+    "en": "We have to fight THAT thing!? Waaaah...{SAUT}I don't wanna!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:087:0022",
+    "locuteur": "Reiji",
+    "en": "Why don't you think for yourself instead{SAUT}of relying on others?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0000",
+    "locuteur": "Maki",
+    "en": "Isn't this town nice? I think paradise{SAUT}would be a place like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0001",
+    "locuteur": "Maki",
+    "en": "It's an ordinary town, but every day{SAUT}here is special.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0002",
+    "locuteur": "Nanjo",
+    "en": "I've been wondering about that person{SAUT}Tsutomu mentioned...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0003",
+    "locuteur": "Nanjo",
+    "en": "Don't forget to go to the Alaya Shrine,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0004",
+    "locuteur": "Mark",
+    "en": "This place is just like our town...{SAUT}All musty.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0005",
+    "locuteur": "Elly",
+    "en": "So this is the Expel Mirror...{SAUT}It's so fantastically mysterious!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0006",
+    "locuteur": "Brown",
+    "en": "This thing's the Expel Mirror? Huh.{SAUT}Let's see if it reflects my face...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0007",
+    "locuteur": "Ayase",
+    "en": "So this is the Expel Mirror?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0008",
+    "locuteur": "Ayase",
+    "en": "I wonder if I could get a look at my{SAUT}face in it. My skin's been all dry...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0009",
+    "locuteur": "Reiji",
+    "en": "So... this is that Expel Mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0010",
+    "en": "{FERME}   > The Expel Mirror has a divine aura{SAUT}about it...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0011",
+    "locuteur": "Maki",
+    "en": "Here it is! This must be the{SAUT}Expel Mirror!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0012",
+    "locuteur": "Elly",
+    "en": "Wh-What in the world...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0013",
+    "locuteur": "Ayase",
+    "en": "Yeeeek! What IS this!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0014",
+    "locuteur": "Brown",
+    "en": "Woah... what is that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0015",
+    "locuteur": "Reiji",
+    "en": "......!{SAUT}What the...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0016",
+    "locuteur": "Girl's voice",
+    "en": "Don't take this... You shouldn't...{SAUT}You shouldn't...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0017",
+    "locuteur": "Nanjo",
+    "en": "What was that...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0018",
+    "locuteur": "Nanjo",
+    "en": "It looked like a little girl's face,{SAUT}but she was saying not to take \"this.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0019",
+    "locuteur": "Nanjo",
+    "en": "Did she mean the Expel Mirror?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0020",
+    "locuteur": "Mark",
+    "en": "Who gives a damn? We gotta have it,{SAUT}or else.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0021",
+    "locuteur": "Maki",
+    "en": "That face just now... It looked{SAUT}like Mai...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0022",
+    "locuteur": "Mark",
+    "en": "Here, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0023",
+    "locuteur": "Mark",
+    "en": "We can fight the monster in the subway{SAUT}once we have this, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:088:0024",
+    "en": "{FERME}> Obtained the (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Expel Mirror(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0000",
+    "locuteur": "Monster",
+    "en": "Ygnaiih... ygnaiih... thflthkh'ngha...{SAUT}Yog-Soth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0001",
+    "locuteur": "Maki",
+    "en": "Hold it! That thing looks really{SAUT}strong...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0002",
+    "locuteur": "Maki",
+    "en": "Shouldn't we go to the shrine like{SAUT}Tsutomu said? We might find something!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0003",
+    "locuteur": "Monster",
+    "en": "I am the key and the guardian of the{SAUT}gate... Yog-Sothoth's son...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0004",
+    "locuteur": "Monster",
+    "en": "The gate will not open... For those{SAUT}without credentials... Y'bthnk...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0005",
+    "locuteur": "Nanjo",
+    "en": "...I think I've lost my taste for fish.{SAUT}The stench of the thing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0006",
+    "locuteur": "Nanjo",
+    "en": "I'm sorry, (*APELLIDO_HEROE*), but we haven't{SAUT}a prayer against this thing at present.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0007",
+    "locuteur": "Nanjo",
+    "en": "Just this once, we'll have to heed{SAUT}the advice of that dubious young man.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0008",
+    "locuteur": "Yog-Sothoth Jr.",
+    "en": "You hold... the Expel Mirror...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0009",
+    "locuteur": "Yog-Sothoth Jr.",
+    "en": "But you cannot pass... until you have{SAUT}defeated me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0010",
+    "locuteur": "Mark",
+    "en": "I knew it was gonna say that!{SAUT}Let's do this, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0011",
+    "locuteur": "Elly",
+    "en": "If we leave this creature be, it could{SAUT}grow to be larger than a farmhouse...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0012",
+    "locuteur": "Elly",
+    "en": "We must defeat it now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0013",
+    "locuteur": "Ayase",
+    "en": "Are we really fighting this thing...?{SAUT}It's so... nasty-looking...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0014",
+    "locuteur": "Brown",
+    "en": "What a tasteless creature... And ugh,{SAUT}that horrible smell! Frickin' gross!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0015",
+    "locuteur": "Reiji",
+    "en": "Now's not the time to bitch and moan.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:092:0016",
+    "locuteur": "Reiji",
+    "en": "If we don't beat this thing, we'll{SAUT}never get our hands on that bastard!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0000",
+    "locuteur": "Yog-Sothoth Jr.",
+    "en": "N'grkdl'lh... You who have defeated me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0001",
+    "locuteur": "Yog-Sothoth Jr.",
+    "en": "My master would be pleased to see it{SAUT}is you who vanquished me. Now go...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0002",
+    "locuteur": "Aki",
+    "en": "Aww, the monster got beat up.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0003",
+    "locuteur": "Aki",
+    "en": "What a dumb monster! How could it let{SAUT}them win?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0004",
+    "locuteur": "Maki",
+    "en": "Aki...! You're here for more mischief,{SAUT}aren't you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0005",
+    "locuteur": "Aki",
+    "en": "Up ahead is where I live. If you go{SAUT}in there, I'll never let you out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0006",
+    "locuteur": "Nanjo",
+    "en": "We're still going in, you realize.{SAUT}We absolutely must defeat Kandori.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0007",
+    "locuteur": "Aki",
+    "en": "I won't let you! If you go in there,{SAUT}I'll trap you inside!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0008",
+    "locuteur": "Mark",
+    "en": "You dumb kid... We're not gonna fall{SAUT}for the same trick twice!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0009",
+    "locuteur": "Mark",
+    "en": "You better start behavin', or we'll{SAUT}really punish you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0010",
+    "locuteur": "Aki",
+    "en": "I'm not dumb! Watch, I came up with a{SAUT}really fun game!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0011",
+    "locuteur": "Aki",
+    "en": "You'll fight a cute girl in it...{SAUT}Wait and see!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0012",
+    "locuteur": "Aki",
+    "en": "Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:093:0013",
+    "locuteur": "Maki",
+    "en": "That Aki is so full of herself...{SAUT}I'll give her a good scolding next time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0014",
+    "locuteur": "Maki",
+    "en": "So Chisato was the \"cute girl\" Aki was{SAUT}talking about...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0015",
+    "locuteur": "Nanjo",
+    "en": "There's something that's been nagging{SAUT}at me, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0016",
+    "locuteur": "Nanjo",
+    "en": "...No. There's no proof. I must be{SAUT}mistaken.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0017",
+    "locuteur": "Nanjo",
+    "en": "The demon that was here before mentioned{SAUT}its \"master\"... Did it mean Aki, or...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0018",
+    "locuteur": "Mark",
+    "en": "Alright, let's get back topside and{SAUT}look for Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0019",
+    "locuteur": "Mark",
+    "en": "Man, here again? Hey, how're we gonna{SAUT}save Maki if we keep this up?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0020",
+    "locuteur": "Elly",
+    "en": "This was the first time I've ever{SAUT}seen a demon like that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0021",
+    "locuteur": "Elly",
+    "en": "The demon that was here... I felt as{SAUT}though it was testing our skill.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0022",
+    "locuteur": "Brown",
+    "en": "Phew! Glad that monster's gone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0023",
+    "locuteur": "Brown",
+    "en": "This is one messed-up town...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0024",
+    "locuteur": "Ayase",
+    "en": "Sheesh! You won't catch me dead{SAUT}fighting something like that again!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0025",
+    "locuteur": "Ayase",
+    "en": "The town got all funky and demons{SAUT}showed up... What the hell happened?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0026",
+    "locuteur": "Reiji",
+    "en": "You're not taking the stuff that brat{SAUT}said seriously, are you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:093:0027",
+    "locuteur": "Reiji",
+    "en": "There's something I've gotta force{SAUT}Kandori to apologize for...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

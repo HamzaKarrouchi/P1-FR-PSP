@@ -1,0 +1,528 @@
+[
+  {
+    "id": "E1.BIN:053:0000",
+    "locuteur": "Yukino",
+    "en": "What the...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0001",
+    "locuteur": "Yukino",
+    "en": "This doesn't feel like the other rooms.{SAUT}Is this someone else's dream?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0002",
+    "locuteur": "Yukino",
+    "en": "...Huh? Someone's back there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0003",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "Oh... We have company... What a surprise.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0004",
+    "locuteur": "Robed man",
+    "en": "Indeed it is. Shall we entertain{SAUT}our guests?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0005",
+    "locuteur": "Nanjo",
+    "en": "What's going on?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0006",
+    "locuteur": "Nanjo",
+    "en": "She's wearing our school's uniform.{SAUT}Is this her dream, then?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0007",
+    "locuteur": "Brown",
+    "en": "＊whistle＊ She's a cutie! Hm...?{SAUT}Wait a sec!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0008",
+    "locuteur": "Brown",
+    "en": "Oh man, she's got our school uniform on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0009",
+    "locuteur": "Brown",
+    "en": "How the heck did I never notice a girl{SAUT}like her!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0010",
+    "locuteur": "Ayase",
+    "en": "Hey, what's your name? Which homeroom{SAUT}are you in? Are you trapped here too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0011",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "Heehee... Why are you people here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0012",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "This dream is for myself alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0013",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "The Snow Queen entrusted me with guarding{SAUT}this Hypnos Tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0014",
+    "locuteur": "Glasses-wearing schoolgirl",
+    "en": "My name is Kumi Hirose.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0015",
+    "locuteur": "Kumi",
+    "en": "It's very rude of you to barge into{SAUT}someone else's dream.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0016",
+    "locuteur": "Kumi",
+    "en": "Isn't it, Sir Hypnos?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0017",
+    "locuteur": "Hypnos",
+    "en": "Indeed it is.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0018",
+    "locuteur": "Hypnos",
+    "en": "And not just anyone's dream, Kumi,{SAUT}but yours. They don't know their place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0019",
+    "locuteur": "Hypnos",
+    "en": "What would you have me do, Kumi?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0020",
+    "locuteur": "Hypnos",
+    "en": "If it's all right with you, I can teach{SAUT}them a lesson.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0021",
+    "locuteur": "Nanjo",
+    "en": "The guardian of this tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0022",
+    "locuteur": "Nanjo",
+    "en": "Then you're the ones responsible for{SAUT}confining people in the Dream World.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0023",
+    "locuteur": "Nanjo",
+    "en": "But why go about it in such a roundabout{SAUT}way rather than simply kill them?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0024",
+    "locuteur": "Nanjo",
+    "en": "What do you intend to do with the souls{SAUT}trapped in the Dream World!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0025",
+    "locuteur": "Elly",
+    "en": "You're guarding this tower?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0026",
+    "locuteur": "Elly",
+    "en": "Then you're putting people to sleep and{SAUT}keeping them in the Dream World...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0027",
+    "locuteur": "Elly",
+    "en": "But simply disposing of them entirely{SAUT}would be simple for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0028",
+    "locuteur": "Elly",
+    "en": "Why have you chosen to imprison their{SAUT}souls in the Dream World instead!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0029",
+    "locuteur": "Kumi",
+    "en": "Heehee... You came all this way to ask{SAUT}me that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0030",
+    "locuteur": "Kumi",
+    "en": "But I guess it can't be helped.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0031",
+    "locuteur": "Kumi",
+    "en": "You're forced to live in the real world,{SAUT}just like the rest.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0032",
+    "locuteur": "Kumi",
+    "en": "But isn't it clear that people are{SAUT}happiest living inside their dreams?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0033",
+    "locuteur": "Kumi",
+    "en": "They can never be happy in the real{SAUT}world... I'm just helping them see that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0034",
+    "locuteur": "Kumi",
+    "en": "Isn't that right, Sir Hypnos?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0035",
+    "locuteur": "Hypnos",
+    "en": "Indeed it is, Kumi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0036",
+    "locuteur": "Hypnos",
+    "en": "You've done nothing wrong. It's they{SAUT}who are the villains.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0037",
+    "locuteur": "Hypnos",
+    "en": "But it's inevitable that they don't{SAUT}understand you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0038",
+    "locuteur": "Hypnos",
+    "en": "They have no idea what you went through{SAUT}in the real world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0039",
+    "locuteur": "Hypnos",
+    "en": "And the joy that filled your heart as{SAUT}you came to this world of dreams.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0040",
+    "locuteur": "Hypnos",
+    "en": "Now, let us show them the cruelty you{SAUT}faced in the real world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0041",
+    "locuteur": "Hypnos",
+    "en": "And teach them the splendor of dreams!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:053:0042",
+    "locuteur": "Yukino",
+    "en": "Huh...? Wh-What's going on!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0000",
+    "locuteur": "Drama club president",
+    "en": "Kumi, I've noticed you haven't been{SAUT}showing up to rehearsal lately.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0001",
+    "locuteur": "Drama club president",
+    "en": "You have the title role in \"The Snow{SAUT}Queen,\" and you're not rehearsing?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0002",
+    "locuteur": "Drama club president",
+    "en": "What's the matter with you!? Everyone{SAUT}else is working hard!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0003",
+    "locuteur": "Drama club president",
+    "en": "Do you feel even remotely guilty? Don't{SAUT}you realize how important your part is!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0004",
+    "locuteur": "Drama club member",
+    "en": "Yeah, Kumi!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0005",
+    "locuteur": "Drama club member",
+    "en": "You can't act like that when you won the{SAUT}Snow Queen part over our president.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0006",
+    "locuteur": "Drama club member",
+    "en": "Aren't you getting a little full{SAUT}of yourself?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0007",
+    "locuteur": "Drama club member",
+    "en": "Really, though, we do need you to come{SAUT}to rehearsals.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0008",
+    "locuteur": "Drama club member",
+    "en": "We can only do so much with your{SAUT}understudy. Talk to us, Kumi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0009",
+    "locuteur": "Kumi",
+    "en": "Um... I've had to... s-study...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0010",
+    "locuteur": "Kumi",
+    "en": "My grades went down, and... my p-parents{SAUT}said to forget the club... and study...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0011",
+    "locuteur": "Drama club member",
+    "en": "Oh, geez! Here we go with the class{SAUT}genius's parents!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0012",
+    "locuteur": "Drama club member",
+    "en": "What a load of crap. You were third in{SAUT}our grade for that last test, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0013",
+    "locuteur": "Drama club member",
+    "en": "How can you call that bad!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0014",
+    "locuteur": "Kumi",
+    "en": "Um... I wasn't... n-number one...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0015",
+    "locuteur": "Drama club member",
+    "en": "Oh, give me a break! What, is that{SAUT}sarcasm or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0016",
+    "locuteur": "Drama club member",
+    "en": "Just 'cause you're smarter than most{SAUT}doesn't mean you can act all stuck up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0017",
+    "locuteur": "Drama club member",
+    "en": "If studying's so important, then go{SAUT}ahead and quit the club!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0018",
+    "locuteur": "Drama club member",
+    "en": "I'm not gonna mince any more words...{SAUT}You've been a real pain in the ass!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0019",
+    "locuteur": "Kumi",
+    "en": "I... I didn't mean to...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0020",
+    "locuteur": "Drama club president",
+    "en": "Alright, so you've told us why you{SAUT}haven't been coming.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0021",
+    "locuteur": "Drama club president",
+    "en": "But listen, Kumi... are you taking{SAUT}this club seriously?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0022",
+    "locuteur": "Drama club president",
+    "en": "Do you understand how many people it{SAUT}affects when you don't show up?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0023",
+    "locuteur": "Drama club president",
+    "en": "Do you know how much trouble it causes{SAUT}when you focus on your own business?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0024",
+    "locuteur": "Drama club president",
+    "en": "Kumi... can you tell me what your role{SAUT}is in this club?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0025",
+    "locuteur": "Drama club president",
+    "en": "Because if you don't know, I have to{SAUT}ask you to leave.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0026",
+    "locuteur": "Drama club member",
+    "en": "Yeah, she's absolutely right! You heard{SAUT}her! Get outta here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0027",
+    "locuteur": "Drama club member",
+    "en": "Stupid, stuck-up dork...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0028",
+    "locuteur": "Drama club member",
+    "en": "Having a depressing loner like you around{SAUT}brings us all down!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0029",
+    "locuteur": "Drama club member",
+    "en": "I'm sorry, but the president has a point.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0030",
+    "locuteur": "Drama club member",
+    "en": "You should think carefully, Kumi. What's{SAUT}more important: your life or your grades?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:054:0031",
+    "locuteur": "Kumi",
+    "en": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "id": "E1.BIN:098:0000",
+    "locuteur": "Yukino",
+    "en": "This is a trap if I ever saw one. Two{SAUT}chests in the back, and nothing else.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0001",
+    "locuteur": "Yukino",
+    "en": "It's bad news, like that room with{SAUT}the candles.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0002",
+    "locuteur": "Yukino",
+    "en": "You know how they say to let sleeping{SAUT}dogs lie? We should leave these be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0003",
+    "locuteur": "Yuriko",
+    "en": "Awww, you big meanie.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0004",
+    "locuteur": "Yuriko",
+    "en": "I put together a present just 'cause you{SAUT}guys were trying soooo hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0005",
+    "locuteur": "Yuriko",
+    "en": "And you're gonna walk away just like{SAUT}that? I'm gonna cry... ＊sniffle＊...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0006",
+    "locuteur": "Nanjo",
+    "en": "Hmph, as if we'd fall for that. We know{SAUT}all about your shenanigans.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0007",
+    "locuteur": "Nanjo",
+    "en": "Just ignore her, Yukino.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0008",
+    "locuteur": "Brown",
+    "en": "A present!? L-Let's take it, Yukino!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0009",
+    "locuteur": "Brown",
+    "en": "No one that pretty can be a crook.{SAUT}True fact!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0010",
+    "locuteur": "Brown",
+    "en": "C'mon, we can trust Yuriko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0011",
+    "locuteur": "Ayase",
+    "en": "Huh. Sure, it looks like a trap, but it{SAUT}sounds kinda fun!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0012",
+    "locuteur": "Ayase",
+    "en": "I don't wanna chicken out... Okay, go{SAUT}ahead and tell us what's up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0013",
+    "locuteur": "Yuriko",
+    "en": "Woo-hoo!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0014",
+    "locuteur": "Yuriko",
+    "en": "I knew you'd get it! I think you and me{SAUT}could be best friends forever!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0015",
+    "locuteur": "Yuriko",
+    "en": "Oh, I'm so happy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0016",
+    "locuteur": "Nanjo",
+    "en": "Stop blathering and get to the point.{SAUT}Your mannerisms give me a migraine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0017",
+    "locuteur": "Elly",
+    "en": "I'm sure you're up to no good with this{SAUT}so-called \"gift.\" It's a waste of time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0018",
+    "locuteur": "Yuriko",
+    "en": "Awww, why can't you be more positive?{SAUT}I know you're all thrilled!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0019",
+    "locuteur": "Yuriko",
+    "en": "Oh well, I'll go ahead and explain the{SAUT}gift! Put your listening hat on!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0020",
+    "locuteur": "Yuriko",
+    "en": "One of these two chests has a Mirror{SAUT}Shard! We all like those, don't we?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0021",
+    "locuteur": "Yuriko",
+    "en": "And I'm feeling super-duper-generous{SAUT}today, so you can try your luck for free!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0022",
+    "locuteur": "Yuriko",
+    "en": "But! You only get one try!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0023",
+    "locuteur": "Yuriko",
+    "en": "And of course, something bad will happen{SAUT}if you open the wrong one. Uh-oh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0024",
+    "locuteur": "Yuriko",
+    "en": "Whee! Sounds fun, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0025",
+    "locuteur": "Yuriko",
+    "en": "Good luck! Teeheeheehee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0026",
+    "locuteur": "Ayase",
+    "en": "Oh, so it IS a trap?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0027",
+    "locuteur": "Ayase",
+    "en": "Hmm... well, it's a good chance anyways!{SAUT}We should like, give it a shot!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0028",
+    "locuteur": "Ayase",
+    "en": "I have a feeling she's not lying.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0029",
+    "locuteur": "Ayase",
+    "en": "C'mon, it's no big deal, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0030",
+    "locuteur": "Ayase",
+    "en": "I take full responsibility if anything{SAUT}happens! So let's crack one open!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0031",
+    "locuteur": "Yukino",
+    "en": "Yuriko's toying with our lives and loving{SAUT}every minute of it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0032",
+    "locuteur": "Yukino",
+    "en": "＊sigh＊ I hate her frickin' guts.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0033",
+    "locuteur": "Ayase",
+    "en": "I dunno why, but it seems like Yuriko is{SAUT}forcing herself to be like this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0034",
+    "locuteur": "Ayase",
+    "en": "That's just how it feels to me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0035",
+    "locuteur": "Ayase",
+    "en": "Gahhh! That Yuriko is such a backstabber!{SAUT}I'm like, SO pissed right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0036",
+    "locuteur": "Nanjo",
+    "en": "There are two sorts of traps.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0037",
+    "locuteur": "Nanjo",
+    "en": "The one is designed to kill one's target.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0038",
+    "locuteur": "Nanjo",
+    "en": "The other slowly instills fear in it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0039",
+    "locuteur": "Nanjo",
+    "en": "Yuriko's traps fall decidedly into the{SAUT}latter category...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0040",
+    "locuteur": "Brown",
+    "en": "Man, the traps here are evil!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0041",
+    "locuteur": "Brown",
+    "en": "This tower's packed with danger for an{SAUT}honest joe like me! No, seriously.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0042",
+    "locuteur": "Elly",
+    "en": "These traps in the tower... It's all{SAUT}a game to her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0043",
+    "locuteur": "Elly",
+    "en": "Each time we make progress, she torments{SAUT}us just enough so as not to kill anyone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0044",
+    "locuteur": "Elly",
+    "en": "She's even prepared a gift to entice us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0045",
+    "locuteur": "Elly",
+    "en": "Everything's been meticulously planned...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0046",
+    "locuteur": "Elly",
+    "en": "...so that she can kill us herself at{SAUT}the endgame.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0047",
+    "en": "{FERME} > Open this chest?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:098:0048",
+    "locuteur": "Ayase",
+    "en": "Yeeeeek! S-Something's coming out of me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0049",
+    "locuteur": "Yuriko",
+    "en": "Teeheeheehee! Too bad!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0050",
+    "locuteur": "Yuriko",
+    "en": "I'm taking your other self as a forfeit!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0051",
+    "locuteur": "Yuriko",
+    "en": "Okey-dokey! Bye-bye!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0052",
+    "locuteur": "Ayase",
+    "en": "Gaaah! I can't believe that little sneak!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0053",
+    "locuteur": "Ayase",
+    "en": "Argh... I can't use my Persona anymore!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0054",
+    "locuteur": "Ayase",
+    "en": "What am I gonna do!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0056",
+    "locuteur": "Ayase",
+    "en": "Bingo! We got the right one! This rules!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0057",
+    "locuteur": "Ayase",
+    "en": "See? I toldja we should open a chest!{SAUT}Am I right or am I right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0058",
+    "locuteur": "Yuriko",
+    "en": "Huh... Looks like Lady Luck's on{SAUT}your side.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0059",
+    "locuteur": "Yuriko",
+    "en": "Okey-dokey! You win this game!{SAUT}Congrats!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0060",
+    "locuteur": "Yuriko",
+    "en": "It's just a little further to my room,{SAUT}so don't give up now, 'kay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0061",
+    "locuteur": "Yuriko",
+    "en": "I'll give each of you the bestest death{SAUT}ever! I'll be waiting!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0063",
+    "en": "{FERME}  > You decide not to open the chest.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0064",
+    "en": "{FERME}   > The chest is empty.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0065",
+    "en": "{FERME} > Some strange force prevents you from{SAUT}opening the chest.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0066",
+    "locuteur": "Yuriko",
+    "en": "Heheh... Too bad. Your time's up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0067",
+    "locuteur": "Yuriko",
+    "en": "Your desperate efforts were the perfect{SAUT}way to celebrate the Eternal Night...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0068",
+    "locuteur": "Yuriko",
+    "en": "But the overture ends here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0069",
+    "locuteur": "Yuriko",
+    "en": "Now, behold... the Eternal Night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0070",
+    "locuteur": "Yukino",
+    "en": "Wh-What!? What's happening!? Oh, don't{SAUT}tell me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0071",
+    "locuteur": "Yukino",
+    "en": "Did Yuriko cut our time limit for this{SAUT}tower short as a penalty?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0072",
+    "locuteur": "Yukino",
+    "en": "What the hell, Yuka!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0073",
+    "locuteur": "Yukino",
+    "en": "You said you'd take full responsibility,{SAUT}didn't you!? When we opened the chest!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0074",
+    "locuteur": "Yukino",
+    "en": "So what're you gonna do now, huh!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0075",
+    "locuteur": "Yukino",
+    "en": "I told you from the start we shoulda let{SAUT}these chests be!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0076",
+    "locuteur": "Ayase",
+    "en": "What, it's my fault?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0077",
+    "locuteur": "Ayase",
+    "en": "No no no no! Hold on a sec!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0078",
+    "locuteur": "Ayase",
+    "en": "I, uh... I didn't think it was gonna{SAUT}end up like this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0079",
+    "locuteur": "Ayase",
+    "en": "Ahaha... I mean, I-I did say I'd take{SAUT}full responsibility, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0080",
+    "locuteur": "Ayase",
+    "en": "I thought it just sounded like the{SAUT}thing to say at the time...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0081",
+    "locuteur": "Ayase",
+    "en": "H-Hey! It's Yuriko who did this...!{SAUT}Not me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0082",
+    "locuteur": "Yuriko",
+    "en": "...Teehee... Teeheeheeheehee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0083",
+    "locuteur": "Yuriko",
+    "en": "Time's up! Game over!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0084",
+    "locuteur": "Yuriko",
+    "en": "...Juuuuust kidding!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0085",
+    "locuteur": "Yuriko",
+    "en": "Boy, I got you guys good, didn't I?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0086",
+    "locuteur": "Yuriko",
+    "en": "I should get an Oscar for my awesome{SAUT}Snow Queen impression!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0087",
+    "locuteur": "Yuriko",
+    "en": "Teeheeheeheehee!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0088",
+    "locuteur": "Yuriko",
+    "en": "Yay! You totally believed it! Fooled ya!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0089",
+    "locuteur": "Yuriko",
+    "en": "Wow, that was great! You really thought{SAUT}it was all over, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0090",
+    "locuteur": "Yuriko",
+    "en": "Anyway... the Mirror Shard's not in this{SAUT}chest! Too bad, so sad!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0091",
+    "locuteur": "Yuriko",
+    "en": "Catch you guys later! Bye-bye!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0092",
+    "locuteur": "Ayase",
+    "en": "I'm SO! MAD!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0093",
+    "locuteur": "Ayase",
+    "en": "Ugh! I can't BELIEVE I fell for that!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0094",
+    "locuteur": "Ayase",
+    "en": "Hey, (*APELLIDO_HEROE*)! How come you didn't{SAUT}open the left box!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0095",
+    "locuteur": "Ayase",
+    "en": "It's, like, totally your fault we didn't{SAUT}get a shard!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:098:0096",
+    "locuteur": "Ayase",
+    "en": "Not mine!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

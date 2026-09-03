@@ -1,0 +1,549 @@
+[
+  {
+    "id": "E0.BIN:098:0000",
+    "locuteur": "Harem Queen",
+    "en": "Long time no see, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0001",
+    "locuteur": "Harem Queen",
+    "en": "Same to (*APELLIDO_HEROE*), and the rest of{SAUT}you, too. Welcome to my palace.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0002",
+    "locuteur": "Maki",
+    "en": "Ch... Chisato! It really was you...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0003",
+    "locuteur": "Maki",
+    "en": "No...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0004",
+    "locuteur": "Mark",
+    "en": "...Knew it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0005",
+    "locuteur": "Mark",
+    "en": "Yo (*APELLIDO_HEROE*), did Chisato always have{SAUT}that many moles?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0006",
+    "locuteur": "Mark",
+    "en": "Didn't she always used to brag about{SAUT}how clear her skin was?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0007",
+    "locuteur": "Maki",
+    "en": "C'mon, Chisato! There's an explanation{SAUT}for this, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0008",
+    "locuteur": "Maki",
+    "en": "Is the real Queen threatening you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0009",
+    "locuteur": "Maki",
+    "en": "You're not really the enemy... That's a{SAUT}lie, isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0010",
+    "locuteur": "Harem Queen",
+    "en": "You're such an idiot! Me, being{SAUT}threatened... utterly ridiculous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0011",
+    "locuteur": "Harem Queen",
+    "en": "I'm here because I choose to be! Isn't{SAUT}this palace wonderful?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0012",
+    "locuteur": "Harem Queen",
+    "en": "An angel in black lent me a mirror{SAUT}that grants my every wish!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0013",
+    "locuteur": "Harem Queen",
+    "en": "All this... from my mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0014",
+    "locuteur": "Mark",
+    "en": "An angel in black...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0015",
+    "locuteur": "Mark",
+    "en": "Is that Aki!? Chisato, listen, she's{SAUT}no angel!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0016",
+    "locuteur": "Mark",
+    "en": "I mean, didn't she kidnap you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0017",
+    "locuteur": "Harem Queen",
+    "en": "That's what I thought at first.{SAUT}But that's not how it went.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0018",
+    "locuteur": "Harem Queen",
+    "en": "She was looking for someone who could{SAUT}use the mirror... It happened to be me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0019",
+    "locuteur": "Maki",
+    "en": "...Okay. So you're the Queen. {PAUSE}[2000]Isn't it{SAUT}about time to put an end to this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0020",
+    "locuteur": "Maki",
+    "en": "Let's go back together! Yosuke's hurt!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0021",
+    "locuteur": "Maki",
+    "en": "He needs you, Chisato...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0022",
+    "locuteur": "Harem Queen",
+    "en": "Yosuke... got hurt...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0023",
+    "locuteur": "Harem Queen",
+    "en": "...Y'know what, Maki? I don't need{SAUT}Yosuke anymore.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0024",
+    "locuteur": "Harem Queen",
+    "en": "I didn't really like him anyway.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0025",
+    "locuteur": "Maki",
+    "en": "Huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:098:0026",
+    "locuteur": "Maki",
+    "en": "What did you just say?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0027",
+    "locuteur": "Harem Queen",
+    "en": "I don't like Yosuke. In fact,{SAUT}I never did.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0028",
+    "locuteur": "Maki",
+    "en": "That's a lie! You always bragged about{SAUT}what a wonderful boyfriend he was...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0029",
+    "locuteur": "Harem Queen",
+    "en": "What, you still don't get it? Wow!{SAUT}You really are stupid!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0030",
+    "locuteur": "Harem Queen",
+    "en": "I started dating Yosuke because I knew{SAUT}you liked him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0031",
+    "locuteur": "Harem Queen",
+    "en": "In the beginning, you know, he liked{SAUT}you better.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0032",
+    "locuteur": "Harem Queen",
+    "en": "And I couldn't allow that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0033",
+    "locuteur": "Harem Queen",
+    "en": "I mean, I was the pretty one! I'm the{SAUT}one he should have gone for!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0034",
+    "locuteur": "Harem Queen",
+    "en": "So I made my move, and that feebleminded{SAUT}moron was powerless to resist.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0035",
+    "locuteur": "Maki",
+    "en": "No... {PAUSE}[2000]Why would you joke like this...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0036",
+    "locuteur": "Harem Queen",
+    "en": "It's no joke, Maki! It's the truth!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0037",
+    "locuteur": "Harem Queen",
+    "en": "My art was better than yours, and you{SAUT}got all the attention!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0038",
+    "locuteur": "Harem Queen",
+    "en": "But I hated you even before that! I was{SAUT}always prettier and more talented!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0039",
+    "locuteur": "Harem Queen",
+    "en": "Why are YOU the one everyone fawns over!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0040",
+    "locuteur": "Nanjo",
+    "en": "So that's why you stole Yosuke... And why{SAUT}you forced people to praise your artwork.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0041",
+    "locuteur": "Nanjo",
+    "en": "......? {PAUSE}[3000]Wait, Chisato. You should be{SAUT}aware that this isn't the Maki you know.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0042",
+    "locuteur": "Harem Queen",
+    "en": "Shut up! This has nothing to do with you!{SAUT}Just stay out of this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0043",
+    "locuteur": "Harem Queen",
+    "en": "You must've been howling with laughter,{SAUT}right Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0044",
+    "locuteur": "Harem Queen",
+    "en": "I bet you made fun of me behind my back,{SAUT}wearing that innocent face of yours!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0045",
+    "locuteur": "Harem Queen",
+    "en": "Well, I won't let you do it to me anymore!{SAUT}I'm much better than you now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0046",
+    "locuteur": "Mark",
+    "en": "Sure... {PAUSE}[2000]Thanks to the power that girl{SAUT}in black gave you. Right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0047",
+    "locuteur": "Harem Queen",
+    "en": "I said SHUT UP! {PAUSE}[2000](*APELLIDO_HEROE*)...{SAUT}Isn't my painting wonderful?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0048",
+    "locuteur": "Harem Queen",
+    "en": "Everyone says so. They all say it's{SAUT}much better than Maki's trash!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0049",
+    "locuteur": "Maki",
+    "en": "Chisato... you hated me that much?{SAUT}I never knew...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0050",
+    "locuteur": "Mark",
+    "en": "Now I get why your paintings are{SAUT}so crappy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0051",
+    "locuteur": "Mark",
+    "en": "You're rotten through and through! A girl{SAUT}like you could never make real art!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0052",
+    "locuteur": "Mark",
+    "en": "Quit fooling yourself into thinking{SAUT}you're an artist!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0053",
+    "locuteur": "Harem Queen",
+    "en": "...{PAUSE}[1500]What... {PAUSE}[1500]did you say...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0054",
+    "locuteur": "Nanjo",
+    "en": "You were so caught in the throes of envy{SAUT}over Maki, you never made a real effort.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0055",
+    "locuteur": "Nanjo",
+    "en": "And this is where it brought you...{SAUT}Forcibly enslaving people.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0056",
+    "locuteur": "Nanjo",
+    "en": "You think this is you at your best?{SAUT}You're a Queen with no clothes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0057",
+    "locuteur": "Nanjo",
+    "en": "You're deluding yourself if you think{SAUT}their praise means anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0058",
+    "locuteur": "Nanjo",
+    "en": "They only humor you out of terror!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0059",
+    "locuteur": "Harem Queen",
+    "en": "...Me? A Queen with no clothes...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0060",
+    "locuteur": "Mark",
+    "en": "You heard him, Chisato!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0061",
+    "locuteur": "Mark",
+    "en": "I can't stand the way you hurt Maki{SAUT}because of your stupid complex!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0062",
+    "locuteur": "Mark",
+    "en": "I'll say this as many times as it takes,{SAUT}so listen up!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0063",
+    "locuteur": "Mark",
+    "en": "Your... paintings... SUCK!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0064",
+    "locuteur": "Harem Queen",
+    "en": "I think you need to have another look!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0065",
+    "locuteur": "Harem Queen",
+    "en": "If you can't grasp my artwork, you're{SAUT}the ones who are wrong!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0066",
+    "locuteur": "Harem Queen",
+    "en": "Mirror, mirror, clean and bright.{SAUT}Get these fools out of my sight!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:098:0067",
+    "locuteur": "Harem Queen",
+    "en": "...Erusaer Tsymmom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0000",
+    "locuteur": "Master",
+    "en": "Oh, my... that was fast.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0001",
+    "locuteur": "Mark",
+    "en": "Th... That bitch! She sent us all the{SAUT}way back here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0002",
+    "locuteur": "Maki",
+    "en": "I wonder if Chisato really meant what{SAUT}she said... Maybe she's being controlled?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0003",
+    "locuteur": "Maki",
+    "en": "Hey, yeah! I bet that Aki girl is{SAUT}controlling her!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0004",
+    "locuteur": "Nanjo",
+    "en": "Mm... Chisato's eyes were clear.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0005",
+    "locuteur": "Nanjo",
+    "en": "To me, at least, they didn't seem to be{SAUT}the eyes of one under someone's control.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0006",
+    "locuteur": "Elly",
+    "en": "Why don't we go see her again?{SAUT}We can ask her everything then.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0007",
+    "locuteur": "Brown",
+    "en": "Well, let's go see her again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0008",
+    "locuteur": "Ayase",
+    "en": "Let's go see her one more time. Maybe{SAUT}she's having regrets by now...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:099:0009",
+    "locuteur": "Reiji",
+    "en": "Well, we won't get anywhere by staying{SAUT}here. We'll have to go see her again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

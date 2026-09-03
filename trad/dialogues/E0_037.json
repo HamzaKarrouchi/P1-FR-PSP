@@ -1,0 +1,695 @@
+[
+  {
+    "id": "E0.BIN:144:0000",
+    "locuteur": "Maki",
+    "en": "Urgh... I don't feel so good...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0001",
+    "locuteur": "Mark",
+    "en": "Hurgh... I feel sick. You must be tougher{SAUT}than you look, (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0002",
+    "locuteur": "Nanjo",
+    "en": "＊cough＊ Probably because it was a forced{SAUT}teleportation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0003",
+    "locuteur": "Nanjo",
+    "en": "Really, we should count ourselves lucky{SAUT}we came through in one piece.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0004",
+    "locuteur": "Reiji",
+    "en": "Ngh... What's with you, Masao...?{SAUT}You look ridiculous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0005",
+    "locuteur": "Mark",
+    "en": "Heh... Might wanna look in a mirror,{SAUT}Reiji. You're blue as a zombie.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0006",
+    "locuteur": "Reiji",
+    "en": "Heh. If you can make jokes about it,{SAUT}you'll be fine. Let's get back on track.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0007",
+    "locuteur": "Mark",
+    "en": "Can you stand up, Maki?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0008",
+    "locuteur": "Maki",
+    "en": "Ngh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0009",
+    "locuteur": "Maki",
+    "en": "Up we go! I'm okay now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0010",
+    "locuteur": "Nanjo",
+    "en": "Look, (*APELLIDO_HEROE*), it's that scientist.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0011",
+    "locuteur": "Dr. Nicholai",
+    "en": "Ugh... M-My head...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0012",
+    "locuteur": "Mark",
+    "en": "Hey, the old dude survived!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0013",
+    "locuteur": "Maki",
+    "en": "Something seems weird about him, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0014",
+    "locuteur": "Dr. Nicholai",
+    "en": "Urrgh... Let judgement fall upon the{SAUT}foolish humans! Mankind needs no future!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0015",
+    "locuteur": "Dr. Nicholai",
+    "en": "Ruin! Annihilation! Destruction,{SAUT}destruction, destruction!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0016",
+    "locuteur": "Dr. Nicholai",
+    "en": "Let judgement fall on mankind! Let the{SAUT}music of destruction ring out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0017",
+    "locuteur": "Mark",
+    "en": "Dude, what's gotten into you!? C'mon,{SAUT}why're you talking like Kandori?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0018",
+    "locuteur": "Kandori",
+    "en": "Because he's already little more than{SAUT}my double.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0019",
+    "locuteur": "Kandori",
+    "en": "In fact, humans around the world already{SAUT}share my desire for annihilation.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0020",
+    "locuteur": "Maki",
+    "en": "Kandori!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0021",
+    "locuteur": "Mark",
+    "en": "What the hell are you talking about!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0022",
+    "locuteur": "Nanjo",
+    "en": "You madman... Have you brainwashed the{SAUT}entire globe with that mirror!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0023",
+    "locuteur": "Elly",
+    "en": "Good lord... How could you!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0024",
+    "locuteur": "Brown",
+    "en": "What!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0025",
+    "locuteur": "Ayase",
+    "en": "N-No way!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0026",
+    "locuteur": "Kandori",
+    "en": "Everyone following a unified ideology...{SAUT}Doesn't it sound wonderful?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0027",
+    "locuteur": "Kandori",
+    "en": "I've accomplished something no ruler ever{SAUT}achieved... I have transcended the human.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0028",
+    "locuteur": "Nanjo",
+    "en": "That's preposterous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0029",
+    "locuteur": "Kandori",
+    "en": "All I need to do now is give the order{SAUT}for them to kill each other...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0030",
+    "locuteur": "Kandori",
+    "en": "And everything will be over. A fitting{SAUT}end for a species of fools.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0031",
+    "locuteur": "Kandori",
+    "en": "Nothing else will be hurt. Only mankind{SAUT}will be wiped from this planet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0032",
+    "locuteur": "Maki",
+    "en": "But why!? Why do you want to do this{SAUT}to people!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0033",
+    "locuteur": "Kandori",
+    "en": "Hah... That sounds rather unlike you...{SAUT}Maki Sonomura.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0034",
+    "locuteur": "Maki",
+    "en": "How do you know my name...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0035",
+    "locuteur": "Kandori",
+    "en": "The mirror's power affects all.{SAUT}You children are no exception.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0036",
+    "locuteur": "Kandori",
+    "en": "Can you still reach me where I await?{SAUT}Hahah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0037",
+    "locuteur": "Reiji",
+    "en": "Oh, we'll reach you, you bastard!{SAUT}Let's go, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0038",
+    "locuteur": "Elly",
+    "en": "Wait!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0039",
+    "locuteur": "Elly",
+    "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0040",
+    "locuteur": "Brown",
+    "en": "Wait, you coward!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0041",
+    "locuteur": "Brown",
+    "en": "Dammit! Follow me, everyone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0042",
+    "locuteur": "Ayase",
+    "en": "Hold it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0043",
+    "locuteur": "Ayase",
+    "en": "Don't just stare into space, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0044",
+    "locuteur": "Ayase",
+    "en": "We gotta hurry or my future's gonna{SAUT}be wiped out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0045",
+    "locuteur": "Ayase",
+    "en": "So let's go after him already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0046",
+    "locuteur": "Mark",
+    "en": "Maki, Elly, can you stand up?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0047",
+    "locuteur": "Maki",
+    "en": "Are you okay, Elly?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0048",
+    "locuteur": "Elly",
+    "en": "Ngh... Thanks, Maki. I'm all right now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0049",
+    "locuteur": "Mark",
+    "en": "Get a grip, Hidehiko. You're the leader,{SAUT}aren't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0050",
+    "locuteur": "Brown",
+    "en": "S-Sure I am! I was just messing around{SAUT}with you guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0051",
+    "locuteur": "Brown",
+    "en": "I'm totally fine, just watch me! Grrrr!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0052",
+    "locuteur": "Brown",
+    "en": "How was that!? A leader's gotta lead!{SAUT}Repeat after me! Hehe... just kidding.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0053",
+    "locuteur": "Maki",
+    "en": "Haha... You're so funny, Hidehiko.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0054",
+    "locuteur": "Brown",
+    "en": "I know, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0055",
+    "locuteur": "Brown",
+    "en": "I'm a total stud! Good looks AND a great{SAUT}sense of humor!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0056",
+    "locuteur": "Brown",
+    "en": "My only rival is Nakai from the Judas{SAUT}Brothers!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0057",
+    "locuteur": "Brown",
+    "en": "A certain guy in a knit cap can't{SAUT}beat me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0058",
+    "locuteur": "Brown",
+    "en": "Yeah, you know what I'm talking about,{SAUT}Maki!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0059",
+    "locuteur": "Mark",
+    "en": "What an idiot...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0060",
+    "locuteur": "Nanjo",
+    "en": "Well, those and blunt scissors can be{SAUT}useful in a clever man's hands.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0061",
+    "locuteur": "Maki",
+    "en": "Look! Someone's over there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0062",
+    "locuteur": "Maki",
+    "en": "Oh, it's that old scientist!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0063",
+    "locuteur": "Maki",
+    "en": "Are you okay, Yuka?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0064",
+    "locuteur": "Ayase",
+    "en": "Grgh... Blaaaaaaagh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0065",
+    "locuteur": "Mark",
+    "en": "Ew... gross!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0066",
+    "locuteur": "Ayase",
+    "en": "Shuddup... I'm clean!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0067",
+    "locuteur": "Maki",
+    "en": "Here, Yuka, use my handkerchief.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0068",
+    "locuteur": "Ayase",
+    "en": "...Thanks, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0069",
+    "locuteur": "Nanjo",
+    "en": "It looks as though everyone's all right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0070",
+    "locuteur": "Mark",
+    "en": "That jerk... I can't believe he's gonna{SAUT}go through with this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0071",
+    "locuteur": "Maki",
+    "en": "How does Kandori know me...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0072",
+    "locuteur": "Nanjo",
+    "en": "So that's why... It's inconceivable...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0073",
+    "locuteur": "Reiji",
+    "en": "There's no telling what dirty tricks{SAUT}that bastard has in store. Be careful.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0074",
+    "locuteur": "Elly",
+    "en": "I'm worried about the last thing Kandori{SAUT}said... I have a slight headache.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0075",
+    "locuteur": "Elly",
+    "en": "Don't strain yourself, okay, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0076",
+    "locuteur": "Brown",
+    "en": "Kandori's plan to control people is{SAUT}out of control! ...That was a joke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0077",
+    "locuteur": "Brown",
+    "en": "C'mon, (*APODO_HEROE*)... You're supposed{SAUT}to laugh! Mwahahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0078",
+    "locuteur": "Brown",
+    "en": "What? I'm not all talk, y'know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0079",
+    "locuteur": "Ayase",
+    "en": "Ugh... Doesn't your head kinda hurt,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0080",
+    "locuteur": "Dr. Nicholai",
+    "en": "Now is the time of the final judgement!{SAUT}Why was mankind created?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0081",
+    "locuteur": "Dr. Nicholai",
+    "en": "Without an answer to that question,{SAUT}the infection must be cleansed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0082",
+    "locuteur": "Mark",
+    "en": "Dammit! It doesn't look like she's here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0083",
+    "locuteur": "Mark",
+    "en": "Where are you, Maki!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0084",
+    "locuteur": "Nanjo",
+    "en": "...I can't believe this machine opened{SAUT}the way into a human soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0085",
+    "locuteur": "Nanjo",
+    "en": "Nothing good can come of its continued{SAUT}existence. We must destroy it somehow.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0086",
+    "locuteur": "Reiji",
+    "en": "If we don't hurry, then judging by what{SAUT}we saw, it'll be too late for Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0087",
+    "locuteur": "Elly",
+    "en": "Ugh! This isn't it, either! We have{SAUT}to find her!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0088",
+    "locuteur": "Brown",
+    "en": "Urgh, she's not here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0089",
+    "locuteur": "Brown",
+    "en": "Where did Maki go!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0090",
+    "locuteur": "Ayase",
+    "en": "Nope, not here either!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0091",
+    "locuteur": "Ayase",
+    "en": "Sheesh, why did we decide to look here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0092",
+    "locuteur": "Dr. Nicholai",
+    "en": "Ugh... What was I doing...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0093",
+    "locuteur": "Dr. Nicholai",
+    "en": "What!? Is this true!? I see... I'm sorry{SAUT}we dragged you into all this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0094",
+    "locuteur": "Dr. Nicholai",
+    "en": "But I have to ask you... can't you{SAUT}somehow rescue Sonomura's daughter?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0095",
+    "locuteur": "Dr. Nicholai",
+    "en": "I'll do my best to adjust the system so{SAUT}you can go rescue her whenever you wish!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0096",
+    "locuteur": "Dr. Nicholai",
+    "en": "And once that's done, I'll go to whatever{SAUT}fate awaits me. I beg you, young man!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0097",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)! Where are you going!?{SAUT}We have to defeat Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:144:0098",
+    "locuteur": "Mark",
+    "en": "(*APELLIDO_HEROE*)! Where you goin'!?{SAUT}Aren't you gonna save Maki!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

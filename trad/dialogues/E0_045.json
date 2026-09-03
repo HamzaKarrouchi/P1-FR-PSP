@@ -1,0 +1,693 @@
+[
+  {
+    "id": "E0.BIN:179:0003",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Remember this? You left the poor woman{SAUT}to die...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:179:0004",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "\"I'm looking out for number one\"... Are{SAUT}you sure that wasn't your reasoning?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:179:0005",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Remember this? You saved this woman,{SAUT}heedless of your own safety...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:180:0003",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "And here, you tried to abandon an old{SAUT}man, though he was only a pawn...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:180:0004",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "And here, you chose to save an old man{SAUT}at the risk of losing Kandori...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:181:0003",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Did you really think that Chisato's{SAUT}painting was superior...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:181:0004",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Say, \"I wasn't afraid of being turned{SAUT}to stone.\" Can you say that honestly?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:181:0005",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Asserting one's beliefs in the face of{SAUT}danger... it isn't easily done.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:182:0004",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You lacked the vision to see through{SAUT}to the truth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:182:0005",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You judge only with your eyes, and fail{SAUT}to see with your heart...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:182:0006",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You had vision enough to see through{SAUT}to the truth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:182:0007",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You see not only with your eyes, but{SAUT}also with your heart...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:183:0000",
+    "locuteur": "Kandori",
+    "en": "You, boy... I haven't heard your answer{SAUT}yet. What are you living for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:183:0001",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "This man's soul was sick with doubt...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:183:0002",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "But you could not give his soul the{SAUT}salvation it yearned for...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:183:0003",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "And the cause was the doubt gnawing at{SAUT}your own soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:183:0005",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "But you were able to soothe his soul's{SAUT}torment...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:183:0006",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You could do this because your own soul{SAUT}was free and clear of doubt.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0000",
+    "locuteur": "Maki",
+    "en": "You know it, don't you, (*APELLIDO_HEROE*)!?{SAUT}You know I'm the worst girl alive!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0001",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "And what did you say to that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0002",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You couldn't tell her not to run, for{SAUT}you too were running, weren't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0003",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "Can you look me in the eye and deny{SAUT}that, self?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0004",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "You answered well. It's easy to run{SAUT}from one's problems, yes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:184:0005",
+    "locuteur": "(*APODO_HEROE*)'s voice",
+    "en": "But the further you run, the more you{SAUT}resent yourself. You know all too well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:185:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 5,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0000",
+    "locuteur": "Maki",
+    "en": "Who's there!? (*APELLIDO_HEROE*)! Someone's here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0001",
+    "locuteur": "Maki",
+    "en": "No way... Is that...{SAUT}(*APELLIDO_HEROE*)!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0002",
+    "locuteur": "Maki",
+    "en": "(*APELLIDO_HEROE*)! There's two of you! How...!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0003",
+    "locuteur": "Maki",
+    "en": "Why is he here? And why is he{SAUT}playing games!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0004",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "...Could you shut up for a second?{SAUT}Who gives a damn what I do...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0005",
+    "locuteur": "Maki",
+    "en": "A-Are you... really (*APELLIDO_HEROE*)?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0006",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "That's right. I'm (*APELLIDO_HEROE*) (*PLAYER_NAME*).{SAUT}You can call me (*APODO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0007",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I'm a second-year at St. Hermelin High{SAUT}in class 4.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0008",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Don't believe me? Want me to tell you{SAUT}my height, weight, and favorite girl?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0010",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I'm you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:197:0011",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I know everything you've done up to now.{SAUT}And the kind of person you really are...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0000",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Get it now?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0001",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I'm every inch like you. I'm you...{SAUT}and you're me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0002",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "We're two sides of the same coin...{SAUT}No, not just two.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0003",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "There are tens of thousands of \"you\"s{SAUT}inside yourself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0005",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "...So quit bothering me. You must{SAUT}know how it feels.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0006",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Long as I can play games all day, I'm{SAUT}good. I'd rather stay out of trouble.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0007",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Hurry up and get outta here... Seeya.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0008",
+    "locuteur": "Maki",
+    "en": "Why're you acting like this!?{SAUT}(*APELLIDO_HEROE*) is a nice guy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0009",
+    "locuteur": "Maki",
+    "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0010",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "...If you made it this far, it means{SAUT}there's some hope for you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0011",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Alright, self... Go do the best you can.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0012",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "...Someone seems to be aiming to take{SAUT}your place, but that won't happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0013",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Your will is rooted nice and deep. You{SAUT}have a good grip on yourself.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0014",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Here, take this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0015",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I think you can handle it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0016",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "It's the key to awakening the strongest{SAUT}Persona sealed deep in your soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0017",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Ask that old geezer Igor how to use it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0018",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "But... don't forget. The \"me\" you see{SAUT}here is still you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:199:0019",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "As long as you're aware of it, you'll{SAUT}be fine. You're one strong guy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E0.BIN:199:0020",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Here, take these.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:199:0021",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I think you and the girl can handle{SAUT}them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0022",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "They're keys to awakening the strongest{SAUT}Personas sealed deep in one's soul.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:199:0023",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Ask that old geezer Igor how to use{SAUT}them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:199:0027",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "I think you and your friends can{SAUT}handle them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0032",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "What's wrong? Hurry up and go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0033",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Your friends are waiting.{SAUT}Seeya, self.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0034",
+    "locuteur": "Maki",
+    "en": "So it's not just me... Everyone has{SAUT}different selves.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0035",
+    "locuteur": "Maki",
+    "en": "Let's get out of here. I don't like{SAUT}that other (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0036",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0037",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque Flower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0038",
+    "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0039",
+    "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Babylonian Coffin(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0040",
+    "en": "{FERME}  > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0041",
+    "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0042",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:199:0043",
+    "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0045",
+    "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0046",
+    "locuteur": "(*APODO_HEROE*)",
+    "en": "Will you shut up and let me alone?{SAUT}Get outta here already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:199:0047",
+    "en": "{FERME} > It's the Atlus fighting game,{SAUT}Groove On Fight. You haven't seen{SAUT}this game in years...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0000",
+    "locuteur": "Maki",
+    "en": "Aha! Found you, real-me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0002",
+    "locuteur": "Maki",
+    "en": "Hold it right there! Where do you{SAUT}think you're running off to?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0003",
+    "locuteur": "Maki",
+    "en": "There's nowhere left to hide!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0004",
+    "locuteur": "Maki",
+    "en": "Those countless bubbles... Each one,{SAUT}a different person's consciousness...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0005",
+    "locuteur": "Maki",
+    "en": "People's minds are nothing more than{SAUT}fragile bubbles born from this sea...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0006",
+    "locuteur": "Maki",
+    "en": "I was a consciousness that should never{SAUT}have been born...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0007",
+    "locuteur": "Maki",
+    "en": "If you'd been born first, my life would{SAUT}have turned out much differently...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0008",
+    "locuteur": "Maki",
+    "en": "Stop that! I don't want to hear that{SAUT}kind of talk from my own mouth!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0009",
+    "locuteur": "Maki",
+    "en": "Did you ever try to change? How?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0010",
+    "locuteur": "Maki",
+    "en": "All you did was hide under the sheets{SAUT}and cry!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0011",
+    "locuteur": "Maki",
+    "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Reiji...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0012",
+    "locuteur": "Maki",
+    "en": "And (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0013",
+    "locuteur": "Maki",
+    "en": "Doesn't looking at those guys make you{SAUT}feel like nothing is impossible?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0014",
+    "locuteur": "Maki",
+    "en": "You just have to get over yourself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "E0.BIN:201:0018",
+    "locuteur": "Maki",
+    "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Elly...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0025",
+    "locuteur": "Maki",
+    "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Hidehiko...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0032",
+    "locuteur": "Maki",
+    "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Yuka...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0037",
+    "locuteur": "Maki",
+    "en": "I won't run away anymore... I'll own{SAUT}up to the mistakes I've made!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0038",
+    "locuteur": "Maki",
+    "en": "...You should take this...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0039",
+    "locuteur": "Maki",
+    "en": "You can use it to enter the Avidya{SAUT}World, where Pandora is.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0040",
+    "locuteur": "Maki",
+    "en": "I... really didn't want you to see me{SAUT}this way, (*APELLIDO_HEROE*)...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0041",
+    "locuteur": "Maki",
+    "en": "I wonder if what I was trying to say{SAUT}got across...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0042",
+    "locuteur": "Maki",
+    "en": "Well, all I can do now is keep{SAUT}believing in myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0043",
+    "locuteur": "Maki",
+    "en": "Let's go back to the others!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:201:0044",
+    "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Blue Compact(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "fr": ""
+  }
+]

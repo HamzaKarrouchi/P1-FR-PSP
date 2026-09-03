@@ -1,0 +1,658 @@
+[
+  {
+    "id": "E2.BIN:051:0000",
+    "locuteur": "Nanjo",
+    "en": "The only clothing I require is this{SAUT}uniform... and my scarf, of course.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0001",
+    "locuteur": "Mark",
+    "en": "Speaking of clothes, what's with Nanjo's{SAUT}scarf? He's always wearing that thing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0002",
+    "locuteur": "Yukino",
+    "en": "Tch, did Yuka ask you to go shopping{SAUT}for her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0003",
+    "locuteur": "Yukino",
+    "en": "Well, once you're done here, we're going{SAUT}straight to the hospital!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0004",
+    "locuteur": "Clerk",
+    "en": "The people in this town have such bad{SAUT}fashion sense!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0005",
+    "locuteur": "Clerk",
+    "en": "The only one with a shred of taste is{SAUT}this brown-haired boy I see sometimes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:051:0006",
+    "locuteur": "Clerk",
+    "en": "He's got these cool goggles on, and he's{SAUT}really cute!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0000",
+    "locuteur": "Nanjo",
+    "en": "Well then, where to next? We can go{SAUT}anywhere you please...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0001",
+    "locuteur": "Nanjo",
+    "en": "Just so long as the hospital is in our{SAUT}plans at some point.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0002",
+    "locuteur": "Nanjo",
+    "en": "So he refuses to close his business even{SAUT}with the advent of demons...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0003",
+    "locuteur": "Nanjo",
+    "en": "The common people can be stronger-willed{SAUT}than I had given them credit for.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0004",
+    "locuteur": "Mark",
+    "en": "Music...? Like, pianos and singing?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0005",
+    "locuteur": "Mark",
+    "en": "Huh? I think I've heard somethin' like{SAUT}that somewhere too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0006",
+    "locuteur": "Mark",
+    "en": "Is it okay, these stores bein' open?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:052:0007",
+    "locuteur": "Mark",
+    "en": "I ain't responsible if they get messed{SAUT}up by demons!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:052:0008",
+    "locuteur": "Elly",
+    "en": "That reminds me, some people at school{SAUT}were saying something similar.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0009",
+    "locuteur": "Yukino",
+    "en": "A weird store? What do you think's{SAUT}in it...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0010",
+    "locuteur": "Yukino",
+    "en": "Haven't you had enough fooling around?{SAUT}Can we go to the Alaya Shrine next?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0011",
+    "locuteur": "Clerk",
+    "en": "My, I'm grateful you came all this way.{SAUT}Well, feel free to look around.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0012",
+    "locuteur": "Clerk",
+    "en": "My, I'm grateful you came all this way.{SAUT}Things must be hard for all of you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:052:0013",
+    "locuteur": "Customer",
+    "en": "There's this one strange store in this{SAUT}here mall...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0014",
+    "locuteur": "Customer",
+    "en": "Whenever I go take a gander, it's closed,{SAUT}and I've never seen anyone go in or out.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0015",
+    "locuteur": "Customer",
+    "en": "But every now and then, you can hear{SAUT}music from in there...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0016",
+    "locuteur": "Customer",
+    "en": "It's a funny old world, isn't it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:052:0017",
+    "locuteur": "Customer",
+    "en": "That strange store in this mall will{SAUT}apparently be open soon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:052:0018",
+    "locuteur": "Customer",
+    "en": "Don't ask me when, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:053:0000",
+    "locuteur": "Atastya Tree",
+    "en": "Young ones... Your presence is welcome.{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Jeunes gens... Soyez les bienvenus.{ATTENTE}"
+  },
+  {
+    "id": "E2.BIN:053:0001",
+    "locuteur": "Atastya Tree",
+    "en": "Will you inscribe your story on me?{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Gravez votre histoire en moi?{ATTENTE}"
+  },
+  {
+    "id": "E2.BIN:053:0002",
+    "locuteur": "Atastya Tree",
+    "en": "Take care on your journey, young ones...{ATTENTE}",
+    "locuteur_fr": "Arbre Agastya",
+    "fr": "Prenez soin de vous, jeunes gens...{ATTENTE}"
+  },
+  {
+    "id": "E2.BIN:054:0000",
+    "locuteur": "Nanjo",
+    "en": "...when you're feeling ill, then just{SAUT}take a Dis-Sick...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0001",
+    "locuteur": "Nanjo",
+    "en": "Gah, this insidious song! I'm being{SAUT}brainwashed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0002",
+    "locuteur": "Nanjo",
+    "en": "All one can trust is one's own strength.{SAUT}It's the only way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0003",
+    "locuteur": "Mark",
+    "en": "So this is Tadashi's uncle's store.{SAUT}He said he lives at the Sun Mall one?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0004",
+    "locuteur": "Mark",
+    "en": "Kids these days sure know what's what...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0005",
+    "locuteur": "Yukino",
+    "en": "I'm curious about this tree that wasn't{SAUT}there before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0006",
+    "locuteur": "Yukino",
+    "en": "I'm surprised Maki's mom made it to{SAUT}the shrine.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0007",
+    "locuteur": "Yukino",
+    "en": "If she'd collapsed before then... I don't{SAUT}like to think what might've happened.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0008",
+    "locuteur": "Elly",
+    "en": "I'm giving some thought to the mystery{SAUT}as well.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0009",
+    "locuteur": "Elly",
+    "en": "This is my chance to put into practice{SAUT}the things I've studied all this time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0010",
+    "locuteur": "Clerk",
+    "en": "Are you friends with my nephew? Then I'll{SAUT}give you extra special service!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0011",
+    "locuteur": "Clerk",
+    "en": "I'm not the least bit scared of demons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0012",
+    "locuteur": "Clerk",
+    "en": "I'm sure it was just a trick, or maybe{SAUT}I was seeing things.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0013",
+    "locuteur": "Customer",
+    "en": "I went to the park and saw a tree that{SAUT}wasn't there before. You should go look.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:054:0014",
+    "locuteur": "Clerk",
+    "en": "You can't go in there! It's private!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0015",
+    "locuteur": "Customer",
+    "en": "The TV and radio don't work, and my{SAUT}parents are hiding under their futons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:054:0016",
+    "locuteur": "Customer",
+    "en": "I guess in the end, you have to take{SAUT}matters into your own hands.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:056:0000",
+    "locuteur": "Nanjo",
+    "en": "Is no one home? Hmm... What an{SAUT}extraordinarily small house.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0001",
+    "locuteur": "Mark",
+    "en": "Well, yeah, anyplace would look small{SAUT}next to yours!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0002",
+    "locuteur": "Mark",
+    "en": "Tch, this is why I can't stand rich{SAUT}dudes like you...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0003",
+    "locuteur": "Yukino",
+    "en": "I think this is where Yuko Himeno lives.{SAUT}You know, Maki's friend.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0004",
+    "locuteur": "Yukino",
+    "en": "I work part-time for myself, but she's{SAUT}doing it for her family...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0005",
+    "locuteur": "Mark",
+    "en": "Man... talk about a sob story!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0006",
+    "locuteur": "Mark",
+    "en": "Yo Nanjo, why don't you work part-time{SAUT}to pay Yamaoka's salary yourself!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:056:0007",
+    "locuteur": "Yukino",
+    "en": "Looks like Yuko isn't home yet.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:057:0019",
+    "locuteur": "Igor",
+    "en": "What is it you desire?(*UNK_0E,0C00*){FERME} (*SPEAKER*)Igor{SAUT}Welcome to the Velvet Room...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:064:0000",
+    "locuteur": "Nurse",
+    "en": "Hey! You have to wait your turn just{SAUT}like everyone else!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:064:0001",
+    "locuteur": "Nurse",
+    "en": "Now please leave!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0000",
+    "locuteur": "Nanjo",
+    "en": "Does that old man really believe such,{SAUT}or is he toying with us...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0001",
+    "locuteur": "Mark",
+    "en": "Man, what's with him calling you Hiroshi?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0002",
+    "locuteur": "Yukino",
+    "en": "It must be rough on the nurse.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0003",
+    "locuteur": "Old man",
+    "en": "Look, Akiko, Hiroshi came to visit.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0004",
+    "locuteur": "Nurse",
+    "en": "That's right. Hiroshi's here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0005",
+    "locuteur": "Old man",
+    "en": "Thanks for coming all this way, Hiroshi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0006",
+    "locuteur": "Old man",
+    "en": "Now you listen here, Hiroshi. A man's{SAUT}soul is a complex thing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0007",
+    "locuteur": "Old man",
+    "en": "The things a person shows to the outside{SAUT}world isn't necessarily what he thinks.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0008",
+    "locuteur": "Old man",
+    "en": "You have to dig deep to find out the{SAUT}truth they're hiding...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0009",
+    "locuteur": "Old man",
+    "en": "I see. I'm glad to hear you're enjoying{SAUT}school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:065:0010",
+    "locuteur": "Nurse",
+    "en": "Hiroshi seems to be his grandson.{SAUT}He mistakes me for his daughter, too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:066:0000",
+    "locuteur": "Nurse",
+    "en": "Hm? Aren't you Maki Sonomura's friend?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:066:0002",
+    "locuteur": "Nurse",
+    "en": "You visited her last week too didn't you?{SAUT}And the week before...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:066:0003",
+    "locuteur": "Nanjo",
+    "en": "Is that so...? You're unexpectedly{SAUT}nice to her, I see.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:066:0004",
+    "locuteur": "Yukino",
+    "en": "Leave him alone, Nanjo.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0000",
+    "locuteur": "Nanjo",
+    "en": "There aren't many at this hospital whom{SAUT}Maki could converse with.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0001",
+    "locuteur": "Nanjo",
+    "en": "Small wonder she doesn't feel like{SAUT}leaving her room, if that's the case...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0002",
+    "locuteur": "Mark",
+    "en": "Maki's room is the second one, straight{SAUT}down from here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0003",
+    "locuteur": "Yukino",
+    "en": "It was a good call, coming here. I'm sure{SAUT}Maki will be glad to see us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0004",
+    "locuteur": "Patient",
+    "en": "A high school girl? Hmm... I've never{SAUT}seen her, I don't think.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0005",
+    "locuteur": "Patient",
+    "en": "She's probably cooped up in her room...{SAUT}It'd do her good to get out sometimes.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0006",
+    "locuteur": "Patient",
+    "en": "There's a girl on this floor who looked{SAUT}like she was in high school...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0007",
+    "locuteur": "Patient",
+    "en": "But sometimes I hear a little girl's{SAUT}voice from her room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:067:0008",
+    "locuteur": "Patient",
+    "en": "There's only one bed in there... Does she{SAUT}have a sister or someone visiting her?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0000",
+    "locuteur": "Nanjo",
+    "en": "Why is Maki's mother working at THAT{SAUT}company, of all places!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0001",
+    "locuteur": "Mark",
+    "en": "Oh, crap! Y'think I should've brought{SAUT}flowers or something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0002",
+    "locuteur": "Mark",
+    "en": "Well, too late now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0003",
+    "locuteur": "Yukino",
+    "en": "C'mon, Maki's waiting.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0004",
+    "locuteur": "Nurse",
+    "en": "Are you Maki's friends? I'm glad you came.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0005",
+    "locuteur": "Nurse",
+    "en": "You know she's been in and out of the{SAUT}hospital since she was a child, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0006",
+    "locuteur": "Nurse",
+    "en": "I always worried about her keeping up{SAUT}her friendships...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0007",
+    "locuteur": "Nurse",
+    "en": "I can hardly believe it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0008",
+    "locuteur": "Nurse",
+    "en": "Her only daughter is in the hospital and{SAUT}she hasn't visited even once!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0009",
+    "locuteur": "Nurse",
+    "en": "I don't care how busy she is at SEBEC!{SAUT}She's a failure as a mother!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:068:0010",
+    "locuteur": "Nurse",
+    "en": "Poor Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

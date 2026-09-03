@@ -1,0 +1,698 @@
+[
+  {
+    "id": "E0.BIN:101:0000",
+    "locuteur": "Maki",
+    "en": "Chisato had her own problems... I feel{SAUT}a little better now, kind of.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0001",
+    "locuteur": "Nanjo",
+    "en": "What a blunder! To allow myself to be{SAUT}petrified at a critical moment...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0002",
+    "locuteur": "Nanjo",
+    "en": "They seem to have reconciled. Well, if{SAUT}that's what they want, leave them be.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0003",
+    "locuteur": "Mark",
+    "en": "You guys didn't talk about any important{SAUT}stuff, did you? Damn, now I'm curious!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0004",
+    "locuteur": "Mark",
+    "en": "Don't think I'm happy about all this!{SAUT}Even if she isn't our Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0005",
+    "locuteur": "Mark",
+    "en": "I'm not so pathetic that it cheers me up{SAUT}to see her brokenhearted.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0006",
+    "locuteur": "Elly",
+    "en": "Didn't Maki like Yosuke?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0007",
+    "locuteur": "Elly",
+    "en": "Even if you show your true self, there are{SAUT}those who'll accept you, warts and all...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0008",
+    "locuteur": "Brown",
+    "en": "Does Chisato seem different now to you?{SAUT}It's like... she softened up, kinda.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0009",
+    "locuteur": "Brown",
+    "en": "Heheh, I wrote down the lines Yosuke{SAUT}used. Now, who should I try them on...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0010",
+    "locuteur": "Ayase",
+    "en": "Hey, so like, what happened while I was{SAUT}a human statue!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0011",
+    "locuteur": "Ayase",
+    "en": "Wh-What!? I'm not crying!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0012",
+    "locuteur": "Reiji",
+    "en": "...I have nothing to say.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0013",
+    "locuteur": "Young men",
+    "en": "Um, could you please put us back to{SAUT}normal now...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0014",
+    "locuteur": "Yosuke",
+    "en": "I'm sorry I was the cause of so much{SAUT}trouble for everyone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0015",
+    "locuteur": "Yosuke",
+    "en": "If I'd been a little more reliable,{SAUT}this wouldn't have happened.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0016",
+    "locuteur": "Yosuke",
+    "en": "Sorry, guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0017",
+    "locuteur": "Chisato",
+    "en": "...The real Maki is trapped inside{SAUT}the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0018",
+    "locuteur": "Chisato",
+    "en": "Is it right for me to be so blessed{SAUT}while Maki suffers...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0019",
+    "en": "{FERME}> It's Maki's painting...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0020",
+    "en": "{FERME} > The mirror's power has faded...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0021",
+    "locuteur": "Aki",
+    "en": "Hey! How weak are you, losing to nobodies{SAUT}like them!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0022",
+    "locuteur": "Aki",
+    "en": "If you can't win, I'm not gonna fix{SAUT}your face!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0023",
+    "locuteur": "Aki",
+    "en": "Though I was never gonna do that anyway!{SAUT}Pbbbbt!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0024",
+    "locuteur": "Chisato",
+    "en": "Huh? Hey, wait... What do you mean!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0025",
+    "locuteur": "Aki",
+    "en": "Daddy called you a \"ginnee pig\" and a{SAUT}\"useless pon\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0026",
+    "locuteur": "Aki",
+    "en": "He said, \"Even if Chisato loses, she's{SAUT}not worth our trouble.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0027",
+    "locuteur": "Aki",
+    "en": "So you can have fun staying that way as{SAUT}long as you live! Bye-bye!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0029",
+    "locuteur": "Chisato",
+    "en": "W-Wait! Am I going to be like this{SAUT}forever...!? No...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0030",
+    "locuteur": "Maki",
+    "en": "Chisato...! Just wait here for us.{SAUT}We'll go catch that girl.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0031",
+    "locuteur": "Maki",
+    "en": "And when we do, we'll make her put your{SAUT}face back the way it was!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0032",
+    "locuteur": "Chisato",
+    "en": "Maki...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0033",
+    "locuteur": "Chisato",
+    "en": "You're lying! Don't feed me that crap!{SAUT}I know you think I deserve all this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0034",
+    "locuteur": "Maki",
+    "en": "I'm not lying, Chisato. I still like{SAUT}you... even now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0035",
+    "locuteur": "Chisato",
+    "en": "You... like me...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0036",
+    "locuteur": "Maki",
+    "en": "Yep! You're energetic, beautiful,{SAUT}fashionable, and self-possessed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0037",
+    "locuteur": "Maki",
+    "en": "I can tell what Yosuke sees in you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0038",
+    "locuteur": "Chisato",
+    "en": "No! I'm... sure Yosuke still has a{SAUT}thing for you, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0039",
+    "locuteur": "Chisato",
+    "en": "...I'm sorry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0040",
+    "locuteur": "Chisato",
+    "en": "I was so jealous of you, Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0041",
+    "locuteur": "Chisato",
+    "en": "You say I'm self-possessed, but it's{SAUT}just an act.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0042",
+    "locuteur": "Chisato",
+    "en": "The real me is helpless.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0043",
+    "locuteur": "Chisato",
+    "en": "I have to act out and look pretty or{SAUT}everyone will ignore me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0044",
+    "locuteur": "Chisato",
+    "en": "That's why I envied you. You just had to{SAUT}be yourself, and everyone loved you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0045",
+    "locuteur": "Maki",
+    "en": "Chisato...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0046",
+    "locuteur": "Chisato",
+    "en": "Yosuke will hate me now. Then, you and{SAUT}him will...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0047",
+    "locuteur": "Chisato",
+    "en": "...Yosuke...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0048",
+    "locuteur": "Maki",
+    "en": "Ohhhh, you're so stubborn! Deep down,{SAUT}you really like Yosuke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0049",
+    "locuteur": "Maki",
+    "en": "But you don't have to worry about me{SAUT}getting in the way. See...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0050",
+    "locuteur": "Chisato",
+    "en": "Ack! What the...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0051",
+    "locuteur": "Yosuke",
+    "en": "Chisato! I finally found you! I've been{SAUT}looking for you all this time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0052",
+    "locuteur": "Yosuke",
+    "en": "...What happened to your face!?{SAUT}Did you get hurt!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0053",
+    "locuteur": "Chisato",
+    "en": "No! Don't look at me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0054",
+    "locuteur": "Maki",
+    "en": "Umm, what happened was, Aki put a curse{SAUT}on her, and...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0055",
+    "locuteur": "Chisato",
+    "en": "Maki! Are you trying to cover for me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0056",
+    "locuteur": "Chisato",
+    "en": "No... Not this time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0057",
+    "locuteur": "Chisato",
+    "en": "Look, Yosuke! This is my face now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0058",
+    "locuteur": "Chisato",
+    "en": "I did terrible things... I was so cruel{SAUT}to Maki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0059",
+    "locuteur": "Chisato",
+    "en": "This is my punishment!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0060",
+    "locuteur": "Yosuke",
+    "en": "Chisato...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0061",
+    "locuteur": "Chisato",
+    "en": "I don't deserve you, Yosuke!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0062",
+    "locuteur": "Chisato",
+    "en": "I'm a terrible person... Even the face{SAUT}I was so proud of shows it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0063",
+    "locuteur": "Chisato",
+    "en": "If people see you with me, they'll{SAUT}laugh at you, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0064",
+    "locuteur": "Chisato",
+    "en": "That's why it's okay if you want Maki{SAUT}instead! You always liked her, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0065",
+    "locuteur": "Yosuke",
+    "en": "Hey, hey, don't get me wrong!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0066",
+    "locuteur": "Yosuke",
+    "en": "Yeah, I did like Maki... But that was{SAUT}in the past. I like you now, Chisato!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0067",
+    "locuteur": "Yosuke",
+    "en": "Argh, listen to me...! This is so{SAUT}embarrassing! C'mon, let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0068",
+    "locuteur": "Chisato",
+    "en": "But... these moles will never come off,{SAUT}you know...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0069",
+    "locuteur": "Chisato",
+    "en": "You don't care if your friends laugh{SAUT}at us...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0070",
+    "locuteur": "Yosuke",
+    "en": "Let 'em laugh! See if I care!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0071",
+    "locuteur": "Yosuke",
+    "en": "You said you're a bad person? Well, I'm{SAUT}no saint, either. Don't worry about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0072",
+    "locuteur": "Yosuke",
+    "en": "Just be honest with me, like you were{SAUT}a second ago.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0073",
+    "locuteur": "Yosuke",
+    "en": "I'm your boyfriend, Chisato...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0074",
+    "locuteur": "Yosuke",
+    "en": "I don't care what you look like, as long{SAUT}as you're you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0075",
+    "locuteur": "Yosuke",
+    "en": "I love you, Chisato!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0076",
+    "locuteur": "Maki",
+    "en": "Oh! The mirror...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0077",
+    "locuteur": "Yosuke",
+    "en": "Chisato! Your face... it's back{SAUT}to normal!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0078",
+    "locuteur": "Chisato",
+    "en": "You're right! This is wonderful...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0079",
+    "locuteur": "Chisato",
+    "en": "And I'm not talking about my face.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0080",
+    "locuteur": "Chisato",
+    "en": "I... always thought you still liked{SAUT}Maki, Yosuke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0081",
+    "locuteur": "Chisato",
+    "en": "Thanks...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0082",
+    "locuteur": "Mark",
+    "en": "Ugh, I think I have a cramp.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0083",
+    "locuteur": "Mark",
+    "en": "Whoa! Yosuke!? Hey... did your moles{SAUT}fall off, Chisato?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0084",
+    "locuteur": "Nanjo",
+    "en": "Hrm... It seems things moved quickly{SAUT}while I wasn't watching.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0085",
+    "locuteur": "Elly",
+    "en": "What happened? Why is Yosuke here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0086",
+    "locuteur": "Brown",
+    "en": "Huh--Yosuke!? What're you doing here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0087",
+    "locuteur": "Brown",
+    "en": "Whoa, and Chisato's moles are gone!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0088",
+    "locuteur": "Ayase",
+    "en": "When did Yosuke get here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0089",
+    "locuteur": "Ayase",
+    "en": "And when did Chisato get back to normal!?{SAUT}Geez... You guys lost me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0090",
+    "locuteur": "Reiji",
+    "en": "Yosuke...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0091",
+    "locuteur": "Reiji",
+    "en": "Hm. I see Chisato's back to normal, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0092",
+    "locuteur": "Chisato",
+    "en": "I'm sorry, Maki... I was the one lying.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0093",
+    "locuteur": "Chisato",
+    "en": "Like you said, deep down, I like Yosuke.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0094",
+    "locuteur": "Chisato",
+    "en": "I'd hope you could forgive me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0095",
+    "locuteur": "Chisato",
+    "en": "But I doubt it. I did want us to be{SAUT}friends again, though...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0096",
+    "locuteur": "Maki",
+    "en": "Oh, come on! What's to forgive?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0097",
+    "locuteur": "Maki",
+    "en": "You're still my best friend, Chisato.{SAUT}I'm really happy for you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0098",
+    "locuteur": "Nanjo",
+    "en": "It seems Aki escaped...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0099",
+    "locuteur": "Nanjo",
+    "en": "Chisato, do you know anything about a man{SAUT}named Kandori? He's in league with Aki.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:101:0100",
+    "locuteur": "Chisato",
+    "en": "I don't know anyone named Kandori...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

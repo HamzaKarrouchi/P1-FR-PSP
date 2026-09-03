@@ -1,0 +1,664 @@
+[
+  {
+    "id": "E2.BIN:006:0000",
+    "locuteur": "Nanjo",
+    "en": "Does this woman never stop running{SAUT}her mouth...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0001",
+    "locuteur": "Mark",
+    "en": "Hey (*APELLIDO_HEROE*), we're still going to{SAUT}the hospital, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0002",
+    "locuteur": "Yukino",
+    "en": "Yuka seems like an airhead, but I think{SAUT}sometimes she's working at it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0003",
+    "locuteur": "Resting boy",
+    "en": "Are you guys going to the hospital on{SAUT}the northeast corner of town?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0004",
+    "locuteur": "Resting boy",
+    "en": "It's a pretty long walk... Good luck{SAUT}with that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0005",
+    "locuteur": "Short-haired girl",
+    "en": "Hey, where's Ayase? Wasn't she with you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0006",
+    "locuteur": "Short-haired girl",
+    "en": "She promised to go out, but she totally{SAUT}ditched.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0007",
+    "locuteur": "Short-haired girl",
+    "en": "I'm thinking I might like, just go ahead{SAUT}on my own.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0008",
+    "locuteur": "Short-haired girl",
+    "en": "It's really weird, though! She seemed{SAUT}totally into it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0009",
+    "locuteur": "Short-haired girl",
+    "en": "Ayase gets like this sometimes...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:006:0010",
+    "locuteur": "Short-haired girl",
+    "en": "She acts all, like, cynical and stuff.{SAUT}I don't understand that girl.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0000",
+    "locuteur": "Tamaki",
+    "en": "Tadashi, you idiot! Why do you keep{SAUT}messing up the club room!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0001",
+    "locuteur": "Tadashi",
+    "en": "Laaa la laaa! I'm not listeniiiiing!{SAUT}We can do whatever we want.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0002",
+    "locuteur": "Tadashi",
+    "en": "Sheesh, Tamaki, who pissed in your{SAUT}cornflakes this morning?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0003",
+    "locuteur": "Tamaki",
+    "en": "What did you say!? I'm gonna rip this{SAUT}trash off the walls right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0004",
+    "locuteur": "Tadashi",
+    "en": "Hey! What're you doing to my goddess!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0005",
+    "locuteur": "Tamaki",
+    "en": "\"Goddess\" my ass, you pervert! You're the{SAUT}perviest pervert ever to perv!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0006",
+    "locuteur": "Tadashi",
+    "en": "Arrrgh! You hag! You're a haggity hag{SAUT}who hags all hagging day!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0007",
+    "locuteur": "Male club member",
+    "en": "＊sigh＊ These two are like this every day.{SAUT}I'm surprised they're not tired of it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0008",
+    "locuteur": "Tamaki",
+    "en": "＊gasp＊ ＊gasp＊ What is it? I'm a little{SAUT}busy here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0009",
+    "locuteur": "Tadashi",
+    "en": "＊gasp＊ ＊gasp＊ Yeah? I'm kinda busy here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0010",
+    "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Tamaki{SAUT}A transfer student who joined the Fencing{SAUT}Club. She's always arguing with Tadashi.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0011",
+    "en": "{FERME}   (*TEXTBOX_PARAM,0200*)> Tadashi{SAUT}A lazy member of the Fencing Club who{SAUT}quarrels with Tamaki every day.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:007:0012",
+    "locuteur": "Nanjo",
+    "en": "Honestly, the idiots populating our{SAUT}sports club... It's all a bit much.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0013",
+    "locuteur": "Mark",
+    "en": "What a half-ass job...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0014",
+    "locuteur": "Mark",
+    "en": "If you're gonna bomb a wall, you gotta{SAUT}do it with more style.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0015",
+    "locuteur": "Yukino",
+    "en": "Leave 'em alone. You know how some people{SAUT}are... They fight 'cause they care.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0016",
+    "locuteur": "Female club member",
+    "en": "Tamaki's a transfer student, but she's{SAUT}good enough to place in tournaments.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:007:0017",
+    "locuteur": "Female club member",
+    "en": "But she never wants to talk about her{SAUT}last school... Did something happen?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0000",
+    "locuteur": "Nanjo",
+    "en": "Stories about SEBEC tend to be unpleasant.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0001",
+    "locuteur": "Nanjo",
+    "en": "That aside, we should head to the{SAUT}hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0002",
+    "locuteur": "Mark",
+    "en": "The haunted mansion! Man, that takes{SAUT}me back.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0003",
+    "locuteur": "Mark",
+    "en": "I used to go play there a lot and that{SAUT}old bat--I mean my mom, got mad at me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0004",
+    "locuteur": "Yukino",
+    "en": "Yeah, they tore that place down and put{SAUT}up the SEBEC building last year.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0005",
+    "locuteur": "Rumor-loving girl",
+    "en": "Did you ever hear any of those weird{SAUT}rumors about the SEBEC building?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0006",
+    "locuteur": "Rumor-loving girl",
+    "en": "Some people have heard moaning and seen{SAUT}red eyes peering through windows...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:008:0007",
+    "locuteur": "Rumor-loving girl",
+    "en": "It's supposed to be cursed since they{SAUT}leveled the haunted mansion to build it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0000",
+    "locuteur": "Nanjo",
+    "en": "You quite enjoy idling the time away{SAUT}with frivolity, don't you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0001",
+    "locuteur": "Nanjo",
+    "en": "At this rate, the sun will have set{SAUT}before our examinations are through.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0002",
+    "locuteur": "Mark",
+    "en": "The police station's straight north{SAUT}from here, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0003",
+    "locuteur": "Yukino",
+    "en": "Huh. There's other trees like that one{SAUT}in the infirmary...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0004",
+    "locuteur": "Male student",
+    "en": "I saw a beautiful tree in the forest east{SAUT}of the station.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0005",
+    "locuteur": "Male student",
+    "en": "It looked exactly like the one Nurse{SAUT}Natsumi put in the infirmary.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:009:0006",
+    "locuteur": "Male student",
+    "en": "I feel at peace when I look at that{SAUT}tree... It's the strangest thing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0000",
+    "locuteur": "Nanjo",
+    "en": "We'll be preparing for our college{SAUT}entrance exams soon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0001",
+    "locuteur": "Nanjo",
+    "en": "Naturally, I plan to pass with top marks{SAUT}and enter the college of my choice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0002",
+    "locuteur": "Mark",
+    "en": "Hey, we're not supposed to be in here.{SAUT}Let's just go to the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0003",
+    "locuteur": "Yukino",
+    "en": "You thought about what to do after grad?{SAUT}College isn't in my plans.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0004",
+    "locuteur": "Boy studying for entrance exams",
+    "en": "I don't wanna go to cram school. I just{SAUT}wanna stay home and sleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0005",
+    "locuteur": "Girl studying for entrance exams",
+    "en": "You can't! You need to study.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0006",
+    "locuteur": "Girl studying for entrance exams",
+    "en": "Let's go together, okay? Why don't we{SAUT}meet at the subway entrance?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0007",
+    "locuteur": "Boy studying for entrance exams",
+    "en": "The subway... That's north through the{SAUT}Sun Mall and all the way right, yeah?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0008",
+    "locuteur": "Boy studying for entrance exams",
+    "en": "You're supposed to be able to see your{SAUT}future self when you play \"Persona.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0009",
+    "locuteur": "Boy studying for entrance exams",
+    "en": "I wonder if I should try it... Will I{SAUT}be in college this time next year?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0010",
+    "locuteur": "Girl studying for entrance exams",
+    "en": "Oh, give me a break!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0011",
+    "locuteur": "Girl studying for entrance exams",
+    "en": "If you have time to play that \"Persona\"{SAUT}game, you have time to study!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:010:0012",
+    "locuteur": "Girl studying for entrance exams",
+    "en": "Moron... you promised we'd go to the{SAUT}same college together!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:011:0000",
+    "locuteur": "Nanjo",
+    "en": "You want to join the boxing club?{SAUT}Well, let's get examined before that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:011:0001",
+    "locuteur": "Mark",
+    "en": "Boxing is so cool! It looks like it{SAUT}would hurt, though.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:011:0002",
+    "locuteur": "Yukino",
+    "en": "...I could lose some weight myself...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:011:0003",
+    "locuteur": "Dieting club member",
+    "en": "I'm trying to lose weight. Even the boxing{SAUT}gloves are starting to look like candy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:011:0004",
+    "locuteur": "Dieting club member",
+    "en": "Hey! Don't open the lockers without{SAUT}permission! Our stuff's in there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:012:0000",
+    "locuteur": "Nanjo",
+    "en": "I agree, archery is interesting...{SAUT}But don't forget to go to the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:012:0001",
+    "locuteur": "Mark",
+    "en": "I heard there's a bunch of bows here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:012:0002",
+    "locuteur": "Mark",
+    "en": "I think I'll borrow one and mess around{SAUT}with it next time.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:012:0003",
+    "locuteur": "Yukino",
+    "en": "Bows and arrows aren't my thing.{SAUT}I prefer razor blades.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:012:0004",
+    "locuteur": "Archery club member",
+    "en": "Archery is an intelligent, mature sport!{SAUT}Don't have a bow? We'll lend you one!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0000",
+    "locuteur": "Nanjo",
+    "en": "Yamaoka used to take me to the ballet{SAUT}when I was small...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0001",
+    "locuteur": "Nanjo",
+    "en": "I suppose he was trying to cultivate my{SAUT}aesthetic sensibilities.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0002",
+    "locuteur": "Mark",
+    "en": "I get fidgety around this stuff. C'mon,{SAUT}let's go to the hospital!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0003",
+    "locuteur": "Yukino",
+    "en": "Ballet, huh...? The Nutcracker is kinda{SAUT}neat, I always thought.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0004",
+    "locuteur": "Yukino",
+    "en": "A fun dream world the girl saw on {SAUT}Christmas Eve... ＊dreamy sigh＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0005",
+    "locuteur": "Yukino",
+    "en": "Hey, what's that look for!? I happen to{SAUT}like ballet! Something wrong with that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0006",
+    "locuteur": "Ballet club member",
+    "en": "Did you know toe shoes are actually{SAUT}really hard?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0007",
+    "locuteur": "Ballet club member",
+    "en": "I was pretty surprised the first time I{SAUT}put on a pair.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0008",
+    "locuteur": "Ballet club member",
+    "en": "It was nice when they rebuilt the gym{SAUT}and we finally got our own room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0009",
+    "locuteur": "Ballet club member",
+    "en": "Back when we had to change in the{SAUT}classrooms, someone could have seen us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:013:0010",
+    "locuteur": "Ballet club member",
+    "en": "Wait! Were you one of the pervs{SAUT}doing that!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0000",
+    "locuteur": "Nanjo",
+    "en": "The painting I saw of Maki's had a{SAUT}strong, raw sense of emotion to it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0001",
+    "locuteur": "Mark",
+    "en": "Yeah, Maki's an awesome artist... C'mon,{SAUT}(*APELLIDO_HEROE*)! Let's go to the hospital!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0002",
+    "locuteur": "Yukino",
+    "en": "I've seen one of Maki's paintings. She{SAUT}won an award for her \"Gate to Paradise.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0003",
+    "locuteur": "Art club member",
+    "en": "We could really use more members...{SAUT}Maki's sick and Chisato's gone missing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0004",
+    "locuteur": "Art club member",
+    "en": "Do you know those two?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0005",
+    "locuteur": "Art club member",
+    "en": "Well, Maki's pieces are incredible.{SAUT}She's won several awards for them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0006",
+    "locuteur": "Art club member",
+    "en": "Her friend Chisato isn't very good,{SAUT}but she's had better luck with men.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0007",
+    "locuteur": "Art club member",
+    "en": "Ah, I see. Well, the art club's going{SAUT}through a rough spot right now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:015:0008",
+    "locuteur": "Art club member",
+    "en": "I dunno, maybe this club's cursed...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0000",
+    "locuteur": "Nanjo",
+    "en": "I don't have many ties with the gym,{SAUT}of course. I suppose I can let it slide.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0001",
+    "locuteur": "Mark",
+    "en": "This place would be great for practicin'{SAUT}dance moves if it had a big mirror.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0002",
+    "locuteur": "Yukino",
+    "en": "Can we hurry and get to the hospital yet?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0003",
+    "locuteur": "Male student",
+    "en": "The sound system's all good to go in the{SAUT}new gym! The concert's gonna be bitchin'!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0004",
+    "locuteur": "Male student",
+    "en": "I'm gonna skip Sports Day and hole up in{SAUT}the studio to practice!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0005",
+    "locuteur": "Rumor-loving boy",
+    "en": "I heard a second-year named Yosuke went{SAUT}missing along with his girlfriend...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0006",
+    "locuteur": "Rumor-loving boy",
+    "en": "It's SEBEC's doing, if you ask me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:016:0007",
+    "locuteur": "Rumor-loving boy",
+    "en": "Huh? Proof...? It's just male intuition!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

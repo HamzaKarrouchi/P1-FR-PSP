@@ -1,0 +1,673 @@
+[
+  {
+    "id": "E1.BIN:034:0000",
+    "locuteur": "Yukino",
+    "en": "Great, more of them...{SAUT}{PAUSE}[1E00]..{PAUSE}[1E00]..{PAUSE}[1E00]..!? Wait a sec!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0001",
+    "locuteur": "Yukino",
+    "en": "It's the principal and VP! Geez...{SAUT}Not setting a very good example.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0002",
+    "locuteur": "Nanjo",
+    "en": "Hmm. The situation is more serious than{SAUT}I had thought.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0003",
+    "locuteur": "Nanjo",
+    "en": "It's clear now that something is causing{SAUT}people in the school to fall asleep.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0004",
+    "locuteur": "Nanjo",
+    "en": "We must locate the cause.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0005",
+    "locuteur": "Brown",
+    "en": "This is deplorable!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0006",
+    "locuteur": "Brown",
+    "en": "I work my ass off as a student, and what{SAUT}do the teachers do? Lie back and doze off!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0007",
+    "locuteur": "Brown",
+    "en": "Get real!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0008",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Zzzz... {PAUSE}[1E00]Heh heh heh... {PAUSE}[1E00]Hehe... hee...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0009",
+    "locuteur": "Ayase",
+    "en": "Ewww! Baldy's sneering in his sleep...{SAUT}Gross!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0010",
+    "locuteur": "Nanjo",
+    "en": "This is repulsive... I can't bear to{SAUT}look for another moment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0011",
+    "locuteur": "Nanjo",
+    "en": "That sort of man in a teaching position...{SAUT}What is this world coming to?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0012",
+    "locuteur": "Nanjo",
+    "en": "Is the principal all right, though?{SAUT}She seems to be in distress.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0013",
+    "locuteur": "Elly",
+    "en": "Oh no, Ms. Ooishi! She must be having{SAUT}a nightmare.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0014",
+    "locuteur": "Elly",
+    "en": "Look, she's sweating so profusely...{SAUT}Did the Snow Queen cause this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0015",
+    "locuteur": "Principal Ooishi",
+    "en": "Zzzz... {PAUSE}[1E00]But... {PAUSE}[1E00]that's...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0016",
+    "locuteur": "Yukino",
+    "en": "They're just like the people in the{SAUT}other room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0017",
+    "locuteur": "Yukino",
+    "en": "None of them show any signs of waking{SAUT}up anytime soon. What should we do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0018",
+    "locuteur": "Yukino",
+    "en": "We're not just gonna leave 'em here,{SAUT}are we?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0019",
+    "locuteur": "Ayase",
+    "en": "Hey, like, now's our chance! Let's draw{SAUT}stuff on Baldy's head!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0020",
+    "locuteur": "Nanjo",
+    "en": "Oh, for crying out loud...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0021",
+    "locuteur": "Nanjo",
+    "en": "Remind me why we entered the tower...{SAUT}To escape the school, correct?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0022",
+    "locuteur": "Nanjo",
+    "en": "Then we should ignore any distractions{SAUT}from that end!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0023",
+    "locuteur": "Nanjo",
+    "en": "You people allow yourselves too many{SAUT}unnecessary diversions.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0024",
+    "locuteur": "Brown",
+    "en": "Hmm{PAUSE}[1E00]m{PAUSE}[1E00]m{PAUSE}[1E00]m... {PAUSE}[1E00]Alright! Listen to your{SAUT}leader's decision!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0025",
+    "locuteur": "Brown",
+    "en": "We're moving on! {PAUSE}[1E00]Although...{PAUSE}[1E00]{SAUT}Wait a minute.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0026",
+    "locuteur": "Brown",
+    "en": "If we save them, they'll owe us one.{SAUT}Whaddaya think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0027",
+    "locuteur": "Elly",
+    "en": "We're letting precious time go to waste{SAUT}in our indecision...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0028",
+    "locuteur": "Elly",
+    "en": "Whether we awaken the sleepers or climb{SAUT}the tower, we must make a choice.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0029",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Zzzz... {PAUSE}[1E00]Prepare... {PAUSE}[1E00]for dictation...{SAUT}{PAUSE}[1E00]Shine... {PAUSE}[1E00]shoes... {PAUSE}[1E00]hehehe...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:034:0030",
+    "locuteur": "Principal Ooishi",
+    "en": "Zzzz... Ugh... {PAUSE}[1E00]Unhhh... Mmmm... {PAUSE}[1E00]No...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0000",
+    "locuteur": "Yukino",
+    "en": "What the hell is this place?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0001",
+    "locuteur": "Nanjo",
+    "en": "Urgh... the drowsiness is practically{SAUT}palpable. Almost overpowering...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0002",
+    "locuteur": "Brown",
+    "en": "Huh? Ahhhh... I get it! The boss has{SAUT}to be around here!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0003",
+    "locuteur": "Brown",
+    "en": "Stay on your toes, guys! Oooh, I always{SAUT}wanted to say that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0004",
+    "locuteur": "Ayase",
+    "en": "Hey, uh, this door is kinda weird-looking.{SAUT}Wanna go in?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0005",
+    "locuteur": "Nanjo",
+    "en": "A blatantly suspicious door like that?{SAUT}It would be madness to go near it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0006",
+    "locuteur": "Nanjo",
+    "en": "Though idle speculation won't help,{SAUT}either... What should we do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0007",
+    "locuteur": "Elly",
+    "en": "The door does look suspicious, but I{SAUT}don't get the sense that it's dangerous.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0008",
+    "locuteur": "Elly",
+    "en": "Perhaps we should consider Ayase's{SAUT}suggestion and go through.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0009",
+    "locuteur": "Yukino",
+    "en": "Alright! No use talking and talking{SAUT}without doing anything.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0010",
+    "locuteur": "Yukino",
+    "en": "Let's see what's on the other side!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0011",
+    "locuteur": "Mysterious butterfly",
+    "en": "Hahaha, still energetic, I see.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0012",
+    "en": "{FERME} > A cloying breeze is blowing from{SAUT}beyond the door.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0013",
+    "en": "{FERME}   > Go to the Dream World?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0014",
+    "locuteur": "Yukino",
+    "en": "I feel icky, watching someone else's{SAUT}dream... Like I'm some Peeping Tom.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0015",
+    "locuteur": "Ayase",
+    "en": "I wonder if I end up in the Dream World{SAUT}when I go to sleep, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0016",
+    "locuteur": "Nanjo",
+    "en": "We have no business here. Let's press on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0017",
+    "locuteur": "Brown",
+    "en": "I'm interested in other people's dreams.{SAUT}Looks like fun, huh? Heh heh heh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0018",
+    "locuteur": "Elly",
+    "en": "The Dream World...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:040:0019",
+    "locuteur": "Elly",
+    "en": "Does that make me Elly in Slumberland,{SAUT}then? Hahah...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0000",
+    "locuteur": "Yukino",
+    "en": "Huh? We're... in the principal's office?{SAUT}What the hell...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0001",
+    "locuteur": "Principal Hanya",
+    "en": "Vice-Principal Ooishi.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0002",
+    "locuteur": "Principal Hanya",
+    "en": "You presume to tell your principal that his{SAUT}educational policies are wrong?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0003",
+    "locuteur": "Principal Hanya",
+    "en": "Is that what you're getting at, Ooishi?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0004",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "No, Mr. Hanya, I didn't mean it that way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0005",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "I just think punishing students for being{SAUT}tardy three times with either expulsion...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0006",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "...or having to shine the principal's{SAUT}shoes until graduation is a bit... harsh.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0007",
+    "locuteur": "Nanjo",
+    "en": "It seems we're witnessing a shared dream{SAUT}of the principal and vice-principal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0008",
+    "locuteur": "Nanjo",
+    "en": "But here, the roles are reversed...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0009",
+    "locuteur": "Nanjo",
+    "en": "I'd wager our principal was dragged into{SAUT}that arrogant vice-principal's dream.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0010",
+    "locuteur": "Brown",
+    "en": "What the... Hanya is the principal and{SAUT}Ooishi is the vice-principal!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0011",
+    "locuteur": "Brown",
+    "en": "What's going on here...? Ohhh, I get it!{SAUT}This is what they're dreaming.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0012",
+    "locuteur": "Ayase",
+    "en": "Whaaaaat!? Baldy's our principal here?{SAUT}That's like, SUPER wrong!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0013",
+    "locuteur": "Principal Hanya",
+    "en": "Excuse me, Ooishi!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0014",
+    "locuteur": "Principal Hanya",
+    "en": "Did I just hear you criticize the{SAUT}eminently fair rules I came up with?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0015",
+    "locuteur": "Principal Hanya",
+    "en": "Hmm... I think this calls for a new rule.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0016",
+    "locuteur": "Principal Hanya",
+    "en": "Anyone who criticizes the principal's{SAUT}decisions is fired!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0017",
+    "locuteur": "Principal Hanya",
+    "en": "Do you hear me? Fired!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0018",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "\"Came up with\"!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0019",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "Do you often \"come up\" with regulations{SAUT}without putting any thought into them!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0020",
+    "locuteur": "Nanjo",
+    "en": "This is utterly ridiculous. I can't{SAUT}bear to watch anymore.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0021",
+    "locuteur": "Nanjo",
+    "en": "Should a real educator be saying this{SAUT}sort of thing?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0022",
+    "locuteur": "Elly",
+    "en": "Vice-Principal Hanya's desire for power{SAUT}must be very strong...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0023",
+    "locuteur": "Elly",
+    "en": "Not only does his dream reflect them,{SAUT}it pulled in Ms. Ooishi...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0024",
+    "locuteur": "Principal Hanya",
+    "en": "S-Silence! What's wrong with coming up{SAUT}with school rules!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0025",
+    "locuteur": "Principal Hanya",
+    "en": "I'm the most important person in this{SAUT}school! Why, I'm essentially a god!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0026",
+    "locuteur": "Principal Hanya",
+    "en": "My word is god's word, the will of the{SAUT}universe! Don't you see!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0027",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "Mr. Hanya! What do you think the purpose{SAUT}of education is!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0028",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "To begin with...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0029",
+    "locuteur": "Yukino",
+    "en": "Let's hurry and wake 'em up. I can't{SAUT}stand listening to this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0030",
+    "locuteur": "Yukino",
+    "en": "I gotta say, this is a realistic-looking{SAUT}principal's office.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0031",
+    "locuteur": "Yukino",
+    "en": "If you hadn't told me I was in a dream,{SAUT}I wouldn'tve suspected a thing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0032",
+    "locuteur": "Ayase",
+    "en": "＊sigh＊... Let's get back to school.{SAUT}I'm soooo tired!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0033",
+    "locuteur": "Nanjo",
+    "en": "Perhaps I shouldn't say this, since we're{SAUT}encroaching on the dreams of others...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0034",
+    "locuteur": "Nanjo",
+    "en": "But I find that seeing a person's naked{SAUT}desires leaves a bad taste in my mouth.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0035",
+    "locuteur": "Brown",
+    "en": "Whoa, nice couch! Wanna take a little{SAUT}breather?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0036",
+    "locuteur": "Brown",
+    "en": "Heheh... just kidding.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0037",
+    "locuteur": "Elly",
+    "en": "I'd thought the Dream World would be{SAUT}more... romantic.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0038",
+    "locuteur": "Principal Hanya",
+    "en": "Pipe down! Don't bother me right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0039",
+    "en": "{FERME}> Pinch Principal Hanya?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0040",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "Not now, please. I must get the principal{SAUT}to reconsider.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0041",
+    "en": "{FERME}   > Pinch Vice-Principal Ooishi?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0042",
+    "locuteur": "Principal Hanya",
+    "en": "Wh-What the!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0043",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "Oh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0044",
+    "locuteur": "Principal Hanya",
+    "en": "Get outta here, or I'll make you shine{SAUT}my shoes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:048:0045",
+    "locuteur": "Vice-Principal Ooishi",
+    "en": "If you'll please excuse us...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "E2.BIN:139:0000",
+    "locuteur": "Art club member",
+    "en": "I thought the art club had it hard{SAUT}before, and now this!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:139:0001",
+    "locuteur": "Art club member",
+    "en": "Guess it wasn't just the art club,{SAUT}though... the whole school was cursed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:139:0002",
+    "locuteur": "Art club member",
+    "en": "Hahaha, what a relief!{SAUT}...Uh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:140:0000",
+    "locuteur": "Female student",
+    "en": "This place is definitely cursed! It must{SAUT}be the curse of the haunted mansion!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:140:0001",
+    "locuteur": "Female student",
+    "en": "It should've just affected SEBEC, but{SAUT}nooo... We had to get dragged in too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:140:0002",
+    "locuteur": "Female student",
+    "en": "Ugh, honestly! What a pain!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:140:0003",
+    "locuteur": "Male student",
+    "en": "I know there are demons outside, but I'm{SAUT}getting really hungry...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:140:0004",
+    "locuteur": "Male student",
+    "en": "Maybe I could duck out for a bite using{SAUT}that secret shortcut... Nah, too scary.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:141:0000",
+    "locuteur": "Rumor-loving student",
+    "en": "See!? I told you so! SEBEC really was{SAUT}waging biological warfare!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:142:0000",
+    "locuteur": "Gambling-addicted student",
+    "en": "Things have really gotten out of hand.{SAUT}It's even put me off gambling.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:142:0001",
+    "locuteur": "Gambling-addicted student",
+    "en": "I wonder when it'll all be over...{SAUT}Hey, wanna bet on when they'll fix it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:143:0000",
+    "locuteur": "Female student",
+    "en": "So that dream was a sign... But the blue{SAUT}room doesn't seem to be related to this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:144:0002",
+    "locuteur": "Drama club member",
+    "en": "Oh, that room is locked.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:145:0000",
+    "locuteur": "Female student",
+    "en": "It's a madhouse outside, but it's so{SAUT}calm here...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:145:0001",
+    "locuteur": "Female student",
+    "en": "I wonder why the demons won't come here.{SAUT}Could it be divine protection?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:145:0002",
+    "en": "{FERME}> Hiremon Stone{SAUT}This megalith was excavated when the{SAUT}school was first built in 1963.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0000",
+    "locuteur": "SEBEC employee",
+    "en": "I knew there was something funny about{SAUT}this company...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0001",
+    "locuteur": "SEBEC employee",
+    "en": "But I didn't think they'd resort to{SAUT}biological warfare!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0002",
+    "locuteur": "SEBEC employee",
+    "en": "I saw the ghost of a girl in black{SAUT}at the office once...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0003",
+    "locuteur": "SEBEC employee",
+    "en": "It must be the curse of the haunted{SAUT}mansion! Of course!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0004",
+    "locuteur": "Maki",
+    "en": "The haunted mansion... I used to go there{SAUT}a lot to play when I was little.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0005",
+    "locuteur": "Mark",
+    "en": "Biological warfare!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0006",
+    "locuteur": "Nanjo",
+    "en": "What's Kandori doing!? He's treating the{SAUT}corporation as his personal property!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0007",
+    "locuteur": "Ayase",
+    "en": "It's a cool building, but they're doing{SAUT}some seriously uncool things in it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0008",
+    "locuteur": "Brown",
+    "en": "With me around, you can deal with ghosts,{SAUT}biological warfare, you name it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0009",
+    "locuteur": "Elly",
+    "en": "There's a mansion where ghosts appear?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:154:0010",
+    "locuteur": "Reiji",
+    "en": "How much more time are we going to{SAUT}waste on this!? Let's go!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0000",
+    "locuteur": "Receptionist",
+    "en": "Hm? The general manager's room? All the{SAUT}way up... Is he expecting you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0001",
+    "locuteur": "Receptionist",
+    "en": "Eh? You came through the basement?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0002",
+    "locuteur": "Receptionist",
+    "en": "I've heard rumors of a division down there{SAUT}that's a secret even to employees...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0003",
+    "locuteur": "Receptionist",
+    "en": "But you say you went through it?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0004",
+    "en": "{FERME}   > It's broken and won't open.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0005",
+    "locuteur": "Maki",
+    "en": "Secrets not even the employees know?{SAUT}What's with this company?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0006",
+    "locuteur": "Mark",
+    "en": "C'mon, man, quit ogling the secretary{SAUT}and get on with it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0007",
+    "locuteur": "Nanjo",
+    "en": "It's said that fools and smoke like high{SAUT}places. Let's head for the top!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0008",
+    "locuteur": "Ayase",
+    "en": "SEBEC's suits sure are ugly.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0009",
+    "locuteur": "Brown",
+    "en": "If even the insiders are outsiders, maybe{SAUT}us outsiders shouldn't be inside. Heheh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0010",
+    "locuteur": "Elly",
+    "en": "This isn't the time to be hitting on{SAUT}the receptionist!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:155:0011",
+    "locuteur": "Reiji",
+    "en": "We don't have time to waste. Let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0000",
+    "locuteur": "SEBEC employee",
+    "en": "A kid in a uniform like yours passed by{SAUT}earlier...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0001",
+    "locuteur": "SEBEC employee",
+    "en": "I can't believe something like this{SAUT}happened on the day of your field trip.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0002",
+    "locuteur": "SEBEC employee",
+    "en": "It must be tough for you kids.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0003",
+    "locuteur": "Angry SEBEC employee",
+    "en": "Who the hell changed everything around!?{SAUT}Why's there a storage room here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0004",
+    "locuteur": "Angry SEBEC employee",
+    "en": "And what's with the weird toys!? If I{SAUT}ever get my hands on this clown...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0005",
+    "locuteur": "Maki",
+    "en": "Looks like these people are victims too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0006",
+    "locuteur": "Mark",
+    "en": "Let's hurry and find Kandori.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0007",
+    "locuteur": "Nanjo",
+    "en": "It seems SEBEC's rank and file know next{SAUT}to nothing.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0008",
+    "locuteur": "Ayase",
+    "en": "There's someone from our school here?{SAUT}Wonder who that is...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0009",
+    "locuteur": "Brown",
+    "en": "What's a kid from our school doing here?{SAUT}Wait, don't answer that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:156:0010",
+    "locuteur": "Elly",
+    "en": "Someone from St. Hermelin besides us?{SAUT}Whoever could that be?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:157:0000",
+    "locuteur": "Maki",
+    "en": "We've gotta get this town back to normal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0001",
+    "locuteur": "Maki",
+    "en": "I can't believe Kandori has a Persona,{SAUT}too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0002",
+    "locuteur": "Mark",
+    "en": "We just gotta do something about Kandori,{SAUT}and this town should go back to normal.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0003",
+    "locuteur": "Mark",
+    "en": "Let's hurry after Kandori!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0004",
+    "locuteur": "Nanjo",
+    "en": "There's no time to waste here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "E2.BIN:157:0006",
+    "locuteur": "Ayase",
+    "en": "Let's go beat up Kandori! C'mon, hurry!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0007",
+    "locuteur": "Ayase",
+    "en": "Does this mean, like, Kandori had the{SAUT}dream about the butterfly too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0008",
+    "locuteur": "Brown",
+    "en": "With me on the job, Kandori's got no{SAUT}future. Mwahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0009",
+    "locuteur": "Brown",
+    "en": "So I guess this means Kandori had the{SAUT}butterfly dream too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0010",
+    "locuteur": "Elly",
+    "en": "Let's hurry.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:157:0011",
+    "locuteur": "Elly",
+    "en": "Do you suppose Kandori also had that{SAUT}dream about the butterfly?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:160:0000",
+    "locuteur": "Maki",
+    "en": "This is kinda exciting!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0001",
+    "locuteur": "Nanjo",
+    "en": "It looks like we can enter the SEBEC{SAUT}building now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0002",
+    "locuteur": "Nanjo",
+    "en": "If you're frightened, (*APELLIDO_HEROE*),{SAUT}I won't blame you for backing out.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0003",
+    "locuteur": "Nanjo",
+    "en": "I'll defeat that man alone if that's{SAUT}what it takes!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0004",
+    "locuteur": "Mark",
+    "en": "I feel like Maki's different somehow...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0005",
+    "locuteur": "Elly",
+    "en": "Kandori's at SEBEC, yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0006",
+    "locuteur": "Elly",
+    "en": "We've brushed up against something{SAUT}incredible... This could be interesting!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0007",
+    "locuteur": "Brown",
+    "en": "Dude, I'm getting all restless! Just turn{SAUT}me loose already!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0008",
+    "locuteur": "Ayase",
+    "en": "Hey, so like, we're just ordinary high{SAUT}school kids, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0009",
+    "locuteur": "Ayase",
+    "en": "So even SEBEC wouldn't shoot at little{SAUT}old us, would they...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:160:0010",
+    "locuteur": "Ayase",
+    "en": "You're such a liar, (*APELLIDO_HEROE*)!{SAUT}Kandori was totally gonna kill us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:161:0005",
+    "locuteur": "Trish",
+    "en": "It'll be 2,000 yen.{SAUT}That's okay, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:163:0000",
+    "locuteur": "Maki",
+    "en": "That scientist says he knows my mom...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0001",
+    "locuteur": "Maki",
+    "en": "But I don't have a mother!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0002",
+    "locuteur": "Nanjo",
+    "en": "Those scientists... What kind of research{SAUT}is going on here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0003",
+    "locuteur": "Mark",
+    "en": "This is one suspicious place.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0004",
+    "locuteur": "Mark",
+    "en": "Huh... guess the rumors about SEBEC{SAUT}had a little truth to 'em!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0005",
+    "locuteur": "Elly",
+    "en": "Whatever they were researching, they must{SAUT}have had to keep it a secret.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0006",
+    "locuteur": "Brown",
+    "en": "What a boring place! Don't they have{SAUT}anything cool here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0007",
+    "locuteur": "Ayase",
+    "en": "Hmm... this box is totally suspicious.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0008",
+    "locuteur": "Scientist",
+    "en": "This isn't the basement...? Why is this{SAUT}room above ground!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0009",
+    "locuteur": "Scientist",
+    "en": "Excuse me, did you see a woman on your{SAUT}way here? She had short hair and glasses.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0010",
+    "locuteur": "Scientist",
+    "en": "Oh, Sonomura... please be safe!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0011",
+    "locuteur": "Scientist",
+    "en": "Kandori must have used that machine...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0012",
+    "locuteur": "Scientist",
+    "en": "I can't believe this! {ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0013",
+    "locuteur": "Scientist",
+    "en": "We couldn't have calculated it would even{SAUT}change this building's structure...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:163:0014",
+    "en": "{FERME}  > The door doesn't seem like it{SAUT}will open...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E2.BIN:164:0000",
+    "locuteur": "Maki",
+    "en": "It sounds like someone from St. Hermelin{SAUT}snuck in here before us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0001",
+    "locuteur": "Nanjo",
+    "en": "That Kandori... He's gone too far!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0002",
+    "locuteur": "Mark",
+    "en": "Don't these guys feel guilty at all{SAUT}for what they did?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0003",
+    "locuteur": "Elly",
+    "en": "Did Kandori have them build a machine{SAUT}that gives birth to demons?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0004",
+    "locuteur": "Brown",
+    "en": "I dunno if I like how complicated this{SAUT}is starting to get...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0005",
+    "locuteur": "Brown",
+    "en": "There's some stuff even I can't{SAUT}understand, y'know!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0006",
+    "locuteur": "Ayase",
+    "en": "Who's this Dr. Nicholai guy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0007",
+    "locuteur": "Scientist",
+    "en": "Was that high school boy a friend of{SAUT}yours? I'm sorry to say, he was...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0008",
+    "locuteur": "Scientist",
+    "en": "Dr. Nicholai seems to have been planning{SAUT}to stop Kandori... but what can we do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0009",
+    "locuteur": "Scientist",
+    "en": "None of us predicted that demons would{SAUT}emerge in town.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:164:0010",
+    "locuteur": "Scientist",
+    "en": "Though it presents a rather intriguing{SAUT}situation, don't you think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

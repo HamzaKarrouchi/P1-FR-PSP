@@ -1,0 +1,706 @@
+[
+  {
+    "id": "E2.BIN:017:0000",
+    "locuteur": "Nanjo",
+    "en": "Stuff and nonsense. Curses are nothing{SAUT}more than superstition.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0001",
+    "locuteur": "Mark",
+    "en": "A secret shortcut...? Oh, he must mean{SAUT}the hole in the wall.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0002",
+    "locuteur": "Yukino",
+    "en": "Looks like SEBEC's reputation is at an{SAUT}all-time low.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0003",
+    "locuteur": "Female student",
+    "en": "Like, no way am I gonna walk by the{SAUT}SEBEC building at night.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0004",
+    "locuteur": "Female student",
+    "en": "That company's been cursed ever since{SAUT}they tore down the haunted mansion!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0005",
+    "locuteur": "Male student",
+    "en": "I'm hungry... I'm gonna get a snack.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:017:0006",
+    "locuteur": "Male student",
+    "en": "It'll be easy if I use the secret{SAUT}shortcut! You should give it a try, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:018:0000",
+    "locuteur": "Nanjo",
+    "en": "I can't discount it. Kandori is a man{SAUT}who wouldn't hesitate to do such things.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:018:0001",
+    "locuteur": "Mark",
+    "en": "Why's everyone so pissed at SEBEC?{SAUT}It's just a regular company.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:018:0002",
+    "locuteur": "Yukino",
+    "en": "I didn't know you were this interested{SAUT}in rumors and gossip.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:018:0003",
+    "locuteur": "Yukino",
+    "en": "Here's a hot tip: We need to get to the{SAUT}hospital!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:018:0004",
+    "locuteur": "Rumor-loving boy",
+    "en": "This \"SEBEC curse\" is a load of crap.{SAUT}I bet they're making biological weapons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:019:0000",
+    "locuteur": "Nanjo",
+    "en": "Code Breaker... Yes, I used to play that{SAUT}with Yamaoka when I was small.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:019:0001",
+    "locuteur": "Mark",
+    "en": "That dude got yelled at the other day for{SAUT}betting on Rich Man, Poor Man in class.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:019:0002",
+    "locuteur": "Yukino",
+    "en": "Let's ditch this gambling freak and go{SAUT}to the hospital before I lose it, okay?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:019:0003",
+    "locuteur": "Gambling-addicted student",
+    "en": "Gambling is a man's hobby. And bunny-{SAUT}girls are a must for every casino!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:019:0004",
+    "locuteur": "Gambling-addicted student",
+    "en": "Slots, blackjack, Code Breaker... ＊sigh＊{SAUT}I can't wait until I'm old enough to go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0000",
+    "locuteur": "Nanjo",
+    "en": "Dreams have no meaning. They're dreams,{SAUT}nothing more.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0001",
+    "locuteur": "Mark",
+    "en": "A blue room... Y'know, I feel like I had{SAUT}a dream like that too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0002",
+    "locuteur": "Yukino",
+    "en": "Remember, there's a girl at the hospital{SAUT}who wants to talk to you, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0003",
+    "locuteur": "Female student",
+    "en": "I had a weird dream. It's really been{SAUT}bothering me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0004",
+    "locuteur": "Female student",
+    "en": "Do you want to hear about it?(*UNK_0E,0000*){FERME}(*SPEAKER*)Female student{SAUT}It takes place in a blue room.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0005",
+    "locuteur": "Female student",
+    "en": "I can hear a piano and singing, and{SAUT}there's an odd old man sitting down...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0006",
+    "locuteur": "Female student",
+    "en": "What do you think that means?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:020:0007",
+    "locuteur": "Female student",
+    "en": "It was a really strange dream... like it{SAUT}was hinting at something that'll happen.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:021:0000",
+    "locuteur": "Nanjo",
+    "en": "Snooping around is all well and good,{SAUT}but let's not forget the hospital.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:021:0001",
+    "locuteur": "Mark",
+    "en": "Looks like the principal isn't here.{SAUT}She's probably at the courtyard again...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:021:0002",
+    "locuteur": "Yukino",
+    "en": "Wow, these flowers are beautiful...{SAUT}So it's true about the principal, huh?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0000",
+    "locuteur": "Nanjo",
+    "en": "Compared to when I gave the entrance{SAUT}ceremony speech for the incoming class...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0001",
+    "locuteur": "Nanjo",
+    "en": "It's true that the facilities here are{SAUT}much nicer now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0002",
+    "locuteur": "Mark",
+    "en": "I wish this place was even bigger...{SAUT}The stage is too small for a guy like me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0003",
+    "locuteur": "Yukino",
+    "en": "Remind me what we're doing here? Weren't{SAUT}we going to get ourselves examined?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0004",
+    "locuteur": "Drama club member",
+    "en": "Much has transpired on this old stage.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0005",
+    "locuteur": "Drama club member",
+    "en": "Its long history has seen countless{SAUT}tears, blood, and sweat shed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0006",
+    "locuteur": "Drama club member",
+    "en": "Though the stage be no more, the passion{SAUT}of those who stood here shall not fade...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0007",
+    "locuteur": "Drama club member",
+    "en": "How was that? It's a tricky speech, so it{SAUT}took me a while to memorize.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:022:0008",
+    "locuteur": "Drama club member",
+    "en": "The time has come at last... The ancient{SAUT}passions cast on this stage will be free!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:022:0009",
+    "locuteur": "Drama club member",
+    "en": "Just kidding! Cool line though, huh?{SAUT}It's part of the script I wrote.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:023:0000",
+    "locuteur": "Nanjo",
+    "en": "You're all so slow... You must seize{SAUT}the moment, like myself!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0001",
+    "locuteur": "Nanjo",
+    "en": "There's a reason it's said that one's{SAUT}youth passes quickly.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0002",
+    "locuteur": "Nanjo",
+    "en": "Yes, yes, what IS it, (*APELLIDO_HEROE*)!? If{SAUT}you have nothing to say, away with you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0003",
+    "locuteur": "Mark",
+    "en": "That Nanjo pisses me off so bad...{SAUT}I'll find a chink in his armor someday.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0004",
+    "locuteur": "Mark",
+    "en": "\"Young master\"! Hah! Did you hear that?{SAUT}He's a young master!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0005",
+    "locuteur": "Mark",
+    "en": "Teeheehee... This is perfect!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0006",
+    "locuteur": "Yukino",
+    "en": "Masao and Kei are both such children.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0007",
+    "locuteur": "Yukino",
+    "en": "That Yamaoka guy must really love Nanjo.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0008",
+    "locuteur": "Male student",
+    "en": "There was a weird old guy waiting by the{SAUT}gates a little earlier. Pretty creepy...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0009",
+    "locuteur": "Female student",
+    "en": "Hey, isn't Nanjo kinda scary? He's gone{SAUT}past \"cool\" straight on to \"cold.\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0010",
+    "locuteur": "Male student",
+    "en": "Yo, (*APELLIDO_HEROE*)! I heard you collapsed!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:023:0011",
+    "locuteur": "Male student",
+    "en": "Are you studying too much, man?{SAUT}Haha, like that'd happen...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:024:0000",
+    "locuteur": "Nanjo",
+    "en": "There's nothing much of interest here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:024:0001",
+    "locuteur": "Mark",
+    "en": "This mat's really comfy.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:024:0002",
+    "locuteur": "Yukino",
+    "en": "It's so dusty and sweaty... How can{SAUT}people actually sleep here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0000",
+    "locuteur": "Stern-faced man",
+    "en": "What do you kids want?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0001",
+    "locuteur": "Stern-faced man",
+    "en": "This ain't a playground for brats like{SAUT}you. Hey, toss these kids out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0002",
+    "locuteur": "Man's voice",
+    "en": "Takeda? What's this disturbance about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0003",
+    "locuteur": "Nanjo",
+    "en": "Kandori...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0004",
+    "locuteur": "Kandori",
+    "en": "My, what a rare pleasure.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0005",
+    "locuteur": "Kandori",
+    "en": "What business does the scion of the{SAUT}Nanjo family have with us?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0006",
+    "locuteur": "Nanjo",
+    "en": "I didn't come here for you. I'm only{SAUT}tagging along with these people.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0007",
+    "locuteur": "Kandori",
+    "en": "Aha... Then these must be the young{SAUT}master's school friends.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0008",
+    "locuteur": "Kandori",
+    "en": "You accompanied them to a sordid place{SAUT}like this? Quite a friendship indeed...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0009",
+    "locuteur": "Nanjo",
+    "en": "Cease calling me \"young master.\" I never{SAUT}gave you permission to use that name.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0010",
+    "locuteur": "Takeda",
+    "en": "You little--!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0011",
+    "locuteur": "Kandori",
+    "en": "Stand down, Takeda. It seems the Nanjo{SAUT}family lacks discipline...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0012",
+    "locuteur": "Kandori",
+    "en": "Well, I'll allow it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0013",
+    "locuteur": "Kandori",
+    "en": "But Nanjo... I will teach you the proper{SAUT}form of address to your betters.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0014",
+    "locuteur": "Mark",
+    "en": "Nanjo's an insufferable dick, but you're{SAUT}a hell of a lot worse...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0015",
+    "locuteur": "Takeda",
+    "en": "Tch... It's almost time, Mr. Kandori.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0016",
+    "locuteur": "Kandori",
+    "en": "Yes, I'll be right there.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0017",
+    "locuteur": "Kandori",
+    "en": "Now then, the time has come for me to{SAUT}ask you all to leave.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0018",
+    "locuteur": "Mark",
+    "en": "Heh! Let's go, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0019",
+    "locuteur": "Man",
+    "en": "Excuse me, do you have an appointment?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0020",
+    "locuteur": "Man",
+    "en": "I'm sorry, but if you don't have one,{SAUT}I must ask you to leave.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:032:0021",
+    "en": "{FERME}  (*TEXTBOX_PARAM,0200*)> Takeda{SAUT}Kandori's right-hand man who carries{SAUT}out SEBEC's illegal operations.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0000",
+    "locuteur": "Kaneda",
+    "en": "What do YOU children want? You'd better{SAUT}not be here to steal my treasure!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0001",
+    "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Katsue Kaneda{SAUT}A resident of Mikage-cho who seems to{SAUT}be living the high life lately.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0002",
+    "locuteur": "Nanjo",
+    "en": "What nonsense!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:033:0003",
+    "locuteur": "Nanjo",
+    "en": "To my eyes, this old woman's so-called{SAUT}\"treasure\" is little more than rubbish.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0004",
+    "locuteur": "Nanjo",
+    "en": "She purports to be an antique collector...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0005",
+    "locuteur": "Nanjo",
+    "en": "But she'll buy anything that's priced{SAUT}high enough. What could be more absurd?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0006",
+    "locuteur": "Yukino",
+    "en": "That old biddy treats everyone like{SAUT}a thief. Just ignore her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0007",
+    "locuteur": "Mark",
+    "en": "Can we leave yet, (*APELLIDO_HEROE*)? I'm sick{SAUT}of taking her crap!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0008",
+    "locuteur": "Kaneda",
+    "en": "Hmph! Children like you can't grasp my{SAUT}treasure's true worth!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0009",
+    "locuteur": "Kaneda",
+    "en": "Now get out of my sight!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:033:0010",
+    "locuteur": "Kaneda",
+    "en": "What are the police doing!? I pay more{SAUT}taxes than anyone else!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:033:0011",
+    "locuteur": "Kaneda",
+    "en": "Shouldn't they come protect me first at{SAUT}times like these?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:033:0012",
+    "locuteur": "Kaneda",
+    "en": "If anything happens to my treasure,{SAUT}I'll sue!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:033:0013",
+    "locuteur": "Elly",
+    "en": "But everyone pays taxes. There's no{SAUT}call to boast about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:033:0014",
+    "locuteur": "Kaneda",
+    "en": "Don't act like such a know-it-all, missy!{SAUT}Ugh, hurry up and get off my property!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E2.BIN:034:0000",
+    "locuteur": "Nanjo",
+    "en": "Masao seems to be acquainted with these{SAUT}officers...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0001",
+    "locuteur": "Nanjo",
+    "en": "Though he doesn't appear to be{SAUT}particularly happy to see them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0002",
+    "locuteur": "Mark",
+    "en": "Yeah, well... sorta...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0003",
+    "locuteur": "Mark",
+    "en": "Geez, (*APELLIDO_HEROE*)! What'd you gotta bring{SAUT}me to the police station for!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0004",
+    "locuteur": "Yukino",
+    "en": "Hah, that look on Mark's face...{SAUT}priceless. But uh... the hospital...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0005",
+    "locuteur": "Lieutenant",
+    "en": "Well, if it isn't Masao. You've been{SAUT}attending school, I hope?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0006",
+    "locuteur": "Lieutenant",
+    "en": "Not causing trouble for your teachers,{SAUT}are you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0007",
+    "locuteur": "Lieutenant",
+    "en": "I'm the one who set him straight...{SAUT}I feel somewhat responsible for him now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0008",
+    "locuteur": "Female officer",
+    "en": "That's a little harsh, Lieutenant.{SAUT}You're no trouble anymore, right Masao?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:034:0009",
+    "locuteur": "Female officer",
+    "en": "You must be Masao's friend. He's a nice{SAUT}boy, don't you think? I like him.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

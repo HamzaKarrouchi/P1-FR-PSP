@@ -1,0 +1,365 @@
+[
+  {
+    "id": "E0.BIN:069:0000",
+    "locuteur": "Aki",
+    "en": "Hey! Grrr... I'm gonna tell my Daddy{SAUT}on you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0001",
+    "locuteur": "Aki",
+    "en": "Daddy's REAL strong! You guys won't{SAUT}stand a chance!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0002",
+    "locuteur": "Maki",
+    "en": "Hold it right there!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0003",
+    "locuteur": "Maki",
+    "en": "Aww...! She got away again.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0004",
+    "locuteur": "Nanjo",
+    "en": "...Who is that girl...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0005",
+    "locuteur": "Yosuke",
+    "en": "Is everyone okay!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0006",
+    "locuteur": "Maki",
+    "en": "Yosuke! Is everything all right!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0007",
+    "locuteur": "Yosuke",
+    "en": "Yeah! The school's back to normal,{SAUT}thanks to you guys.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0008",
+    "locuteur": "Elly",
+    "en": "It was my pleasure.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0009",
+    "locuteur": "Brown",
+    "en": "Mwahahah! No need to thank me!{SAUT}Just doin' what's right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0010",
+    "locuteur": "Ayase",
+    "en": "You could never have enough lives for{SAUT}all the trouble you get into...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0011",
+    "locuteur": "Ayase",
+    "en": "Though it's not like it'll do any{SAUT}good to tell you.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0012",
+    "locuteur": "Yosuke",
+    "en": "I really can't thank you guys enough.{SAUT}By the way... I want you to meet someone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0013",
+    "locuteur": "Yosuke",
+    "en": "Would you mind coming with me?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0014",
+    "locuteur": "Nanjo",
+    "en": "Why?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0015",
+    "locuteur": "Yosuke",
+    "en": "There's a guy who's helped me out since{SAUT}I came here. He actually believed me...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0016",
+    "locuteur": "Yosuke",
+    "en": "He's investigating the two worlds...{SAUT}Maybe he's figured something out by now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0017",
+    "locuteur": "Mark",
+    "en": "Wow, I'm kinda surprised someone took{SAUT}you seriously. Who is this guy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0018",
+    "locuteur": "Yosuke",
+    "en": "Uh... you'll see. Alright, I'll be{SAUT}waiting at the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0019",
+    "locuteur": "Elly",
+    "en": "What's with him, I wonder? In any case,{SAUT}let's head to the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0020",
+    "locuteur": "Brown",
+    "en": "H-Hey! Ugh, he's already gone.{SAUT}Is he really hurt...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0021",
+    "locuteur": "Ayase",
+    "en": "We're going somewhere else AGAIN!?{SAUT}Don't we get, like, a break...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0022",
+    "locuteur": "Mark",
+    "en": "So you wanna stay here alone, Ayase?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0023",
+    "locuteur": "Ayase",
+    "en": "All right! Sheesh! Stupid Masao...{SAUT}Monkeyboy! Ook ook, eek eek!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0024",
+    "locuteur": "Mark",
+    "en": "Hey! Did you just call me monkeyboy!?{SAUT}AND Masao!? Quit using that lame name!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0025",
+    "locuteur": "Maki",
+    "en": "That's enough, you two! C'mon,{SAUT}(*APELLIDO_HEROE*), let's get to the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0026",
+    "locuteur": "Mark",
+    "en": "Don't worry about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0027",
+    "locuteur": "Mark",
+    "en": "Uhhh... wow. He just went off hopping{SAUT}on one leg...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0028",
+    "locuteur": "Mark",
+    "en": "Wanna go after him then, Reiji?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0030",
+    "locuteur": "Mark",
+    "en": "Man! You really don't know how to play{SAUT}along. You gotta take it easy, y'know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0031",
+    "locuteur": "Reiji",
+    "en": "...Leave me alone...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0032",
+    "locuteur": "Mark",
+    "en": "Whatever you say, man. Alright, let's{SAUT}get going, (*APELLIDO_HEROE*).{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0033",
+    "locuteur": "Maki",
+    "en": "I wonder if he's the one Yosuke means...{SAUT}If so, he'll definitely be at the library.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0034",
+    "locuteur": "Nanjo",
+    "en": "That girl referred to Kandori as her{SAUT}father, but is she really his child?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0035",
+    "locuteur": "Nanjo",
+    "en": "This is the first I've heard of him{SAUT}having a daughter.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0036",
+    "locuteur": "Mark",
+    "en": "Ugh, that brat pisses me off! She's not{SAUT}getting away with it next time!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0037",
+    "locuteur": "Mark",
+    "en": "Man, Ayase has a filthy mouth...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0038",
+    "locuteur": "Mark",
+    "en": "But I guess some guys like her like{SAUT}that. What is this world coming to...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0039",
+    "locuteur": "Mark",
+    "en": "That Reiji jerk sure acts strange{SAUT}around people.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0040",
+    "locuteur": "Mark",
+    "en": "Hey, let's you and me do something{SAUT}about it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0041",
+    "locuteur": "Elly",
+    "en": "Yosuke has lost someone dear to him,{SAUT}too... It must be hard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0042",
+    "locuteur": "Brown",
+    "en": "Kids can be cruel, y'know. They don't{SAUT}know when a game's not funny anymore.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0043",
+    "locuteur": "Brown",
+    "en": "What was she gonna do if we ended{SAUT}up dead?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0044",
+    "locuteur": "Brown",
+    "en": "Oh, wait, she was always planning to kill{SAUT}us. Hahaha! Man, that's disturbing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0045",
+    "locuteur": "Ayase",
+    "en": "I wanna hurry and get back already.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0046",
+    "locuteur": "Ayase",
+    "en": "I SHOULD be chilling at the club{SAUT}right now.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0047",
+    "locuteur": "Reiji",
+    "en": "...I told you to leave me alone.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E0.BIN:069:0048",
+    "locuteur": "Maki",
+    "en": "That reminds me... Where did everyone{SAUT}from this world go?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0049",
+    "locuteur": "Maki",
+    "en": "You were here, Masao was... Everyone{SAUT}was here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0050",
+    "locuteur": "Mark",
+    "en": "It looks just the same as our stone.{SAUT}Hard to believe it's another world...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0051",
+    "locuteur": "Elly",
+    "en": "...Oh, sorry. I was just thinking about{SAUT}something.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E0.BIN:069:0052",
+    "en": "{FERME}  > Hiremon Stone{SAUT}This megalith was excavated when the{SAUT}school was first built in 1963.{ATTENTE}",
+    "fr": ""
+  }
+]

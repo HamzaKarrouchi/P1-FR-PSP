@@ -1,0 +1,677 @@
+[
+  {
+    "id": "E2.BIN:171:0000",
+    "locuteur": "Maki",
+    "en": "Reiji's... {PAUSE}[2000]kinda scary...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0002",
+    "locuteur": "Nanjo",
+    "en": "Love is all in the mind. You think you're{SAUT}in love, so you're in love.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0003",
+    "locuteur": "Mark",
+    "en": "I bet somewhere out there, there's a girl{SAUT}watching me from afar too...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0004",
+    "locuteur": "Mark",
+    "en": "So she was a fan of Reiji... Uh...{PAUSE}[1500]{SAUT}Not that I'm jealous or nothin'!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0005",
+    "locuteur": "Elly",
+    "en": "...{PAUSE}[2000]Is love at first sight even possible?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0006",
+    "locuteur": "Elly",
+    "en": "...{PAUSE}[2000]I don't understand at all. There's no{SAUT}reason to be so desperate.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0007",
+    "locuteur": "Brown",
+    "en": "Hey, c'mon! Why isn't she MY fan?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0008",
+    "locuteur": "Brown",
+    "en": "Tch... I'm just as good as him!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0009",
+    "locuteur": "Ayase",
+    "en": "All the guys at this school are such{SAUT}children. None of them interest me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0010",
+    "locuteur": "Ayase",
+    "en": "Sure, he's kinda mature... But Reiji's{SAUT}different, y'know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0011",
+    "locuteur": "Reiji",
+    "en": "What the hell? That girl's glaring at{SAUT}me...{PAUSE}[2000] Did I do something?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0012",
+    "locuteur": "Smitten girl",
+    "en": "Oh, hey. Um... {PAUSE}[2000]I saw this really cool{SAUT}guy a second ago.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0013",
+    "locuteur": "Smitten girl",
+    "en": "I've never seen him before. A transfer{SAUT}student, maybe? Oh man, who is he...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0014",
+    "locuteur": "Smitten girl",
+    "en": "...{PAUSE}[1500]Oh! Do you know that guy?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:171:0015",
+    "locuteur": "Smitten girl",
+    "en": "C'mon, introduce us! Pleeeease!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0000",
+    "locuteur": "Principal Ooishi",
+    "en": "Oh! Did something happen, (*APELLIDO_HEROE*)...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0001",
+    "locuteur": "Principal Ooishi",
+    "en": "Don't tell me that girl in black showed{SAUT}up again!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0002",
+    "locuteur": "Nanjo",
+    "en": "No, that's not it. But who's this girl{SAUT}in black you mentioned...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0003",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "You haven't heard about her, Kei? A girl{SAUT}in black clothes has been appearing...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0004",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "It only started happening recently.{SAUT}They say she controls demons.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0005",
+    "locuteur": "Elly",
+    "en": "There are demons here as well...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0006",
+    "locuteur": "Brown",
+    "en": "The demons are here, too?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0007",
+    "locuteur": "Ayase",
+    "en": "There's demons here too...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0008",
+    "locuteur": "Mark",
+    "en": "Whoa... there are demons over here,{SAUT}too...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0009",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "But don't worry! Principal Ooishi and I{SAUT}will protect you children!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0010",
+    "locuteur": "Mark",
+    "en": "Wh... What the hell!? Why's Hamya bein'{SAUT}so nice to us!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0011",
+    "locuteur": "Mark",
+    "en": "U-Um, we gotta get goin'!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0012",
+    "locuteur": "Principal Ooishi",
+    "en": "(*APELLIDO_HEROE*)! I'm glad you're all safe...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0013",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Thank goodness... But what was that?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0014",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "From what I can tell, the school's layout{SAUT}has been shaken up...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0015",
+    "locuteur": "Maki",
+    "en": "Don't worry! We'll protect you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0016",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "Did you hear that, Ms. Ooishi!?{SAUT}So considerate of her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0017",
+    "locuteur": "Vice-Principal Hanya",
+    "en": "It can only be the result of the stellar{SAUT}education you provide!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0018",
+    "locuteur": "Principal Ooishi",
+    "en": "Oh, no, no, Hanya. It's due to your{SAUT}guidance!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0019",
+    "locuteur": "Nanjo",
+    "en": "...I can't take this much longer.{SAUT}Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0020",
+    "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Principal Ooishi{SAUT}The principal of St. Hermelin High.{SAUT}She adores children and flowers.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:172:0021",
+    "en": "{FERME}   (*TEXTBOX_PARAM,0200*)> Vice-Principal Hanya{SAUT}Was extremely strict and hated by all{SAUT}the students before, but now...(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0000",
+    "locuteur": "Maki",
+    "en": "The town's probably pretty different{SAUT}from your town, too!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0001",
+    "locuteur": "Nanjo",
+    "en": "The school troubles have been settled{SAUT}for now, but...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0002",
+    "locuteur": "Mark",
+    "en": "This is so weird. I know their faces,{SAUT}but they're not quite the same...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0003",
+    "locuteur": "Elly",
+    "en": "We won't accomplish anything if we stay{SAUT}here. Let's go outside!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0004",
+    "locuteur": "Brown",
+    "en": "This school can't contain my full glory!{SAUT}Mwahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0005",
+    "locuteur": "Ayase",
+    "en": "Why was she trying to trap us here?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0006",
+    "locuteur": "Reiji",
+    "en": "I got no business at a school. I just{SAUT}wanna hurry and kill that bastard.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0007",
+    "locuteur": "Mark",
+    "en": "Yo, Yukino! Long time no see!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0008",
+    "locuteur": "Yukino",
+    "en": "Well, not THAT long.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0009",
+    "locuteur": "Nanjo",
+    "en": "No, I suppose not.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0010",
+    "locuteur": "Nanjo",
+    "en": "We played that Persona game, visited the{SAUT}hospital, and then the incident happened.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0011",
+    "locuteur": "Yukino",
+    "en": "......?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0012",
+    "locuteur": "Nanjo",
+    "en": "Weren't you there? I thought I recalled{SAUT}you seeing everything alongside us.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0013",
+    "locuteur": "Yukino",
+    "en": "\"Persona game\"? Visiting who at the{SAUT}hospital? What're you talking about?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0014",
+    "locuteur": "Nanjo",
+    "en": "You don't remember? Or... are you not{SAUT}the Yukino we're familiar with?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0015",
+    "locuteur": "Nanjo",
+    "en": "...In any case, we should leave soon.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0016",
+    "locuteur": "Mark",
+    "en": "Hey (*APELLIDO_HEROE*), didn't Yosuke tell us{SAUT}to come to the library?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:173:0017",
+    "locuteur": "Mark",
+    "en": "We should hear him out before we go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0000",
+    "locuteur": "Maki",
+    "en": "Looks like we're the only ones with{SAUT}these powers.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0001",
+    "locuteur": "Nanjo",
+    "en": "I doubt Kandori will stay this quiet.{SAUT}Heaven knows what he'll do next...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0002",
+    "locuteur": "Nanjo",
+    "en": "That girl seems very powerful...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0003",
+    "locuteur": "Nanjo",
+    "en": "If someone else is abusing that power,{SAUT}we may be in serious trouble.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0004",
+    "locuteur": "Mark",
+    "en": "Huh. There's no hole here.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0005",
+    "locuteur": "Mark",
+    "en": "No doubt about it, that's no ordinary{SAUT}little girl.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0006",
+    "locuteur": "Elly",
+    "en": "Let the demons come! It'll be fine!{SAUT}We'll just have to get involved.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0007",
+    "locuteur": "Elly",
+    "en": "Though one may look innocent and angelic,{SAUT}one may be very different inside.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0008",
+    "locuteur": "Brown",
+    "en": "Everywhere we go, it's demons this and{SAUT}demons that.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0009",
+    "locuteur": "Brown",
+    "en": "Can't they talk about something fun?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0010",
+    "locuteur": "Brown",
+    "en": "She keeps pulling those pranks, and I'm{SAUT}gonna give her a spanking!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0011",
+    "locuteur": "Ayase",
+    "en": "Something's weird about this school.{SAUT}It, like... smells fake.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0012",
+    "locuteur": "Ayase",
+    "en": "So this isn't our school? No wonder it{SAUT}felt all phony!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0013",
+    "locuteur": "Reiji",
+    "en": "What a carefree bunch... Kicking back{SAUT}without knowing what's going on.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0014",
+    "locuteur": "Student",
+    "en": "Why does that girl keep attacking the{SAUT}school? Does she have some kinda grudge?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0015",
+    "locuteur": "Male student",
+    "en": "I don't think anything that happens now{SAUT}could surprise me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0016",
+    "locuteur": "Male student",
+    "en": "You could tell me you have supernatural{SAUT}powers and I wouldn't bat an eye.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0017",
+    "locuteur": "Male student",
+    "en": "Huh...? You do!? Oh, c'mon! That can't{SAUT}possibly be true, right?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0018",
+    "locuteur": "Male student",
+    "en": "Doesn't that girl in black look like{SAUT}someone we know?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0019",
+    "locuteur": "Male student",
+    "en": "Now I remember... I met a girl like{SAUT}that in white before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:174:0020",
+    "locuteur": "Male student",
+    "en": "White clothes... You don't think{SAUT}there's a connection here, do you?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0000",
+    "locuteur": "Maki",
+    "en": "The gym at your school is new, right?{SAUT}Does it have club rooms?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0001",
+    "locuteur": "Nanjo",
+    "en": "This gym should be condemned. I wouldn't{SAUT}be surprised if it collapsed any moment.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0002",
+    "locuteur": "Mark",
+    "en": "The curtain's full of holes... makes it{SAUT}easy to sneak a peek. Kidding...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0003",
+    "locuteur": "Mark",
+    "en": "I'm no peepin' Tom!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0004",
+    "locuteur": "Elly",
+    "en": "The more I see of this town, the less{SAUT}I understand.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0005",
+    "locuteur": "Elly",
+    "en": "It really does seem to be the world{SAUT}of the past...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0006",
+    "locuteur": "Brown",
+    "en": "Tch, what a dump. They should just bring{SAUT}the whole thing down!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0007",
+    "locuteur": "Ayase",
+    "en": "I don't think I've ever been here before.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0008",
+    "locuteur": "Reiji",
+    "en": "I can't keep up with your wandering{SAUT}around the school.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0009",
+    "locuteur": "Ballet club member",
+    "en": "Hey! You better not be here to peep{SAUT}on us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0010",
+    "locuteur": "Mark",
+    "en": "H-Hell no! I wouldn't do that...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0011",
+    "locuteur": "Ballet club member",
+    "en": "Can't we get our own room!? Then we{SAUT}wouldn't have to deal with this crap!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0012",
+    "locuteur": "Mark",
+    "en": "I told you already, I didn't come here{SAUT}to peep on you fools!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0013",
+    "locuteur": "Elly",
+    "en": "It's no use, Mark... Let's be on our way.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0014",
+    "locuteur": "Brown",
+    "en": "Face it, Mark, it's useless. C'mon, man!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0015",
+    "locuteur": "Ayase",
+    "en": "What do you expect, Masao? You do bad{SAUT}stuff all the time! C'mon, let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:175:0016",
+    "locuteur": "Nanjo",
+    "en": "You're getting rather worked up over{SAUT}something so trivial, Masao. Let's go.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:176:0000",
+    "locuteur": "Scared girl",
+    "en": "I-It's that girl! The one who kidnapped{SAUT}Chisato! She had demons with her...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:176:0001",
+    "locuteur": "Scared girl",
+    "en": "Is waiting here to get attacked by{SAUT}demons the only choice we have!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:176:0002",
+    "locuteur": "Maki",
+    "en": "Everything will be fine! Don't worry...{SAUT}Leave it to us!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E2.BIN:176:0003",
+    "locuteur": "Maki",
+    "en": "Let's hurry and go, (*APELLIDO_HEROE*)!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]

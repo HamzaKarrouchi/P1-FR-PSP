@@ -1,0 +1,705 @@
+[
+  {
+    "id": "E1.BIN:081:0000",
+    "locuteur": "Mr. Devilish",
+    "en": "Hey! Who said you were allowed to spill{SAUT}the milk!? That milk is good for you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0001",
+    "locuteur": "Mr. Devilish",
+    "en": "And you get to drink all you want...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0002",
+    "locuteur": "Mr. Devilish",
+    "en": "You should be happy, you gluttonous{SAUT}little porker!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0003",
+    "locuteur": "Mr. Devilish",
+    "en": "Now go on! Drink, drink, and drink{SAUT}some more!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0004",
+    "locuteur": "Mr. Devilish",
+    "en": "Hahahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0005",
+    "locuteur": "Mr. Devilish",
+    "en": "And you, four-eyes! What're you sticking{SAUT}your ass in the air like that for?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0006",
+    "locuteur": "Mr. Devilish",
+    "en": "It only counts as a push-up if your{SAUT}whole body is close to the ground!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0007",
+    "locuteur": "Mr. Devilish",
+    "en": "If you keep doing it wrong, I'll have to{SAUT}give you more reps again! Hahahahaha!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0008",
+    "locuteur": "Toro",
+    "en": "＊gulp＊ ＊glug＊ ＊gulp＊ ＊ulp＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0009",
+    "locuteur": "Toro",
+    "en": "Ugh... Uuuuuuurgh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0010",
+    "locuteur": "Toro",
+    "en": "Bluuuuugh! ＊cough＊ ＊gag＊ ＊puke＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0011",
+    "locuteur": "Toro",
+    "en": "S-Stop...! H-Help me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0012",
+    "locuteur": "Toro",
+    "en": "P-Please, n-no more milk...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0013",
+    "locuteur": "Toro",
+    "en": "I'm lactose-intolerant!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0014",
+    "locuteur": "Tsutomu",
+    "en": "＊gasp＊ ＊gasp＊ Aaaarrrrrgh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0015",
+    "locuteur": "Tsutomu",
+    "en": "Ugh...! I... I can't do this...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0016",
+    "locuteur": "Tsutomu",
+    "en": "I... I'm a thinking man... My brain is{SAUT}my strongest... muscle...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0017",
+    "locuteur": "Tsutomu",
+    "en": "My arms... simply aren't made... to do...{SAUT}push-ups...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0018",
+    "locuteur": "Yukino",
+    "en": "Toro!? And Tsutomu! What're you guys{SAUT}doing here!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0019",
+    "locuteur": "Yukino",
+    "en": "I thought you were both back at school!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0020",
+    "locuteur": "Toro",
+    "en": "Please... stop! I beg you!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0021",
+    "locuteur": "Toro",
+    "en": "B-Bluuuuurrrgh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0022",
+    "locuteur": "Toro",
+    "en": "I... I'm gonna die... Ugh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0023",
+    "locuteur": "Mr. Devilish",
+    "en": "Hey! Don't pass out, porky!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0024",
+    "locuteur": "Mr. Devilish",
+    "en": "You have to keep drinking!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0025",
+    "locuteur": "Mr. Devilish",
+    "en": "Think of yourself as a machine...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0026",
+    "locuteur": "Mr. Devilish",
+    "en": "An automaton made to consume milk!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0027",
+    "locuteur": "Tsutomu",
+    "en": "I... ＊pant＊ can't move... anymore...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0028",
+    "locuteur": "Tsutomu",
+    "en": "Ha... Hahaha... Ahahahaha... haha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0029",
+    "locuteur": "Mr. Devilish",
+    "en": "Keep it up, dork! Don't lose it yet!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0030",
+    "locuteur": "Mr. Devilish",
+    "en": "It's Lady Michiko who'll deal with you{SAUT}two in the end!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0031",
+    "locuteur": "Mr. Devilish",
+    "en": "If you break now, she'll definitely{SAUT}punish me for it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0032",
+    "locuteur": "Nanjo",
+    "en": "It seems it's as I suspected...{SAUT}Michiko is behind all this.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0033",
+    "locuteur": "Nanjo",
+    "en": "Though I must say, her methods of torture{SAUT}are very well-planned... very effective.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0034",
+    "locuteur": "Nanjo",
+    "en": "She's exploiting their weaknesses in{SAUT}the most efficient manner.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0035",
+    "locuteur": "Nanjo",
+    "en": "As near as I can tell, though, there's{SAUT}no purpose to it.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0036",
+    "locuteur": "Nanjo",
+    "en": "Torture simply for the sake of it...{SAUT}frightening indeed.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0037",
+    "locuteur": "Elly",
+    "en": "Oh, no! They can't hold out much longer!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0038",
+    "locuteur": "Elly",
+    "en": "We must do something about it now, before{SAUT}it becomes too late!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0039",
+    "locuteur": "Tsutomu",
+    "en": "Hahaha! Wow! A fairy!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0040",
+    "locuteur": "Tsutomu",
+    "en": "Haha... hahaha... I really saw it, Mom!{SAUT}Hahahaha...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0041",
+    "locuteur": "Toro",
+    "en": "＊puke＊ ＊cough＊ ＊hack＊...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0042",
+    "locuteur": "Toro",
+    "en": "Huh...? Y-Yuka! You guys!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0043",
+    "locuteur": "Toro",
+    "en": "P-P-P-Please save me!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0044",
+    "locuteur": "Ayase",
+    "en": "Uhhhh... Save these two goons...?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0045",
+    "locuteur": "Ayase",
+    "en": "I wanna say, \"No way!\"{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0046",
+    "locuteur": "Ayase",
+    "en": "But like, why's Michiko doing this?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0047",
+    "locuteur": "Ayase",
+    "en": "Is there some point I'm not getting?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0048",
+    "locuteur": "Michiko",
+    "en": "Ohohohoho! It's because they're hideous!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0049",
+    "locuteur": "Michiko",
+    "en": "And ugliness is unforgivable!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0050",
+    "locuteur": "Michiko",
+    "en": "Therefore I, the acme of attractiveness,{SAUT}am punishing these sinners!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0051",
+    "locuteur": "Michiko",
+    "en": "Do you understand, whelps?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0052",
+    "locuteur": "Michiko",
+    "en": "Ohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "E1.BIN:081:0053",
+    "locuteur": "Nanjo",
+    "en": "...Shouldn't you speak for yourself? In{SAUT}any event, ugly as you may see them...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0054",
+    "locuteur": "Nanjo",
+    "en": "They are my fellow students, and I cannot{SAUT}forsake them.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0055",
+    "locuteur": "Nanjo",
+    "en": "Now hand me the key to their chains.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0056",
+    "locuteur": "Brown",
+    "en": "Who the HELL do you think you are!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0057",
+    "locuteur": "Brown",
+    "en": "You stuck-up bitch! How dare you do this{SAUT}to Toro and Devil-Boy!?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0058",
+    "locuteur": "Brown",
+    "en": "Oh, there was a line there, and you just{SAUT}crossed it!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0059",
+    "locuteur": "Brown",
+    "en": "Cut this out and get those chains off{SAUT}them right now!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0060",
+    "locuteur": "Michiko",
+    "en": "Oh, you care deeply for your friends, mm?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0061",
+    "locuteur": "Michiko",
+    "en": "What a beautiful friendship, yes?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0062",
+    "locuteur": "Michiko",
+    "en": "Ohohohoho! How splendid!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0063",
+    "locuteur": "Michiko",
+    "en": "Hah! \"Friendship\"!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0064",
+    "locuteur": "Michiko",
+    "en": "Then in honor of your admirable{SAUT}friendship...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0065",
+    "locuteur": "Michiko",
+    "en": "I'll tell you where the key is so you can{SAUT}free these ugly fellows from their chains!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0066",
+    "locuteur": "Michiko",
+    "en": "It can be found on the topmost floor{SAUT}of this tower...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0067",
+    "locuteur": "Michiko",
+    "en": "That's right--it's in my care! Ohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0068",
+    "locuteur": "Michiko",
+    "en": "If you wish to save your precious friends,{SAUT}come to me without delay!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0069",
+    "locuteur": "Michiko",
+    "en": "Ohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "E1.BIN:081:0070",
+    "locuteur": "Michiko",
+    "en": "Exit the door on your left and follow the{SAUT}path to reach my room in no time...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0071",
+    "locuteur": "Michiko",
+    "en": "Ohohohoho! However...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0072",
+    "locuteur": "Michiko",
+    "en": "Those Mirror Shards you so eagerly seek...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0073",
+    "locuteur": "Michiko",
+    "en": "You may find one through the door{SAUT}behind me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0074",
+    "locuteur": "Michiko",
+    "en": "The Mirror Shard is kept within a large{SAUT}chest there...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0075",
+    "locuteur": "Michiko",
+    "en": "Along with a hint to defeat me.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0076",
+    "locuteur": "Michiko",
+    "en": "Ohohohohohoho! Remember, there's no time{SAUT}restriction in this tower!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0077",
+    "locuteur": "Michiko",
+    "en": "Spend as much time as you like searching!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0078",
+    "locuteur": "Michiko",
+    "en": "You only have to ask that your friends{SAUT}endure the torture a while longer.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0079",
+    "locuteur": "Michiko",
+    "en": "Ohohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "E1.BIN:081:0080",
+    "locuteur": "Michiko",
+    "en": "The choice is yours! I'll see you soon!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0081",
+    "locuteur": "Michiko",
+    "en": "Ohohoho! Ohohohohohohoho!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0082",
+    "locuteur": "Toro",
+    "en": "Help me, please! Get that key quick!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0083",
+    "locuteur": "Toro",
+    "en": "Blurrrrgh... T-The key... please...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0084",
+    "locuteur": "Tsutomu",
+    "en": "Ugh... Uuuuuugh...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0085",
+    "locuteur": "Tsutomu",
+    "en": "Where... oh where... is the key...{SAUT}to unchain my heart...? ＊gasp＊ ＊pant＊{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0086",
+    "locuteur": "Mr. Devilish",
+    "en": "What are you doing!? Stop slacking!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0087",
+    "locuteur": "Mr. Devilish",
+    "en": "Hahahahaha! Gulp that milk!{SAUT}Work those muscles!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0088",
+    "locuteur": "Yukino",
+    "en": "We gotta help them, but we need that{SAUT}Mirror Shard, too.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0089",
+    "locuteur": "Yukino",
+    "en": "What should we do?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0090",
+    "locuteur": "Yukino",
+    "en": "Michiko... We'll get you for this...!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0091",
+    "locuteur": "Ayase",
+    "en": "It's a good lesson for those two, though,{SAUT}don'tcha think?{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0092",
+    "locuteur": "Ayase",
+    "en": "I mean, they're kinda lame...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0093",
+    "locuteur": "Nanjo",
+    "en": "It's immaterial to me whether we aim for{SAUT}the Mirror Shard or save these two...{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0094",
+    "locuteur": "Nanjo",
+    "en": "My primary concern is beating some{SAUT}manners into that Michiko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0095",
+    "locuteur": "Brown",
+    "en": "They get on my nerves sometimes, but{SAUT}they're not that bad.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0096",
+    "locuteur": "Brown",
+    "en": "I wanna help 'em out!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0097",
+    "locuteur": "Elly",
+    "en": "Gah, I can't stand that Michiko!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0098",
+    "locuteur": "Mr. Devilish",
+    "en": "I'm only doing what Lady Michiko ordered.{SAUT}If you have a problem, take it up with her.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "E1.BIN:081:0099",
+    "locuteur": "Toro",
+    "en": "No... more... urrrk! Blurrrrrgh!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  }
+]
