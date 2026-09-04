@@ -3,10 +3,11 @@
 
 # Validateur des fichiers de traduction JSON.
 #
-#   ruby game/tools/check_trad.rb game/scripts/intro/E0_000.json [...]
+#   depuis le dépôt public  : ruby outils/check_trad.rb trad/dialogues/E0_004.json
+#   depuis le dépôt privé   : ruby game/tools/check_trad.rb game/scripts/dialogues/E0_004.json
 #
 # Ne modifie rien, ne touche à aucun fichier de jeu : il lit du JSON et
-# signale. Trois contrôles, du plus grave au moins grave :
+# signale. Six contrôles, du plus grave au moins grave :
 #
 #   1. STRUCTURE — les codes de contrôle du français doivent être identiques
 #      à ceux de l'anglais, en nombre et en ordre. Un code perdu, et le moteur
@@ -17,27 +18,32 @@
 #      la table, mais leur case est vide ou ne contient qu'une marque isolée
 #      dans `pack/sys.bin`. Encodable ≠ affichable — c'est précisément le genre
 #      de fausse assurance qui a laissé passer la troncature pendant des mois.
-#   3. BUDGET    — une entrée EBOOT plus longue que `max` peut rester en
-#      anglais SANS aucune erreur au build. Observé : la zone BE redirige vers
-#      un code cave et passe, la zone LE ne le fait pas et garde l'anglais.
-#      Avertissement, donc, pas une interdiction — mais à vérifier en jeu.
+#   3. CANARI    — la colonne anglaise doit être identique à l'extraction.
+#      Un contributeur qui écrase une lettre de l'anglais en tapant sa
+#      traduction fabrique une divergence que plus rien ne rattrape : le
+#      moteur cherche la ligne d'origine et ne la retrouve pas.
 #   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte, jugée PAR
 #      RAPPORT à la ligne anglaise correspondante. Le script original compte
 #      42 lignes au-delà de 43 caractères : refuser dans l'absolu reviendrait à
 #      signaler un traducteur pour une largeur qu'il n'a pas créée. Erreur donc
 #      seulement si le français est à la fois plus large que l'anglais ET
 #      au-delà de 43 ; avertissement entre 40 et 43.
-
-#   6. TERMINO   — AVERTISSEMENT seulement. Un terme validé au dictionnaire
-#      qui apparaît dans l'anglais devrait se retrouver dans le français. Ce
-#      n'est pas une faute : le français fléchit, et reformuler est souvent
-#      le bon choix. Mais sur 8 572 textes et des dizaines de traducteurs,
-#      c'est le seul défaut qu'aucun relecteur humain ne verra.
 #
-#   5. CANARI    — la colonne anglaise doit être identique à l'extraction.
-#      Un contributeur qui écrase une lettre de l'anglais en tapant sa
-#      traduction fabrique une divergence que plus rien ne rattrape : le
-#      moteur cherche la ligne d'origine et ne la retrouve pas.
+# Puis deux AVERTISSEMENTS, qui ne font jamais échouer :
+#
+#   5. OCTETS    — ce que la traduction ajoute au fichier de données, multiplié
+#      par ses occurrences. Un bloc qui franchit sa frontière de 2 048 octets
+#      renvoie tout le fichier en anglais, sans erreur.
+#   6. TERMINO   — un terme validé au dictionnaire qui apparaît dans l'anglais
+#      devrait se retrouver dans le français. Ce n'est pas une faute : le
+#      français fléchit, et reformuler est souvent le bon choix. Mais sur
+#      8 572 textes et des dizaines de traducteurs, c'est le seul défaut
+#      qu'aucun relecteur humain ne verra.
+#
+# Le contrôle 2 porte aussi sur `max`, quand l'entrée en a un : une chaîne de
+# l'EBOOT plus longue que son budget peut rester en anglais sans erreur au
+# build. Les dialogues n'ont pas de `max`, ce contrôle ne s'y déclenche donc
+# jamais — il sert aux fichiers EBOOT, qui vivent côté privé.
 #
 # Aucune dépendance au moteur p1es : la table de caractères est lue directement
 # depuis le .tbl. C'est ce qui permet de publier ce fichier tel quel dans le
@@ -235,10 +241,9 @@ module CheckTrad
         end
       end
 
-      %w[locuteur fr].each do |champ|
-        next unless champ == 'locuteur'
-        next if e['locuteur_fr'].to_s.empty?
-
+      # Le nom du personnage passe par la même table que le dialogue : un
+      # caractère impossible s'y voit aussi peu, et s'affiche aussi blanc.
+      unless e['locuteur_fr'].to_s.empty?
         hors = caracteres_hors_table(e['locuteur_fr'], tabla)
         soucis << "#{id} [ENCODAGE] locuteur : #{hors.join(' ')} absent(s) de la table" if hors.any?
 
@@ -359,7 +364,10 @@ module CheckTrad
     en_json = argv.delete('--json')
 
     if argv.empty?
-      puts 'usage: ruby game/tools/check_trad.rb [--annoter] [--json] <fichier.json> [...]'
+      # Le chemin réellement invoqué, et non un chemin en dur : le même fichier
+      # vit sous `outils/` dans le dépôt public et sous `game/tools/` dans le
+      # privé, et afficher l'autre envoie le contributeur dans le mur.
+      puts "usage: ruby #{$PROGRAM_NAME} [--annoter] [--json] <fichier.json> [...]"
       return 2
     end
 

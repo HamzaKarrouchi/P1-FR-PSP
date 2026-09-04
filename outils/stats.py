@@ -114,7 +114,7 @@ def compte(entree):
     return (len(entree["soucis"]), len(entree["avertissements"]))
 
 
-def rapport_markdown(sante, depot, sous_dossier="trad/dialogues", plafond=250):
+def rapport_markdown(sante, depot, sous_dossier, plafond=250):
     """Corps de l'issue « Lignes a corriger ».
 
     Le compte seul ne suffit pas : quelqu'un qui veut aider doit pouvoir
@@ -186,7 +186,7 @@ def nettoyer(texte):
     return "".join(c for c in str(texte) if c.isalnum() or c in "-_[]#@() ")[:48]
 
 
-def rendre(sections, reservations, sante):
+def rendre(sections, reservations, sante, sous_dossier):
     lignes = [
         "# Avancement de la traduction",
         "",
@@ -225,7 +225,7 @@ def rendre(sections, reservations, sante):
         ]
         for f in a_corriger:
             n = len(sante[f]["soucis"])
-            lignes.append(f"- [`{f}`](trad/dialogues/{f}) — {n} erreur{'s' if n > 1 else ''}")
+            lignes.append(f"- [`{f}`]({sous_dossier}/{f}) — {n} erreur{'s' if n > 1 else ''}")
         lignes += [
             "",
             "**Le détail ligne par ligne est dans "
@@ -246,7 +246,7 @@ def rendre(sections, reservations, sante):
         ]
         for f in a_relire:
             n = len(sante[f]["avertissements"])
-            lignes.append(f"- [`{f}`](trad/dialogues/{f}) — {n} terme{'s' if n > 1 else ''}")
+            lignes.append(f"- [`{f}`]({sous_dossier}/{f}) — {n} terme{'s' if n > 1 else ''}")
         lignes.append("")
 
     for nom, _, par_fichier, _total, _traduits in sections:
@@ -264,7 +264,7 @@ def rendre(sections, reservations, sante):
         for fichier, n, f in par_fichier:
             pct = round(100 * f / n) if n else 0
             lignes.append(
-                f"| [`{fichier}`](trad/dialogues/{fichier}) | {n} | {f} | {pct} % | "
+                f"| [`{fichier}`]({sous_dossier}/{fichier}) | {n} | {f} | {pct} % | "
                 f"{etat(n, f, reservations.get(fichier), sante.get(fichier))} |"
             )
         lignes.append("")
@@ -300,10 +300,13 @@ def main(argv=None):
         print("aucun fichier de traduction trouve", file=sys.stderr)
         return 1
 
-    sante = {} if args.sans_valider else valider(racine / SECTIONS[0][1], racine)
+    # La section validee et celle dont on ecrit les liens sont la meme : on la
+    # nomme une fois, au lieu de supposer partout que ce sont les dialogues.
+    principale = SECTIONS[0][1]
+    sante = {} if args.sans_valider else valider(racine / principale, racine)
 
     sortie = args.sortie or racine / "SUIVI.md"
-    sortie.write_text(rendre(sections, reservations, sante), encoding="utf-8")
+    sortie.write_text(rendre(sections, reservations, sante, principale), encoding="utf-8")
 
     # Le badge du README : format « endpoint » de shields.io.
     principal = sections[0]
@@ -329,7 +332,7 @@ def main(argv=None):
     # fichier à versionner. Vide quand tout est sain — l'action ferme alors
     # l'issue au lieu de la réécrire.
     if args.rapport:
-        corps = rapport_markdown(sante, args.depot) if casses else ""
+        corps = rapport_markdown(sante, args.depot, principale) if casses else ""
         args.rapport.write_text(corps, encoding="utf-8")
 
     print(f"  -> {sortie}")
