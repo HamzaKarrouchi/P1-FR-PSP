@@ -46,6 +46,13 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Le suivi lance le validateur pour distinguer un fichier terminé d'un
+      # fichier terminé mais cassé. Sans Ruby il s'en passe, et les états
+      # deviennent muets sur la santé des traductions.
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
       - name: Relever les propositions ouvertes
         env:
           GH_TOKEN: ${{ github.token }}

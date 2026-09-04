@@ -312,9 +312,13 @@ module CheckTrad
 
   def main(argv)
     annotations = argv.delete('--annoter')
+    # `--json` sert au suivi, qui a besoin de savoir quels fichiers sont sains.
+    # Une sortie machine plutôt qu'un texte à relire : reformuler un message ne
+    # doit pas casser le tableau d'avancement.
+    en_json = argv.delete('--json')
 
     if argv.empty?
-      puts 'usage: ruby game/tools/check_trad.rb [--annoter] <fichier.json> [...]'
+      puts 'usage: ruby game/tools/check_trad.rb [--annoter] [--json] <fichier.json> [...]'
       return 2
     end
 
@@ -334,10 +338,19 @@ module CheckTrad
 
     total_soucis = 0
     total_avertis = 0
+    rapport = []
 
     argv.each do |chemin|
       canari = charger_canari(chemin)
       total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes)
+
+      if en_json
+        rapport << { 'fichier' => File.basename(chemin), 'textes' => total,
+                     'traduites' => traduites, 'soucis' => soucis,
+                     'avertissements' => avertis }
+        total_soucis += soucis.length
+        next
+      end
 
       etat = if soucis.any?
                "❌ #{soucis.length}"
@@ -357,6 +370,11 @@ module CheckTrad
       lignes = lignes_des_ids(chemin)
       soucis.each { |s| annoter(chemin, lignes[s.split(' ', 2).first] || 1, s) }
       avertis.each { |a| annoter(chemin, lignes[a.split(' ', 2).first] || 1, a, 'warning') }
+    end
+
+    if en_json
+      puts JSON.generate(rapport)
+      return total_soucis.zero? ? 0 : 1
     end
 
     # Les avertissements de terminologie ne font PAS échouer : ils demandent un

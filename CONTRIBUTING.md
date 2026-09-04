@@ -7,7 +7,10 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 
 ## En deux minutes
 
-1. Ouvre [SUIVI.md](SUIVI.md) et prends un fichier marqué **libre**.
+1. Ouvre [SUIVI.md](SUIVI.md) et prends un fichier marqué **libre**. S'il y a
+   une section **« À corriger »** en haut, commence plutôt par là : réparer une
+   erreur vaut mieux que traduire un fichier de plus, parce qu'une erreur
+   laissée en place fait rester la ligne **en anglais** dans le jeu.
 2. Clique dessus dans [`trad/dialogues/`](trad/dialogues/), puis sur le crayon
    ✏️ pour l'éditer directement dans ton navigateur.
 3. Remplis le champ `fr` de chaque réplique. Laisse tout le reste tel quel.
