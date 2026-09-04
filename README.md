@@ -76,6 +76,9 @@ toutes ses occurrences est automatique.
 - [ ] **les dialogues** — c'est là qu'on a besoin de monde
 - [ ] réparer l'extracteur des négociations, puis les ouvrir
 - [ ] cartographier les menus, objets et sorts dans l'exécutable
+- [ ] retrouver les noms de lieux — le bandeau `1F Empty Classroom` de la
+      capture ci-dessus n'apparaît dans aucune extraction : ce texte vit
+      ailleurs, et on ne sait pas encore où
 - [ ] première version publique du correctif
 
 Pas de date : c'est un projet de loisir. L'avancement réel est dans
