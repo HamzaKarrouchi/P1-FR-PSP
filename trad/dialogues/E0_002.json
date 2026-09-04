@@ -4,19 +4,19 @@
     "locuteur": "Nanjo",
     "en": "What a shabby collection... The library{SAUT}at home is much better stocked.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Une collection minable... La bibliotheque de la maison est bien mieux fournie que celle-ci"
   },
   {
     "id": "E0.BIN:004:0001",
     "locuteur": "Mark",
     "en": "What're we doin' at the library? Let's{SAUT}hurry and see--I mean, get checked out!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "On fait quoi a la bibliotheque?{SAUT}Depechons-nous de voir--enfin, de nous faire examiner!{ATTENTE}"
   },
   {
     "id": "E0.BIN:004:0002",
     "locuteur": "Yukino",
-    "en": "Those two over there are making fun of{SAUT}Devil-Boy...{ATTENTE}",
+    "en": "Those  two over there are making fun of{SAUT}Devil-Boy...{ATTENTE}",
     "locuteur_fr": "",
     "fr": ""
   },
