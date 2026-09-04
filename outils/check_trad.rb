@@ -52,6 +52,7 @@ AQUI = File.dirname(File.expand_path(__FILE__)) unless defined?(AQUI)
 module CheckTrad
   LARGEUR_MAX = 40   # visé ; le script anglais monte à 43 en chasse étroite
   LARGEUR_DURE = 43  # au-delà, débordement certain
+  SEUIL_OCTETS = 48  # au-delà, une entrée pèse assez pour faire déborder un bloc
 
   # Repère un code de contrôle sous ses trois formes : nom lisible {SAUT},
   # balise du moteur (*TAG*) ou code brut [1234].
@@ -292,6 +293,29 @@ module CheckTrad
         else
           avertis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais — a surveiller"
         end
+      end
+
+      # BUDGET D'OCTETS. Le jeu ne cherche pas ses fichiers de données par leur
+      # nom : il lit à une adresse fixe. Un `.BIN` qui grossit est réécrit
+      # ailleurs, et le jeu continue de lire l'ancien — tout redevient anglais,
+      # sans une erreur. Chaque caractère coûte 2 octets, et un texte répété
+      # coûte autant de fois qu'il apparaît. Le nom du locuteur compte aussi :
+      # il est encodé avec la réplique.
+      #
+      # On ne mesure pas ici la marge réelle du bloc, qu'on ignore. On signale
+      # ce qui s'allonge et combien ça coûte, pour que la dérive se voie tôt
+      # plutôt qu'au build.
+      # Le seuil existe pour que l'avertissement reste lisible : quelques
+      # octets sont absorbés par la marge du bloc, et signaler chaque +8
+      # noierait les cas qui comptent vraiment — un texte d'aide recopié neuf
+      # fois a fait déborder trois fichiers d'un coup.
+      n = e.fetch('_occurrences', 1)
+      gonfle = (e['fr'].gsub(JETON, '').length - e['en'].gsub(JETON, '').length) +
+               (e['locuteur_fr'].to_s.empty? ? 0 : e['locuteur_fr'].length - e['locuteur'].to_s.length)
+      cout = gonfle * 2 * n
+      if cout > SEUIL_OCTETS
+        avertis << "#{id} [OCTETS] +#{cout} octets (#{gonfle} car. x#{n} occurrences) — " \
+                   'un bloc qui deborde renvoie tout le fichier en anglais'
       end
 
       termes_manquants(e['en'], e['fr'], termes).each do |en, fr|

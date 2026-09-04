@@ -3,297 +3,297 @@
     "id": "E0.BIN:011:0000",
     "locuteur": "Old man in butler's outfit",
     "en": "Young master!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme en livrée",
+    "fr": "Jeune maître!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0001",
     "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Yamaoka, the Nanjo family's butler.{SAUT}He's taken care of Nanjo since the{SAUT}heir was an infant.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Yamaoka, majordome des Nanjo.{SAUT}Il s'occupe de Nanjo depuis que{SAUT}l'héritier est tout petit.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0002",
     "locuteur": "Nanjo",
     "en": "Y... Yamaoka...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Y... Yamaoka...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0003",
     "locuteur": "Yamaoka",
     "en": "Oh, my! Master Kei is leaving the{SAUT}premises with a crowd of friends!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Ça alors! Monsieur Kei quitte les lieux{SAUT}avec toute une bande d'amis!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0004",
     "locuteur": "Yamaoka",
     "en": "I'm... I'm so happy to see this...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Je suis... si heureux de voir ça...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0005",
     "locuteur": "Mark",
     "en": "Master... Kei?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Monsieur... Kei?{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0006",
     "locuteur": "Nanjo",
     "en": "Y-Yamaoka!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Y-Yamaoka!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0007",
     "locuteur": "Nanjo",
     "en": "I've told you time and again never to{SAUT}call me that! You dummy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je vous ai répété cent fois de ne pas{SAUT}m'appeler ainsi! Imbécile!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0008",
     "locuteur": "Mark",
     "en": "Did you just call him \"dummy\"?{SAUT}Hahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu viens de le traiter d'\"imbécile\"?{SAUT}Hahaha!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0009",
     "locuteur": "Nanjo",
     "en": "N-No, I, ah... Oh, be silent, Masao!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "N-Non, je, euh... Silence, Masao!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0010",
     "locuteur": "Nanjo",
     "en": "Look, Yamaoka, I don't need a ride{SAUT}today! Just... go back without me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Écoutez, Yamaoka, je n'ai pas besoin{SAUT}de voiture! Rentrez sans moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0011",
     "locuteur": "Yamaoka",
     "en": "Oh, my! Will you be going out on the{SAUT}town with your chums, young master?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Ça alors! Vous sortez en ville avec{SAUT}vos camarades, jeune maître?{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0012",
     "locuteur": "Nanjo",
     "en": "I'm only going to the hospital!{SAUT}And stop calling me that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je vais seulement a l'hôpital!{SAUT}Et cessez de m'appeler ainsi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0013",
     "locuteur": "Yamaoka",
     "en": "The hospital!? Heavens! I do hope you{SAUT}haven't hurt yourself, young master!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "L'hôpital!? Ciel! J'espère que vous ne{SAUT}vous êtes pas blessé, jeune maître!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0014",
     "locuteur": "Yukino",
     "en": "Snrk... Ahahahahah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Pfff... Ahahahaha!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0015",
     "locuteur": "Nanjo",
     "en": "Enough! Let's be on our way, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Assez! Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0016",
     "locuteur": "Nanjo",
     "en": "Yamaoka... do NOT follow us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka... ne nous suivez PAS!{ATTENTE}"
   },
   {
     "id": "E0.BIN:011:0017",
     "locuteur": "Nanjo",
     "en": "...Yamaoka isn't around, is he...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Yamaoka n'est pas dans le coin...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:012:0000",
     "locuteur": "Reiji",
     "en": "So you're not lettin' me through?{SAUT}Fine... then be ready to die.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiji",
+    "fr": "Vous me laissez pas passer?{SAUT}Très bien... préparez-vous à mourir.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0001",
     "locuteur": "Black-suited man",
     "en": "Don't make me tell ya twice.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "Me fais pas répéter.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0002",
     "locuteur": "Black-suited man",
     "en": "Past here is SEBEC territory. You don't{SAUT}listen, maybe you get shot to death.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "Au-delà, c'est le territoire SEBEC. Tu{SAUT}écoutes pas, tu prends une balle.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0003",
     "locuteur": "Mark",
     "en": "That dumbass! He's gonna get himself{SAUT}killed!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Ce crétin! Il va finir par se{SAUT}faire tuer!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0004",
     "locuteur": "Mark",
     "en": "Hahaha, sorry to butt in. This guy's{SAUT}not all there upstairs, y'know?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Hahaha, désolé de m'incruster. Il a{SAUT}pas tout qui tourne rond, ce gars.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0005",
     "locuteur": "Mark",
     "en": "C'mon, blockhead, time to go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Allez, tête de mule, on y va.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0006",
     "locuteur": "Reiji",
     "en": "Tch... You guys again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiji",
+    "fr": "Tss... Encore vous.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0007",
     "locuteur": "Nanjo",
     "en": "So even you'll lend a hand to others...{SAUT}Interesting. I wouldn't have thought it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Ainsi vous aidez votre prochain...{SAUT}Curieux. Je ne l'aurais pas cru.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0008",
     "locuteur": "Mark",
     "en": "Idiot! Even guys like him have moms...{SAUT}She'd be sad if he got gunned down.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Idiot! Même un type comme lui a une{SAUT}mère... Elle serait triste, non?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0009",
     "locuteur": "Black-suited man",
     "en": "No trespassing, kiddos.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "Interdit aux gamins.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0010",
     "locuteur": "Black-suited man",
     "en": "This ain't no place for kids. Go find{SAUT}yourselves a nice playground.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "C'est pas un endroit pour les gosses.{SAUT}Allez jouer ailleurs.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0011",
     "locuteur": "Mark",
     "en": "Sheesh... What is that dude up to?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Pfff... Il fabrique quoi, ce type?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0012",
     "locuteur": "Nanjo",
     "en": "SEBEC... What's Kandori's game?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "SEBEC... À quoi joue Kandori?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0013",
     "locuteur": "Yukino",
     "en": "I don't like this... This isn't how{SAUT}an ordinary corporation acts.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Ça ne me plaît pas... Ce n'est pas{SAUT}une entreprise ordinaire.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0014",
     "locuteur": "Elly",
     "en": "What could this mean? I heard SEBEC{SAUT}was a Fortuna 500 company...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Qu'est-ce que ça signifie? On dit que{SAUT}SEBEC est au Fortuna 500...{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0015",
     "locuteur": "Elly",
     "en": "But this may as well be a Mafia{SAUT}front operation.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Mais on dirait plutôt une couverture{SAUT}pour la Mafia.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0016",
     "locuteur": "Elly",
     "en": "Mm? Isn't he that transfer student?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Hm? Ce n'est pas le nouveau, là?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0017",
     "locuteur": "Mark",
     "en": "Huh? Oh, hey, yeah, it's Reiji.{SAUT}What's he doin' here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hein? Ah, ouais, c'est Reiji.{SAUT}Qu'est-ce qu'il fout là?{ATTENTE}"
   },
   {
     "id": "E0.BIN:012:0018",
     "en": "{FERME}   (*TEXTBOX_PARAM,0200*)> Reiji Kido (Nickname: Reiji){SAUT}A quiet loner who transferred to{SAUT}St. Hermelin High six months ago.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "",
+    "fr": "{FERME}   (*TEXTBOX_PARAM,0200*)> Reiji Kido (Surnom: Reiji){SAUT}Un solitaire taciturne, arrive au{SAUT}lycée St. Hermelin il y a six mois.(*TEXTBOX_PARAM,0000*){ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:012:0019",
     "locuteur": "Black-suited man",
     "en": "Who're youse?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "Qui c'est?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0020",
     "locuteur": "Black-suited man",
     "en": "Past here is SEBEC territory.{SAUT}No entry.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Homme en noir",
+    "fr": "Territoire SEBEC au-delà.{SAUT}Interdit.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:012:0021",
     "locuteur": "Mark",
     "en": "Hey, doesn't Maki's mom work for SEBEC?{SAUT}What in the world's going on...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Hé, la mère de Maki bosse pas chez{SAUT}SEBEC? Il se passe quoi, là...?{ATTENTE}",
     "_occurrences": 4
   }
 ]

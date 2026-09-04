@@ -132,7 +132,32 @@ Conséquence importante : une réplique qui revient 570 fois est forcément
 générique. Traduis-la de façon à ce qu'elle marche **dans tous les contextes**,
 pas seulement dans celui que tu imagines.
 
-## 6. Le canari
+## 6. Le budget d'octets — le piège invisible
+
+Le jeu ne cherche pas ses fichiers de données par leur nom : il lit à une
+**adresse fixe** sur le disque. Un fichier qui grossit est réécrit ailleurs, et
+le jeu continue de lire l'ancien. Résultat : **tout le fichier redevient
+anglais, sans le moindre message d'erreur.**
+
+Chaque caractère coûte **2 octets**, et le contenu est découpé en blocs alignés
+sur 2 048 octets. Un bloc qui franchit sa frontière coûte un secteur entier.
+
+Trois choses multiplient l'addition :
+
+- **Les répétitions.** Un texte marqué `_occurrences: 9` se paie neuf fois.
+  C'est arrivé : l'aide d'un mini-jeu, plus longue de 26 caractères, a fait
+  déborder **trois fichiers de données d'un coup**.
+- **Le nom du personnage.** `locuteur_fr` est encodé avec *chaque* réplique.
+  Rallonger un nom de cinq lettres pour quelqu'un qui parle mille fois coûte
+  10 000 octets.
+- **Les accents ne coûtent rien de plus** — un `é` pèse autant qu'un `e`.
+
+**La règle simple :** pour un texte répété, reste **sous la longueur de
+l'anglais**. Le validateur t'avertit quand une entrée dépasse 48 octets de
+surplus, mais il ne connaît pas la marge réelle du bloc — la prudence reste
+la meilleure méthode.
+
+## 7. Le canari
 
 Un fichier `_canari.json` contient l'empreinte de chaque texte anglais. Si tu
 modifies `en` ou `locuteur` — même d'une lettre, même par accident en tapant
@@ -141,7 +166,7 @@ dans le mauvais champ — le validateur le voit et te le dit.
 C'est une protection, pas une méfiance : sans elle, une lettre écrasée rendrait
 la réplique introuvable au moment d'assembler le jeu, des semaines plus tard.
 
-## 7. La terminologie
+## 8. La terminologie
 
 Le validateur lit le [dictionnaire](Dictionnaire.md) et signale, **en
 avertissement**, un terme validé (✅) présent dans l'anglais dont la traduction
@@ -155,7 +180,7 @@ ne répète pas son nom si l'anglais disait « Nanjo looks at her ». Il vaut mi
 une question de trop qu'un jeu où la Chambre de Velours change de nom trois
 fois.
 
-## 8. Vérifier chez soi (facultatif)
+## 9. Vérifier chez soi (facultatif)
 
 Le robot le fait pour toi à chaque proposition. Mais si tu veux la réponse tout
 de suite, il te faut [Ruby](https://www.ruby-lang.org/fr/downloads/) :

@@ -2,109 +2,109 @@
   {
     "id": "E0.BIN:013:0267",
     "en": "{PAGE}The Chosen display at the top shows{SAUT}the numbers in use.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}L'affichage du haut indique les{SAUT}chiffres déjà utilisés.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0268",
     "en": "{SAUT}All numbers, 1 through 9, must be used{SAUT}in the code.{ATTENTE}",
-    "fr": ""
+    "fr": "{SAUT}Les chiffres 1 à 9 servent tous{SAUT}dans le code.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0269",
     "en": "{SAUT}Use the Chosen display to see which{SAUT}numbers are missing from your guess.{ATTENTE}",
-    "fr": ""
+    "fr": "{SAUT}Servez-vous-en pour repérer ceux qui{SAUT}manquent à votre proposition.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0270",
     "en": "{PAGE}This game accepts (*TEXTBOX_PARAM,0700*)Metal Cards(*TEXTBOX_PARAM,0000*) instead{SAUT}of coins.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}Ici on paie en (*TEXTBOX_PARAM,0700*)Cartes Métal(*TEXTBOX_PARAM,0000*),{SAUT}pas en pièces.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0273",
     "en": "{PAGE}<During play>{SAUT}Decreases the selected number.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}<En partie>{SAUT}Diminue le chiffre choisi.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0276",
     "en": "{PAGE}<During play>{SAUT}Marks the selected number by changing{SAUT}its color.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}<En partie>{SAUT}Marque le chiffre choisi en{SAUT}changeant sa couleur.{ATTENTE}",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0277",
     "en": "{SAUT}Use this to mark numbers you know are{SAUT}correct.{ATTENTE}",
-    "fr": "",
+    "fr": "{SAUT}Marque les chiffres dont vous êtes{SAUT}certain.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:013:0280",
     "en": "{PAGE}<During play>{SAUT}Increases the selected number.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}<En partie>{SAUT}Augmente le chiffre choisi.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0286",
     "en": "{PAGE}<Before starting>{SAUT}Inserts 1 Metal Card to start the game.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}<Avant de jouer>{SAUT}Insère 1 Carte Métal pour jouer.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0289",
     "en": "{PAGE}<Before starting>{SAUT}Quit the game.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}<Avant de jouer>{SAUT}Quitter.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0293",
     "en": "{PAGE}<During play>{SAUT}Moves the cursor.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}<En partie>{SAUT}Déplace le curseur.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0294",
     "en": "{FERME}  H indicates how many exact matches{SAUT}are in a row／column.{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME}  H = nombre de chiffres exacts{SAUT}dans une ligne／colonne.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0295",
     "en": "{PAGE}B shows how many numbers belong in{SAUT}that row／column, but not in their{SAUT}present position.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}B = chiffres de la bonne ligne{SAUT}ou colonne, mais pas à la bonne{SAUT}place.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0296",
     "en": "{PAGE}The key to the game is to determine{SAUT}where a hit (H) is on both the row{SAUT}and the column.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}Tout l'enjeu est de trouver où un{SAUT}H apparaît à la fois sur la ligne{SAUT}et sur la colonne.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0297",
     "en": "{PAGE}It's best to mark places where both{SAUT}the row and the column are hits.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}Mieux vaut marquer les cases où la{SAUT}ligne et la colonne sont des H.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0298",
     "en": "{PAGE}The Results of your previous guesses{SAUT}can also be useful hints.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}Les résultats de vos essais passés{SAUT}sont aussi de bons indices.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:014:0017",
     "locuteur": "Mark",
     "en": "Huh? Oh, hey, yeah, it's Reiji.{SAUT}What's he doing here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Hein? Ah, ouais, c'est Reiji.{SAUT}Qu'est-ce qu'il fout là?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:015:0017",
     "locuteur": "Mark",
     "en": "(*SPEAKER*)Mark{SAUT}Huh? Oh, hey, yeah, it's Reiji.{SAUT}What's he doing here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "(*SPEAKER*)Mark{SAUT}Hein? Ah, ouais, c'est Reiji.{SAUT}Qu'est-ce qu'il fout là?{ATTENTE}"
   }
 ]

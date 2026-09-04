@@ -3,7 +3,7 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ░░░░░░░░░░░░░░░░░░░░░░░░    1 %       70 / 8 572 textes
+Dialogues      ░░░░░░░░░░░░░░░░░░░░░░░░    2 %      162 / 8 572 textes
 EBOOT          pas encore ouvert — environ 5 771 textes
 Négociations   pas encore ouvert — environ 17 408 textes
 ```
@@ -14,12 +14,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 65 | 66 % | commencé |
+| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
 | [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | libre |
-| [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 0 | 0 % | libre |
+| [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
 | [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 0 | 0 % | libre |
 | [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 0 | 0 % | libre |
-| [`E0_006.json`](trad/dialogues/E0_006.json) | 18 | 0 | 0 % | libre |
+| [`E0_006.json`](trad/dialogues/E0_006.json) | 18 | 18 | 100 % | terminé |
 | [`E0_007.json`](trad/dialogues/E0_007.json) | 97 | 0 | 0 % | libre |
 | [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 0 | 0 % | libre |
 | [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 0 | 0 % | libre |

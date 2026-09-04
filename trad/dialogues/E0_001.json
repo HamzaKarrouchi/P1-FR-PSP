@@ -450,234 +450,234 @@
     "id": "E0.BIN:003:0000",
     "locuteur": "Teacher in nurse's uniform",
     "en": "Oh, (*APELLIDO_HEROE*), you've come around.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme en blouse blanche",
+    "fr": "Oh, (*APELLIDO_HEROE*), vous voila réveillé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0001",
     "locuteur": "Teacher in nurse's uniform",
     "en": "Ahaha, welcome to the infirmary.{SAUT}You sure look cute when you're asleep.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme en blouse blanche",
+    "fr": "Ahaha, bienvenue à l'infirmerie.{SAUT}Vous êtes mignon quand vous dormez.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0002",
     "en": "{FERME}   (*TEXTBOX_PARAM,0300*)> Natsumi Yoshino{SAUT}St. Hermelin High's nurse. She doesn't{SAUT}seem to be a very good cook.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   (*TEXTBOX_PARAM,0300*)> Natsumi Yoshino{SAUT}Infirmière du lycée St. Hermelin. Elle{SAUT}ne semble pas très douée en cuisine.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0003",
     "locuteur": "Worried teacher",
     "en": "(*APELLIDO_HEROE*)! Are you all right!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof inquiète",
+    "fr": "(*APELLIDO_HEROE*)! Vous allez bien?!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0004",
     "locuteur": "Worried teacher",
     "en": "Thank goodness you're awake, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof inquiète",
+    "fr": "Dieu merci, vous etes réveillé, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0005",
     "locuteur": "Worried teacher",
     "en": "I was so scared when I heard you'd{SAUT}collapsed!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof inquiète",
+    "fr": "J'ai eu si peur en apprenant que vous{SAUT}vous étiez effondré!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0006",
     "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Saeko Takami{SAUT}Homeroom teacher for (*APELLIDO_HEROE*) and the{SAUT}others. Very popular with the students.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  (*TEXTBOX_PARAM,0300*)> Saeko Takami{SAUT}Professeure principale de (*APELLIDO_HEROE*) et{SAUT}des autres. Très aimée des élèves.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0007",
     "locuteur": "Ms. Saeko",
     "en": "I'm sorry you had to deal with my{SAUT}students, Natsumi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Désolée que mes élèves t'aient donné{SAUT}du fil à retordre, Natsumi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0008",
     "locuteur": "Mark",
     "en": "C'mon, taking care of students is her{SAUT}whole job! What's so bad about us...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ben quoi, s'occuper des élèves c'est{SAUT}son boulot! On est si terribles?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0009",
     "locuteur": "Ms. Saeko",
     "en": "Now, now, Masao! I want you to think{SAUT}about what you've done!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Allons, Masao! J'aimerais que vous{SAUT}réfléchissiez à ce que vous avez fait!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0010",
     "locuteur": "Ms. Saeko",
     "en": "Anyway, Eriko and Ayase told me what{SAUT}happened. No helping out for you today!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Bref, Eriko et Ayase m'ont raconté.{SAUT}Pas d'aide pour vous aujourd'hui!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0011",
     "locuteur": "Ms. Saeko",
     "en": "Instead, go get yourselves checked out{SAUT}at (*TEXTBOX_PARAM,0700*)Mikage Hospital(*TEXTBOX_PARAM,0000*) and head home!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Allez plutôt vous faire examiner à{SAUT}l'(*TEXTBOX_PARAM,0700*)hôpital de Mikage(*TEXTBOX_PARAM,0000*), puis rentrez!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0012",
     "locuteur": "Yukino",
     "en": "So you think something's wrong with{SAUT}us, too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Vous pensez qu'on a un problème,{SAUT}nous aussi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0013",
     "locuteur": "Ms. Saeko",
     "en": "Oh, not like that. I can tell by looking{SAUT}at you that you're perfectly sane.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oh, pas dans ce sens. Rien qu'à vous{SAUT}voir, vous êtes parfaitement sains.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0014",
     "locuteur": "Ms. Saeko",
     "en": "But I'm worried you might have gotten{SAUT}hurt while collapsing, so go see the doc.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Mais vous vous êtes peut-être blessés{SAUT}en tombant. Allez voir un médecin.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0015",
     "locuteur": "Yukino",
     "en": "So there is something that can faze you,{SAUT}Ms. Saeko... Alright, we'll go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Alors il y a des choses qui vous{SAUT}inquiètent, Mme Saeko... Bon, on y va.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0016",
     "locuteur": "Nurse Natsumi",
     "en": "Speaking of Mikage Hospital, wasn't a{SAUT}student in your class staying there?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "À propos de l'hôpital de Mikage, une{SAUT}de tes élèves n'y est pas hospitalisée?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0017",
     "locuteur": "Mark",
     "en": "You mean Maki, right...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Vous voulez dire Maki, non...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0018",
     "locuteur": "Ms. Saeko",
     "en": "Yes, that's right.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oui, c'est ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0019",
     "locuteur": "Ms. Saeko",
     "en": "You should visit her while you're{SAUT}there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Passez la voir pendant que vous y{SAUT}êtes.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0020",
     "locuteur": "Ms. Saeko",
     "en": "She's been laid up there for over a{SAUT}year now... I'm sure she's lonesome.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Elle y est alitée depuis plus d'un an{SAUT}maintenant... Elle doit se sentir seule.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0021",
     "locuteur": "Ms. Saeko",
     "en": "What were you doing, anyway? I asked{SAUT}you to prepare for the sports festival.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Au fait, que faisiez-vous? Je vous{SAUT}avais chargés de la fête du sport.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0022",
     "locuteur": "Ms. Saeko",
     "en": "We only have a month left and nothing's{SAUT}ready yet.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Il ne reste qu'un mois et rien n'est{SAUT}prêt.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0023",
     "locuteur": "Ms. Saeko",
     "en": "Should we just cancel it this year...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Faut-il tout annuler cette année...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0024",
     "locuteur": "Nanjo",
     "en": "It seems we have no choice in the{SAUT}matter. Best to get it over with.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il semble que nous n'ayons pas le{SAUT}choix. Autant en finir au plus vite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0025",
     "locuteur": "Mark",
     "en": "Mikage Hospital, huh? That's kind of{SAUT}a long walk from school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "L'hôpital de Mikage, hein? Ça fait{SAUT}une bonne trotte depuis le lycée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0026",
     "locuteur": "Mark",
     "en": "It's way to the northeast. You leave{SAUT}the school, head north...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "C'est loin au nord-est. Tu sors du{SAUT}lycée, tu montes vers le nord...{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0027",
     "locuteur": "Mark",
     "en": "And go all the way to the 3rd ward,{SAUT}then take a right at the Mikage Ruins.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu vas jusqu'au 3e quartier, puis à{SAUT}droite aux ruines de Mikage.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0028",
     "locuteur": "Mark",
     "en": "Eh, if we just wander around, we'll get{SAUT}there sooner or later.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bah, en tournant un peu, on finira{SAUT}bien par y arriver.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0029",
     "locuteur": "Yukino",
     "en": "I know I couldn't take being cooped up{SAUT}in the hospital for an entire year.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Moi, je ne tiendrais pas un an entier{SAUT}enfermee a l'hôpital.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0030",
     "locuteur": "Yukino",
     "en": "Let's go cheer her up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Allons lui remonter le moral!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0031",
     "locuteur": "Ms. Saeko",
     "en": "(*APELLIDO_HEROE*)! You really should be on{SAUT}your way to (*TEXTBOX_PARAM,0700*)Mikage Hospital(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "(*APELLIDO_HEROE*)! Vous devriez vraiment partir{SAUT}pour l'(*TEXTBOX_PARAM,0700*)hôpital de Mikage(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0035",
     "locuteur": "Nurse Natsumi",
     "en": "I put a new plant there. What do you{SAUT}think? Livens up the room, doesn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "J'ai mis une nouvelle plante là. Vous{SAUT}en pensez quoi? Ça égaye la pièce, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0036",
     "locuteur": "Nurse Natsumi",
     "en": "They say plants grow better if you talk{SAUT}to them. Give it a try, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Les plantes pousseraient mieux si on{SAUT}leur parle. Essayez, (*APELLIDO_HEROE*).{ATTENTE}"
   }
 ]
