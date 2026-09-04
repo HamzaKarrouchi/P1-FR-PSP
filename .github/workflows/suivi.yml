@@ -39,9 +39,17 @@ jobs:
   suivi:
     runs-on: ubuntu-latest
     steps:
+      # SUIVI_TOKEN, s'il existe, est un jeton personnel du mainteneur. Il ne
+      # sert qu'à une chose : le jour où `main` exigera que la validation passe
+      # avant tout push, le jeton du robot sera refusé — vérifié en conditions
+      # réelles, « push declined due to repository rule violations ». Un jeton
+      # personnel, lui, hérite de la dérogation accordée aux administrateurs.
+      # Tant que le secret n'est pas défini, on retombe sur le jeton du robot
+      # et tout marche : c'est le cas aujourd'hui.
       - uses: actions/checkout@v5
         with:
           ref: main   # jamais le code de la proposition, voir le commentaire plus haut
+          token: ${{ secrets.SUIVI_TOKEN || github.token }}
 
       - uses: actions/setup-python@v6
         with:
