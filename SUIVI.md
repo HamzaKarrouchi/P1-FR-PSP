@@ -15,7 +15,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
 | [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
-| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | en cours par @HamzaKarrouchi (#1) |
+| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | libre |
 | [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
 | [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 0 | 0 % | libre |
 | [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 0 | 0 % | libre |
