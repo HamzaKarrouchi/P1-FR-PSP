@@ -1,4 +1,4 @@
-# Avancement de la traduction
+# Avancement de la traduction (essai)
 
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
