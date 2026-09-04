@@ -11,12 +11,24 @@ on:
     branches: [main]
     paths:
       - 'trad/**.json'
+  # Une proposition ouverte doit apparaitre en « en cours » TOUT DE SUITE :
+  # sinon deux personnes prennent le meme fichier dans la journee, et c'est
+  # precisement ce que le suivi existe pour eviter.
+  #
+  # `pull_request_target` et non `pull_request`, parce qu'une proposition
+  # venue d'un fork ne donne qu'un jeton en lecture seule, avec lequel on ne
+  # peut pas committer le suivi. En contrepartie ce declencheur s'execute
+  # avec les droits du depot : on ne recupere donc JAMAIS le code de la
+  # proposition -- checkout explicite de `main`, et rien d'autre.
+  pull_request_target:
+    types: [opened, reopened, closed, synchronize, ready_for_review]
   schedule:
     - cron: '17 6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pull-requests: read
 
 concurrency:
   group: suivi
@@ -27,6 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # jamais le code de la proposition, voir le commentaire plus haut
 
       - uses: actions/setup-python@v5
         with:
@@ -51,4 +65,11 @@ jobs:
           git config user.email "actions@github.com"
           git add SUIVI.md .github/badge.json
           git commit -m "[Suivi] Avancement recalcule"
-          git push
+          # Une fusion peut atterrir pendant qu'on calcule. Plutot que
+          # d'echouer et de laisser un suivi perime, on rejoue par-dessus.
+          for essai in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash
+          done
+          echo "impossible de pousser le suivi apres trois essais" >&2
+          exit 1

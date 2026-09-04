@@ -50,6 +50,13 @@ Tu as tapé dans `en` ou `locuteur` au lieu de `fr` ou `locuteur_fr`. Restaure
 le champ tel qu'il était. Si tu ne sais plus, l'onglet **Files changed** de ta
 proposition montre exactement ce qui a bougé.
 
+**`[TERMINO] « X » se traduit « Y » (dictionnaire)`**
+Un terme validé apparaît dans l'anglais, mais sa traduction officielle n'est
+pas dans ton français. **Ça ne bloque rien** — c'est une question. Si tu as
+reformulé exprès, ou si le mot n'avait pas sa place, dis-le en un mot dans ta
+proposition. Le but est d'éviter qu'un même nom soit traduit de trois façons
+dans le jeu, pas de te forcer à répéter un mot là où le français n'en veut pas.
+
 **Le robot refuse une ligne que je trouve correcte.**
 Ça arrive. Dis-le dans ta proposition ; si l'outil a tort, on le corrige. Il
 n'est pas sacré, il est juste plus rapide que nous.

@@ -24,6 +24,12 @@
 #   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte. Mesuré sur
 #      le script anglais : plafond observé à 43, aucune ligne au-delà.
 
+#   6. TERMINO   — AVERTISSEMENT seulement. Un terme validé au dictionnaire
+#      qui apparaît dans l'anglais devrait se retrouver dans le français. Ce
+#      n'est pas une faute : le français fléchit, et reformuler est souvent
+#      le bon choix. Mais sur 8 572 textes et des dizaines de traducteurs,
+#      c'est le seul défaut qu'aucun relecteur humain ne verra.
+#
 #   5. CANARI    — la colonne anglaise doit être identique à l'extraction.
 #      Un contributeur qui écrase une lettre de l'anglais en tapant sa
 #      traduction fabrique une divergence que plus rien ne rattrape : le
@@ -113,6 +119,78 @@ module CheckTrad
     nil
   end
 
+  # --- Terminologie -------------------------------------------------------
+  #
+  # Sur 8 572 textes traduits par des dizaines de personnes, l'incohérence de
+  # terminologie est le seul défaut qu'aucun relecteur n'attrapera : personne
+  # ne se souvient qu'un autre a écrit « Chambre de Velours » trois mois plus
+  # tôt. Une machine, si.
+  #
+  # C'est un AVERTISSEMENT, jamais un refus. Le français fléchit (« à la
+  # Chambre de Velours »), et un traducteur a souvent raison de reformuler
+  # plutôt que de répéter un nom. Bloquer là-dessus rendrait le validateur
+  # insupportable, et un validateur qu'on contourne ne sert plus à rien.
+  #
+  # Seuls les termes ✅ sont contrôlés : les 🔶 sont des propositions, les
+  # figer reviendrait à trancher à la place de l'équipe.
+  ACCENTS_NUS = {
+    'à' => 'a', 'â' => 'a', 'ä' => 'a', 'ç' => 'c', 'é' => 'e', 'è' => 'e',
+    'ê' => 'e', 'ë' => 'e', 'î' => 'i', 'ï' => 'i', 'ô' => 'o', 'ö' => 'o',
+    'ù' => 'u', 'û' => 'u', 'ü' => 'u', 'ÿ' => 'y', 'œ' => 'oe', 'æ' => 'ae'
+  }.freeze
+
+  def aplatir(texte)
+    texte.to_s.downcase.gsub(Regexp.union(ACCENTS_NUS.keys), ACCENTS_NUS)
+  end
+
+  # Lit les tableaux « | Anglais | Français | Statut | » du dictionnaire.
+  # Rend [[terme anglais, terme français]] pour les seules lignes ✅.
+  def charger_dictionnaire(chemin)
+    return [] unless chemin && File.exist?(chemin)
+
+    termes = []
+    File.readlines(chemin, encoding: 'UTF-8').each do |ligne|
+      cases = ligne.strip.split('|').map(&:strip)
+      cases.shift if cases.first.to_s.empty?
+      next unless cases.length >= 3 && cases[2].include?('✅')
+
+      en = cases[0]
+      fr = cases[1].sub(/\*\(.*/, '').strip # coupe la note en italique
+
+      # Une case qui porte encore une parenthèse est une explication, pas un
+      # terme : « (nom choisi par le joueur) » ne se cherche pas dans un texte.
+      next if en.empty? || fr.empty? || en.include?('(') || fr.include?('(')
+      next if en.include?('/') || fr.include?('/') # alternatives, trop ambigu
+      next if en.length < 3
+
+      termes << [en, fr]
+    end
+    termes.uniq
+  rescue StandardError
+    []
+  end
+
+  def chercher_dictionnaire
+    ['Dictionnaire.md',
+     File.join('..', 'docs', 'Dictionnaire.md'),
+     File.join('..', 'scripts', 'Dictionnaire.md')]
+      .map { |r| File.expand_path(r, AQUI) }
+      .find { |c| File.exist?(c) }
+  end
+
+  # Un terme est signalé quand l'anglais le contient et que le français ne
+  # contient pas sa traduction. Comparaison sans accents ni casse, pour que
+  # « chambre de velours » et « Chambre de Velours » se valent.
+  def termes_manquants(anglais, francais, termes)
+    plat_en = aplatir(anglais)
+    plat_fr = aplatir(francais)
+
+    termes.select do |en, fr|
+      plat_en.match?(/\b#{Regexp.escape(aplatir(en))}\b/) &&
+        !plat_fr.include?(aplatir(fr))
+    end
+  end
+
   # Empreinte d'une entrée telle qu'extraite du jeu. Douze caractères
   # hexadécimaux suffisent : on cherche l'édition accidentelle, pas la fraude.
   def empreinte(anglais, locuteur)
@@ -134,9 +212,10 @@ module CheckTrad
     nil
   end
 
-  def verifier(chemin, tabla, glyphes, canari = nil)
+  def verifier(chemin, tabla, glyphes, canari = nil, termes = [])
     entrees = JSON.parse(File.read(chemin, encoding: 'UTF-8'))
     soucis = []
+    avertis = []
     traduites = 0
 
     entrees.each do |e|
@@ -197,9 +276,14 @@ module CheckTrad
           soucis << "#{id} [LARGEUR] #{l.length} car. (a surveiller) : #{l.inspect}"
         end
       end
+
+      termes_manquants(e['en'], e['fr'], termes).each do |en, fr|
+        avertis << "#{id} [TERMINO] « #{en} » se traduit « #{fr} » (dictionnaire) — " \
+                   'volontaire ? sinon aligner'
+      end
     end
 
-    [entrees.length, traduites, soucis]
+    [entrees.length, traduites, soucis, avertis]
   end
 
   # Numéro de ligne de chaque entrée dans le fichier JSON, repéré sur son `id`.
@@ -220,9 +304,10 @@ module CheckTrad
 
   # Format attendu par GitHub Actions. Les retours à la ligne doivent être
   # échappés, sinon l'annotation est tronquée à la première.
-  def annoter(chemin, ligne, message)
+  def annoter(chemin, ligne, message, niveau = 'error')
     propre = message.gsub('%', '%25').gsub("\r", '%0D').gsub("\n", '%0A')
-    puts "::error file=#{chemin},line=#{ligne},title=Traduction::#{propre}"
+    titre = niveau == 'warning' ? 'Terminologie' : 'Traduction'
+    puts "::#{niveau} file=#{chemin},line=#{ligne},title=#{titre}::#{propre}"
   end
 
   def main(argv)
@@ -243,24 +328,40 @@ module CheckTrad
     tabla = charger_table(tbl)
     glyphes = charger_glyphes
     warn 'note : glyphes_disponibles.json absent — contrôle des glyphes ignoré' if glyphes.nil?
+
+    termes = charger_dictionnaire(chercher_dictionnaire)
+    warn 'note : Dictionnaire.md introuvable — contrôle terminologique ignoré' if termes.empty?
+
     total_soucis = 0
+    total_avertis = 0
 
     argv.each do |chemin|
       canari = charger_canari(chemin)
-      total, traduites, soucis = verifier(chemin, tabla, glyphes, canari)
-      etat = soucis.empty? ? '✅' : "❌ #{soucis.length}"
+      total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes)
+
+      etat = if soucis.any?
+               "❌ #{soucis.length}"
+             elsif avertis.any?
+               "⚠ #{avertis.length}"
+             else
+               '✅'
+             end
       puts "#{etat}  #{chemin} — #{traduites}/#{total} traduites"
       soucis.each { |s| puts "      #{s}" }
+      avertis.each { |a| puts "      #{a}" }
       total_soucis += soucis.length
+      total_avertis += avertis.length
 
-      next unless annotations && soucis.any?
+      next unless annotations && (soucis.any? || avertis.any?)
 
       lignes = lignes_des_ids(chemin)
-      soucis.each do |s|
-        id = s.split(' ', 2).first
-        annoter(chemin, lignes[id] || 1, s)
-      end
+      soucis.each { |s| annoter(chemin, lignes[s.split(' ', 2).first] || 1, s) }
+      avertis.each { |a| annoter(chemin, lignes[a.split(' ', 2).first] || 1, a, 'warning') }
     end
+
+    # Les avertissements de terminologie ne font PAS échouer : ils demandent un
+    # avis humain, ils ne constatent pas une faute.
+    puts "#{total_avertis} avertissement(s) de terminologie — à relire, pas bloquant" if total_avertis.positive?
 
     total_soucis.zero? ? 0 : 1
   end

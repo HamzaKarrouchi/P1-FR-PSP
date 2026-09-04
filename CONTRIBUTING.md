@@ -54,7 +54,7 @@ qu'une fois : la propagation est automatique.
 saut de ligne, changement de page, attente d'une touche. Ta traduction doit en
 contenir **exactement les mêmes, dans le même ordre** que l'anglais.
 
-```
+```text
 en : "You sure you ain't got the brain rot,{SAUT}Hidehiko?{ATTENTE}"
 fr : "T'es sûr que t'as pas le cerveau qui{SAUT}fond, Hidehiko ?{ATTENTE}"
 ```
@@ -102,7 +102,7 @@ Plus de détail dans [docs/REGLES.md](docs/REGLES.md).
 
 Il te dit exactement quoi corriger :
 
-```
+```text
 ❌ E0.BIN:012:0034 [LARGEUR] 47 car. (debordement certain) : "..."
 ❌ E0.BIN:012:0041 [STRUCTURE] codes attendus ["{SAUT}", "{ATTENTE}"], obtenus ["{ATTENTE}"]
 ```
@@ -117,6 +117,14 @@ Il te dit exactement quoi corriger :
 
 Ce n'est pas un jugement sur ta traduction. **On ne relit que le français**,
 jamais la technique : le robot s'en charge.
+
+Il existe un dernier message, en **jaune** celui-là, qui ne bloque rien :
+
+| `[TERMINO]` | un terme du [dictionnaire](docs/Dictionnaire.md) apparaît dans l'anglais mais pas sa traduction dans le français |
+
+C'est une question, pas un reproche. Souvent tu as raison — le français
+fléchit, et reformuler vaut mieux que répéter un nom. Réponds-y en un mot dans
+ta proposition et on passe à la suite.
 
 ---
 

@@ -8,7 +8,7 @@ ce qui permet de les contourner intelligemment plutôt que de buter dessus.
 
 ## 1. L'identifiant
 
-```
+```text
 E0.BIN:012:0007
 │      │   └── la réplique dans le bloc
 │      └────── le bloc de dialogue (une scène, en gros)
@@ -117,7 +117,21 @@ dans le mauvais champ — le validateur le voit et te le dit.
 C'est une protection, pas une méfiance : sans elle, une lettre écrasée rendrait
 la réplique introuvable au moment d'assembler le jeu, des semaines plus tard.
 
-## 7. Vérifier chez soi (facultatif)
+## 7. La terminologie
+
+Le validateur lit le [dictionnaire](Dictionnaire.md) et signale, **en
+avertissement**, un terme validé (✅) présent dans l'anglais dont la traduction
+officielle manque dans ton français.
+
+Les termes marqués 🔶 ne sont **pas** contrôlés : ce sont des propositions,
+pas encore tranchées. Les figer reviendrait à décider à la place de l'équipe.
+
+L'avertissement se trompe régulièrement, et c'est voulu : « Nanjo la regarde »
+ne répète pas son nom si l'anglais disait « Nanjo looks at her ». Il vaut mieux
+une question de trop qu'un jeu où la Chambre de Velours change de nom trois
+fois.
+
+## 8. Vérifier chez soi (facultatif)
 
 Le robot le fait pour toi à chaque proposition. Mais si tu veux la réponse tout
 de suite, il te faut [Ruby](https://www.ruby-lang.org/fr/downloads/) :
@@ -126,7 +140,7 @@ de suite, il te faut [Ruby](https://www.ruby-lang.org/fr/downloads/) :
 ruby outils/check_trad.rb trad/dialogues/E0_004.json
 ```
 
-```
+```text
 ✅  trad/dialogues/E0_004.json — 92/92 traduites
 ```
 
