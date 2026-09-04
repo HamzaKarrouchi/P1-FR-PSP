@@ -42,22 +42,33 @@ jobs:
             echo "$liste"
           fi
 
+      # `xargs` sans argument lancerait le validateur sur rien, qui répondrait
+      # par son mode d'emploi et un code d'erreur : une proposition ne touchant
+      # que `_canari.json` échouerait sans rien avoir de faux. D'où le garde
+      # dans le shell plutôt qu'une condition sur la sortie de l'étape, qui ne
+      # distingue pas une liste vide d'une ligne vide.
       - name: Valider
-        if: steps.fichiers.outputs.liste != ''
         run: |
-          echo "${{ steps.fichiers.outputs.liste }}" \
-            | xargs ruby outils/check_trad.rb --annoter
+          liste="${{ steps.fichiers.outputs.liste }}"
+          if [ -z "$(echo "$liste" | tr -d '[:space:]')" ]; then
+            echo "aucun fichier de traduction à valider"
+            exit 0
+          fi
+          echo "$liste" | xargs ruby outils/check_trad.rb --annoter
 
       - name: Récapitulatif
-        if: always() && steps.fichiers.outputs.liste != ''
+        if: always()
+        env:
+          DEPOT: ${{ github.server_url }}/${{ github.repository }}
         run: |
+          liste="${{ steps.fichiers.outputs.liste }}"
+          [ -z "$(echo "$liste" | tr -d '[:space:]')" ] && exit 0
           {
             echo "## Validation"
             echo
-            echo '```'
-            echo "${{ steps.fichiers.outputs.liste }}" \
-              | xargs ruby outils/check_trad.rb 2>&1 || true
+            echo '```text'
+            echo "$liste" | xargs ruby outils/check_trad.rb 2>&1 || true
             echo '```'
             echo
-            echo "Le détail des messages est expliqué dans [la FAQ](docs/FAQ.md)."
+            echo "Le détail des messages est expliqué dans [la FAQ]($DEPOT/blob/main/docs/FAQ.md)."
           } >> "$GITHUB_STEP_SUMMARY"

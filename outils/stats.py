@@ -113,8 +113,7 @@ def rendre(sections, reservations):
             continue
         pct = round(100 * traduits / total) if total else 0
         lignes.append(
-            f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   "
-            f"{milliers(traduits):>6} / {milliers(total)} textes"
+            f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   " f"{milliers(traduits):>6} / {milliers(total)} textes"
         )
 
     lignes += ["```", ""]
@@ -133,8 +132,10 @@ def rendre(sections, reservations):
         ]
         for fichier, n, f in par_fichier:
             pct = round(100 * f / n) if n else 0
-            lignes.append(f"| [`{fichier}`](trad/dialogues/{fichier}) | {n} | {f} | {pct} % | "
-                          f"{etat(n, f, reservations.get(fichier))} |")
+            lignes.append(
+                f"| [`{fichier}`](trad/dialogues/{fichier}) | {n} | {f} | {pct} % | "
+                f"{etat(n, f, reservations.get(fichier))} |"
+            )
         lignes.append("")
 
     return "\n".join(lignes) + "\n"
