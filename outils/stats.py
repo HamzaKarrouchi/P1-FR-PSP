@@ -104,14 +104,62 @@ def valider(dossier: Path, racine: Path):
         print(f"  validation ignoree : {e}", file=sys.stderr)
         return {}
 
-    return {
-        e["fichier"]: (len(e["soucis"]), len(e["avertissements"]))
-        for e in rapport
-    }
+    return {e["fichier"]: e for e in rapport}
+
+
+def compte(entree):
+    """(erreurs, avertissements) d'une entree du rapport de validation."""
+    if not entree:
+        return (0, 0)
+    return (len(entree["soucis"]), len(entree["avertissements"]))
+
+
+def rapport_markdown(sante, depot, sous_dossier="trad/dialogues", plafond=250):
+    """Corps de l'issue « Lignes a corriger ».
+
+    Le compte seul ne suffit pas : quelqu'un qui veut aider doit pouvoir
+    cliquer sur la ligne fautive. On ecrit donc chaque souci avec un lien
+    permanent vers sa ligne dans le fichier.
+    """
+    fautifs = sorted((f, e) for f, e in sante.items() if e["soucis"])
+    total = sum(len(e["soucis"]) for _, e in fautifs)
+
+    lignes = [
+        f"**{total} erreur{'s' if total > 1 else ''}** dans "
+        f"{len(fautifs)} fichier{'s' if len(fautifs) > 1 else ''}.",
+        "",
+        "Cette issue est **tenue à jour automatiquement** : elle se réécrit à "
+        "chaque contribution et se ferme toute seule quand il ne reste rien. "
+        "Inutile de la commenter pour signaler une correction — corrige le "
+        "fichier, elle suivra.",
+        "",
+        "Une erreur laissée en place fait rester la ligne **en anglais** dans le "
+        "jeu. La réparer vaut donc mieux que traduire un fichier de plus.",
+        "",
+    ]
+
+    écrites = 0
+    for fichier, entree in fautifs:
+        lignes += [f"### `{fichier}`", ""]
+        for s in entree["soucis"]:
+            if écrites >= plafond:
+                break
+            lien = f"{depot}/blob/main/{sous_dossier}/{fichier}#L{s['ligne']}"
+            # Le message commence par l'identifiant : on ne le repete pas, on
+            # le transforme en lien vers la ligne.
+            texte = s["message"][len(s["id"]):].strip()
+            lignes.append(f"- [`{s['id']}`]({lien}) {texte}")
+            écrites += 1
+        lignes.append("")
+        if écrites >= plafond:
+            lignes.append(f"*…et {total - écrites} autre(s), non listées ici.*")
+            break
+
+    return "\n".join(lignes) + "\n"
 
 
 def etat(n, f, reserve, sante=None):
-    erreurs, avertis = sante or (0, 0)
+    erreurs, avertis = compte(sante)
 
     # Une erreur passe devant tout le reste : c'est la seule chose qui demande
     # une action precise, sur une ligne precise.
@@ -147,8 +195,8 @@ def rendre(sections, reservations, sante):
         "```text",
     ]
 
-    a_corriger = sorted(f for f, (e, _) in sante.items() if e)
-    a_relire = sorted(f for f, (e, a) in sante.items() if a and not e)
+    a_corriger = sorted(f for f, e in sante.items() if e["soucis"])
+    a_relire = sorted(f for f, e in sante.items() if e["avertissements"] and not e["soucis"])
 
     for nom, _, par_fichier, total, traduits in sections:
         # Une section fermee affichee « 0 % » donne l'impression d'un projet a
@@ -176,12 +224,14 @@ def rendre(sections, reservations, sante):
             "",
         ]
         for f in a_corriger:
-            n = sante[f][0]
+            n = len(sante[f]["soucis"])
             lignes.append(f"- [`{f}`](trad/dialogues/{f}) — {n} erreur{'s' if n > 1 else ''}")
         lignes += [
             "",
-            "Le détail s'obtient avec `ruby outils/check_trad.rb trad/dialogues/<fichier>`, "
-            "ou s'affiche tout seul sur les lignes de ta proposition.",
+            "**Le détail ligne par ligne est dans "
+            "[l'issue « Lignes à corriger »](../../issues?q=is%3Aissue+is%3Aopen+label%3Asuivi-auto)**, "
+            "tenue à jour automatiquement. Il s'affiche aussi tout seul sur les "
+            "lignes de ta proposition.",
             "",
         ]
 
@@ -195,7 +245,7 @@ def rendre(sections, reservations, sante):
             "",
         ]
         for f in a_relire:
-            n = sante[f][1]
+            n = len(sante[f]["avertissements"])
             lignes.append(f"- [`{f}`](trad/dialogues/{f}) — {n} terme{'s' if n > 1 else ''}")
         lignes.append("")
 
@@ -227,8 +277,11 @@ def main(argv=None):
     ap.add_argument("--racine", default=".", type=Path)
     ap.add_argument("--reservations", type=Path)
     ap.add_argument("--sortie", type=Path, help="defaut : <racine>/SUIVI.md")
-    ap.add_argument("--sans-valider", action="store_true",
-                    help="ne pas lancer check_trad.rb (plus rapide, etats moins precis)")
+    ap.add_argument(
+        "--sans-valider", action="store_true", help="ne pas lancer check_trad.rb (plus rapide, etats moins precis)"
+    )
+    ap.add_argument("--rapport", type=Path, help="ou ecrire le detail des erreurs (corps de l'issue de suivi)")
+    ap.add_argument("--depot", default="", help="URL du depot, pour les liens du rapport")
     args = ap.parse_args(argv)
 
     racine = args.racine
@@ -268,9 +321,17 @@ def main(argv=None):
     for nom, _, _, total, traduits in sections:
         print(f"  {nom:<14} {traduits} / {total}")
 
-    casses = sum(1 for e, _ in sante.values() if e)
+    casses = sum(1 for e in sante.values() if e["soucis"])
     if casses:
         print(f"  {casses} fichier(s) a corriger")
+
+    # Le rapport détaillé va hors du dépôt : c'est le corps d'une issue, pas un
+    # fichier à versionner. Vide quand tout est sain — l'action ferme alors
+    # l'issue au lieu de la réécrire.
+    if args.rapport:
+        corps = rapport_markdown(sante, args.depot) if casses else ""
+        args.rapport.write_text(corps, encoding="utf-8")
+
     print(f"  -> {sortie}")
     return 0
 

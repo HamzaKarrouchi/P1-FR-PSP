@@ -29,6 +29,7 @@ on:
 permissions:
   contents: write
   pull-requests: read
+  issues: write
 
 concurrency:
   group: suivi
@@ -60,7 +61,43 @@ jobs:
           gh pr list --state open --json number,author,files > /tmp/pr.json || echo '[]' > /tmp/pr.json
 
       - name: Recompter
-        run: python outils/stats.py --reservations /tmp/pr.json
+        run: |
+          python outils/stats.py \
+            --reservations /tmp/pr.json \
+            --rapport /tmp/a_corriger.md \
+            --depot "${{ github.server_url }}/${{ github.repository }}"
+
+      # Une seule issue, réécrite en place. Pas une par erreur : un dépôt noyé
+      # sous des issues automatiques finit par ce qu'on n'en lise plus aucune.
+      # Elle se ferme d'elle-même quand il ne reste rien à corriger.
+      - name: Tenir à jour l'issue « Lignes à corriger »
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          titre="Lignes à corriger"
+          gh label create suivi-auto --color d73a4a \
+            --description "Tenu a jour par le robot du suivi" --force || true
+
+          numero=$(gh issue list --label suivi-auto --state all --limit 1 \
+                     --json number --jq '.[0].number // empty')
+
+          if [ -s /tmp/a_corriger.md ]; then
+            if [ -n "$numero" ]; then
+              gh issue edit "$numero" --title "$titre" --body-file /tmp/a_corriger.md
+              gh issue reopen "$numero" 2>/dev/null || true
+              echo "issue #$numero mise a jour"
+            else
+              gh issue create --title "$titre" --label suivi-auto \
+                --body-file /tmp/a_corriger.md
+            fi
+          elif [ -n "$numero" ]; then
+            gh issue close "$numero" \
+              --comment "Plus aucune erreur de validation. Rouverte automatiquement s'il en réapparaît." \
+              2>/dev/null || true
+            echo "issue #$numero fermee"
+          else
+            echo "rien a corriger, aucune issue a ouvrir"
+          fi
 
       - name: Committer si ça a bougé
         run: |

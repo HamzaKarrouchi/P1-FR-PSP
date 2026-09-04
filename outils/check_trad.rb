@@ -345,9 +345,21 @@ module CheckTrad
       total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes)
 
       if en_json
+        # Le numéro de ligne accompagne chaque souci : c'est lui qui permet au
+        # suivi de pointer directement dans le fichier, sans que personne ait à
+        # chercher la réplique à la main.
+        ou = lignes_des_ids(chemin)
+        detaille = lambda do |liste|
+          liste.map do |s|
+            id = s.split(' ', 2).first
+            { 'id' => id, 'ligne' => ou[id] || 1, 'message' => s }
+          end
+        end
+
         rapport << { 'fichier' => File.basename(chemin), 'textes' => total,
-                     'traduites' => traduites, 'soucis' => soucis,
-                     'avertissements' => avertis }
+                     'traduites' => traduites,
+                     'soucis' => detaille.call(soucis),
+                     'avertissements' => detaille.call(avertis) }
         total_soucis += soucis.length
         next
       end
