@@ -63,8 +63,8 @@ fr : "T'es sûr que t'as pas le cerveau qui{SAUT}fond, Hidehiko ?{ATTENTE}"
 ```
 
 Même chose pour les codes en `(*MAJUSCULES*)` et `[1A2B]` : recopie-les à
-l'identique. `(*PLAYER_NAME*)` est le prénom que le joueur a choisi ; il se
-place où le français l'exige, mais il ne disparaît pas.
+l'identique. `(*APELLIDO_HEROE*)` porte le nom que le joueur a choisi ; tu peux
+le **déplacer** si le français l'exige, mais il ne disparaît pas.
 
 ### 2. Environ 40 caractères par ligne affichée
 
@@ -79,11 +79,13 @@ du travail : c'est souvent là que la traduction devient bonne.
 
 Les accents fonctionnent — `é è ê à â ù û ô î ï ç` et les majuscules
 accentuées. Les guillemets français `« »`, les apostrophes, les points de
-suspension aussi. Écris normalement.
+suspension aussi. **La ponctuation aussi** : `?`, `!`, `…` se tapent
+normalement. Écris du français, tout simplement.
 
-Deux caractères font exception : `?` et `!` peuvent apparaître dans l'anglais
-sous la forme `[0008]` et `[0009]`. Si tu les vois, recopie ces codes plutôt
-que de taper le signe.
+La seule chose à recopier telle quelle, ce sont les codes entre crochets —
+`[0300]`, `[1E00]`… Ce sont des caractères que l'extracteur n'a pas su nommer.
+Il y en a près de 7 000 dans le jeu ; ils ne se traduisent pas, ils se
+transportent.
 
 ---
 

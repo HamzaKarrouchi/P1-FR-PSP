@@ -24,7 +24,8 @@ Trois exceptions :
 - **Nanjo vouvoie**, presque tout le monde, tout le temps. Ce n'est pas de la
   politesse, c'est de la distance : il est riche, il le sait, et il tient les
   autres à un mètre. Ne le corrige pas vers le tutoiement même quand ça
-  s'adoucit — c'est un arc de personnage.
+  s'adoucit — c'est un arc de personnage. C'est aussi la voix la plus présente
+  du jeu (1 011 répliques) : une erreur de registre sur lui se voit partout.
 - **Les adultes** (professeurs, personnel, inconnus) vouvoient les élèves et
   sont vouvoyés en retour.
 - **Philémon, Igor et les entités** parlent un français soutenu et vouvoient.
@@ -32,20 +33,37 @@ Trois exceptions :
 
 ## Les voix
 
-| Personnage | Registre |
-|---|---|
-| **Mark** | familier, énergique, argot léger. « Mec », « ouais », « grave ». Jamais vulgaire. |
-| **Hidehiko** | le blagueur ; il en fait trop, et c'est le but. Jeux de mots bienvenus. |
-| **Nanjo** | soutenu, sec, phrases complètes. Il ne contracte rien. |
-| **Yukino** | directe, un peu dure, ancienne rebelle. Elle coupe court. |
-| **Maki** | douce, hésitante ; beaucoup de points de suspension dans l'original — garde-les. |
-| **Eriko** | assurée, mondaine, un rien théâtrale. |
-| **Reiji** | fermé, hostile au début. Répliques courtes. |
-| **Ayase** | franche, protectrice. |
-| **Le héros** | muet. Ses répliques sont des choix du joueur : phrases courtes et neutres. |
+Les noms ci-dessous sont ceux que porte le champ `locuteur` **dans les
+fichiers** — le jeu emploie les surnoms, pas les patronymes. Le nombre de
+répliques donne une idée du poids de chaque voix.
 
-Quand un personnage nomme le héros, l'anglais utilise `(*PLAYER_NAME*)`.
-Ce jeton porte le prénom choisi par le joueur : place-le où le français le veut.
+| Locuteur | Répliques | Registre |
+|---|---:|---|
+| **Nanjo** (Kei Nanjo) | 1 011 | soutenu, sec, phrases complètes. Il ne contracte rien et vouvoie. |
+| **Mark** (Masao Inaba) | 685 | familier, énergique, argot léger. « Mec », « ouais ». Jamais vulgaire. |
+| **Ayase** (Yuka Ayase) | 685 | bavarde, directe, s'intéresse de près au héros. |
+| **Elly** (Eriko Kirishima) | 674 | assurée, un rien théâtrale, cultivée. |
+| **Brown** (Hidehiko Uesugi) | 664 | le blagueur ; il en fait trop, et c'est le but. |
+| **Maki** (Maki Sonomura) | 571 | douce, hésitante ; beaucoup de points de suspension dans l'original — garde-les. |
+| **Yukino** (Yukino Mayuzumi) | 549 | directe, un peu dure, ancienne rebelle. Elle coupe court. |
+| **Reiji** (Reiji Kido) | 179 | fermé, hostile au début. Répliques courtes. |
+| **Le héros** | — | muet. Ses répliques sont des choix du joueur : courtes et neutres. |
+
+> ⚠️ **Ces descriptions de voix demandent validation.** Elles ont été écrites
+> d'après la connaissance générale du jeu, pas d'après une relecture du script
+> complet. Si tu connais le jeu et qu'une ligne te paraît fausse, ouvre une
+> issue : ces quelques mots orientent 8 572 traductions, ils méritent d'être
+> justes.
+
+Quand un personnage nomme le héros, l'anglais emploie `(*APELLIDO_HEROE*)`
+(300 fois) ou `(*APODO_HEROE*)` pour son surnom. Ces jetons portent le nom
+choisi par le joueur : place-les où le français les veut, mais ne les supprime
+jamais.
+
+**Les surnoms restent-ils ?** « Mark » pour Masao, « Brown » pour Hidehiko,
+« Elly » pour Eriko — le jeu les présente lui-même (« Masao Inaba (Nickname:
+Mark) »). La question n'est pas tranchée : voir le
+[Dictionnaire](Dictionnaire.md), et discuter avant de décider seul.
 
 ## La typographie française
 

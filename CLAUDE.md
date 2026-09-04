@@ -15,11 +15,17 @@ anglais → français.
 
 ### 1. Réécrire les codes entre accolades
 
-`{SAUT}`, `{PAGE}`, `{ATTENTE}`, `(*PLAYER_NAME*)`, `[0008]` sont des ordres
+`{SAUT}`, `{PAGE}`, `{ATTENTE}`, `(*SCENE_INIT*)`, `[0300]` sont des ordres
 pour le moteur du jeu. Un modèle a tendance à les « nettoyer », les traduire, ou
 les redistribuer harmonieusement. **Ils se recopient à l'identique, en même
-nombre et même ordre.** `(*PLAYER_NAME*)` peut se déplacer si la syntaxe
+nombre et même ordre.** Seuls `(*APELLIDO_HEROE*)` et `(*APODO_HEROE*)` — le
+nom et le surnom choisis par le joueur — peuvent se déplacer si la syntaxe
 française l'exige ; rien d'autre ne bouge.
+
+En revanche la ponctuation s'écrit normalement : `?`, `!`, `…`, `« »`. Un
+modèle entraîné sur d'anciennes consignes de ce projet pourrait proposer
+`[0008]` pour un point d'interrogation — **ces codes n'existent pas** dans les
+fichiers actuels.
 
 ### 2. Toucher aux champs anglais
 
@@ -28,15 +34,24 @@ et une empreinte les surveille : les modifier fait échouer la validation.
 
 ### 3. Traduire trop long
 
-Environ 40 caractères par ligne affichée, mesurés **entre deux codes**.
-Un modèle produit naturellement du français ample. Ici, la contrainte fait
-partie du travail : reformule court, ou redécoupe avec `{SAUT}`.
+La ligne anglaise médiane fait **33 caractères** ; au-delà de 43, la boîte
+déborde. Un modèle produit naturellement du français ample, et le français est
+déjà 20 à 30 % plus long que l'anglais. Ici, la contrainte fait partie du
+travail : reformule court, ou redécoupe avec `{SAUT}`.
+
+Une consigne qui marche bien : « donne-moi trois versions de cette réplique
+sous 40 caractères, registre lycéen », puis choisis toi-même.
 
 ### 4. Uniformiser le registre
 
 Chaque personnage a une voix, décrite dans [docs/REGLES.md](docs/REGLES.md).
-Nanjo vouvoie et ne contracte rien ; Mark parle comme un lycéen. Un modèle
-lisse tout vers un français scolaire moyen — c'est la mort d'un dialogue.
+Nanjo vouvoie et ne contracte rien — et c'est la voix la plus présente du jeu,
+1 011 répliques : une erreur de registre sur lui se voit partout. Mark parle
+comme un lycéen. Un modèle lisse tout vers un français scolaire moyen — c'est
+la mort d'un dialogue.
+
+Le champ `locuteur` donne le nom **tel que le jeu l'affiche** : `Mark`,
+`Brown`, `Elly`, `Ayase`, et non les patronymes.
 
 ### 5. Inventer la terminologie
 

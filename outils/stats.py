@@ -147,7 +147,7 @@ def rapport_markdown(sante, depot, sous_dossier="trad/dialogues", plafond=250):
             lien = f"{depot}/blob/main/{sous_dossier}/{fichier}#L{s['ligne']}"
             # Le message commence par l'identifiant : on ne le repete pas, on
             # le transforme en lien vers la ligne.
-            texte = s["message"][len(s["id"]):].strip()
+            texte = s["message"][len(s["id"]) :].strip()
             lignes.append(f"- [`{s['id']}`]({lien}) {texte}")
             écrites += 1
         lignes.append("")

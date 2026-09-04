@@ -36,37 +36,61 @@ moteur. Ils apparaissent sous trois formes.
 **La boîte ne va pas à la ligne toute seule.** Sans `{SAUT}`, le texte continue
 tout droit et sort de l'écran. C'est toi qui découpes.
 
-### `(*NOM*)` — les ordres rares
+### `(*NOM*)` — la mise en scène
 
-`(*PLAYER_NAME*)` insère le prénom choisi par le joueur, `(*APELLIDO_HEROE*)`
-son nom de famille, `(*TEXTBOX_PARAM,0700*)` change la couleur du texte.
+Ceux-là ne s'affichent pas : ils pilotent la scène. Les plus fréquents, comptés
+sur les 8 572 textes :
 
-Recopie-les tels quels. Tu peux les **déplacer** si la syntaxe française
-l'exige — « (*PLAYER_NAME*), viens ! » plutôt que « Viens, (*PLAYER_NAME*) ! »
-— mais jamais en supprimer ni en ajouter.
+| Code | Occurrences | Rôle |
+|---|---:|---|
+| `(*SCENE_INIT*)` `(*SCENE_LOAD*)` | 5 331 | montage de la scène |
+| `(*WAIT_INPUT*)` | 1 781 | attend le joueur |
+| `(*SET_ANIM_LAYER*)` | 1 472 | animation d'un personnage |
+| `(*SHOW_MSG*)` `(*HIDE_MSG*)` | 1 238 | ouvre ou ferme la boîte |
+| `(*TEXTBOX_PARAM,0700*)` | 342 | couleur du texte |
+| `(*APELLIDO_HEROE*)` | 300 | le nom choisi par le joueur |
+| `(*CHECK_FLAG*)` | 292 | un embranchement du scénario |
+
+**Recopie-les tels quels.** `(*APELLIDO_HEROE*)` et `(*APODO_HEROE*)` (son
+surnom) peuvent se **déplacer** si la syntaxe française l'exige — « Alors,
+(*APELLIDO_HEROE*) ? » plutôt que « (*APELLIDO_HEROE*), alors ? » — mais jamais
+disparaître.
+
+Le reste est de la machinerie : on n'y touche pas, on la transporte.
 
 ### `[1A2B]` — les caractères bruts
 
 Quatre chiffres hexadécimaux : un caractère que l'extracteur n'a pas su nommer.
-Les plus fréquents sont `[0008]` pour `?` et `[0009]` pour `!`. **Recopie-les**
-au lieu de taper le signe : c'est ainsi que le jeu les encode.
+Il y en a **6 932 dans le jeu, pour 1 842 codes distincts** — `[0300]` et
+`[1E00]` en tête. Ils ne se traduisent pas : **recopie-les à l'identique**.
 
-`[0000]` est un espace de remplissage dans certaines zones ; celui-là, tu peux
-l'ignorer.
+`[0000]` est un espace de remplissage dans certaines zones de l'exécutable ;
+celui-là, le validateur l'ignore.
+
+> **La ponctuation n'est pas concernée.** `?`, `!`, `…`, `«` `»` s'écrivent
+> normalement. Si tu as lu ailleurs qu'il fallait taper `[0008]` pour un point
+> d'interrogation, c'est une consigne périmée de l'ancienne chaîne d'outils —
+> ces codes n'existent nulle part dans les fichiers actuels.
 
 ## 3. La largeur
 
 La police est à chasse variable — un `i` prend moins de place qu'un `M` — donc
-la limite exacte dépend de la phrase. Repères mesurés sur le script anglais :
+la limite exacte dépend de la phrase. Repères mesurés sur les 14 572 lignes du
+script anglais :
 
 | | |
 |---|---|
-| **40 caractères** | confortable, aucun risque |
-| 43 caractères | plafond observé dans le jeu original |
-| au-delà | débordement certain, le texte sort de la boîte |
+| **33 caractères** | la ligne anglaise médiane |
+| 40 caractères | le 95ᵉ centile — au-delà, on sort de l'ordinaire |
+| 43 caractères | débordement certain dans la plupart des boîtes |
 
-Le validateur avertit à 40 et refuse à 43. Il compte **entre deux codes**, ce
-qui correspond à une ligne affichée.
+**La largeur se juge par rapport à l'anglais**, pas dans l'absolu : 42 lignes
+du script original dépassent déjà 43 caractères, et te refuser pour une largeur
+que tu n'as pas créée n'aurait aucun sens. Le validateur ne bloque donc que
+si ta ligne est **à la fois** plus large que l'anglaise **et** au-delà de 43.
+Entre 40 et 43, il avertit.
+
+Il compte **entre deux codes**, ce qui correspond à une ligne affichée.
 
 ### Le français est plus long
 

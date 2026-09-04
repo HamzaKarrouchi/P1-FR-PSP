@@ -21,8 +21,12 @@
 #      anglais SANS aucune erreur au build. Observé : la zone BE redirige vers
 #      un code cave et passe, la zone LE ne le fait pas et garde l'anglais.
 #      Avertissement, donc, pas une interdiction — mais à vérifier en jeu.
-#   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte. Mesuré sur
-#      le script anglais : plafond observé à 43, aucune ligne au-delà.
+#   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte, jugée PAR
+#      RAPPORT à la ligne anglaise correspondante. Le script original compte
+#      42 lignes au-delà de 43 caractères : refuser dans l'absolu reviendrait à
+#      signaler un traducteur pour une largeur qu'il n'a pas créée. Erreur donc
+#      seulement si le français est à la fois plus large que l'anglais ET
+#      au-delà de 43 ; avertissement entre 40 et 43.
 
 #   6. TERMINO   — AVERTISSEMENT seulement. Un terme validé au dictionnaire
 #      qui apparaît dans l'anglais devrait se retrouver dans le français. Ce
@@ -269,11 +273,24 @@ module CheckTrad
         end
       end
 
-      lignes_affichees(e['fr']).each do |l|
-        if l.length > LARGEUR_DURE
-          soucis << "#{id} [LARGEUR] #{l.length} car. (debordement certain) : #{l.inspect}"
-        elsif l.length > LARGEUR_MAX
-          soucis << "#{id} [LARGEUR] #{l.length} car. (a surveiller) : #{l.inspect}"
+      # La largeur se juge PAR RAPPORT À L'ANGLAIS. 42 lignes du script
+      # original dépassent déjà 43 caractères : un traducteur fidèle y serait
+      # refusé pour une largeur qu'il n'a pas créée. On ne reproche donc que ce
+      # que le français ajoute — et on n'avertit qu'à partir de 40, comme
+      # annoncé aux contributeurs.
+      anglaises = lignes_affichees(e['en'])
+      lignes_affichees(e['fr']).each_with_index do |l, i|
+        origine = (anglaises[i] || anglaises.max_by(&:length) || '').length
+        next unless l.length > LARGEUR_MAX
+
+        if l.length <= origine
+          # Aussi large que l'original, donc pas une régression : on le dit,
+          # sans bloquer.
+          avertis << "#{id} [LARGEUR] #{l.length} car., comme l'anglais (#{origine}) — deja large a l'origine"
+        elsif l.length > LARGEUR_DURE
+          soucis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais (debordement certain) : #{l.inspect}"
+        else
+          avertis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais — a surveiller"
         end
       end
 
@@ -389,9 +406,9 @@ module CheckTrad
       return total_soucis.zero? ? 0 : 1
     end
 
-    # Les avertissements de terminologie ne font PAS échouer : ils demandent un
-    # avis humain, ils ne constatent pas une faute.
-    puts "#{total_avertis} avertissement(s) de terminologie — à relire, pas bloquant" if total_avertis.positive?
+    # Les avertissements ne font PAS échouer : ils demandent un avis humain, ils
+    # ne constatent pas une faute.
+    puts "#{total_avertis} avertissement(s) — à relire, pas bloquant" if total_avertis.positive?
 
     total_soucis.zero? ? 0 : 1
   end
