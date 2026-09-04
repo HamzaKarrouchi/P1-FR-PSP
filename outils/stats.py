@@ -29,7 +29,7 @@ LARGEUR_BARRE = 24
 SECTIONS = [
     ("Dialogues", "trad/dialogues", None),
     ("EBOOT", "trad/eboot", 5771),
-    ("Negociations", "trad/negociations", 17408),
+    ("Négociations", "trad/negociations", 17408),
 ]
 
 
@@ -67,11 +67,11 @@ def lire_reservations(chemin: Path):
     reserve = {}
     try:
         for pr in json.loads(chemin.read_text(encoding="utf-8")):
-            qui = pr.get("author", {}).get("login", "?")
-            marque = f"@{qui} (#{pr['number']})"
+            qui = nettoyer(pr.get("author", {}).get("login", "?"))
+            marque = f"@{qui} (#{int(pr['number'])})"
             for f in pr.get("files", []):
                 reserve[Path(f["path"]).name] = marque
-    except (json.JSONDecodeError, OSError, KeyError, TypeError) as e:
+    except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError) as e:
         print(f"  reservations ignorees : {e}", file=sys.stderr)
     return reserve
 
@@ -80,22 +80,42 @@ def etat(n, f, reserve):
     if f == 0:
         return f"en cours par {reserve}" if reserve else "libre"
     if f == n:
-        return "termine"
-    return f"en cours par {reserve}" if reserve else "commence"
+        return "terminé"
+    return f"en cours par {reserve}" if reserve else "commencé"
+
+
+def milliers(n):
+    """8572 -> « 8 572 ». Espace insecable : le nombre ne se coupe pas en fin de ligne."""
+    return f"{n:,}".replace(",", " ")
+
+
+def nettoyer(texte):
+    """Un pseudo GitHub arrive d'une proposition exterieure et finit dans un
+    tableau Markdown : on ne laisse passer que ce qu'un pseudo peut contenir."""
+    return "".join(c for c in str(texte) if c.isalnum() or c in "-_[]#@() ")[:48]
 
 
 def rendre(sections, reservations):
     lignes = [
         "# Avancement de la traduction",
         "",
-        "> Fichier **genere**. Ne pas modifier a la main : chaque fusion l'ecrase.",
+        "> Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.",
         "",
         "```text",
     ]
 
-    for nom, _, _par_fichier, total, traduits in sections:
+    for nom, _, par_fichier, total, traduits in sections:
+        # Une section fermee affichee « 0 % » donne l'impression d'un projet a
+        # l'abandon, alors qu'elle n'est simplement pas encore ouverte. On dit
+        # laquelle, et son volume, sans la compter comme un retard.
+        if not par_fichier:
+            lignes.append(f"{nom:<14} pas encore ouvert — environ {milliers(total)} textes")
+            continue
         pct = round(100 * traduits / total) if total else 0
-        lignes.append(f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   " f"{traduits:>6} / {total:<6} textes")
+        lignes.append(
+            f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   "
+            f"{milliers(traduits):>6} / {milliers(total)} textes"
+        )
 
     lignes += ["```", ""]
 
@@ -105,12 +125,16 @@ def rendre(sections, reservations):
         lignes += [
             f"## {nom}",
             "",
-            "| Fichier | Textes | Traduits | % | Etat |",
+            "Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il "
+            "passera en « en cours » dans la minute.",
+            "",
+            "| Fichier | Textes | Traduits | % | État |",
             "|---|---:|---:|---:|---|",
         ]
         for fichier, n, f in par_fichier:
             pct = round(100 * f / n) if n else 0
-            lignes.append(f"| `{fichier}` | {n} | {f} | {pct} % | " f"{etat(n, f, reservations.get(fichier))} |")
+            lignes.append(f"| [`{fichier}`](trad/dialogues/{fichier}) | {n} | {f} | {pct} % | "
+                          f"{etat(n, f, reservations.get(fichier))} |")
         lignes.append("")
 
     return "\n".join(lignes) + "\n"
