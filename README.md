@@ -24,17 +24,17 @@ place.
 
 | Anglais d'origine | Français |
 |---|---|
-| <img src="assets/captures/titre-en.png" width="380" alt="écran-titre en anglais"> | <img src="assets/captures/titre-fr.png" width="380" alt="écran-titre en français"> |
-| <img src="assets/captures/menu-en.png" width="380" alt="menu en anglais"> | <img src="assets/captures/menu-fr.png" width="380" alt="menu en français"> |
-| <img src="assets/captures/dialogue-en.png" width="380" alt="dialogue en anglais"> | <img src="assets/captures/dialogue-fr.png" width="380" alt="dialogue en français"> |
+| <img src="assets/captures/ouverture-en.png" width="400" alt="citation d'ouverture en anglais"> | <img src="assets/captures/ouverture-fr.png" width="400" alt="citation d'ouverture en français"> |
+| <img src="assets/captures/menu-en.png" width="400" alt="menu du titre en anglais"> | <img src="assets/captures/menu-fr.png" width="400" alt="menu du titre en français"> |
+| <img src="assets/captures/dialogue-en.png" width="400" alt="dialogue en anglais"> | <img src="assets/captures/dialogue-fr.png" width="400" alt="dialogue en français"> |
 
 Les accents ont demandé le plus gros du travail technique : le jeu américain
-n'a **aucun glyphe accentué**, leurs cases sont vides dans la police. Il a
-fallu les dessiner un par un, puis régler leurs métriques. Vingt-cinq
-caractères, validés en jeu.
+n'a **aucun glyphe accentué** — les cases correspondantes de sa police sont
+vides. Il a fallu les dessiner un par un dans les atlas de textures, puis
+régler leurs métriques. Vingt-cinq caractères, validés en jeu.
 
 <p align="center">
-  <img src="assets/captures/accents.png" width="500" alt="texte français accentué en jeu">
+  <img src="assets/captures/accents.png" width="700" alt="texte français accentué en jeu">
 </p>
 
 ---
