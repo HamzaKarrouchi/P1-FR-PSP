@@ -28,6 +28,10 @@ place.
 | <img src="assets/captures/menu-en.png" width="400" alt="menu du titre en anglais"> | <img src="assets/captures/menu-fr.png" width="400" alt="menu du titre en français"> |
 | <img src="assets/captures/dialogue-en.png" width="400" alt="dialogue en anglais"> | <img src="assets/captures/dialogue-fr.png" width="400" alt="dialogue en français"> |
 
+> Colonne de gauche : le jeu d'origine. Colonne de droite : la traduction, avec
+> le **pack HD** de Ryuubu par-dessus — voir [plus bas](#le-rendu-hd-recommandé).
+> La netteté vient de lui ; le français vient de nous.
+
 Les accents ont demandé le plus gros du travail technique : le jeu américain
 n'a **aucun glyphe accentué** — les cases correspondantes de sa police sont
 vides. Il a fallu les dessiner un par un dans les atlas de textures, puis
@@ -36,6 +40,47 @@ régler leurs métriques. Vingt-cinq caractères, validés en jeu.
 <p align="center">
   <img src="assets/captures/accents.png" width="700" alt="texte français accentué en jeu">
 </p>
+
+---
+
+## Le rendu HD, recommandé
+
+Un pack de textures haute définition existe pour ce jeu, et **la traduction est
+faite pour fonctionner avec**. Ce n'est pas notre travail — c'est celui de
+**Ryuubu**, publié sur les forums PPSSPP puis porté sur GameBanana :
+
+**<https://gamebanana.com/mods/309876>** · 207 Mo · 793 textures
+
+Il remplace les polices, l'interface, les cartes de Persona, les portraits, les
+cartes du monde, l'interface de combat, les crédits et les mini-jeux du casino.
+Nous n'avons pas le droit de le redistribuer : il se télécharge chez lui.
+
+### L'installer avec la traduction
+
+Le pack et la traduction touchent **les mêmes textures** — les trois atlas de
+police et quatre écrans. PPSSPP ne lit qu'un seul `textures.ini` par jeu, il
+faut donc les fusionner :
+
+```bash
+python outils/installer_hd.py --source "<dossier HD UI décompressé>"
+```
+
+Le script copie son pack, puis redirige vers nos fichiers français les sept
+textures qui nous concernent — celles-ci sont fournies avec le correctif. Les
+accents sont recomposés sur ses planches HD : elles sont les nôtres à l'échelle
+**×5 exacte**, même grille de 16 colonnes, ce qui rend l'opération possible.
+
+Un fichier français absent laisse la texture anglaise HD en place plutôt que de
+pointer vers le vide — vous ne risquez pas de vous retrouver avec un trou à
+l'écran.
+
+Dans PPSSPP, **fenêtre fermée** : `Remplacement de textures` **ON**,
+`Enregistrement des nouvelles textures` **OFF**.
+
+### Sans le pack HD
+
+La traduction fonctionne très bien sans lui — c'est ainsi qu'elle a été
+développée. Le texte est simplement en résolution d'origine.
 
 ---
 
@@ -112,6 +157,9 @@ SUIVI.md          généré, jamais édité à la main
   l'origine de tout ce qui marche ici. Rien de ce projet n'existerait sans lui.
 - **GarekMallen** — éditeur PT-BR, table d'accents confirmée par recoupement,
   et une interface française écrite pour nous.
+- **Ryuubu** — le pack de textures haute définition, dont vient tout ce que les
+  captures de cette page ont de net. Publié sur les forums PPSSPP, porté sur
+  [GameBanana](https://gamebanana.com/mods/309876).
 - **chenetulipe et l'équipe [P2-FR-IS-PSP](https://github.com/chenetulipe/P2-FR-IS-PSP)** —
   modèle d'organisation.
 - **Atlus / SEGA** — ayants droit du jeu.
