@@ -115,6 +115,12 @@ c'est réglé et validé en jeu. Écris `déjà`, `être`, `ça`, `À`, `Ê`.
 Ce qui passe : lettres accentuées et majuscules accentuées, `« »`, `’`, `…`,
 `—`, la ponctuation courante.
 
+> **Ce qui passe n'est pas ce qu'on écrit.** Le projet emploie les guillemets
+> droits `"`, l'apostrophe droite `'`, `...` en trois points, et **aucune
+> espace avant `!` et `?`**. C'est la convention des lignes déjà validées en
+> jeu — voir [REGLES.md](REGLES.md#la-typographie-du-projet). S'en écarter
+> passe la validation mais produit un jeu typographiquement bancal.
+
 Ce qui ne passe pas : les caractères collés depuis un traitement de texte
 exotique, les emoji, les symboles rares. Le validateur les attrape sous
 `[ENCODAGE]` ou `[GLYPHE]`.

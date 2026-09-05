@@ -53,7 +53,15 @@ la mort d'un dialogue.
 Le champ `locuteur` donne le nom **tel que le jeu l'affiche** : `Mark`,
 `Brown`, `Elly`, `Ayase`, et non les patronymes.
 
-### 5. Inventer la terminologie
+### 5. « Corriger » la typographie
+
+Un modèle veut mettre une espace avant `!` et `?`, des guillemets `« »` et des
+points de suspension `…`, parce que c'est le bon français. **Le projet fait
+l'inverse** : `blague!`, `"comme ça"`, `Héhéhé...`. C'est la convention des
+lignes déjà en jeu, et la cohérence d'un bout à l'autre vaut mieux que la
+perfection par endroits. Détail dans [docs/REGLES.md](docs/REGLES.md).
+
+### 6. Inventer la terminologie
 
 Les noms propres, Personas, sorts et lieux sont fixés dans
 [docs/Dictionnaire.md](docs/Dictionnaire.md). Un modèle traduira « Velvet Room »

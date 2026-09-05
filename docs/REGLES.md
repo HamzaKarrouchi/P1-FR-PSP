@@ -65,17 +65,28 @@ jamais.
 Mark) »). La question n'est pas tranchée : voir le
 [Dictionnaire](Dictionnaire.md), et discuter avant de décider seul.
 
-## La typographie française
+## La typographie du projet
 
-- **Espace insécable** avant `?` `!` `;` — impossible ici, alors on met une
-  espace normale ou rien du tout selon la place disponible. Sois cohérent dans
-  un même fichier.
-- **Guillemets** : `« »` avec une espace à l'intérieur. Les `" "` anglais de
-  l'original se convertissent.
-- **Apostrophe** : `’` de préférence, `'` accepté.
-- **Points de suspension** : `…` compte pour un caractère, `...` pour trois.
-  Utilise `…` quand la place manque.
-- **Tirets de dialogue** : le jeu n'en utilise pas. Ne pas en ajouter.
+Le jeu accepte `« »`, `’`, `…`. **On ne s'en sert pas.** La convention retenue
+est celle des traductions déjà en jeu — elle a été relevée sur les lignes
+validées, pas décidée en théorie :
+
+| | On écrit | On n'écrit pas |
+|---|---|---|
+| Avant `!` et `?` | `blague!` `déjà?` | ~~`blague !`~~ |
+| Guillemets | `"comme ça"` | ~~`« comme ça »`~~ |
+| Apostrophe | `qu'une` | ~~`qu’une`~~ |
+| Points de suspension | `Héhéhé...` | ~~`Héhéhé…`~~ |
+
+Ce n'est pas la typographie française idéale, et c'est assumé : **la cohérence
+d'un bout à l'autre du jeu vaut mieux que la perfection par endroits.** Une
+espace avant chaque `!` coûterait aussi de la place dans des boîtes déjà
+étroites, et l'apostrophe droite se distingue mal de la courbe à l'écran.
+
+**Tirets de dialogue** : le jeu n'en utilise pas. Ne pas en ajouter.
+
+**Les accents, eux, s'écrivent normalement** — `é è ê à â ù û ô î ï ç`, et les
+majuscules accentuées `É À Ê Î Ô Ç`. Elles sont dessinées et validées en jeu.
 
 ## Ce qui ne s'invente pas
 
