@@ -2,575 +2,575 @@
   {
     "id": "E0.BIN:013:0000",
     "en": "coins.{ATTENTE}",
-    "fr": "pièces.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0001",
     "en": "{FERME} > It's a video poker machine.{ATTENTE}",
-    "fr": "{FERME} > Une machine de vidéo poker.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:013:0002",
     "en": "{FERME} > What will you do?{ATTENTE}",
-    "fr": "{FERME} > Que faire?{ATTENTE}",
+    "fr": "",
     "_occurrences": 28
   },
   {
     "id": "E0.BIN:013:0003",
     "en": "(*UNK_0E,0300*){FERME} > What would you like explained?{ATTENTE}",
-    "fr": "(*UNK_0E,0300*){FERME} > Que voulez-vous savoir?{ATTENTE}",
+    "fr": "",
     "_occurrences": 25
   },
   {
     "id": "E0.BIN:013:0004",
     "en": "(*UNK_0E,0500*){FERME}In this version of poker, you can{SAUT}change your hand once.{ATTENTE}",
-    "fr": "(*UNK_0E,0500*){FERME}Dans ce poker, vous pouvez changer{SAUT}votre main une fois.{ATTENTE}",
+    "fr": "",
     "_occurrences": 6
   },
   {
     "id": "E0.BIN:013:0005",
     "en": "{PAGE}You will be dealt five cards at the{SAUT}outset.{ATTENTE}",
-    "fr": "{PAGE}Cinq cartes sont distribuées au{SAUT}départ.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0006",
     "en": "{PAGE}Use the directional buttons to move to{SAUT}a card, and press the ○／×／△／□ buttons{SAUT}to hold that card.{ATTENTE}",
-    "fr": "{PAGE}Utilisez les touches fléchées pour{SAUT}choisir une carte, puis ○／×／△／□{SAUT}pour la garder.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0007",
     "en": "{PAGE}Once you have chosen which cards to{SAUT}hold, press the R button to re-draw{SAUT}the remaining cards.{ATTENTE}",
-    "fr": "{PAGE}Une fois vos cartes gardées, appuyez{SAUT}sur R pour retirer les autres{SAUT}cartes.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0008",
     "en": "{PAGE}If you have a valid hand after the{SAUT}second draw, you win.{ATTENTE}",
-    "fr": "{PAGE}Une main valable au second tirage{SAUT}vous fait gagner.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0009",
     "en": "{PAGE}The higher the bet, the larger the{SAUT}payout for a winning hand will be.{ATTENTE}",
-    "fr": "{PAGE}Plus la mise est grande, plus le gain{SAUT}d'une main gagnante est élevé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0010",
     "en": "{PAGE}If you win, you can bet the amount{SAUT}you just won on an Extra Game.{ATTENTE}",
-    "fr": "{PAGE}Si vous gagnez, vous pouvez miser vos{SAUT}gains sur un Bonus.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0011",
     "en": "{PAGE}If you'd rather not risk it, choose{SAUT}\"Take Winnings.\"{ATTENTE}",
-    "fr": "{PAGE}Pour ne rien risquer, choisissez{SAUT}\"Take Winnings.\"{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0012",
     "en": "{PAGE}There are three types of Extra Game.{ATTENTE}",
-    "fr": "{PAGE}Il existe trois types de Bonus.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0013",
     "en": "{PAGE}Each round you win doubles your{SAUT}earnings.{ATTENTE}",
-    "fr": "{PAGE}Chaque manche gagnée double vos{SAUT}gains.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0014",
     "en": "{PAGE}By winning the Extra Game, you can{SAUT}wager up to 1,000,000 coins.{ATTENTE}",
-    "fr": "{PAGE}Au Bonus, vous pouvez miser jusqu'à{SAUT}1,000,000 pièces.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0015",
     "en": "{PAGE}But be careful; one mistake and you'll{SAUT}lose it all.{ATTENTE}",
-    "fr": "{PAGE}Attention: une erreur et vous perdez{SAUT}tout.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0016",
     "en": "{PAGE}<Extra Game 1>{ATTENTE}",
-    "fr": "{PAGE}<Bonus 1>{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0017",
     "en": "{PAGE}・High & Low{SAUT}One card is shown, with four other{SAUT}cards left face-down.{ATTENTE}",
-    "fr": "{PAGE}・High & Low{SAUT}Une carte est visible, quatre autres{SAUT}sont face cachée.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0018",
     "en": "{PAGE}You must guess which face-down card is{SAUT}higher than the shown card.{ATTENTE}",
-    "fr": "{PAGE}Devinez quelle carte cachée est{SAUT}plus forte que la carte visible.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0019",
     "en": "{PAGE}If the card you draw has the same{SAUT}number as the shown card, the game is{SAUT}a draw and you may try again.{ATTENTE}",
-    "fr": "{PAGE}Si la carte tirée a le même chiffre{SAUT}que la carte visible, il y a égalité{SAUT}et vous rejouez.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0020",
     "en": "{PAGE}<Extra Game 2>{ATTENTE}",
-    "fr": "{PAGE}<Bonus 2>{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0021",
     "en": "{PAGE}・Big & Small{SAUT}One card is shown and one card is{SAUT}face-down.{ATTENTE}",
-    "fr": "{PAGE}・Big & Small{SAUT}Une carte visible, une carte{SAUT}face cachée.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0022",
     "en": "{PAGE}You must guess whether the face-down{SAUT}card is bigger or smaller than the{SAUT}shown card.{ATTENTE}",
-    "fr": "{PAGE}Devinez si la carte cachée est plus{SAUT}forte ou plus faible que la carte{SAUT}visible.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0023",
     "en": "{PAGE}If both cards are equal, you lose,{SAUT}so be careful.{ATTENTE}",
-    "fr": "{PAGE}En cas d'égalité, vous perdez:{SAUT}prudence.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0024",
     "en": "{PAGE}<Extra Game 3>{ATTENTE}",
-    "fr": "{PAGE}<Bonus 3>{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0025",
     "en": "{PAGE}・Red & Black{SAUT}One face-down card is dealt.{ATTENTE}",
-    "fr": "{PAGE}・Red & Black{SAUT}Une seule carte, face cachée.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0026",
     "en": "{PAGE}If you think it's ♥ or ♦, choose Red.{ATTENTE}",
-    "fr": "{PAGE}Vous pensez ♥ ou ♦? Choisissez Red.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0027",
     "en": "{PAGE}If you think it's ♠ or ♣, choose Black.{ATTENTE}",
-    "fr": "{PAGE}Vous pensez ♠ ou ♣? Choisissez Black.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0028",
     "en": "{PAGE}If the color you chose matches the{SAUT}card's color, you win.{ATTENTE}",
-    "fr": "{PAGE}Si la couleur choisie est la bonne,{SAUT}vous gagnez.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0029",
     "en": "{FERME}    【× button】 {ATTENTE}",
-    "fr": "{FERME}    【touche ×】 {ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0030",
     "en": "{PAGE}<Before normal play>{SAUT}Enters one coin.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Mise une pièce.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0031",
     "en": "{PAGE}<During normal play>{SAUT}Hold or un-hold a card.{ATTENTE}",
-    "fr": "{PAGE}<Partie en cours>{SAUT}Garder ou non une carte.{ATTENTE}",
+    "fr": "",
     "_occurrences": 36
   },
   {
     "id": "E0.BIN:013:0032",
     "en": "{PAGE}<After winning hand>{SAUT}Try the Extra Game High & Low.{ATTENTE}",
-    "fr": "{PAGE}<Main gagnante>{SAUT}Tenter le Bonus High & Low.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0033",
     "en": "{PAGE}<During Extra Game>{SAUT}Select a card to turn over.{ATTENTE}",
-    "fr": "{PAGE}<Bonus en cours>{SAUT}Choisir la carte à retourner.{ATTENTE}",
+    "fr": "",
     "_occurrences": 36
   },
   {
     "id": "E0.BIN:013:0034",
     "en": "{PAGE}<After winning Extra Game>{SAUT}Bet your winnings on another try.{ATTENTE}",
-    "fr": "{PAGE}<Bonus gagné>{SAUT}Remiser ses gains pour un tour.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0035",
     "en": "{PAGE} 【○ button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche ○】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 36
   },
   {
     "id": "E0.BIN:013:0036",
     "en": "{PAGE}<Before normal play>{SAUT}Cancel a coin that's been bet.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Retirer une pièce misée.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0038",
     "en": "{PAGE}<After winning hand>{SAUT}Decline the Extra Game and collect{SAUT}your winnings.{ATTENTE}",
-    "fr": "{PAGE}<Main gagnante>{SAUT}Refuser le Bonus et empocher{SAUT}ses gains.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0040",
     "en": "{PAGE}<After winning Extra Game>{SAUT}End the Extra game and collect your{SAUT}winnings.{ATTENTE}",
-    "fr": "{PAGE}<Bonus gagné>{SAUT}Arrêter le Bonus et empocher ses{SAUT}gains.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0041",
     "en": "{PAGE} 【△ button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche △】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0042",
     "en": "{PAGE}<Before normal play>{SAUT}Bet the maximum total possible.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Miser le maximum possible.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0044",
     "en": "{PAGE}<After winning hand>{SAUT}Try the Extra Game Big & Small.{ATTENTE}",
-    "fr": "{PAGE}<Main gagnante>{SAUT}Tenter le Bonus Big & Small.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0046",
     "en": "{PAGE}<After winning Extra Game>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Bonus gagné>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0047",
     "en": "{PAGE} 【□ button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche □】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0048",
     "en": "{PAGE}<Before normal play>{SAUT}Reset bet amount to 0 coins.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Remettre la mise à 0 pièce.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0050",
     "en": "{PAGE}<After winning hand>{SAUT}Try the Extra Game Red & Black.{ATTENTE}",
-    "fr": "{PAGE}<Main gagnante>{SAUT}Tenter le Bonus Red & Black.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0053",
     "en": "{PAGE} 【R button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche R】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0054",
     "en": "{PAGE}<Before normal play>{SAUT}Starts the game if a bet has been placed.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Lance la partie si une mise est faite.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0055",
     "en": "{PAGE}<During normal play>{SAUT}Re-draw cards that are not being held.{ATTENTE}",
-    "fr": "{PAGE}<Partie en cours>{SAUT}Retire les cartes non gardées.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0056",
     "en": "{PAGE}<After winning hand>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Main gagnante>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 27
   },
   {
     "id": "E0.BIN:013:0057",
     "en": "{PAGE}<During Extra Game>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Bonus en cours>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0059",
     "en": "{PAGE} 【L button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche L】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0060",
     "en": "{PAGE}<Before normal play>{SAUT}Ends the game if no bet is placed.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Quitte la partie sans mise.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0061",
     "en": "{PAGE}<During normal play>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Partie en cours>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 72
   },
   {
     "id": "E0.BIN:013:0065",
     "en": "{PAGE} 【Directional buttons】 {ATTENTE}",
-    "fr": "{PAGE} 【Touches fléchées】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0066",
     "en": "{PAGE}<Before normal play>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Avant la partie>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 17
   },
   {
     "id": "E0.BIN:013:0067",
     "en": "{PAGE}<During normal play>{SAUT}Select cards.{ATTENTE}",
-    "fr": "{PAGE}<Partie en cours>{SAUT}Choix des cartes.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0069",
     "en": "{PAGE}<During Extra Game>{SAUT}Select a card.{ATTENTE}",
-    "fr": "{PAGE}<Bonus en cours>{SAUT}Choix d'une carte.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0071",
     "en": "{FERME}   > Two pair{SAUT}Two sets of two cards of the same{SAUT}number.{ATTENTE}",
-    "fr": "{FERME}   > Double paire{SAUT}Deux fois deux cartes de même{SAUT}valeur.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0072",
     "en": "{PAGE}> Three of a kind{SAUT}A set of three cards of the same{SAUT}number.{ATTENTE}",
-    "fr": "{PAGE}> Brelan{SAUT}Trois cartes de la même{SAUT}valeur.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0073",
     "en": "{PAGE}> Straight{SAUT}Five numbers in sequence, of any suit.{ATTENTE}",
-    "fr": "{PAGE}> Quinte{SAUT}Cinq valeurs qui se suivent.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0074",
     "en": "{PAGE}> Flush{SAUT}Five cards of the same suit.{ATTENTE}",
-    "fr": "{PAGE}> Couleur{SAUT}Cinq cartes de la même couleur.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0075",
     "en": "{PAGE}> Full house{SAUT}Three of a kind together with a pair.{ATTENTE}",
-    "fr": "{PAGE}> Full{SAUT}Un brelan et une paire.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0076",
     "en": "{PAGE}> Four of a kind{SAUT}A set of four cards of the same{SAUT}number.{ATTENTE}",
-    "fr": "{PAGE}> Carré{SAUT}Quatre cartes de la même{SAUT}valeur.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0077",
     "en": "{PAGE}> Straight flush{SAUT}A Straight with all five cards in{SAUT}the same suit.{ATTENTE}",
-    "fr": "{PAGE}> Quinte flush{SAUT}Une Quinte dont les cinq cartes{SAUT}ont la même couleur.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0078",
     "en": "{PAGE}> Five of a kind{SAUT}Four of a kind with a Joker for the{SAUT}fifth card.{ATTENTE}",
-    "fr": "{PAGE}> Cinq identiques{SAUT}Un Carré plus un Joker en{SAUT}cinquième carte.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0079",
     "en": "{PAGE}> Royal flush{SAUT}A straight flush with 10-J-Q-K-A.{ATTENTE}",
-    "fr": "{PAGE}> Quinte royale{SAUT}Une Quinte flush en 10-J-Q-K-A.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0080",
     "en": "{PAGE}【Special cases】 {ATTENTE}",
-    "fr": "{PAGE}【Cas spéciaux】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0081",
     "en": "{PAGE}-In this version of poker, a pair is{SAUT}not a winning hand.{ATTENTE}",
-    "fr": "{PAGE}-Dans ce poker, une simple paire{SAUT}n'est pas gagnante.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0082",
     "en": "{PAGE}-In a straight, an ace is not lower{SAUT}than a 2.{ATTENTE}",
-    "fr": "{PAGE}-Dans une Quinte, l'as n'est pas{SAUT}sous le 2.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0083",
     "en": "{PAGE}-The Joker is a wild card that can be{SAUT}used as part of any winning hand.{ATTENTE}",
-    "fr": "{PAGE}-Le Joker remplace n'importe quelle{SAUT}carte dans une main gagnante.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0084",
     "en": "{FERME} (*SCENE_LOAD*) [2033] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [3034] (*SCENE_LOAD*) [3833] (*SCENE_INIT*) (*WAIT_INPUT*) [7834] (*SET_ANIM_LAYER*) [6833] (*SET_ANIM_LAYER*)Í[7833] (*SET_ANIM_LAYER*)β[E833] (*SET_ANIM_LAYER*)[0300]》 (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E400](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][D833] (*SCENE_INIT*)   (*WAIT_INPUT*) [F034] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*WAIT_INPUT*) [B848] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*WAIT_INPUT*) [D84D] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*SCENE_LOAD*) [3833] (*SCENE_INIT*)   (*WAIT_INPUT*) [0834] (*SCENE_LOAD*) [3833] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) You have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*SCENE_LOAD*) [2033] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [3034] (*SCENE_LOAD*) [3833] (*SCENE_INIT*) (*WAIT_INPUT*) [7834] (*SET_ANIM_LAYER*) [6833] (*SET_ANIM_LAYER*)Í[7833] (*SET_ANIM_LAYER*)β[E833] (*SET_ANIM_LAYER*)[0300]》 (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E400](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2600](*SET_ANIM_LAYER*)[0300][D833] (*SCENE_INIT*)   (*WAIT_INPUT*) [F034] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*WAIT_INPUT*) [B848] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*WAIT_INPUT*) [D84D] (*SCENE_LOAD*) [7833] (*SCENE_INIT*)   (*SCENE_LOAD*) [3833] (*SCENE_INIT*)   (*WAIT_INPUT*) [0834] (*SCENE_LOAD*) [3833] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0085",
     "en": "{FERME} > It's a video blackjack machine.{ATTENTE}",
-    "fr": "{FERME} > Une machine de vidéo blackjack.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0088",
     "en": "(*UNK_0E,0500*){FERME}This is a one-on-one-game of blackjack{SAUT}against the dealer.{ATTENTE}",
-    "fr": "(*UNK_0E,0500*){FERME}Un blackjack en tête-à-tête{SAUT}contre le croupier.{ATTENTE}",
+    "fr": "",
     "_occurrences": 6
   },
   {
     "id": "E0.BIN:013:0089",
     "en": "{PAGE}The computer acts as the dealer.{ATTENTE}",
-    "fr": "{PAGE}L'ordinateur est le croupier.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0090",
     "en": "{PAGE}Two cards are dealt to the player and{SAUT}the dealer at the outset.{ATTENTE}",
-    "fr": "{PAGE}Deux cartes sont données au joueur et{SAUT}au croupier au départ.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0091",
     "en": "{PAGE}One of the dealer's two cards will be{SAUT}kept face-down.{ATTENTE}",
-    "fr": "{PAGE}L'une des deux cartes du croupier{SAUT}reste face cachée.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0092",
     "en": "{PAGE}If the dealer's shown card is an ace,{SAUT}you may place an insurance bet.{ATTENTE}",
-    "fr": "{PAGE}Si le croupier montre un as, vous{SAUT}pouvez prendre une assurance.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0093",
     "en": "{PAGE}The insurance mechanic will be explained{SAUT}at the end of these rules.{ATTENTE}",
-    "fr": "{PAGE}L'assurance est expliquée à la fin{SAUT}de ces règles.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0094",
     "en": "{PAGE}First, compare your cards to the dealer's{SAUT}to decide whether to draw another card.{ATTENTE}",
-    "fr": "{PAGE}Comparez d'abord vos cartes à celles du{SAUT}croupier pour décider de tirer ou non.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0095",
     "en": "{PAGE}If you decide to draw, select Hit.{SAUT}If not, select Stand.{ATTENTE}",
-    "fr": "{PAGE}Pour tirer, choisissez Hit.{SAUT}Sinon, choisissez Stand.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0096",
     "en": "{PAGE}You may draw up to 7 cards as long as{SAUT}their total value remains 21 or lower.{ATTENTE}",
-    "fr": "{PAGE}Vous pouvez tirer jusqu'à 7 cartes{SAUT}tant que le total ne dépasse pas 21.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0097",
     "en": "{PAGE}The following circumstances will result{SAUT}in an automatic Stand:{ATTENTE}",
-    "fr": "{PAGE}Dans ces cas, un Stand automatique{SAUT}est déclenché:{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0098",
     "en": "{PAGE}-Your initial draw is blackjack.{SAUT}-The total of the cards drawn after{SAUT}Hitting is 21.{ATTENTE}",
-    "fr": "{PAGE}-Votre main de départ est un blackjack.{SAUT}-Le total de vos cartes atteint 21{SAUT}après un Hit.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0099",
     "en": "{PAGE}-You draw seven cards.{SAUT}-The cards' total value surpasses 21,{SAUT}resulting in a bust.{ATTENTE}",
-    "fr": "{PAGE}-Vous tirez sept cartes.{SAUT}-Le total de vos cartes dépasse 21:{SAUT}vous sautez.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0100",
     "en": "{PAGE}2 through 10 are face value. J through{SAUT}K are worth 10, and A is worth either{SAUT}1 or 11.{ATTENTE}",
-    "fr": "{PAGE}Du 2 au 10, valeur du chiffre. J, Q{SAUT}et K valent 10, et l'As vaut{SAUT}1 ou 11.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0101",
     "en": "{PAGE}After the player Stands, the dealer{SAUT}will draw cards.{ATTENTE}",
-    "fr": "{PAGE}Après votre Stand, le croupier{SAUT}tire à son tour.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0102",
     "en": "{PAGE}If your total is larger than the{SAUT}dealer's without surpassing 21...{ATTENTE}",
-    "fr": "{PAGE}Si votre total bat celui du croupier{SAUT}sans dépasser 21...{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0103",
     "en": "{SAUT}Or if the dealer busts, you win.{ATTENTE}",
-    "fr": "{SAUT}Ou si le croupier saute: gagné.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0104",
     "en": "{PAGE}If you and the dealer tie, or if both{SAUT}of you have blackjack, it is a draw,{SAUT}and your bet will be returned to you.{ATTENTE}",
-    "fr": "{PAGE}En cas d'égalité, ou si vous avez{SAUT}tous deux un blackjack, la partie est{SAUT}nulle et votre mise vous est rendue.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0105",
     "en": "{PAGE}Besides Hit and Stand, the player can{SAUT}also choose to Double Down or Split.{ATTENTE}",
-    "fr": "{PAGE}Outre Hit et Stand, vous pouvez aussi{SAUT}choisir Double Down ou Split.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0106",
     "en": "{PAGE} <D. Down> {ATTENTE}",
-    "fr": "{PAGE} <D. Down> {ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0107",
     "en": "{PAGE}This is only an option while you still{SAUT}have two cards in your hand.{ATTENTE}",
-    "fr": "{PAGE}Possible seulement tant que vous{SAUT}n'avez que deux cartes en main.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0108",
     "en": "{PAGE}You may double your bet under the{SAUT}condition that you only Hit once.{ATTENTE}",
-    "fr": "{PAGE}Vous doublez la mise, à condition{SAUT}de ne tirer qu'une carte.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0109",
     "en": "{PAGE}This option will be unavailable if you{SAUT}have fewer coins than the bet would be.{ATTENTE}",
-    "fr": "{PAGE}Option indisponible si vous n'avez{SAUT}pas assez de pièces pour la mise.{ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0110",
     "en": "{PAGE}If you Double Down and beat the dealer,{SAUT}your winnings will be doubled.{ATTENTE}",
-    "fr": "{PAGE}Si le Double Down bat le croupier,{SAUT}vos gains sont doublés.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0111",
     "en": "{PAGE}<Split>{ATTENTE}",
-    "fr": "{PAGE}<Split>{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0112",
     "en": "{PAGE}You may Split if both of your initial{SAUT}cards are the same value.{ATTENTE}",
-    "fr": "{PAGE}Split possible si vos deux premières{SAUT}cartes ont la même valeur.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0113",
     "en": "{PAGE}Your hand will be split, with a second{SAUT}bet covering the other hand.{ATTENTE}",
-    "fr": "{PAGE}Votre main est séparée en deux, et{SAUT}une seconde mise couvre l'autre.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0115",
     "en": "{PAGE}Even after a Split, you may Double Down{SAUT}on either or both hands.{ATTENTE}",
-    "fr": "{PAGE}Après un Split, Double Down reste{SAUT}possible sur l'une ou l'autre.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   }
 ]

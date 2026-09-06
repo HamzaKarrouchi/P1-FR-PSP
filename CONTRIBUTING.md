@@ -78,9 +78,21 @@ du travail : c'est souvent là que la traduction devient bonne.
 ### 3. Écris un vrai français
 
 Les accents fonctionnent — `é è ê à â ù û ô î ï ç` et les majuscules
-accentuées. Les guillemets français `« »`, les apostrophes, les points de
-suspension aussi. **La ponctuation aussi** : `?`, `!`, `…` se tapent
-normalement. Écris du français, tout simplement.
+accentuées `É À Ê Î Ô Ç`. Écris-les normalement.
+
+**En revanche le projet a sa propre typographie**, et elle n'est pas celle du
+français soigné. C'est celle des lignes déjà validées en jeu :
+
+| | On écrit | Pas |
+|---|---|---|
+| avant `!` et `?` | `blague!` `déjà?` | ~~`blague !`~~ |
+| guillemets | `"comme ça"` | ~~`« comme ça »`~~ |
+| apostrophe | `qu'une` | ~~`qu’une`~~ |
+| suspension | `Héhéhé...` | ~~`Héhéhé…`~~ |
+
+La cohérence d'un bout à l'autre du jeu vaut mieux que la perfection par
+endroits, et une espace avant chaque `!` coûte de la place dans des boîtes déjà
+étroites. Le détail est dans [docs/REGLES.md](docs/REGLES.md#la-typographie-du-projet).
 
 La seule chose à recopier telle quelle, ce sont les codes entre crochets —
 `[0300]`, `[1E00]`… Ce sont des caractères que l'extracteur n'a pas su nommer.

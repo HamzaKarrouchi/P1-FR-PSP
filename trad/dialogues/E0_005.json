@@ -2,572 +2,572 @@
   {
     "id": "E0.BIN:013:0116",
     "en": "{PAGE}However, if you split, even with a{SAUT}combination of A with 10 through K...{ATTENTE}",
-    "fr": "{PAGE}Mais après un Split, même avec un A{SAUT}et une carte de 10 à K...{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0117",
     "en": "{SAUT}It will be counted as 21 without being{SAUT}considered blackjack.{ATTENTE}",
-    "fr": "{SAUT}Le total compte pour 21, mais pas{SAUT}comme un blackjack.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0118",
     "en": "{PAGE}{SAUT}【About insurance】{ATTENTE}",
-    "fr": "{PAGE}{SAUT}【L'assurance】{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0119",
     "en": "{PAGE}An insurance bet is much as it sounds...{ATTENTE}",
-    "fr": "{PAGE}L'assurance porte bien son nom...{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0120",
     "en": "{SAUT}It can only be placed if the dealer's{SAUT}first card is an ace.{ATTENTE}",
-    "fr": "{SAUT}Uniquement si la première carte du{SAUT}croupier est un as.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0121",
     "en": "{PAGE}Select Yes to place an insurance bet,{SAUT}and No to decline.{ATTENTE}",
-    "fr": "{PAGE}Choisissez Yes pour vous assurer,{SAUT}No pour refuser.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0122",
     "en": "{PAGE}If you select No, the game progresses{SAUT}normally.{ATTENTE}",
-    "fr": "{PAGE}Avec No, la partie continue{SAUT}normalement.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0123",
     "en": "{PAGE}If you select Yes, you must first{SAUT}pay half your bet as insurance.{ATTENTE}",
-    "fr": "{PAGE}Avec Yes, vous payez d'abord la{SAUT}moitié de votre mise en assurance.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0124",
     "en": "{SAUT}If the dealer's second card is 10{SAUT}through K, forming blackjack...{ATTENTE}",
-    "fr": "{SAUT}Si la seconde carte du croupier va de{SAUT}10 à K, formant un blackjack...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0125",
     "en": "{SAUT}The initial bet is forfeited.{SAUT}However...{ATTENTE}",
-    "fr": "{SAUT}La mise de départ est perdue.{SAUT}Cependant...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0126",
     "en": "{SAUT}The insurance bet will pay out at{SAUT}3 to 1, and the game will end.{ATTENTE}",
-    "fr": "{SAUT}L'assurance rapporte 3 contre 1,{SAUT}et la partie s'arrête.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0127",
     "en": "{PAGE}If the dealer's card is A through 9,{SAUT}the insurance is lost and the game{SAUT}progresses normally.{ATTENTE}",
-    "fr": "{PAGE}Si la carte du croupier va de A à 9,{SAUT}l'assurance est perdue et la partie{SAUT}continue.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0128",
     "en": "{FERME} 【× button】 {ATTENTE}",
-    "fr": "{FERME} 【touche ×】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0129",
     "en": "{PAGE}<Before starting>{SAUT}Add a coin.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Ajoute une pièce.{ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0130",
     "en": "{PAGE}<During play>{SAUT}Call Hit to draw a card.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Hit: tirer une carte.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0132",
     "en": "{PAGE}<Before starting>{SAUT}Remove a coin.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Retire une pièce.{ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0133",
     "en": "{PAGE}<During play>{SAUT}Call Stand to end your turn.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Stand: finir son tour.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0135",
     "en": "{PAGE}<Before starting>{SAUT}Bet the maximum total possible.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Mise le maximum possible.{ATTENTE}",
+    "fr": "",
     "_occurrences": 19
   },
   {
     "id": "E0.BIN:013:0136",
     "en": "{PAGE}<During play>{SAUT}Call Double Down.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Faire Double Down.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0138",
     "en": "{PAGE}<Before starting>{SAUT}Reset bet amount to 0 coins.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Remet la mise à 0 pièce.{ATTENTE}",
+    "fr": "",
     "_occurrences": 11
   },
   {
     "id": "E0.BIN:013:0139",
     "en": "{PAGE}<During play>{SAUT}Call Split when possible.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Faire Split si possible.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0141",
     "en": "{PAGE}<Before starting>{SAUT}Starts the game if a bet has been placed.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Lance la partie si une mise est faite.{ATTENTE}",
+    "fr": "",
     "_occurrences": 27
   },
   {
     "id": "E0.BIN:013:0142",
     "en": "{PAGE}<During play>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 63
   },
   {
     "id": "E0.BIN:013:0144",
     "en": "{PAGE}<Before starting>{SAUT}Ends the game if no bet has been placed.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Quitte la partie sans mise.{ATTENTE}",
+    "fr": "",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:013:0147",
     "en": "{PAGE}<Before starting>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 79
   },
   {
     "id": "E0.BIN:013:0149",
     "en": "{FERME}> Winning the game{SAUT}If your hand is larger than the dealer's{SAUT}without going over 21...{ATTENTE}",
-    "fr": "{FERME}> Gagner la partie{SAUT}Si votre main bat celle du croupier{SAUT}sans dépasser 21...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0150",
     "en": "{PAGE}Or if the dealer busts, you win.{ATTENTE}",
-    "fr": "{PAGE}Ou si le croupier saute: gagné.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0151",
     "en": "{PAGE}> Blackjack{SAUT}An A combined with a second card of{SAUT}10 through K. (Automatically Stands.){ATTENTE}",
-    "fr": "{PAGE}> Blackjack{SAUT}Un A avec une seconde carte de{SAUT}10 à K. (Stand automatique.){ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0152",
     "en": "{PAGE}If you chose to Split, this will not{SAUT}be counted as blackjack but is 21.{ATTENTE}",
-    "fr": "{PAGE}Après un Split, cela ne compte pas{SAUT}comme un blackjack, mais vaut 21.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0153",
     "en": "{PAGE}> 6 Cards{SAUT}If you choose Stand when you've drawn{SAUT}six cards without surpassing 21.{ATTENTE}",
-    "fr": "{PAGE}> 6 cartes{SAUT}Faire Stand après avoir tiré six{SAUT}cartes sans dépasser 21.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0154",
     "en": "{PAGE}> 7 Cards{SAUT}If you've drawn seven cards without{SAUT}surpassing 21. (Automatically Stands.){ATTENTE}",
-    "fr": "{PAGE}> 7 cartes{SAUT}Avoir tiré sept cartes sans{SAUT}dépasser 21. (Stand automatique.){ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0155",
     "en": "{PAGE}> ♥／♣／♦ A & J{SAUT}If you have blackjack of A and J{SAUT}and the cards' suit is ♥, ♣, or ♦.{ATTENTE}",
-    "fr": "{PAGE}> ♥／♣／♦ A & J{SAUT}Blackjack formé d'un A et d'un J{SAUT}dont la couleur est ♥, ♣ ou ♦.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0156",
     "en": "{PAGE}>♠ A & J{SAUT}If you have blackjack of A and J{SAUT}and the cards' suit is ♠.{ATTENTE}",
-    "fr": "{PAGE}>♠ A & J{SAUT}Blackjack formé d'un A et d'un J{SAUT}dont la couleur est ♠.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0157",
     "en": "{PAGE}> 777{SAUT}When both initial cards are 7s and you{SAUT}draw a third 7 after Hitting.{ATTENTE}",
-    "fr": "{PAGE}> 777{SAUT}Deux 7 au départ, puis un{SAUT}troisième 7 après un Hit.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0158",
     "en": "{FERME}(*SCENE_LOAD*) [3053] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [5854] (*SCENE_LOAD*) [4853] (*SCENE_INIT*) (*WAIT_INPUT*) [8854] (*SET_ANIM_LAYER*) [7853] (*SET_ANIM_LAYER*)Í[8853] (*SET_ANIM_LAYER*)β[F853] (*SET_ANIM_LAYER*)[0300][1054] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E800](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][E853] (*SCENE_INIT*)   (*WAIT_INPUT*) & (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*WAIT_INPUT*) [A05D] (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*WAIT_INPUT*) [6063] (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*SCENE_LOAD*) [4853] (*SCENE_INIT*)   (*WAIT_INPUT*) [1854] (*SCENE_LOAD*) [4853] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) You currently have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}(*SCENE_LOAD*) [3053] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [5854] (*SCENE_LOAD*) [4853] (*SCENE_INIT*) (*WAIT_INPUT*) [8854] (*SET_ANIM_LAYER*) [7853] (*SET_ANIM_LAYER*)Í[8853] (*SET_ANIM_LAYER*)β[F853] (*SET_ANIM_LAYER*)[0300][1054] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[E800](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2700](*SET_ANIM_LAYER*)[0300][E853] (*SCENE_INIT*)   (*WAIT_INPUT*) & (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*WAIT_INPUT*) [A05D] (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*WAIT_INPUT*) [6063] (*SCENE_LOAD*) [8853] (*SCENE_INIT*)   (*SCENE_LOAD*) [4853] (*SCENE_INIT*)   (*WAIT_INPUT*) [1854] (*SCENE_LOAD*) [4853] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0159",
     "en": "{FERME}   > It's a slot machine.{ATTENTE}",
-    "fr": "{FERME}   > Une machine à sous.{ATTENTE}",
+    "fr": "",
     "_occurrences": 5
   },
   {
     "id": "E0.BIN:013:0160",
     "en": "{FERME}> What will you do?{ATTENTE}",
-    "fr": "{FERME}> Que faire?{ATTENTE}",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:013:0162",
     "en": "(*UNK_0E,0600*){FERME}This slot machine consists of 5{SAUT}big reels and 16 small reels.{ATTENTE}",
-    "fr": "(*UNK_0E,0600*){FERME}Cette machine a 5 grands rouleaux{SAUT}et 16 petits.{ATTENTE}",
+    "fr": "",
     "_occurrences": 6
   },
   {
     "id": "E0.BIN:013:0163",
     "en": "{PAGE}The number of ways to line up a win{SAUT}increases with the size of your bet.{ATTENTE}",
-    "fr": "{PAGE}Plus la mise est grande, plus il y a{SAUT}de façons de gagner.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0164",
     "en": "{PAGE}You can bet up to 8 coins.{ATTENTE}",
-    "fr": "{PAGE}Mise maximale: 8 pièces.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0165",
     "en": "{PAGE}Bets 1, 2, 5, and 6 are for the{SAUT}horizontal lines,while 3, 4, 7,{SAUT}and 8 are for the vertical lines.{ATTENTE}",
-    "fr": "{PAGE}Les mises 1, 2, 5 et 6 valent pour{SAUT}les lignes horizontales, et 3, 4, 7{SAUT}et 8 pour les verticales.{ATTENTE}",
+    "fr": "",
     "_occurrences": 8
   },
   {
     "id": "E0.BIN:013:0166",
     "en": "{PAGE}Bets 5 through 8 also add two ways{SAUT}to line up a win per bet.{ATTENTE}",
-    "fr": "{PAGE}Les mises 5 à 8 ajoutent chacune{SAUT}deux façons de gagner.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0167",
     "en": "{PAGE}When the game begins, the big and small{SAUT}reels will all start to spin.{ATTENTE}",
-    "fr": "{PAGE}Au lancement, grands et petits{SAUT}rouleaux se mettent à tourner.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0168",
     "en": "{PAGE}Once the reels have spun enough,{SAUT}the small reels will stop. (The big{SAUT}reels will continue to spin.){ATTENTE}",
-    "fr": "{PAGE}Après quelques tours, les petits{SAUT}rouleaux s'arrêtent. (Les grands{SAUT}continuent de tourner.){ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0169",
     "en": "{PAGE}Press the ○, ×, △, and □ buttons to{SAUT}rotate the corresponding reels.{ATTENTE}",
-    "fr": "{PAGE}Les touches ○, ×, △ et □ font{SAUT}tourner les rouleaux voulus.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0170",
     "en": "{PAGE}Adjust the small reels so that it will{SAUT}be easier to line up a pattern.{ATTENTE}",
-    "fr": "{PAGE}Réglez les petits rouleaux pour{SAUT}aligner plus facilement un motif.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0171",
     "en": "{PAGE}When you have finished, press the{SAUT}R button to stop the big reels.{ATTENTE}",
-    "fr": "{PAGE}Une fois prêt, appuyez sur R pour{SAUT}arrêter les grands rouleaux.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0172",
     "en": "{PAGE}If three or more of a symbol are lined{SAUT}up along one of your bets, you win.{ATTENTE}",
-    "fr": "{PAGE}Trois symboles identiques ou plus{SAUT}alignés sur une de vos mises: gagné.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0173",
     "en": "{PAGE}Up to five symbols can cross bets 1{SAUT}through 4, and up to four can cross{SAUT}bets 5 through 8.{ATTENTE}",
-    "fr": "{PAGE}Jusqu'à cinq symboles peuvent croiser{SAUT}les mises 1 à 4, et quatre au plus{SAUT}les mises 5 à 8.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0174",
     "en": "{PAGE}When the symbols on the big reels match{SAUT}diagonally, in all four corners, or all{SAUT}five at once...{ATTENTE}",
-    "fr": "{PAGE}Si les symboles des grands rouleaux{SAUT}s'alignent en diagonale, aux quatre{SAUT}coins, ou les cinq...{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0175",
     "en": "{SAUT}You win regardless of which lines you{SAUT}bet on.{ATTENTE}",
-    "fr": "{SAUT}Vous gagnez quelles que soient les{SAUT}lignes misées.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0176",
     "en": "{PAGE}Earnings for hits on the big reels{SAUT}increase according to the number of{SAUT}bets you made.{ATTENTE}",
-    "fr": "{PAGE}Les gains sur les grands rouleaux{SAUT}augmentent avec le nombre de mises{SAUT}engagées.{ATTENTE}",
+    "fr": "",
     "_occurrences": 8
   },
   {
     "id": "E0.BIN:013:0177",
     "en": "{FERME}  【× Button】 {ATTENTE}",
-    "fr": "{FERME}  【touche ×】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 7
   },
   {
     "id": "E0.BIN:013:0179",
     "en": "{PAGE}<During play>{SAUT}Rotate the four small reels to the{SAUT}bottom.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Tourne les petits rouleaux{SAUT}vers le bas.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0180",
     "en": "{PAGE} 【○ Button】 {ATTENTE}",
-    "fr": "{PAGE} 【touche ○】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0182",
     "en": "{PAGE}<During play>{SAUT}Rotate the four small reels to the{SAUT}right.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Tourne les petits rouleaux{SAUT}vers la droite.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0185",
     "en": "{PAGE}<During play>{SAUT}Rotate the four small reels to the top.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Tourne les petits rouleaux vers le haut.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0188",
     "en": "{PAGE}<During play>{SAUT}Rotate the four small reels to the left.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Tourne les petits rouleaux à gauche.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0191",
     "en": "{PAGE}<During play>{SAUT}Stop the big reels.{ATTENTE}",
-    "fr": "{PAGE}<En partie>{SAUT}Arrête les rouleaux.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0198",
     "en": "{FERME}  Different slot machines have different{SAUT}patterns and odds.{ATTENTE}",
-    "fr": "{FERME}  Chaque machine a ses propres motifs{SAUT}et ses propres gains.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0199",
     "en": "{PAGE}It's best to try out different machines{SAUT}rather than concentrating on one.{ATTENTE}",
-    "fr": "{PAGE}Mieux vaut essayer plusieurs machines{SAUT}que s'acharner sur une seule.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0200",
     "en": "{PAGE}Be careful not to forget to rotate the{SAUT}small reels during the game.{ATTENTE}",
-    "fr": "{PAGE}N'oubliez pas de tourner les petits{SAUT}rouleaux pendant la partie.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0201",
     "en": "{SAUT}Careful adjustment of the small reels{SAUT}is key to maximizing your payout.{ATTENTE}",
-    "fr": "{SAUT}Bien régler les petits rouleaux est{SAUT}la clé des plus gros gains.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0202",
     "en": "{PAGE}If you begin the game with fewer bets,{SAUT}you may face greater losses when it{SAUT}matters most.{ATTENTE}",
-    "fr": "{PAGE}Si vous lancez la partie avec peu de{SAUT}mises, vous perdrez gros au pire{SAUT}moment.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0203",
     "en": "{SAUT}For best results, always play the game{SAUT}with the full eight bets.{ATTENTE}",
-    "fr": "{SAUT}Le mieux est de toujours jouer avec{SAUT}les huit mises.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0204",
     "en": "{FERME}(*SCENE_LOAD*) [D066] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [E067] (*SCENE_LOAD*) [E866] (*SCENE_INIT*) (*WAIT_INPUT*) [1868] (*SET_ANIM_LAYER*) [1867] (*SET_ANIM_LAYER*)Í[2867] (*SET_ANIM_LAYER*)β[9867] (*SET_ANIM_LAYER*)[0300][B067] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F800](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2900](*SET_ANIM_LAYER*)[0300][8867] (*SCENE_INIT*)   (*WAIT_INPUT*) [9068] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*WAIT_INPUT*) [486D] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*WAIT_INPUT*) [4077] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*SCENE_LOAD*) [E866] (*SCENE_INIT*)   (*WAIT_INPUT*) [B867] (*SCENE_LOAD*) [E866] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) You have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}(*SCENE_LOAD*) [D066] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [E067] (*SCENE_LOAD*) [E866] (*SCENE_INIT*) (*WAIT_INPUT*) [1868] (*SET_ANIM_LAYER*) [1867] (*SET_ANIM_LAYER*)Í[2867] (*SET_ANIM_LAYER*)β[9867] (*SET_ANIM_LAYER*)[0300][B067] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)[F800](*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2900](*SET_ANIM_LAYER*)[0300][8867] (*SCENE_INIT*)   (*WAIT_INPUT*) [9068] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*WAIT_INPUT*) [486D] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*WAIT_INPUT*) [4077] (*SCENE_LOAD*) [2867] (*SCENE_INIT*)   (*SCENE_LOAD*) [E866] (*SCENE_INIT*)   (*WAIT_INPUT*) [B867] (*SCENE_LOAD*) [E866] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0205",
     "en": "{FERME} > It's a video dice game.{ATTENTE}",
-    "fr": "{FERME} > Un jeu de dés vidéo.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0208",
     "en": "(*UNK_0E,0600*){FERME}In this game, two dice are rolled on{SAUT}screen, and you predict the outcome.{ATTENTE}",
-    "fr": "(*UNK_0E,0600*){FERME}Deux dés sont lancés à l'écran, et{SAUT}vous devez prédire le résultat.{ATTENTE}",
+    "fr": "",
     "_occurrences": 6
   },
   {
     "id": "E0.BIN:013:0209",
     "en": "{PAGE}You can bet on eleven rolls, from 2{SAUT}to 12, and you may bet on as many rolls{SAUT}per game as you wish.{ATTENTE}",
-    "fr": "{PAGE}Onze résultats sont pariables, de 2{SAUT}à 12, et vous pouvez en miser autant{SAUT}que vous voulez.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0210",
     "en": "{SAUT}However, you may bet a maximum of 100{SAUT}coins on any given roll.{ATTENTE}",
-    "fr": "{SAUT}Mais la mise est plafonnée à 100{SAUT}pièces par résultat.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0211",
     "en": "{PAGE}If you bet on the correct roll, a{SAUT}multiplier determines your winnings.{ATTENTE}",
-    "fr": "{PAGE}Si vous visez juste, un multiplicateur{SAUT}fixe vos gains.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0212",
     "en": "{PAGE}You can also stake your winnings on{SAUT}an Extra Game.{ATTENTE}",
-    "fr": "{PAGE}Vous pouvez aussi remiser vos gains{SAUT}sur un Bonus.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0213",
     "en": "{PAGE}In the Extra Game, you do not predict{SAUT}the outcome of the roll...{ATTENTE}",
-    "fr": "{PAGE}Au Bonus, vous ne prédisez plus{SAUT}le résultat du lancer...{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0214",
     "en": "{SAUT}Instead, any roll other than 7 wins.{ATTENTE}",
-    "fr": "{SAUT}Tout résultat sauf 7 est gagnant.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0215",
     "en": "{SAUT}The amount you win differs depending on{SAUT}the roll.{ATTENTE}",
-    "fr": "{SAUT}Le gain dépend du résultat{SAUT}obtenu.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0216",
     "en": "{SAUT}If the roll is 7, the Extra Game ends{SAUT}and all your winnings are lost, so be{SAUT}careful.{ATTENTE}",
-    "fr": "{SAUT}Si le 7 sort, le Bonus s'arrête{SAUT}et tous vos gains sont perdus:{SAUT}prudence.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0217",
     "en": "{FERME}  【× button】 {ATTENTE}",
-    "fr": "{FERME}  【touche ×】 {ATTENTE}",
+    "fr": "",
     "_occurrences": 17
   },
   {
     "id": "E0.BIN:013:0218",
     "en": "{PAGE}<Before starting>{SAUT}Add a coin to the bet.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Ajoute une pièce à la mise.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0220",
     "en": "{PAGE}<After winning>{SAUT}Try the Extra Game.{ATTENTE}",
-    "fr": "{PAGE}<Après gain>{SAUT}Tenter le Bonus.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0221",
     "en": "{PAGE}<After winning the Extra Game>{SAUT}Try the Extra Game again.{ATTENTE}",
-    "fr": "{PAGE}<Après Bonus gagné>{SAUT}Retenter le Bonus.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0223",
     "en": "{PAGE}<Before starting>{SAUT}Remove a coin from the bet.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Retire une pièce de la mise.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0225",
     "en": "{PAGE}<After winning>{SAUT}Decline the Extra Game and collect{SAUT}your winnings.{ATTENTE}",
-    "fr": "{PAGE}<Après gain>{SAUT}Refuser le Bonus et empocher{SAUT}ses gains.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0226",
     "en": "{PAGE}<After winning the Extra Game>{SAUT}End the Extra Game and collect your{SAUT}winnings.{ATTENTE}",
-    "fr": "{PAGE}<Après Bonus gagné>{SAUT}Arrêter le Bonus et empocher ses{SAUT}gains.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0230",
     "en": "{PAGE}<After winning>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Après gain>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 44
   },
   {
     "id": "E0.BIN:013:0231",
     "en": "{PAGE}<After winning the Extra Game>{SAUT}Not used.{ATTENTE}",
-    "fr": "{PAGE}<Après Bonus gagné>{SAUT}Inutilisé.{ATTENTE}",
+    "fr": "",
     "_occurrences": 45
   },
   {
     "id": "E0.BIN:013:0235",
     "en": "{PAGE}<After winning>{SAUT}Not used.{SAUT}{ATTENTE}",
-    "fr": "{PAGE}<Après gain>{SAUT}Inutilisé.{SAUT}{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0248",
     "en": "{PAGE}<Before starting>{SAUT}Select the rolls to bet on.{ATTENTE}",
-    "fr": "{PAGE}<Au départ>{SAUT}Choisir les résultats misés.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0252",
     "en": "{FERME} The closer the roll is to 7, the lower{SAUT}the multiplier. This is because rolls{SAUT}close to 7 appear more frequently.{ATTENTE}",
-    "fr": "{FERME} Plus le résultat est proche de 7, plus{SAUT}le multiplicateur est bas: ces{SAUT}résultats sortent plus souvent.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0253",
     "en": "{PAGE}Thus, the safe bet is on rolls close{SAUT}to 7, with rolls like 2 and 12 being{SAUT}riskier.{ATTENTE}",
-    "fr": "{PAGE}Miser près de 7 est donc plus sûr,{SAUT}alors que le 2 ou le 12 sont{SAUT}risqués.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0254",
     "en": "{PAGE}In the Extra Game, if a roll of 7{SAUT}comes up, you lose all your winnings.{ATTENTE}",
-    "fr": "{PAGE}Au Bonus, si le 7 sort, vous perdez{SAUT}tous vos gains.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0255",
     "en": "{SAUT}The trick to not losing too much is{SAUT}not to get greedy and leave with a{SAUT}reasonable amount.{ATTENTE}",
-    "fr": "{SAUT}Pour ne pas trop perdre, évitez{SAUT}l'avidité et partez avec une somme{SAUT}raisonnable.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0256",
     "en": "{FERME}   (*SCENE_LOAD*) [287A] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [387B] (*SCENE_LOAD*) [407A] (*SCENE_INIT*) (*WAIT_INPUT*) [787B] (*SET_ANIM_LAYER*) [707A] (*SET_ANIM_LAYER*)Í[807A] (*SET_ANIM_LAYER*)β[F07A] (*SET_ANIM_LAYER*)[0300][087B] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)(*SCENE_SEP*)(*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][E07A] (*SCENE_INIT*)   (*WAIT_INPUT*) [F07B] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*WAIT_INPUT*) [3081] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*WAIT_INPUT*) [0887] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*SCENE_LOAD*) [407A] (*SCENE_INIT*)   (*WAIT_INPUT*) [107B] (*SCENE_LOAD*) [407A] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) You have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   (*SCENE_LOAD*) [287A] (*SCENE_INIT*)   (*HIDE_MSG*) (*WAIT_INPUT*) [387B] (*SCENE_LOAD*) [407A] (*SCENE_INIT*) (*WAIT_INPUT*) [787B] (*SET_ANIM_LAYER*) [707A] (*SET_ANIM_LAYER*)Í[807A] (*SET_ANIM_LAYER*)β[F07A] (*SET_ANIM_LAYER*)[0300][087B] (*SCENE_INIT*)   (*SHOW_MSG*) (*PLAY_AMB*)(*SCENE_SEP*)(*SCENE_INIT*)   (*SHOW_MSG*) (*CHECK_FLAG*)[2800](*SET_ANIM_LAYER*)[0300][E07A] (*SCENE_INIT*)   (*WAIT_INPUT*) [F07B] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*WAIT_INPUT*) [3081] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*WAIT_INPUT*) [0887] (*SCENE_LOAD*) [807A] (*SCENE_INIT*)   (*SCENE_LOAD*) [407A] (*SCENE_INIT*)   (*WAIT_INPUT*) [107B] (*SCENE_LOAD*) [407A] (*SCENE_INIT*)   (*SHOW_MSG*) (*SCENE_INIT*) Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E0.BIN:013:0257",
     "en": "{FERME} > It's a Code Breaker machine.{ATTENTE}",
-    "fr": "{FERME} > Une machine Code Breaker.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:013:0260",
     "en": "(*UNK_0E,0600*){FERME}In this game, the numbers 1 through 9{SAUT}are dispersed throughout a grid.{ATTENTE}",
-    "fr": "(*UNK_0E,0600*){FERME}Les chiffres de 1 à 9 sont répartis{SAUT}dans une grille.{ATTENTE}",
+    "fr": "",
     "_occurrences": 6
   },
   {
     "id": "E0.BIN:013:0261",
     "en": "{PAGE}Your goal is to guess the arrangement{SAUT}of the numbers.{ATTENTE}",
-    "fr": "{PAGE}Le but est de deviner leur{SAUT}disposition.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0262",
     "en": "{PAGE}The fewer tries it takes, the better{SAUT}the prize you receive.{ATTENTE}",
-    "fr": "{PAGE}Moins vous faites d'essais, meilleur{SAUT}est le gain.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0263",
     "en": "{PAGE}If you cannot crack it in 8 tries,{SAUT}the game ends.{ATTENTE}",
-    "fr": "{PAGE}Sans réussite en 8 essais, la partie{SAUT}s'arrête.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0264",
     "en": "{PAGE}The Result to the left of the screen{SAUT}shows your previous attempts.{ATTENTE}",
-    "fr": "{PAGE}Le Result, à gauche de l'écran,{SAUT}montre vos essais précédents.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0265",
     "en": "{PAGE}If you guess incorrectly, the guess{SAUT}will be displayed in the Results.{ATTENTE}",
-    "fr": "{PAGE}En cas d'erreur, votre proposition{SAUT}s'affiche dans les Results.{ATTENTE}",
+    "fr": "",
     "_occurrences": 9
   },
   {
     "id": "E0.BIN:013:0266",
     "en": "{SAUT}Use it as a reference when formulating{SAUT}your next guess.{ATTENTE}",
-    "fr": "{SAUT}Servez-vous-en pour votre{SAUT}proposition suivante.{ATTENTE}"
+    "fr": ""
   }
 ]

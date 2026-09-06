@@ -222,18 +222,18 @@
   {
     "id": "E2.BIN:206:0065",
     "en": "{FERME} > You have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E2.BIN:206:0148",
     "en": "{FERME}  > You have (*DINERO*) coins.{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME}  > Vous avez (*DINERO*) pièces.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:206:0271",
     "en": "{FERME}> You have (*DINERO*) coins.{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME}> Vous avez (*DINERO*) pièces.{ATTENTE}",
     "_occurrences": 2
   },
   {

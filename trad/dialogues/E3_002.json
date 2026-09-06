@@ -667,11 +667,11 @@
   {
     "id": "E3.BIN:009:0067",
     "en": "{FERME} You have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} Vous avez (*DINERO*) pièces.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0227",
     "en": "{FERME}  > You currently have (*DINERO*) coins.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Vous avez (*DINERO*) pièces.{ATTENTE}"
   }
 ]

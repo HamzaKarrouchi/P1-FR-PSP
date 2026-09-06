@@ -3,636 +3,636 @@
     "id": "E0.BIN:004:0000",
     "locuteur": "Nanjo",
     "en": "What a shabby collection... The library{SAUT}at home is much better stocked.{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Quelle collection minable... Celle de{SAUT}chez moi est bien mieux fournie.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0001",
     "locuteur": "Mark",
     "en": "What're we doin' at the library? Let's{SAUT}hurry and see--I mean, get checked out!{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "On fait quoi à la bibliothèque? Vite,{SAUT}allons voir Ma--enfin, à l'hôpital!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0002",
     "locuteur": "Yukino",
     "en": "Those two over there are making fun of{SAUT}Devil-Boy...{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Ces deux-là se moquent de{SAUT}Devil-Boy...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0003",
     "locuteur": "Yukino",
     "en": "But I prefer Devil-Boy to them. At least{SAUT}he doesn't act all high and mighty.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Mais je préfère Devil-Boy à eux deux.{SAUT}Lui, au moins, il ne fait pas le fier.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0004",
     "locuteur": "Tsutomu Kurouri",
     "en": "...Oh, it's you, (*PLAYER_NAME*).{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "...Oh, c'est toi, (*PLAYER_NAME*).{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0005",
     "locuteur": "Tsutomu Kurouri",
     "en": "Eeeheehee... I'm investigating the{SAUT}seven mysteries of St. Hermelin High.{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "Hihihihi... J'enquête sur les sept{SAUT}mystères du lycée St. Hermelin.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0006",
     "locuteur": "Tsutomu Kurouri",
     "en": "Want to know what I've learned?{SAUT}Eeeheehee... maybe some other time...{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "Tu veux savoir ce que j'ai trouvé?{SAUT}Hihihihi... une autre fois, tiens...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0007",
     "en": "{FERME}   (*TEXTBOX_PARAM,0200*)> Tsutomu Kurouri (Nickname: Devil-Boy){SAUT}He's an expert in the occult, but{SAUT}frequently has incorrect information.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME}   (*TEXTBOX_PARAM,0200*)> Tsutomu Kurouri (surnom: Devil-Boy){SAUT}Expert en occultisme, mais ses{SAUT}informations sont souvent fausses.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:004:0008",
     "locuteur": "Male student",
     "en": "They call him Devil-Boy, but the stuff{SAUT}he'll tell you is a load of crap.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "On l'appelle Devil-Boy, mais ce qu'il{SAUT}raconte, c'est du grand n'importe quoi.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0009",
     "locuteur": "Male student",
     "en": "I know much more about the occult. Though{SAUT}I could never tell the uninitiated.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "J'en sais bien plus sur l'occultisme.{SAUT}Mais je ne le dirais pas à un profane.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0010",
     "locuteur": "Male student",
     "en": "The way I see it, there must be demons{SAUT}who get along well and those that don't.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Pour moi, il doit y avoir des démons{SAUT}qui s'entendent bien, et d'autres non.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0011",
     "locuteur": "Male student",
     "en": "If demons who hated each other met up,{SAUT}I'm sure it would be disastrous.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Si deux démons ennemis se croisaient,{SAUT}ce serait forcément la catastrophe.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0012",
     "locuteur": "Library committee student",
     "en": "You see that guy over there? The one{SAUT}they call Devil-Boy?{ATTENTE}",
-    "locuteur_fr": "Élève bibliothécaire",
-    "fr": "Tu vois le type là-bas? Celui qu'on{SAUT}appelle Devil-Boy?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0013",
     "locuteur": "Library committee student",
     "en": "He tripped and fell over again today{SAUT}during PE. It was frickin' hilarious!{ATTENTE}",
-    "locuteur_fr": "Élève bibliothécaire",
-    "fr": "Il s'est encore vautré aujourd'hui{SAUT}en sport. C'était trop drôle!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:004:0014",
     "locuteur": "Library committee student",
     "en": "He can't even do a single push-up!{SAUT}What a lamer!{ATTENTE}",
-    "locuteur_fr": "Élève bibliothécaire",
-    "fr": "Il n'arrive même pas à faire une{SAUT}pompe! Quel nul!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0000",
     "locuteur": "Drama club member",
     "en": "Hey, we haven't decided which play we're{SAUT}doing for the culture festival, have we?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Dis, on n'a toujours pas choisi la{SAUT}pièce pour le festival culturel, si?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0001",
     "locuteur": "Drama club member",
     "en": "I heard there was a traditional play{SAUT}we used to perform... Why not do that?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Il paraît qu'on jouait une pièce{SAUT}traditionnelle avant... Pourquoi pas?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0002",
     "locuteur": "Drama club member",
     "en": "I think it was called The Snow--{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Je crois que ça s'appelait La Reine--{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0003",
     "locuteur": "Drama club president",
     "en": "Absolutely not! That one's off limits.{SAUT}I'll decide soon... Give me some time.{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
-    "fr": "Certainement pas! Celle-là, jamais.{SAUT}Je déciderai... Laissez-moi du temps.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0004",
     "locuteur": "Nanjo",
     "en": "Snow...? Was he going to suggest{SAUT}The Snow Queen?{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "La Reine...? Allait-il proposer{SAUT}La Reine des Neiges?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0005",
     "locuteur": "Mark",
     "en": "Who needs a play? Just lemme bust a move{SAUT}up on stage!{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Une pièce, pour quoi faire? Laissez-moi{SAUT}danser sur scène!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0006",
     "locuteur": "Yukino",
     "en": "This school has a traditional play?{SAUT}News to me.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Ce lycée a une pièce traditionnelle?{SAUT}Première nouvelle.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0007",
     "locuteur": "Drama club member",
     "en": "St. Hermelin won the drama concours{SAUT}nine years ago, too...{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "St. Hermelin a gagné le concours de{SAUT}théâtre il y a neuf ans, aussi...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0008",
     "locuteur": "Drama club member",
     "en": "But the trophy from that year is missing.{SAUT}I wonder what happened to it.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Mais le trophée de cette année-là a{SAUT}disparu. Où a-t-il bien pu passer?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0009",
     "locuteur": "Drama club member",
     "en": "The president seemed a little touchy...{SAUT}Why did she get so upset?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "La présidente a mal réagi...{SAUT}Pourquoi s'est-elle emportée?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0010",
     "locuteur": "Drama club member",
     "en": "Hm? Are you interested in joining the{SAUT}club?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Hm? Ça t'intéresse de rejoindre le{SAUT}club?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:005:0011",
     "locuteur": "Drama club member",
     "en": "If not, please leave. You're in our{SAUT}eye lines.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Sinon, va-t'en. Tu nous bouches la{SAUT}vue.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0000",
     "locuteur": "Nanjo",
     "en": "This megalith shard... It's a very{SAUT}precious cultural artifact.{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Ce fragment de mégalithe... C'est un{SAUT}bien culturel très précieux.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0001",
     "locuteur": "Nanjo",
     "en": "Who built it? For what purpose?{SAUT}It never ceases to fascinate me.{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Qui l'a érigé? Dans quel but?{SAUT}Cela ne cesse de me fasciner.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0002",
     "locuteur": "Mark",
     "en": "Our principal's a cool lady... but she{SAUT}can be a little too lovey-dovey.{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Elle est sympa, notre proviseur... mais{SAUT}elle en fait des tonnes, parfois.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0003",
     "locuteur": "Yukino",
     "en": "I have part-time work today. Let's hurry{SAUT}to the hospital and get this over with.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Je bosse cet après-midi. Filons vite à{SAUT}l'hôpital qu'on en finisse.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0004",
     "locuteur": "Principal Ooishi",
     "en": "Well, hello, (*APELLIDO_HEROE*)!{SAUT}Are you all taking a walk, too?{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Tiens, bonjour, (*APELLIDO_HEROE*)!{SAUT}Vous vous promenez aussi?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0005",
     "locuteur": "Principal Ooishi",
     "en": "It's been part of my daily routine,{SAUT}ever since I was a girl...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "C'est mon rituel quotidien,{SAUT}depuis que je suis toute petite...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0006",
     "locuteur": "Principal Ooishi",
     "en": "...Praying to the guardian deity that{SAUT}everyone grows up into fine adults.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "...Prier la divinité gardienne pour{SAUT}que chacun devienne quelqu'un de bien.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0007",
     "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Principal Ooishi{SAUT}The principal of St. Hermelin High.{SAUT}She adores children and flowers.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME}  (*TEXTBOX_PARAM,0300*)> Proviseur Ooishi{SAUT}Proviseur du lycée St. Hermelin.{SAUT}Elle adore les enfants et les fleurs.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:006:0008",
     "locuteur": "Female student",
     "en": "Ms. Ooishi is so kind.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Mme Ooishi est si gentille.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0009",
     "locuteur": "Female student",
     "en": "She loves flowers so much, she cares{SAUT}for them as if they were her children.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Elle aime tellement les fleurs qu'elle{SAUT}s'en occupe comme de ses enfants.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0010",
     "locuteur": "Female student",
     "en": "Things seem terrible outside, but it's{SAUT}calm in here...{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Dehors c'est l'horreur, mais ici,{SAUT}tout est calme...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0011",
     "locuteur": "Female student",
     "en": "I wonder why the demons haven't gotten{SAUT}in. Could it be divine protection?{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Pourquoi les démons n'entrent-ils pas{SAUT}ici? Une protection divine?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0012",
     "en": "{FERME} > Hiremon Stone{SAUT}This megalith was excavated when the{SAUT}school was first built in 1963.{ATTENTE}",
-    "fr": "{FERME} > Pierre de Hiremon{SAUT}Ce mégalithe a été déterré lors de la{SAUT}construction du lycée, en 1963.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:006:0013",
     "en": "{PAGE}> It's made of thamatite and possesses{SAUT}an abnormal magnetism.{ATTENTE}",
-    "fr": "{PAGE}> Il est en thamatite et possède un{SAUT}magnétisme anormal.{ATTENTE}",
+    "fr": "",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:006:0014",
     "en": "{PAGE}> Legend has it that a heavenly being{SAUT}known as Hiremon dropped it from the{SAUT}sky to be Mikage-cho's guardian stone.{ATTENTE}",
-    "fr": "{PAGE}> La légende dit qu'un être céleste{SAUT}nommé Hiremon l'a fait tomber du ciel{SAUT}pour protéger Mikage-cho.{ATTENTE}",
+    "fr": "",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:007:0000",
     "locuteur": "Nanjo",
     "en": "If he can't handle the meager power of{SAUT}the student council, he's no man at all.{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "S'il ne supporte pas le maigre pouvoir{SAUT}du conseil des élèves, il ne vaut rien.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0001",
     "locuteur": "Mark",
     "en": "I really hate this guy... Ugh! Can't we{SAUT}go see Ma--I mean, go to the hospital?{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Je peux pas le blairer... Pff! On peut{SAUT}pas aller voir Ma--enfin, à l'hôpital?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0002",
     "locuteur": "Yukino",
     "en": "I bet we'd be better off with anyone{SAUT}but him as president.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "N'importe qui ferait un meilleur{SAUT}président que lui.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0003",
     "locuteur": "Student council president",
     "en": "Sorting old records is no task for a{SAUT}student council president!{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Trier de vieux dossiers n'est pas digne{SAUT}d'un président du conseil des élèves!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0004",
     "locuteur": "Student council president",
     "en": "Kandori would have refused to do it{SAUT}as a point of pride...{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Kandori aurait refusé, lui,{SAUT}par pure fierté...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0005",
     "locuteur": "Student council president",
     "en": "So I refuse too! It's all part of my{SAUT}quest to be more like him!{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Donc je refuse aussi! Tout ça pour{SAUT}devenir un peu plus comme lui!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0006",
     "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Student council president{SAUT}Leader of St. Hermelin's student{SAUT}council. Isn't wild about his job.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Président du conseil des élèves{SAUT}Il dirige le conseil de St. Hermelin.{SAUT}Son poste ne l'enchante guère.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0007",
     "locuteur": "Student council member",
     "en": "Our president does nothing but sit around{SAUT}and bark orders. Who voted for this guy?{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Notre président reste assis à donner{SAUT}des ordres. Qui a voté pour lui?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0008",
     "locuteur": "Student council member",
     "en": "If I was president, I would make a guy{SAUT}like him work 'til he keeled over!{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Si j'étais président, je le ferais{SAUT}bosser jusqu'à ce qu'il s'écroule!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0009",
     "locuteur": "Student council member",
     "en": "Those are his true colors, but he's no{SAUT}dummy. He's got the faculty on his side.{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Voilà son vrai visage. Mais il n'est{SAUT}pas bête: les profs sont de son côté.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0010",
     "locuteur": "Student council member",
     "en": "I hear he's never even been reprimanded.{SAUT}Talk about unfair!{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Il paraît qu'il n'a jamais été puni.{SAUT}C'est vraiment injuste!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0011",
     "locuteur": "Student council member",
     "en": "He's trying to emulate Kandori, the{SAUT}18th student council president.{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Il essaie d'imiter Kandori, le 18e{SAUT}président du conseil des élèves.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0012",
     "locuteur": "Student council member",
     "en": "Huh? You haven't heard of that bigshot{SAUT}at SEBEC? He graduated from here...{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Hein? Tu connais pas le gros bonnet{SAUT}de SEBEC? Il est passé par ici...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:007:0013",
     "locuteur": "Student council member",
     "en": "He's still young, but he's branch{SAUT}president of a big company now.{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Il est jeune, mais il dirige déjà une{SAUT}filiale d'une grosse boîte.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0000",
     "locuteur": "Nanjo",
     "en": "It seems you're being mistaken for{SAUT}someone else, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Il semble qu'on vous prenne pour{SAUT}quelqu'un d'autre, (*APELLIDO_HEROE*).{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0001",
     "locuteur": "Mark",
     "en": "A guy who keeps goin' into the open{SAUT}classroom on the second floor...{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Un type qui n'arrête pas d'entrer dans{SAUT}la salle vide du deuxième étage...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0002",
     "locuteur": "Mark",
     "en": "You know anyone like that?{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Tu vois qui ça pourrait être?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0003",
     "locuteur": "Elly",
     "en": "I told Ms. Saeko about what happened.{ATTENTE}",
-    "locuteur_fr": "Elly",
-    "fr": "J'ai tout raconté à Mme Saeko.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0004",
     "locuteur": "Elly",
     "en": "Brown seems to have already gone home...{ATTENTE}",
-    "locuteur_fr": "Elly",
-    "fr": "Brown est apparemment déjà rentré...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0005",
     "locuteur": "Elly",
     "en": "And I don't think Ayase could explain{SAUT}it coherently, do you?{ATTENTE}",
-    "locuteur_fr": "Elly",
-    "fr": "Et je doute qu'Ayase l'explique de{SAUT}façon cohérente, pas toi?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0006",
     "locuteur": "Ayase",
     "en": "Hidehiko took off, so me and Eriko{SAUT}explained everything to the teach!{ATTENTE}",
-    "locuteur_fr": "Ayase",
-    "fr": "Hidehiko s'est barré, alors Eriko et{SAUT}moi on a tout expliqué à la prof!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0007",
     "locuteur": "Ayase",
     "en": "Man, Hidehiko sure works fast at times{SAUT}like these.{ATTENTE}",
-    "locuteur_fr": "Ayase",
-    "fr": "Franchement, il est rapide, Hidehiko,{SAUT}dans ces cas-là.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0008",
     "locuteur": "Yukino",
     "en": "Eriko and Yuka didn't faint, so they{SAUT}don't need to go to the hospital.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Eriko et Yuka ne se sont pas évanouies:{SAUT}pas besoin d'hôpital pour elles.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0009",
     "locuteur": "Yukino",
     "en": "Why were we the only ones...?{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Pourquoi nous seulement...?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0010",
     "locuteur": "Yukino",
     "en": "Thinking about it, the ones who didn't{SAUT}faint had played \"Persona\" before...{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "En fait, ceux qui sont restés debout{SAUT}avaient déjà joué à \"Persona\"...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0011",
     "locuteur": "Yukino",
     "en": "Meaning Yuka, Eriko, and Hidehiko.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Donc Yuka, Eriko et Hidehiko.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0012",
     "locuteur": "Male teacher",
     "en": "Oh, it's you, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "Professeur",
-    "fr": "Oh, c'est vous, (*APELLIDO_HEROE*).{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0013",
     "locuteur": "Male teacher",
     "en": "Hey, I hear someone keeps coming in and{SAUT}out of the open room on the second floor.{ATTENTE}",
-    "locuteur_fr": "Professeur",
-    "fr": "Dites, on m'a dit que quelqu'un entre{SAUT}et sort de la salle vide du 2e étage.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0014",
     "locuteur": "Male teacher",
     "en": "Are you the one doing it? Hmm?{ATTENTE}",
-    "locuteur_fr": "Professeur",
-    "fr": "C'est vous qui faites ça? Hmm?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:008:0015",
     "locuteur": "Male teacher",
     "en": "If it's not you, then who's been going{SAUT}into that classroom...?{ATTENTE}",
-    "locuteur_fr": "Professeur",
-    "fr": "Si ce n'est pas vous, alors qui va{SAUT}dans cette salle...?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0000",
     "locuteur": "Yukino",
     "en": "...Someone's here.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "...Il y a quelqu'un.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0001",
     "locuteur": "Mark",
     "en": "Huh? Reiji...?{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Hein? Reiji...?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0002",
     "locuteur": "Mark",
     "en": "You're Reiji Kido! What're you{SAUT}doin' here?{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "T'es Reiji Kido! Qu'est-ce que tu{SAUT}fais là?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0003",
     "locuteur": "Reiji",
     "en": "......{ATTENTE}",
-    "locuteur_fr": "Reiji",
-    "fr": "......{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": "",
     "_occurrences": 18
   },
   {
     "id": "E0.BIN:009:0004",
     "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Reiji Kido (Nickname: Reiji){SAUT}A quiet loner who transferred to{SAUT}St. Hermelin High six months ago.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Reiji Kido (surnom: Reiji){SAUT}Solitaire et taciturne, arrivé au{SAUT}lycée St. Hermelin il y a six mois.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:009:0005",
     "locuteur": "Nanjo",
     "en": "Hmph. The standoffish sort, I see.{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Hmph. Du genre distant, on dirait.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0006",
     "locuteur": "Mark",
     "en": "Look who's talking...{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Tu peux parler...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0007",
     "locuteur": "Nanjo",
     "en": "I wonder what he was pondering at a{SAUT}place like this...{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Je me demande à quoi il songeait,{SAUT}dans un endroit pareil...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0008",
     "locuteur": "Mark",
     "en": "What a gloomy Gus! But hey, for all{SAUT}we know...{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Quel rabat-joie! Mais bon, après{SAUT}tout, qui sait...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0009",
     "locuteur": "Mark",
     "en": "Maybe he's the kinda guy who secretly{SAUT}practices magic tricks at home.{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "C'est peut-être le genre à répéter{SAUT}des tours de magie en cachette.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0010",
     "locuteur": "Yukino",
     "en": "Reiji transferred here soon after the{SAUT}SEBEC Building was constructed...{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Reiji est arrivé peu après la{SAUT}construction de l'immeuble SEBEC...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:009:0011",
     "locuteur": "Yukino",
     "en": "Oh, but we still need to get to the{SAUT}hospital.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Ah, mais on doit encore aller à{SAUT}l'hôpital.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0000",
     "locuteur": "Nanjo",
     "en": "Say, what about the hospital? Weren't{SAUT}we going there for a checkup?{ATTENTE}",
-    "locuteur_fr": "Nanjo",
-    "fr": "Dites, et l'hôpital? Nous devions{SAUT}y passer un examen, il me semble.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0001",
     "locuteur": "Mark",
     "en": "Hey (*APELLIDO_HEROE*), you gotta hear the stupid{SAUT}junk this guy is spouting.{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Hé (*APELLIDO_HEROE*), écoute un peu les âneries{SAUT}que ce type débite.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0002",
     "locuteur": "Yukino",
     "en": "What's Masao's beef with that guy?{SAUT}I don't see what the fuss is about.{ATTENTE}",
-    "locuteur_fr": "Yukino",
-    "fr": "Qu'est-ce que Masao lui reproche?{SAUT}Je vois pas où est le problème.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0003",
     "locuteur": "Serious student",
     "en": "Don't you think derelict buildings{SAUT}should be torn down?{ATTENTE}",
-    "locuteur_fr": "Élève sérieux",
-    "fr": "Tu ne trouves pas qu'il faudrait raser{SAUT}les bâtiments abandonnés?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0004",
     "locuteur": "Serious student",
     "en": "Places like that only attract{SAUT}hooligans--{ATTENTE}",
-    "locuteur_fr": "Élève sérieux",
-    "fr": "Ce genre d'endroit n'attire que{SAUT}des malandrins--{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0005",
     "locuteur": "Mark",
     "en": "Haha! \"Hooligans\"? Seriously?{SAUT}What a poindexter!{ATTENTE}",
-    "locuteur_fr": "Mark",
-    "fr": "Haha! \"Malandrins\"? Sérieux?{SAUT}Quel intello!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0006",
     "locuteur": "Serious student",
     "en": "Won't you pipe down!? As I was saying,{SAUT}wouldn't it attract hooligans?{ATTENTE}",
-    "locuteur_fr": "Élève sérieux",
-    "fr": "Veux-tu bien te taire!? Je disais donc:{SAUT}ça n'attirerait pas des malandrins?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:010:0007",
     "locuteur": "Serious student",
     "en": "I'd certainly hate to see that happen.{ATTENTE}",
-    "locuteur_fr": "Élève sérieux",
-    "fr": "Je détesterais que cela arrive.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   }
 ]

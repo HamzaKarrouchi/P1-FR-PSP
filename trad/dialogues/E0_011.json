@@ -3,455 +3,455 @@
     "id": "E0.BIN:036:0000",
     "locuteur": "Tsutomu Kurouri",
     "en": "Oh, it's you, (*APELLIDO_HEROE*).{SAUT}These bizarre happenings are intriguing.{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "Oh, c'est toi, (*APELLIDO_HEROE*).{SAUT}Ces phénomènes sont fascinants.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0001",
     "locuteur": "Tsutomu Kurouri",
     "en": "It could be the work of aliens! Eeeheehee.{SAUT}No, really, this time you can trust me!{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "C'est peut-être les extraterrestres!{SAUT}Hihihihi... Cette fois, crois-moi!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0003",
     "locuteur": "Tsutomu Kurouri",
     "en": "Oh, it's you, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "Tsutomu Kurouri",
-    "fr": "Oh, c'est toi, (*APELLIDO_HEROE*).{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0004",
     "locuteur": "Tsutomu",
     "en": "You know of \"The Snow Queen,\" right?{SAUT}Yes... the fairy tale.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Tu connais \"La Reine des Neiges\"?{SAUT}Oui... le conte.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0005",
     "locuteur": "Tsutomu",
     "en": "It's the traditional play performed by{SAUT}St. Hermelin's drama club.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "C'est la pièce traditionnelle du club{SAUT}de théâtre de St. Hermelin.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0006",
     "locuteur": "Tsutomu",
     "en": "Eeeheehee... Don't be so hasty.{SAUT}Listen to this...{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Hihihihi... Ne sois pas si pressé.{SAUT}Écoute plutôt...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0007",
     "locuteur": "Tsutomu",
     "en": "For some reason, The Snow Queen is{SAUT}usually performed while wearing a mask.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "La Reine des Neiges se joue toujours{SAUT}avec un masque, va savoir pourquoi.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0008",
     "locuteur": "Tsutomu",
     "en": "Which brings me to my point.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Et j'en viens au principal.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0009",
     "locuteur": "Tsutomu",
     "en": "In truth, that mask... is cursed.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "En vérité, ce masque... est maudit.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0010",
     "locuteur": "Tsutomu",
     "en": "The students who wore it while playing{SAUT}the role all died unnatural deaths.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Toutes les élèves qui l'ont porté{SAUT}pour ce rôle sont mortes étrangement.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0011",
     "locuteur": "Tsutomu",
     "en": "Isn't that interesting?{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Intéressant, non?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0012",
     "locuteur": "Tsutomu",
     "en": "Supposedly, only one girl who played{SAUT}the part ever survived the curse...{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Une seule fille aurait survécu à la{SAUT}malédiction, dit-on...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0013",
     "locuteur": "Tsutomu",
     "en": "No one knows who it is.{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Personne ne sait qui.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0014",
     "locuteur": "Tsutomu",
     "en": "If we could figure that out, it might{SAUT}unlock the mystery. Eeeheehee...{ATTENTE}",
-    "locuteur_fr": "Tsutomu",
-    "fr": "Si on le découvrait, on tiendrait{SAUT}peut-être la clé. Hihihihi...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0015",
     "locuteur": "Male student",
     "en": "Hey, you! You know something, don't you?{SAUT}I'm begging you, help me out!{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Hé, toi! Tu sais quelque chose, non?{SAUT}Je t'en supplie, aide-moi!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0016",
     "locuteur": "Male student",
     "en": "You should be careful not to drive{SAUT}people into a corner.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Fais attention à ne pas pousser les{SAUT}gens dans leurs retranchements.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0017",
     "locuteur": "Male student",
     "en": "Piss off a short-tempered guy, and who{SAUT}knows what he'll do?{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Énerve un type à cran, et va savoir{SAUT}ce qu'il fera.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:036:0018",
     "locuteur": "Male student",
     "en": "I bet the same is true for demons.{ATTENTE}",
-    "locuteur_fr": "Élève",
-    "fr": "Pareil pour les démons, je parie.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0000",
     "locuteur": "Drama club president",
     "en": "This is hardly the time to be thinking{SAUT}about the school festival.{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
-    "fr": "Ce n'est pas le moment de penser au{SAUT}festival de l'école.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0001",
     "locuteur": "Drama club president",
     "en": "I told you, I don't know any play called{SAUT}\"The Snow Queen\"! Give it a rest!{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
-    "fr": "Je t'ai dit que je ne connais pas{SAUT}\"La Reine des Neiges\"! Lâche-moi!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0002",
     "locuteur": "Drama club member",
     "en": "Our president's the only one who knows{SAUT}about that play.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Seule la présidente connaît cette{SAUT}pièce.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0003",
     "locuteur": "Drama club member",
     "en": "Huh? What play? Oh, uh... it's a secret.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Hein? Quelle pièce? Euh... c'est secret.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0004",
     "locuteur": "Drama club member",
     "en": "Man, this sucks. What's up with this?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Purée, ça craint. C'est quoi ce truc?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0005",
     "locuteur": "Drama club member",
     "en": "If there were any records left, you might{SAUT}be able to find something in them...{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "S'il restait des archives, tu y{SAUT}trouverais peut-être quelque chose...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:037:0006",
     "locuteur": "Drama club member",
     "en": "But our president gets all upset if{SAUT}anyone asks about it.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
-    "fr": "Mais la présidente s'énerve dès qu'on{SAUT}lui en parle.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0000",
     "locuteur": "Student council president",
     "en": "If I can get through this, I'll go down{SAUT}in student council history...{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Si je m'en sors, j'entrerai dans{SAUT}l'histoire du conseil des élèves...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0001",
     "locuteur": "Student council president",
     "en": "Hey, if you want to be helpful, run along{SAUT}and solve this disaster, hmm?{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Si tu veux te rendre utile, va donc{SAUT}régler cette catastrophe, hmm?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0002",
     "locuteur": "Student council president",
     "en": "The records? I've already gone through{SAUT}and sorted them.{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Les archives? Je les ai déjà{SAUT}triées de fond en comble.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0003",
     "locuteur": "Student council president",
     "en": "It was no small task, you know.{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Ce n'était pas une mince affaire.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0004",
     "locuteur": "Student council president",
     "en": "What? You want me to show them to you?{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Quoi? Tu veux que je te les montre?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0005",
     "locuteur": "Student council president",
     "en": "Absolutely not! You have no idea what{SAUT}a pain it was to sort all those!{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Certainement pas! Tu n'imagines pas{SAUT}la corvée que c'était de tout trier!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0006",
     "locuteur": "Student council president",
     "en": "If you want to know about the past,{SAUT}go ask someone who was there!{ATTENTE}",
-    "locuteur_fr": "Président du conseil",
-    "fr": "Si tu veux connaître le passé,{SAUT}demande à quelqu'un qui y était!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0007",
     "locuteur": "Student council member",
     "en": "The other members and I were organizing{SAUT}a safety committee while HE sat back...{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "On montait un comité de sécurité,{SAUT}nous, pendant que LUI se reposait...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0008",
     "locuteur": "Student council member",
     "en": "We never should have elected that jerk!{ATTENTE}",
-    "locuteur_fr": "Membre du conseil",
-    "fr": "Fallait jamais élire ce crétin!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:038:0009",
     "en": "{FERME}  (*TEXTBOX_PARAM,0200*)> Student council president{SAUT}Leader of St. Hermelin's student{SAUT}council. Isn't wild about his job.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME}  (*TEXTBOX_PARAM,0200*)> Président du conseil des élèves{SAUT}Il dirige le conseil de St. Hermelin.{SAUT}Son poste ne l'enchante guère.(*TEXTBOX_PARAM,0000*){ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0000",
     "locuteur": "Principal Ooishi",
     "en": "(*APELLIDO_HEROE*)! Thank goodness you're{SAUT}all right...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "(*APELLIDO_HEROE*)! Dieu merci, vous allez{SAUT}bien...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0001",
     "locuteur": "Principal Ooishi",
     "en": "When I think about something happening{SAUT}to one of my students, I worry so much.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "L'idée qu'il arrive malheur à l'un de{SAUT}mes élèves m'inquiète tellement.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0002",
     "locuteur": "Vice-Principal Hanya",
     "en": "This is outrageous! If something happens,{SAUT}they'll hold the school responsible...{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "C'est scandaleux! S'il arrive quoi que{SAUT}ce soit, on accusera le lycée...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0003",
     "locuteur": "Vice-Principal Hanya",
     "en": "And we can kiss our careers goodbye!{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "Et adieu nos carrières!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0004",
     "locuteur": "Vice-Principal Hanya",
     "en": "If this had just happened a little later,{SAUT}all the students would've gone home...{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "Un peu plus tard, et tous les élèves{SAUT}seraient déjà rentrés chez eux...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "Why is my luck so terrible!?{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "Quelle malchance, vraiment!?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0006",
     "locuteur": "Principal Ooishi",
     "en": "I heard you've been looking into \"The{SAUT}Snow Queen.\"{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "On m'a dit que vous cherchiez sur \"La{SAUT}Reine des Neiges\".{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0007",
     "locuteur": "Principal Ooishi",
     "en": "...I'll tell you the whole story.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "...Je vais tout vous raconter.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0008",
     "locuteur": "Principal Ooishi",
     "en": "The actress portraying the Snow Queen{SAUT}here has traditionally worn a mask.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Ici, celle qui joue la Reine des Neiges{SAUT}porte un masque, par tradition.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0009",
     "locuteur": "Principal Ooishi",
     "en": "But there was always something{SAUT}unpleasant about that mask...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Mais ce masque a toujours eu quelque{SAUT}chose de déplaisant...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0010",
     "locuteur": "Principal Ooishi",
     "en": "Sooner or later, a rumor started that{SAUT}the Queen's mask was cursed.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Une rumeur a fini par courir: le{SAUT}masque de la Reine était maudit.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0011",
     "locuteur": "Principal Ooishi",
     "en": "I didn't believe it... until that day,{SAUT}eight years ago.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Je n'y croyais pas... jusqu'à ce jour,{SAUT}il y a huit ans.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0012",
     "locuteur": "Principal Ooishi",
     "en": "The last one to play the Snow Queen{SAUT}was Ms. Saeko.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "La dernière Reine des Neiges,{SAUT}c'était Mme Saeko.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0013",
     "locuteur": "Vice-Principal Hanya",
     "en": "M-Ma'am! What're you saying!?{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "M-Madame! Que dites-vous là!?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0014",
     "locuteur": "Principal Ooishi",
     "en": "Eight years ago... Ms. Saeko lost her{SAUT}best friend.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Il y a huit ans... Mme Saeko a perdu{SAUT}sa meilleure amie.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0015",
     "locuteur": "Principal Ooishi",
     "en": "If only I'd realized it sooner...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Si j'avais compris plus tôt...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0016",
     "locuteur": "Principal Ooishi",
     "en": "Had I forbidden the use of that mask,{SAUT}none of it would have happened.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Si j'avais interdit ce masque,{SAUT}rien de tout cela ne serait arrivé.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0017",
     "locuteur": "Principal Ooishi",
     "en": "...The mask was immediately purified and{SAUT}put into storage.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "...Le masque a été purifié aussitôt,{SAUT}puis remisé.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0018",
     "locuteur": "Principal Ooishi",
     "en": "But listen to me... you mustn't bring up{SAUT}Ms. Saeko's painful past.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Mais écoutez-moi... ne réveillez pas{SAUT}le passé douloureux de Mme Saeko.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0019",
     "locuteur": "Vice-Principal Hanya",
     "en": "H-Hey, the principal is just joking,{SAUT}okay? Don't believe that junk...!{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "H-Hé, le proviseur plaisante,{SAUT}d'accord? Ne croyez pas ces sornettes!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0021",
     "en": "{FERME}   (*TEXTBOX_PARAM,0200*)> Vice-Principal Hanya{SAUT}Known as \"Hamya\" among the students,{SAUT}who despise his extreme strictness.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME}   (*TEXTBOX_PARAM,0200*)> Vice-proviseur Hanya{SAUT}Surnommé \"Hamya\" par les élèves,{SAUT}qui détestent sa sévérité extrême.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:039:0022",
     "locuteur": "Principal Ooishi",
     "en": "I never want to lose another precious{SAUT}student. Take care of yourself, okay?{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Je ne veux plus perdre un seul élève.{SAUT}Prenez soin de vous, d'accord?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0023",
     "locuteur": "Vice-Principal Hanya",
     "en": "Huh? You're still here? I'm busy!{SAUT}Get outta my sight already!{ATTENTE}",
-    "locuteur_fr": "Vice-proviseur Hanya",
-    "fr": "Hein? Encore là? Je suis occupé!{SAUT}Disparaissez de ma vue!{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0024",
     "locuteur": "Principal Ooishi",
     "en": "The Snow Queen's mask... could it be{SAUT}related to what's happening...?{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Le masque de la Reine des Neiges...{SAUT}Serait-il lié à tout cela...?{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0025",
     "locuteur": "Principal Ooishi",
     "en": "No, it couldn't be. But (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Non, impossible. Mais (*APELLIDO_HEROE*)...{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:039:0026",
     "locuteur": "Principal Ooishi",
     "en": "I warn you, don't go near the gym's{SAUT}storage room.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
-    "fr": "Je vous préviens: n'approchez pas du{SAUT}débarras du gymnase.{ATTENTE}"
+    "locuteur_fr": "",
+    "fr": ""
   },
   {
     "id": "E0.BIN:040:0000",
     "en": "> It's a box sealed with talismans.{ATTENTE}",
-    "fr": "> Un coffre scellé par des talismans.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:040:0001",
     "en": "{PAGE}> Open it?{ATTENTE}",
-    "fr": "{PAGE}> L'ouvrir?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:040:0002",
     "en": "(*UNK_0E,0A00*){FERME} > Obtained the (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Snow Queen Mask(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "(*UNK_0E,0A00*){FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Masque de la Reine des Neiges(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:040:0003",
     "en": "{FERME} > There's nothing inside...{ATTENTE}",
-    "fr": "{FERME} > Il n'y a rien dedans...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "E0.BIN:040:0004",
     "en": "{FERME}   > There seems to be nothing here.{ATTENTE}",
-    "fr": "{FERME}   > Il ne semble rien y avoir ici.{ATTENTE}",
+    "fr": "",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:040:0005",
     "en": "{FERME} > The door to the stage suddenly{SAUT}won't open...{ATTENTE}",
-    "fr": "{FERME} > La porte de la scène refuse{SAUT}soudain de s'ouvrir...{ATTENTE}"
+    "fr": ""
   }
 ]
