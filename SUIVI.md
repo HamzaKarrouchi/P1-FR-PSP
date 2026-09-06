@@ -40,8 +40,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 67 | 100 % | terminé |
 | [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 55 | 100 % | terminé |
 | [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 85 | 100 % | terminé |
-| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 0 | 0 % | libre |
-| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 0 | 0 % | libre |
+| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 0 | 0 % | en cours par @HamzaKarrouchi (#3) |
+| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 0 | 0 % | en cours par @HamzaKarrouchi (#3) |
 | [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | libre |
 | [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 0 | 0 % | libre |
 | [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 0 | 0 % | libre |
