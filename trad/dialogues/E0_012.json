@@ -3,339 +3,339 @@
     "id": "E0.BIN:041:0000",
     "locuteur": "Yukino",
     "en": "Hey Masao! Wait!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hé Masao! Attends!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0001",
     "locuteur": "Ayase",
     "en": "You don't even know if that really{SAUT}is Maki!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu sais même pas si c'est vraiment{SAUT}Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0002",
     "locuteur": "Ayase",
     "en": "Omigod, (*APELLIDO_HEROE*)!{SAUT}Masao's in big trouble!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh la la, (*APELLIDO_HEROE*)!{SAUT}Masao a de gros ennuis!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0003",
     "locuteur": "Yukino",
     "en": "Kei was hurt, so Masao, Hidehiko,{SAUT}and Eriko brought him back here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Kei était blessé, alors Masao,{SAUT}Hidehiko et Eriko l'ont ramené ici.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0004",
     "locuteur": "Yukino",
     "en": "But then...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mais là...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0005",
     "locuteur": "Ayase",
     "en": "Maki showed up out of nowhere! Isn't she{SAUT}supposed to be in the hospital!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Maki a débarqué de nulle part! Elle{SAUT}est pas censée être à l'hôpital!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0006",
     "locuteur": "Ayase",
     "en": "Something's seriously wrong here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Y a un truc qui cloche, là!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0007",
     "locuteur": "Ms. Saeko",
     "en": "I heard Masao came back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "On m'a dit que Masao était revenu!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0008",
     "locuteur": "Yukino",
     "en": "Y-Yeah, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "O-Oui, mais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0009",
     "locuteur": "Ms. Saeko",
     "en": "So he and Maki went outside together?{SAUT}Oh, I have to bring them back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Il est sorti avec Maki, alors?{SAUT}Oh, je dois les ramener!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0010",
     "locuteur": "Yukino",
     "en": "Wait, Ms. Saeko! If something happens to{SAUT}you, what'll the gang here do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Attendez, Mme Saeko! S'il vous arrive{SAUT}malheur, que deviendront les autres?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0011",
     "locuteur": "Yukino",
     "en": "Let us go instead!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Laissez-nous y aller!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0012",
     "locuteur": "Ms. Saeko",
     "en": "Oh, good point, Yukino! Thanks...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oh, vous avez raison, Yukino! Merci...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0013",
     "locuteur": "Ms. Saeko",
     "en": "Hm? What's that you have there,{SAUT}(*APELLIDO_HEROE*)...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Hm? Qu'avez-vous là,{SAUT}(*APELLIDO_HEROE*)...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0014",
     "locuteur": "Ms. Saeko",
     "en": "That... that mask...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Ce... ce masque...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0015",
     "locuteur": "Ms. Saeko",
     "en": "Goodness... I didn't think it was still{SAUT}lying around here...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Mon Dieu... Je ne pensais pas qu'il{SAUT}traînait encore ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0016",
     "locuteur": "Ms. Saeko",
     "en": "It reminds me of my high school days...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Cela me rappelle le lycée...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0017",
     "locuteur": "Ms. Saeko",
     "en": "I wore this mask when I was in a play{SAUT}called, \"The Snow Queen.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "J'ai porté ce masque dans une pièce{SAUT}appelée \"La Reine des Neiges\".{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0018",
     "locuteur": "Ayase",
     "en": "It's a neat-looking mask.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Il est chouette, ce masque.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0019",
     "locuteur": "Ms. Saeko",
     "en": "Yes, but some say it's cursed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oui, mais on le dit maudit.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0020",
     "locuteur": "Ms. Saeko",
     "en": "...I guess I can see why. It's because{SAUT}of this that my friend was...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "...Je comprends pourquoi. C'est à{SAUT}cause de lui que mon amie...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0021",
     "locuteur": "Ayase",
     "en": "C-C'mon, Ms. Saeko! Cut it out!{SAUT}We've got enough to be scared of...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "A-Arrêtez, Mme Saeko! Ça suffit!{SAUT}On a déjà assez peur comme ça...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0022",
     "locuteur": "Ayase",
     "en": "That mask gives me the creeps! Why don't{SAUT}you just throw it away?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ce masque me file la chair de poule!{SAUT}Vous devriez le jeter, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0023",
     "locuteur": "Ms. Saeko",
     "en": "Oh, sorry about that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oh, pardon!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0024",
     "locuteur": "Ms. Saeko",
     "en": "It's just a silly school legend.{SAUT}\"Whoever wears it, dies\"? Ha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "C'est juste une légende du lycée.{SAUT}\"Qui le porte meurt\"? Pfff!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0025",
     "locuteur": "Ms. Saeko",
     "en": "I wore it, and I'm okay, aren't I?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Je l'ai porté, et je vais bien, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0026",
     "locuteur": "Ms. Saeko",
     "en": "See? So it's better if I went looking{SAUT}for those two!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Vous voyez? Autant que ce soit moi{SAUT}qui aille les chercher!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0027",
     "locuteur": "Ms. Saeko",
     "en": "I've got Lady Luck on my side.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "La chance est de mon côté.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0028",
     "locuteur": "Ms. Saeko",
     "en": "......?{SAUT}＊gasp＊{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "......?{SAUT}＊sursaut＊{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0029",
     "locuteur": "Ms. Saeko",
     "en": "Aaaaaaaaagh!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Aaaaaaaaah!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0030",
     "locuteur": "Yukino",
     "en": "Ms. Saeko!? What's wrong!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mme Saeko!? Qu'y a-t-il!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0031",
     "locuteur": "Ayase",
     "en": "Wh-What's going on!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Q-Qu'est-ce qui se passe!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0032",
     "en": "{FERME}   Once upon a time, there was an{SAUT}evil demon.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   Il était une fois un démon{SAUT}malfaisant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0033",
     "en": "{PAGE}And one day, this demon made a mirror...{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Un jour, ce démon fabriqua un miroir...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0034",
     "en": "{PAGE}The mirror blurred out the beautiful{SAUT}things of the world and made the ugly{SAUT}things clear.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Ce miroir brouillait tout ce qui est{SAUT}beau au monde et rendait net tout ce{SAUT}qui est laid.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0035",
     "en": "{PAGE}The demon climbed to Heaven, intending{SAUT}to do mischief to God with the mirror,{SAUT}but the mirror broke on the way up.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Le démon monta au Ciel pour jouer un{SAUT}mauvais tour à Dieu avec ce miroir,{SAUT}mais il se brisa en chemin.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0036",
     "en": "{PAGE}The countless splinters it broke into{SAUT}rained down upon the earth.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Ses innombrables éclats retombèrent{SAUT}en pluie sur la terre.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0037",
     "en": "{PAGE}And that is how it all began.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Et c'est ainsi que tout commença.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0038",
     "en": "{FERME}   There lived a boy named Kay and a girl{SAUT}named Gerda, and the two were{SAUT}close friends.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   Il y avait un garçon nommé Kay et{SAUT}une fille nommée Gerda, et tous deux{SAUT}étaient très proches.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0039",
     "en": "{PAGE}But one day, tiny splinters of the{SAUT}mirror got into Kay's eyes and heart.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Mais un jour, des éclats du miroir{SAUT}gagnèrent l'oeil et le coeur de Kay.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0040",
     "en": "{PAGE}The splinters caused Kay's heart to{SAUT}grow cold and his eyes to see only{SAUT}ugly things.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Ces éclats glacèrent le coeur de Kay{SAUT}et ne laissèrent à ses yeux que{SAUT}la laideur.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0041",
     "en": "{PAGE}He even began to tease Gerda, whom he{SAUT}cared so much for.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Il se mit même à railler Gerda,{SAUT}qu'il aimait tant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0042",
     "en": "{FERME}  On a snowy winter day...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  Par un jour de neige...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0043",
     "en": "{PAGE}A big, white sleigh appeared in front{SAUT}of Kay, who was playing with his sled{SAUT}at the market square.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Un grand traîneau blanc apparut devant{SAUT}Kay, qui jouait avec sa luge{SAUT}sur la place du marché.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0044",
     "en": "{PAGE}And the beautiful woman on that white{SAUT}sleigh took him away.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Et la belle dame de ce traîneau blanc{SAUT}l'emmena avec elle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0045",
     "en": "{PAGE}Little did he know that the woman was{SAUT}the Snow Queen!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Il ignorait que cette femme était{SAUT}la Reine des Neiges!{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0046",
     "en": "{PAGE}That was how Kay came to the Snow Queen's{SAUT}Ice Castle, far to the north.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Ainsi Kay parvint au Château de Glace{SAUT}de la Reine des Neiges, au grand nord.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0047",
     "en": "{FERME}  Gerda learned of Kay's disappearance,{SAUT}and despite her sorrow, she decided to{SAUT}embark on a journey to find him.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  Gerda apprit la disparition de Kay{SAUT}et, malgré son chagrin, décida de{SAUT}partir à sa recherche.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0048",
     "en": "{PAGE}Along the way, she overcame many{SAUT}hardships and obstacles with the warm{SAUT}help of the people she met.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}En chemin, elle surmonta bien des{SAUT}épreuves grâce à l'aide chaleureuse{SAUT}de ceux qu'elle rencontra.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0049",
     "en": "{PAGE}At last, Gerda's love for Kay and her{SAUT}unwavering courage led her to the{SAUT}Ice Castle.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Enfin, son amour pour Kay et son{SAUT}courage sans faille la menèrent{SAUT}au Château de Glace.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0050",
     "en": "{FERME}What Gerda saw at the end of her{SAUT}journey was the half-frozen Kay,{SAUT}who had forgotten her completely.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}Au bout de son voyage, Gerda trouva{SAUT}un Kay à demi gelé,{SAUT}qui l'avait entièrement oubliée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0051",
     "en": "{PAGE}Gerda's warm tears gently covered him,{SAUT}melting his heart.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Les larmes chaudes de Gerda le{SAUT}couvrirent et fondirent son coeur.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0052",
     "en": "{PAGE}Upon regaining himself, Kay burst into{SAUT}tears, washing away the splinter of the{SAUT}mirror in his eye.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Revenu à lui, Kay fondit en larmes,{SAUT}et ses pleurs emportèrent l'éclat{SAUT}de miroir logé dans son oeil.{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0053",
     "en": "{PAGE}Hand in hand, the two left Ice Castle...{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Main dans la main, ils s'en allèrent...{ATTENTE}"
   },
   {
     "id": "E0.BIN:041:0054",
     "en": "{PAGE}And lived at home happily ever after.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Et vécurent heureux à la maison.{ATTENTE}"
   }
 ]

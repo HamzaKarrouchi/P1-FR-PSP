@@ -113,11 +113,22 @@ module CheckTrad
   def caracteres_sans_glyphe(texte, tabla, glyphes)
     return [] if glyphes.nil?
 
+    # Le relevé des glyphes s'arrête à 0x1FF : au-delà, on n'a pas regardé.
+    # Absent de la liste ne veut donc « pas dessiné » que DANS cette plage.
+    #
+    # Sans cette borne, `β` (0x200) faisait échouer neuf entrées. Ce n'est même
+    # pas du texte : il n'apparaît jamais ailleurs qu'accolé à
+    # `(*SET_ANIM_LAYER*)`, suivi d'un `[XX]` — c'est un octet de paramètre
+    # d'animation que l'extracteur a rendu comme un caractère. Le recopier
+    # faisait rougir le validateur ; le retirer aurait cassé l'animation, sans
+    # bruit.
+    plafond = glyphes.max || 0
+
     texte.to_s.gsub(JETON, '').each_char.reject do |c|
       next true unless c =~ /[[:alpha:]]/
 
       code = tabla[c]
-      code.nil? || glyphes.include?(code)
+      code.nil? || code > plafond || glyphes.include?(code)
     end.uniq
   end
 
@@ -293,6 +304,14 @@ module CheckTrad
           # Aussi large que l'original, donc pas une régression : on le dit,
           # sans bloquer.
           avertis << "#{id} [LARGEUR] #{l.length} car., comme l'anglais (#{origine}) — deja large a l'origine"
+        elsif origine > LARGEUR_DURE
+          # L'anglais lui-même dépasse déjà la boîte : ce n'est donc pas une
+          # ligne affichée. Ce sont les blocs de mise en scène — des centaines
+          # de (*SCENE_LOAD*) et (*SET_ANIM_LAYER*) dont les espaces se
+          # retrouvent dans le texte — avec une phrase courte au bout. On ne
+          # peut pas être plus strict que l'original.
+          avertis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais — " \
+                     "l'anglais deborde deja, ce n'est pas une ligne affichee"
         elsif l.length > LARGEUR_DURE
           soucis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais (debordement certain) : #{l.inspect}"
         else

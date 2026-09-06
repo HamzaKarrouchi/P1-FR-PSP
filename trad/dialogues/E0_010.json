@@ -3,594 +3,594 @@
     "id": "E0.BIN:029:0000",
     "locuteur": "Yukino",
     "en": "What WAS that? A dream...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'était QUOI, ça? Un rêve...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0001",
     "locuteur": "Nanjo",
     "en": "\"Truth is stranger than fiction\"...{SAUT}Evidently.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "\"La réalité dépasse la fiction\"...{SAUT}Manifestement.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0002",
     "locuteur": "Elly",
     "en": "To be present for another once-in-a-{SAUT}lifetime event... How magnificent!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Assister à un nouvel événement{SAUT}unique... Quelle merveille!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0003",
     "locuteur": "Maki's mother",
     "en": "Nnh... Nrgh...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mère de Maki",
+    "fr": "Nnh... Nrgh...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0004",
     "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Setsuko Sonomura{SAUT}Maki's mother. She works at SEBEC as{SAUT}an engineering specialist.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0300*)> Setsuko Sonomura{SAUT}Mère de Maki. Ingénieure spécialisée{SAUT}chez SEBEC.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0005",
     "locuteur": "Mark",
     "en": "H-Hey! Did you forget about Maki's{SAUT}mom here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "H-Hé! Vous oubliez pas la mère de{SAUT}Maki, là?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0006",
     "locuteur": "Yukino",
     "en": "Lady? Are you okay?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Madame? Vous allez bien?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0007",
     "locuteur": "Nanjo",
     "en": "This is a gunshot wound... Who did{SAUT}this to you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est une blessure par balle... Qui{SAUT}vous a fait cela?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0008",
     "locuteur": "Setsuko Sonomura",
     "en": "Kandori's... goons...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Les hommes... de Kandori...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0009",
     "locuteur": "Nanjo",
     "en": "Kandori!? The president of SEBEC?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kandori!? Le président de SEBEC?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0010",
     "locuteur": "Setsuko Sonomura",
     "en": "The alterations to this town...{SAUT}Kandori's behind them all...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Ce qui arrive à cette ville...{SAUT}Kandori est derrière tout ça...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0011",
     "locuteur": "Setsuko Sonomura",
     "en": "I... was involved in the development{SAUT}of a certain device...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "J'ai... participé à la mise au point{SAUT}d'un certain appareil...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0012",
     "locuteur": "Nanjo",
     "en": "A device... And you're saying this{SAUT}machine is causing the changes?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Un appareil... Et vous dites que{SAUT}c'est lui qui provoque tout cela?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0013",
     "locuteur": "Setsuko Sonomura",
     "en": "It's the (*TEXTBOX_PARAM,0700*)Deva System(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "C'est le (*TEXTBOX_PARAM,0700*)Deva System(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0014",
     "locuteur": "Setsuko Sonomura",
     "en": "It's engineered to affect reality.{SAUT}But I didn't think it could do this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Il est conçu pour agir sur le réel.{SAUT}Mais pas à ce point-là...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0015",
     "locuteur": "Setsuko Sonomura",
     "en": "Kandori said... he doesn't care what{SAUT}happens to this town...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Kandori a dit... que le sort de cette{SAUT}ville lui était égal...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0016",
     "locuteur": "Setsuko Sonomura",
     "en": "I have to hurry and tell the police!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Il faut vite prévenir la police!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0017",
     "locuteur": "Elly",
     "en": "Oh dear...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, mon Dieu...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0018",
     "locuteur": "Elly",
     "en": "The police station is already overrun{SAUT}with demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Le commissariat est déjà envahi{SAUT}par les démons.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0019",
     "locuteur": "Elly",
     "en": "I just came from there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'en viens à l'instant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0020",
     "locuteur": "Setsuko Sonomura",
     "en": "My God... But Kandori has to be{SAUT}stopped...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Mon Dieu... Mais il faut arrêter{SAUT}Kandori...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0021",
     "locuteur": "Mark",
     "en": "...How did you escape, Ma'am?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "...Comment vous avez fait pour fuir?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0022",
     "locuteur": "Setsuko Sonomura",
     "en": "Through the abandoned factory... It has{SAUT}a secret freight entrance.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Par l'usine abandonnée... Il y a une{SAUT}entrée de marchandises cachée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0023",
     "locuteur": "Setsuko Sonomura",
     "en": "Use this (*TEXTBOX_PARAM,0700*)security card(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Prenez cette (*TEXTBOX_PARAM,0700*)carte de sécurité(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0024",
     "locuteur": "Yukino",
     "en": "Lady!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Madame!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0025",
     "locuteur": "Yukino",
     "en": "Whew... she only passed out. We have to{SAUT}get her to the school, quick!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouf... elle s'est juste évanouie.{SAUT}Vite, emmenons-la au lycée!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0026",
     "locuteur": "Mark",
     "en": "...You handle this, (*APELLIDO_HEROE*). I got{SAUT}business to take care of.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "...Occupe-t'en, (*APELLIDO_HEROE*). J'ai un truc{SAUT}à régler.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0027",
     "locuteur": "Nanjo",
     "en": "Wait, Masao.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attendez, Masao.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0028",
     "locuteur": "Nanjo",
     "en": "\"Nothing ventured, nothing gained...\"{SAUT}I'll come with you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "\"Qui ne risque rien n'a rien...\"{SAUT}Je vous accompagne.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0029",
     "locuteur": "Nanjo",
     "en": "Remember, you won't be able to get near{SAUT}Kandori without this card.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "N'oubliez pas: sans cette carte, vous{SAUT}n'approcherez pas Kandori.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0030",
     "locuteur": "Yukino",
     "en": "H-Hey!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "H-Hé!{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0031",
     "locuteur": "Yukino",
     "en": "...Tch, thanks, guys. C'mon, let's go{SAUT}back to the school ourselves.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Tss, merci, les gars. Allez, on{SAUT}rentre au lycée de notre côté.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0032",
     "locuteur": "Yukino",
     "en": "Honestly! Men never think about how the{SAUT}ones they leave behind feel.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Franchement! Les hommes ne pensent{SAUT}jamais à ceux qui restent.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0033",
     "locuteur": "Elly",
     "en": "Those two do have a similarly reckless{SAUT}temperament.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ces deux-là ont le même tempérament{SAUT}téméraire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0034",
     "locuteur": "Elly",
     "en": "Well, I'm sure they'll give up and come{SAUT}back once they see the place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Bah, ils renonceront et reviendront{SAUT}en voyant l'endroit.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0035",
     "locuteur": "Mysterious butterfly",
     "en": "If you are hurt on the way back to{SAUT}school, come here and I will heal you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Si vous êtes blessés en rentrant au{SAUT}lycée, venez ici, je vous soignerai.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0036",
     "locuteur": "Yukino",
     "en": "Huh... I wonder what this butterfly's{SAUT}deal really is.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hein... Il est quoi au juste, ce{SAUT}papillon?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0037",
     "locuteur": "Yukino",
     "en": "Well, whatever. Let's get back{SAUT}to school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, peu importe. Rentrons{SAUT}au lycée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0038",
     "locuteur": "Elly",
     "en": "What a fascinating butterfly...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quel papillon fascinant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0039",
     "locuteur": "Elly",
     "en": "Don't you feel as though it can see{SAUT}through to the depths of your soul?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "N'avez-vous pas l'impression qu'il{SAUT}voit jusqu'au fond de votre âme?{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0040",
     "locuteur": "Mysterious butterfly",
     "en": "Close your eyes, wounded ones...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Fermez les yeux, vous les blessés...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0041",
     "en": "{FERME}> She seems to be passed out.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Elle semble évanouie.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0000",
     "locuteur": "Elly",
     "en": "We need to retrieve Maki's mother...{SAUT}She should still be at the shrine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Il faut aller chercher la mère de{SAUT}Maki... Elle est encore au sanctuaire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0001",
     "locuteur": "Elly",
     "en": "It's me, Eriko Kirishima.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est moi, Eriko Kirishima.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0002",
     "locuteur": "Elly",
     "en": "We have an injured woman with us.{SAUT}Won't you open the gate?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Nous avons une blessée avec nous.{SAUT}Ouvrez-nous le portail.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0003",
     "locuteur": "Boy on watch",
     "en": "Not unless you say the password!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Garçon de garde",
+    "fr": "Pas sans le mot de passe!{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0004",
     "locuteur": "Elly",
     "en": "Ah, yes. \"Roses are red, zombies are blue,{SAUT}I don't want brains, so you know I'm true.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ah, oui. \"Rose la rose, bleu le zombi,{SAUT}pas de cervelle pour moi, c'est promis.\"{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0005",
     "locuteur": "Elly",
     "en": "Now will you let us in?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Vous nous laissez entrer?{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0006",
     "locuteur": "Boy on watch",
     "en": "Alright, come in!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Garçon de garde",
+    "fr": "D'accord, entrez!{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0007",
     "locuteur": "Boy on watch",
     "en": "No! We can't let anyone in!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Garçon de garde",
+    "fr": "Non! On ne laisse entrer personne!{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0008",
     "locuteur": "Boy on watch",
     "en": "I mean, what are we supposed to do if{SAUT}you guys are really demons!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Garçon de garde",
+    "fr": "Et si vous étiez des démons, hein?{SAUT}On ferait quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0009",
     "locuteur": "Elly",
     "en": "The shrine isn't far from here.{SAUT}Let's hurry there and come back.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Le sanctuaire est tout près.{SAUT}Allons-y vite et revenons.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0010",
     "locuteur": "Yukino",
     "en": "Are you gonna leave Maki's mom all{SAUT}alone, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu vas laisser la mère de Maki toute{SAUT}seule, (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0011",
     "locuteur": "Mark",
     "en": "These guys don't plan to let anyone in...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ils laisseront entrer personne...{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0012",
     "locuteur": "Nanjo",
     "en": "Isn't Maki's mother supposed to be{SAUT}working at SEBEC?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "La mère de Maki ne travaille-t-elle{SAUT}pas chez SEBEC?{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0013",
     "locuteur": "Nanjo",
     "en": "Something's peculiar about this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il y a là quelque chose d'étrange...{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0014",
     "en": "{FERME}> The school gates are tightly closed...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Le portail du lycée est bien fermé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0000",
     "locuteur": "Ms. Saeko",
     "en": "You're all safe!? Oh, I'm so glad...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Vous êtes saufs!? Quel soulagement...{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0001",
     "locuteur": "Ms. Saeko",
     "en": "Oh! What happened to her...!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Oh! Que lui est-il arrivé...!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0002",
     "locuteur": "Yukino",
     "en": "We'll tell you later! We need to get{SAUT}her to the infirmary, quick!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On vous expliquera! Vite, il faut{SAUT}l'emmener à l'infirmerie!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0003",
     "locuteur": "Ms. Saeko",
     "en": "You're right! (*APELLIDO_HEROE*), come with{SAUT}me to the infirmary!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Vous avez raison! (*APELLIDO_HEROE*), venez{SAUT}avec moi à l'infirmerie!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0004",
     "locuteur": "Ms. Saeko",
     "en": "Yukino, Eriko, I want you to head to{SAUT}the passageway to the gym.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Yukino, Eriko, allez au couloir qui{SAUT}mène au gymnase.{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0005",
     "locuteur": "Ms. Saeko",
     "en": "Yuka and Yuko are there plugging up the{SAUT}hole in the wall. Please help them out!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Yuka et Yuko y bouchent le trou dans{SAUT}le mur. Aidez-les, s'il vous plaît!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0006",
     "locuteur": "Yukino",
     "en": "Right... gotta keep the demons from{SAUT}getting in. Will do!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Oui... il faut empêcher les démons{SAUT}d'entrer. On y va!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0007",
     "locuteur": "Yukino",
     "en": "C'mon, Eriko!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Allez, Eriko!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0008",
     "locuteur": "Elly",
     "en": "Yes, let's go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oui, allons-y!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0009",
     "locuteur": "Ms. Saeko",
     "en": "Alright, then we should get going, too.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Bien, allons-y nous aussi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0010",
     "locuteur": "Ms. Saeko",
     "en": "Hey, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Hé, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0011",
     "locuteur": "Girl on watch",
     "en": "Oh, hi (*APELLIDO_HEROE*). You can't go out{SAUT}even through here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille de garde",
+    "fr": "Oh, salut (*APELLIDO_HEROE*). Tu peux pas{SAUT}sortir par ici non plus.{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0012",
     "locuteur": "Girl on watch",
     "en": "Wait, (*APELLIDO_HEROE*), you can't!{SAUT}The teachers told us not to go outside!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille de garde",
+    "fr": "Attends, (*APELLIDO_HEROE*), non!{SAUT}Les profs ont interdit de sortir!{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0013",
     "locuteur": "Girl on watch",
     "en": "What do we do if demons get in here?{SAUT}I don't have any weapons...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille de garde",
+    "fr": "On fait quoi si des démons entrent?{SAUT}Je n'ai aucune arme...{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0014",
     "locuteur": "Girl on watch",
     "en": "I wonder if there's anything in the{SAUT}archery club I could use...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille de garde",
+    "fr": "Il y aurait peut-être quelque chose{SAUT}au club de tir à l'arc...{ATTENTE}"
   },
   {
     "id": "E0.BIN:033:0015",
     "en": "{FERME}   > The door is tightly closed...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > La porte est bien fermée...{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0000",
     "locuteur": "Setsuko Sonomura",
     "en": "...And that's what happened.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "...Voilà ce qui s'est passé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0001",
     "locuteur": "Ms. Saeko",
     "en": "So that's what SEBEC is up to, huh...?{SAUT}I can't believe them!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Voilà donc ce que trame SEBEC...?{SAUT}C'est inadmissible!{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0002",
     "locuteur": "Ms. Saeko",
     "en": "Hey, (*APELLIDO_HEROE*)? Sorry to ask, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "(*APELLIDO_HEROE*)? Pardon de demander, mais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0003",
     "locuteur": "Ms. Saeko",
     "en": "Could you go by the hole and ask Yukino{SAUT}and the others not to fill it up?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Pourriez-vous passer au trou et dire{SAUT}à Yukino de ne pas le boucher?{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0004",
     "locuteur": "Ms. Saeko",
     "en": "Masao and Kei might have to come back{SAUT}in through there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Masao et Kei devront peut-être{SAUT}rentrer par là.{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0005",
     "locuteur": "Setsuko Sonomura",
     "en": "I don't know what to say... I've caused{SAUT}so much trouble for everyone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je ne sais que dire... Je vous ai{SAUT}causé tant d'ennuis à tous...{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0006",
     "locuteur": "Ms. Saeko",
     "en": "They know about the hole in the wall,{SAUT}right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Ils connaissent le trou dans le mur,{SAUT}n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0007",
     "locuteur": "Ms. Saeko",
     "en": "The gates are sealed, so that's the{SAUT}only way they'll be able to get in.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Le portail est condamné: c'est leur{SAUT}seul moyen d'entrer.{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0011",
     "locuteur": "Nurse Natsumi",
     "en": "Maki's mother isn't badly hurt.{SAUT}You can relax.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "La mère de Maki n'est pas gravement{SAUT}blessée. Rassurez-vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0012",
     "locuteur": "Nurse Natsumi",
     "en": "What about you, (*APELLIDO_HEROE*)? Got any{SAUT}injuries? Let me look...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Et vous, (*APELLIDO_HEROE*)? Vous êtes{SAUT}blessé? Montrez-moi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:034:0013",
     "locuteur": "Nurse Natsumi",
     "en": "There, all better. Be careful out there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Voilà, c'est réparé. Soyez prudent.{ATTENTE}"
   },
   {
     "id": "E0.BIN:035:0000",
     "locuteur": "Female student",
     "en": "Devil-Boy says this town got all weird{SAUT}because of a curse on St. Hermelin.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "D'après Devil-Boy, la ville a viré{SAUT}bizarre par une malédiction du lycée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:035:0001",
     "locuteur": "Female student",
     "en": "I don't think now is the time for that...{SAUT}Though it's admirable in its own way.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Ce n'est pas le moment pour ça...{SAUT}Même si c'est admirable, à sa façon.{ATTENTE}"
   }
 ]
