@@ -15,18 +15,18 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
 | [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
-| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | libre |
+| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
 | [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_006.json`](trad/dialogues/E0_006.json) | 18 | 18 | 100 % | terminé |
 | [`E0_007.json`](trad/dialogues/E0_007.json) | 97 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
-| [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 0 | 0 % | libre |
-| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 0 | 0 % | libre |
-| [`E0_010.json`](trad/dialogues/E0_010.json) | 86 | 0 | 0 % | libre |
-| [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 0 | 0 % | libre |
-| [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 0 | 0 % | libre |
-| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 0 | 0 % | libre |
+| [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_010.json`](trad/dialogues/E0_010.json) | 86 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 0 | 0 % | libre |
 | [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 0 | 0 % | libre |
 | [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | libre |
