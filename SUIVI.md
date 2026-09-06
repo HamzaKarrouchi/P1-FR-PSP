@@ -3,23 +3,10 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █░░░░░░░░░░░░░░░░░░░░░░░    2 %      195 / 8 572 textes
+Dialogues      ░░░░░░░░░░░░░░░░░░░░░░░░    2 %      162 / 8 572 textes
 EBOOT          pas encore ouvert — environ 5 771 textes
 Négociations   pas encore ouvert — environ 17 408 textes
 ```
-
-## À relire
-
-Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais sans sa traduction officielle dans le français. Ce n'est pas forcément une faute, mais ça mérite un avis.
-
-- [`E0_004.json`](trad/dialogues/E0_004.json) — 1 terme
-- [`E0_005.json`](trad/dialogues/E0_005.json) — 3 termes
-- [`E0_007.json`](trad/dialogues/E0_007.json) — 4 termes
-- [`E2_004.json`](trad/dialogues/E2_004.json) — 4 termes
-- [`E2_006.json`](trad/dialogues/E2_006.json) — 4 termes
-- [`E2_007.json`](trad/dialogues/E2_007.json) — 4 termes
-- [`E2_012.json`](trad/dialogues/E2_012.json) — 4 termes
-- [`E2_014.json`](trad/dialogues/E2_014.json) — 4 termes
 
 ## Dialogues
 
@@ -28,18 +15,18 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
 | [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
-| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | libre |
+| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
-| [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 1 | 1 % | commencé · 1 à relire |
-| [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 3 | 3 % | commencé · 3 à relire |
+| [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_006.json`](trad/dialogues/E0_006.json) | 18 | 18 | 100 % | terminé |
-| [`E0_007.json`](trad/dialogues/E0_007.json) | 97 | 4 | 4 % | commencé · 4 à relire |
-| [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 0 | 0 % | libre |
-| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 0 | 0 % | libre |
-| [`E0_010.json`](trad/dialogues/E0_010.json) | 86 | 0 | 0 % | libre |
-| [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 0 | 0 % | libre |
-| [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 0 | 0 % | libre |
-| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 0 | 0 % | libre |
+| [`E0_007.json`](trad/dialogues/E0_007.json) | 97 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_010.json`](trad/dialogues/E0_010.json) | 86 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 0 | 0 % | libre |
 | [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 0 | 0 % | libre |
 | [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | libre |
@@ -109,22 +96,22 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 0 | 0 % | libre |
 | [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 0 | 0 % | libre |
 | [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 0 | 0 % | libre |
-| [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 4 | 4 % | commencé · 4 à relire |
+| [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 3 | 3 % | commencé |
-| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 4 | 4 % | commencé · 4 à relire |
-| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 4 | 4 % | commencé · 4 à relire |
+| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
+| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 0 | 0 % | libre |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 0 | 0 % | libre |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | libre |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
-| [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | commencé · 4 à relire |
+| [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
-| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 4 | 4 % | commencé · 4 à relire |
+| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 0 | 0 % | libre |
-| [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 3 | 3 % | commencé |
+| [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 0 | 0 % | libre |
 | [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 0 | 0 % | libre |
-| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 2 | 2 % | commencé |
+| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 0 | 0 % | en cours par @HamzaKarrouchi (#2) |
 | [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 0 | 0 % | libre |
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 0 | 0 % | libre |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 0 | 0 % | libre |
