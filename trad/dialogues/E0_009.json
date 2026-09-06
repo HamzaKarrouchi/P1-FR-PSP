@@ -39,7 +39,7 @@
     "locuteur": "Mark",
     "en": "Maki! Wh-What the hell!?{SAUT}Th-The room's gone!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Maki! C-C'est quoi ce bordel!?{SAUT}L-La chambre a disparu!{ATTENTE}"
+    "fr": "Maki! C-Comment!?{SAUT}L-La chambre a disparu!{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0006",
@@ -66,7 +66,7 @@
     "id": "E0.BIN:022:0000",
     "locuteur": "Vacant-eyed man",
     "en": "F-Fresh meat... Meat is heeeeere!{ATTENTE}",
-    "locuteur_fr": "Homme au regard vide",
+    "locuteur_fr": "Homme hagard",
     "fr": "D-De la viande... De la viaaaande!{ATTENTE}"
   },
   {
@@ -87,7 +87,7 @@
     "id": "E0.BIN:022:0003",
     "locuteur": "Panicked nurse",
     "en": "Nooooo!{ATTENTE}",
-    "locuteur_fr": "Infirmière affolée",
+    "locuteur_fr": "Infirmière",
     "fr": "Nooooon!{ATTENTE}"
   },
   {

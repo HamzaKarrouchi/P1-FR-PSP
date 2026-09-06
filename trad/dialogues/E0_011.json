@@ -436,7 +436,7 @@
   {
     "id": "E0.BIN:040:0002",
     "en": "(*UNK_0E,0A00*){FERME} > Obtained the (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Snow Queen Mask(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "(*UNK_0E,0A00*){FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Masque de la Reine des Neiges(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
+    "fr": "(*UNK_0E,0A00*){FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Masque Reine des Neiges(*TEXTBOX_PARAM,0000*) reçu.{ATTENTE}"
   },
   {
     "id": "E0.BIN:040:0003",
@@ -452,6 +452,6 @@
   {
     "id": "E0.BIN:040:0005",
     "en": "{FERME} > The door to the stage suddenly{SAUT}won't open...{ATTENTE}",
-    "fr": "{FERME} > La porte de la scène refuse{SAUT}soudain de s'ouvrir...{ATTENTE}"
+    "fr": "{FERME} > La porte de la scène refuse{SAUT}de s'ouvrir...{ATTENTE}"
   }
 ]

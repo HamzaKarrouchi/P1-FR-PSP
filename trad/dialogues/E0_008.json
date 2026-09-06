@@ -158,8 +158,8 @@
     "id": "E0.BIN:018:0022",
     "locuteur": "Clerk",
     "en": "Welcome!{ATTENTE}",
-    "locuteur_fr": "Employé",
-    "fr": "Bienvenue!{ATTENTE}",
+    "locuteur_fr": "Commis",
+    "fr": "Entrez!{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -437,7 +437,7 @@
     "locuteur": "Nanjo",
     "en": "What do you mean?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Que voulez-vous dire?{ATTENTE}",
+    "fr": "Comment cela?{ATTENTE}",
     "_occurrences": 2
   },
   {
