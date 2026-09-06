@@ -3,700 +3,700 @@
     "id": "E0.BIN:021:0000",
     "locuteur": "Yukino",
     "en": "I wonder if Maki's okay...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'espère que Maki va bien...{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0001",
     "locuteur": "Mark",
     "en": "...{PAUSE}[5000]Dammit!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "...{PAUSE}[5000]Merde!{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0002",
     "locuteur": "Yukino",
     "en": "Wh-What the--an earthquake!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Q-Quoi--un tremblement de terre!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0003",
     "locuteur": "Mark",
     "en": "Whoa! It's a big one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouah! Il est costaud!{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0004",
     "locuteur": "Nanjo",
     "en": "...It seems to have stopped.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Cela semble terminé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0005",
     "locuteur": "Mark",
     "en": "Maki! Wh-What the hell!?{SAUT}Th-The room's gone!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Maki! C-C'est quoi ce bordel!?{SAUT}L-La chambre a disparu!{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0006",
     "locuteur": "Nanjo",
     "en": "What!? What's going on here? That was{SAUT}definitely the ICU...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quoi!? Que se passe-t-il ici? C'était{SAUT}bien les soins intensifs...{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0007",
     "locuteur": "Woman's voice",
     "en": "Aieeee!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de femme",
+    "fr": "Aaaaah!{ATTENTE}"
   },
   {
     "id": "E0.BIN:021:0008",
     "locuteur": "Yukino",
     "en": "Did you hear that? It came from{SAUT}downstairs! Let's check it out!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Vous avez entendu? Ça vient d'en bas!{SAUT}Allons voir!{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0000",
     "locuteur": "Vacant-eyed man",
     "en": "F-Fresh meat... Meat is heeeeere!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme au regard vide",
+    "fr": "D-De la viande... De la viaaaande!{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0001",
     "locuteur": "Yukino",
     "en": "Wh-What's with these guys?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C-C'est quoi, ces types?{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0002",
     "locuteur": "Panicked nurse",
     "en": "Th-The dead patients suddenly got up and{SAUT}walked... That old man rescued me and...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière affolée",
+    "fr": "L-Les patients morts se sont levés{SAUT}et... Ce vieil homme m'a sauvée et...{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0003",
     "locuteur": "Panicked nurse",
     "en": "Nooooo!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière affolée",
+    "fr": "Nooooon!{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0004",
     "locuteur": "Mark",
     "en": "What!? These guys were dead?{SAUT}Is this for real!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Quoi!? Ces types étaient morts?{SAUT}C'est du sérieux!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0005",
     "locuteur": "Nanjo",
     "en": "Y... Yamaoka...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Y... Yamaoka...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:022:0006",
     "locuteur": "Nanjo",
     "en": "Yamaoka! You bastards...{SAUT}How DARE you!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka! Ordures...{SAUT}Comment OSEZ-vous!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0000",
     "locuteur": "Nanjo",
     "en": "Yamaoka... Don't go... You wouldn't{SAUT}leave me behind, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka... Ne partez pas... Vous ne{SAUT}m'abandonneriez pas, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0001",
     "locuteur": "Nanjo",
     "en": "Right, Yamaoka?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "N'est-ce pas, Yamaoka?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0002",
     "locuteur": "Yamaoka",
     "en": "Oh, young master... Don't be so sad...{SAUT}It spoils your handsome face...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Oh, jeune maître... Pas de tristesse...{SAUT}Cela abîme votre beau visage...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0003",
     "locuteur": "Yamaoka",
     "en": "You're a fine Japanese man... And a{SAUT}man must stand on his own someday...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Vous êtes un digne Japonais... Et un{SAUT}homme doit un jour marcher seul...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0004",
     "locuteur": "Yamaoka",
     "en": "It seems that this... will be the last{SAUT}service I can provide for you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Il semble que ce soit... le dernier{SAUT}service que je vous rende...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0005",
     "locuteur": "Nanjo",
     "en": "No! No no no! I won't let you leave me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Non! Non non non! Ne me quittez pas!{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0006",
     "locuteur": "Nanjo",
     "en": "Hang in there, Yamaoka!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tenez bon, Yamaoka!{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0007",
     "locuteur": "Yamaoka",
     "en": "It's time I said farewell...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Il est temps de vous dire adieu...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0008",
     "locuteur": "Yamaoka",
     "en": "Just one last thing... Please promise{SAUT}me, young master...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Une dernière chose... Promettez-moi,{SAUT}jeune maître...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0009",
     "locuteur": "Yamaoka",
     "en": "Promise to become the No. 1 man in the{SAUT}country and carry Japan on your back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Devenez le premier homme du pays,{SAUT}et portez le Japon sur vos épaules!{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0010",
     "locuteur": "Yamaoka",
     "en": "＊cough＊ ＊cough＊{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "＊tousse＊ ＊tousse＊{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0011",
     "locuteur": "Nanjo",
     "en": "...Of course... Of course I will.{SAUT}When that time comes, you'll see.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Bien sûr... Bien sûr que oui.{SAUT}Le jour venu, vous verrez.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0012",
     "locuteur": "Nanjo",
     "en": "So, until then--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Alors, d'ici là--{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0013",
     "locuteur": "Yamaoka",
     "en": "That's my young master... I will always{SAUT}be... in your heart...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yamaoka",
+    "fr": "Voilà mon jeune maître... Je serai{SAUT}toujours... près de vous...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0014",
     "locuteur": "Nanjo",
     "en": "Yamaoka?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0015",
     "locuteur": "Nanjo",
     "en": "Hey...! Answer me... I'm begging you...{SAUT}Yamaoka!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hé...! Répondez-moi... Je vous en{SAUT}supplie... Yamaoka!{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0016",
     "locuteur": "Yukino",
     "en": "Nanjo...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Nanjo...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0017",
     "locuteur": "Mark",
     "en": "Let him alone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Laisse-le tranquille...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0018",
     "locuteur": "Mark",
     "en": "Hey (*APELLIDO_HEROE*)...{SAUT}Could you hear their voices?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé (*APELLIDO_HEROE*)...{SAUT}T'as entendu ces voix, toi aussi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0019",
     "locuteur": "Mark",
     "en": "That thing said it was me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce truc a dit que c'était moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0020",
     "locuteur": "Yukino",
     "en": "I heard it, too... Think it was that{SAUT}Persona thing?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Moi aussi je l'ai entendu... C'était{SAUT}ce truc, Persona?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0021",
     "locuteur": "Mark",
     "en": "It said it would lend us power, so I{SAUT}kinda doubt it's hostile.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Il a dit qu'il nous prêterait sa{SAUT}force, donc il est pas hostile, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0022",
     "locuteur": "Mark",
     "en": "If we're lucky, maybe it'll listen to{SAUT}what we tell it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Avec un peu de chance, il nous{SAUT}écoutera peut-être...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0023",
     "locuteur": "Mark",
     "en": "I guess we might as well go on calling{SAUT}it \"(*TEXTBOX_PARAM,0700*)Persona(*TEXTBOX_PARAM,0000*).\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Autant continuer à l'appeler{SAUT}\"(*TEXTBOX_PARAM,0700*)Persona(*TEXTBOX_PARAM,0000*).\"{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0024",
     "locuteur": "Yukino",
     "en": "That's how it felt to me, too... I have{SAUT}a bad feeling about this. Let's go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'ai eu la même impression... Je le{SAUT}sens mal, tout ça. Allons-y.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0025",
     "locuteur": "Yukino",
     "en": "I'm wondering if the school's safe.{SAUT}We should get outdoors, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Le lycée est peut-être sûr.{SAUT}Sortons d'ici, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0026",
     "locuteur": "Yukino",
     "en": "Nanjo seemed like a little boy in front{SAUT}of that old guy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Devant ce vieil homme, Nanjo avait{SAUT}l'air d'un petit garçon...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0027",
     "locuteur": "Yukino",
     "en": "Failing to protect the ones you love...{SAUT}Nothing hurts worse than that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ne pas réussir à protéger ceux qu'on{SAUT}aime... Il n'y a pas pire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0028",
     "locuteur": "Nanjo",
     "en": "Yamaoka... What should I do...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka... Que dois-je faire...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0029",
     "locuteur": "Nanjo",
     "en": "Without you, I'm all alone... No one{SAUT}is here to encourage me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Sans vous, je suis seul... Personne{SAUT}n'est là pour m'encourager...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0030",
     "locuteur": "Nanjo",
     "en": "No one... will stand by me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Personne... à mes côtés...{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0031",
     "locuteur": "Mark",
     "en": "I didn't think he was gonna cry...{SAUT}He must've really loved that old guy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "J'aurais pas cru qu'il pleurerait...{SAUT}Il devait vraiment aimer ce vieux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0032",
     "locuteur": "Mark",
     "en": "I feel bad for Nanjo, but we gotta{SAUT}worry about the living now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ça me fait mal pour Nanjo, mais faut{SAUT}s'occuper des vivants, maintenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0033",
     "locuteur": "Mark",
     "en": "Let's hurry and rescue Maki's mom.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Vite, allons sauver la mère de Maki.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0034",
     "locuteur": "Elly",
     "en": "So that's what happened... Losing one's{SAUT}beloved can profoundly affect one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Voilà donc... Perdre un être aimé{SAUT}peut bouleverser quelqu'un.{ATTENTE}"
   },
   {
     "id": "E0.BIN:023:0035",
     "en": "{FERME}  > He's already gone...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Il est déjà parti...{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0000",
     "locuteur": "Yukino",
     "en": "(*APELLIDO_HEROE*)! This one's still alive!{SAUT}Gimme a hand here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "(*APELLIDO_HEROE*)! Elle est encore vivante!{SAUT}Aide-moi!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:024:0001",
     "locuteur": "Nanjo",
     "en": "We haven't time to waste here, (*APELLIDO_HEROE*)!{SAUT}It's too late for her, but not for us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous n'avons pas le temps, (*APELLIDO_HEROE*)!{SAUT}Pour elle c'est fini, pas pour nous!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:024:0002",
     "locuteur": "Mark",
     "en": "Yo, (*APELLIDO_HEROE*)! The monsters are just{SAUT}around the corner!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Hé, (*APELLIDO_HEROE*)! Les monstres sont juste{SAUT}à côté!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:024:0003",
     "locuteur": "Severely wounded nurse",
     "en": "I... I'm not going to make it...{SAUT}You kids... g-get out of here...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière blessée",
+    "fr": "Je... Je ne m'en sortirai pas...{SAUT}Les enfants... p-partez d'ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0004",
     "locuteur": "Yukino",
     "en": "Don't give up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "N'abandonnez pas!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0005",
     "locuteur": "Yukino",
     "en": "I could really use a hand, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'aurais bien besoin d'aide, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0006",
     "locuteur": "Yukino",
     "en": "Okay, you take that side!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, prends de ce côté!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0007",
     "locuteur": "Mark",
     "en": "It's no good! They're coming!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "C'est fichu! Ils arrivent!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0008",
     "locuteur": "Elly",
     "en": "Oh, good day.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, bonjour.{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0009",
     "locuteur": "Elly",
     "en": "Oh, my! There are demons here too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh là! Des démons ici aussi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0010",
     "locuteur": "Yukino",
     "en": "Are you serious!? But she's still alive!{SAUT}You're telling me to abandon her!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu es sérieux!? Elle est vivante!{SAUT}Tu me dis de l'abandonner!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0011",
     "locuteur": "Nanjo",
     "en": "...I don't want to leave Yamaoka{SAUT}behind, either.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Moi non plus, je ne veux pas{SAUT}abandonner Yamaoka.{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0012",
     "locuteur": "Nanjo",
     "en": "But we don't have a choice! We have{SAUT}to go!(*UNK_0E,0900*){FERME}(*SPEAKER*)Nanjo{SAUT}Yukino! Masao! Let's go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous n'avons pas le choix! Il faut{SAUT}partir!(*UNK_0E,0900*){FERME}(*SPEAKER*)Nanjo{SAUT}Yukino! Masao! Partons!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0013",
     "locuteur": "Nanjo",
     "en": "Tsk... Don't blame me when you end up part{SAUT}of the problem instead of the solution.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tss... Ne venez pas vous plaindre si{SAUT}vous devenez le problème vous-mêmes.{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0014",
     "locuteur": "Mark",
     "en": "What're we gonna do? Now's the time to{SAUT}decide, man!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On fait quoi? Faut décider{SAUT}maintenant, mec!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0015",
     "locuteur": "Yukino",
     "en": "I can't leave her here! Help me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je peux pas la laisser! Aide-moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:024:0016",
     "en": "{FERME}  > You hear a dreadful roar from the{SAUT}end of the hallway.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Un rugissement terrible monte du{SAUT}fond du couloir.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0000",
     "locuteur": "Elly",
     "en": "Was that Nike...? The Greek goddess{SAUT}of victory...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'était Nike...? La déesse grecque{SAUT}de la victoire...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0001",
     "locuteur": "Elly",
     "en": "It's me... and I'm it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "C'est moi... et je suis elle...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:025:0002",
     "locuteur": "Yukino",
     "en": "Eriko? Hey! Are you okay?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Eriko? Hé! Ça va?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0003",
     "locuteur": "Elly",
     "en": "Nike... The archetypal portrayal of{SAUT}Christian angels...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Nike... Le modèle des anges{SAUT}chrétiens...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0005",
     "locuteur": "Mark",
     "en": "No good. She's completely gone.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "C'est mort. Elle est ailleurs.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0006",
     "locuteur": "Yukino",
     "en": "Eriko! Snap out of it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Eriko! Reviens à toi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0007",
     "locuteur": "Elly",
     "en": "＊gasp＊ I-I'm sorry... I'm all right.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "＊sursaut＊ P-Pardon... Je vais bien.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0008",
     "locuteur": "Elly",
     "en": "I am an angelic bringer of victory!{SAUT}From now on, you have my protection!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je suis l'ange porteur de victoire!{SAUT}Désormais, je vous protège!{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0009",
     "locuteur": "Mark",
     "en": "...You idiot. We can do it too.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "...Idiote. On peut le faire aussi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0010",
     "locuteur": "Elly",
     "en": "R-Really...? So I'm not the only one{SAUT}who was chosen...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "V-Vraiment...? Je ne suis donc pas{SAUT}la seule élue...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0011",
     "locuteur": "Nanjo",
     "en": "Eriko... you dreamt of the butterfly,{SAUT}didn't you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Eriko... vous avez rêvé du papillon,{SAUT}n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0012",
     "locuteur": "Elly",
     "en": "How do you know about that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Comment le sais-tu?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0013",
     "locuteur": "Elly",
     "en": "I've seen it quite often in my dreams...{SAUT}Ever since I played the Persona game.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je le vois souvent en rêve...{SAUT}Depuis qu'on a joué à Persona.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0014",
     "locuteur": "Nanjo",
     "en": "Just as I thought. That dream must be{SAUT}the cause of the phenomenon...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est bien ce que je pensais. Ce rêve{SAUT}doit être la cause du phénomène...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0015",
     "locuteur": "Mark",
     "en": "That aside, why'd you come here? Is it{SAUT}like this outside too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Au fait, pourquoi t'es venue? C'est{SAUT}pareil dehors?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0016",
     "locuteur": "Elly",
     "en": "Yes... There are demons everywhere.{SAUT}And it's impossible to leave town.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oui... Il y a des démons partout.{SAUT}Et impossible de quitter la ville.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0017",
     "locuteur": "Elly",
     "en": "I looked everywhere, but it seems that{SAUT}the school is the only safe place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'ai cherché partout: le lycée semble{SAUT}être le seul endroit sûr.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0018",
     "locuteur": "Yukino",
     "en": "Oh? The school's safe?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ah? Le lycée est sûr?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0019",
     "locuteur": "Yukino",
     "en": "Let's go back there, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Retournons-y, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0020",
     "locuteur": "Elly",
     "en": "Oh, but I nearly forgot! We should go{SAUT}to the (*TEXTBOX_PARAM,0700*)shrine(*TEXTBOX_PARAM,0000*) first.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, j'allais oublier! Passons d'abord{SAUT}par le (*TEXTBOX_PARAM,0700*)sanctuaire(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0021",
     "locuteur": "Elly",
     "en": "Maki's mother is hurt. She collapsed{SAUT}there...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "La mère de Maki est blessée. Elle{SAUT}s'est effondrée là-bas...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0022",
     "locuteur": "Mark",
     "en": "What!? Dude, why didn't you say so{SAUT}before!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Quoi!? Fallait le dire plus tôt,{SAUT}bon sang!{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0023",
     "locuteur": "Yukino",
     "en": "Alright, let's save Maki's mom and{SAUT}make a run for the school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, on sauve la mère de Maki et on{SAUT}file au lycée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0024",
     "locuteur": "Nanjo",
     "en": "You're all so softhearted... Anyway.{SAUT}The Personas, this change in town...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vous êtes tous si sentimentaux...{SAUT}Bref. Les Personae, cette ville...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0025",
     "locuteur": "Nanjo",
     "en": "It all seems too pat. What could be{SAUT}causing all this?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tout cela tombe trop bien. Quelle en{SAUT}est la cause?{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0026",
     "locuteur": "Mark",
     "en": "Maki... We'll come back for you,{SAUT}I swear...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Maki... On reviendra te chercher,{SAUT}je te le jure...{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0027",
     "locuteur": "Elly",
     "en": "The shrine isn't far from the school.{SAUT}We should have no problems.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Le sanctuaire est près du lycée.{SAUT}Cela devrait aller.{ATTENTE}"
   },
   {
     "id": "E0.BIN:027:0000",
     "locuteur": "Elly",
     "en": "Here we are. Maki's mother should be{SAUT}here...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Nous y voilà. La mère de Maki devrait{SAUT}être ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:027:0001",
     "locuteur": "Elly",
     "en": "Oh, what an exquisite butterfly!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, quel papillon magnifique!{ATTENTE}"
   },
   {
     "id": "E0.BIN:027:0002",
     "locuteur": "Yukino",
     "en": "Hey... Is it me, or is there something{SAUT}strange about that butterfly?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Dites... C'est moi, ou ce papillon{SAUT}a quelque chose de bizarre?{ATTENTE}"
   },
   {
     "id": "E0.BIN:027:0003",
     "locuteur": "Mark",
     "en": "Wh... What's up with this thing!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "C... C'est quoi ce truc!?{ATTENTE}"
   }
 ]
