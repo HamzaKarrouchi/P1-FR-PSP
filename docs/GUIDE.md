@@ -6,13 +6,26 @@ ce qui permet de les contourner intelligemment plutôt que de buter dessus.
 
 ---
 
-## 1. L'identifiant
+## 1. Les trois zones, et l'identifiant
+
+Le texte du jeu vit à trois endroits, et `trad/` a un dossier pour chacun.
+
+| Dossier | Contenu | Ce qui change pour toi |
+|---|---|---|
+| `trad/dialogues/` | l'histoire, les personnages qui parlent | un champ `locuteur` à traduire aussi |
+| `trad/eboot/` | menus, écrans, noms de lieux, tutoriels | un champ **`max`** à respecter (§3) |
+| `trad/donjons/` | messages de couloir, portes fermées | rien de particulier |
+
+L'identifiant dit d'où vient la ligne :
 
 ```text
-E0.BIN:012:0007
+E0.BIN:012:0007            un dialogue
 │      │   └── la réplique dans le bloc
 │      └────── le bloc de dialogue (une scène, en gros)
 └───────────── le fichier de données du jeu
+
+EBOOT.BIN:BE:OFF_2D7B4C    une ligne d'interface, à son adresse dans l'exécutable
+DNG:d00/d00.bin:0000       une ligne de donjon
 ```
 
 Il n'a aucune valeur pour la traduction, mais c'est par lui que ta ligne
@@ -91,6 +104,32 @@ si ta ligne est **à la fois** plus large que l'anglaise **et** au-delà de 43.
 Entre 40 et 43, il avertit.
 
 Il compte **entre deux codes**, ce qui correspond à une ligne affichée.
+
+### Le champ `max` — seulement dans `trad/eboot/`
+
+Les lignes de l'EBOOT portent un champ en plus :
+
+```json
+{ "id": "EBOOT.BIN:BE:OFF_2D7B4C", "en": "Do you want Normal?", "fr": "", "max": 30 }
+```
+
+`max` est le **nombre de caractères de l'anglais**. Ces textes ne vivent pas
+dans un fichier de données mais dans l'exécutable, où chaque chaîne occupe un
+emplacement de taille fixe : le moteur écrit ta traduction par-dessus l'anglaise
+et complète avec des espaces.
+
+**Dépasser n'est pas interdit.** Le moteur redirige alors la chaîne trop longue
+vers un espace libre de l'exécutable. C'est vérifié en jeu : « Charger une
+partie », 18 caractères pour un `max` de 17, s'affiche entier sur l'écran-titre.
+
+Mais c'est plus fragile que de tenir dans la place d'origine, alors le
+validateur te le signale — **en jaune, sans bloquer** — sous `[BUDGET]`, avec le
+compte exact. Les jetons (`{SAUT}`, `[0000]`…) ne comptent pas, les accents
+comptent pour un.
+
+Vise le budget quand tu peux. Ne massacre pas le français quand tu ne peux
+pas : certains `max` sont intenables — `No` en fait deux, « Non » en fait
+trois.
 
 ### Le français est plus long
 

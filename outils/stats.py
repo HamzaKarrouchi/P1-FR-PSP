@@ -31,6 +31,7 @@ LARGEUR_BARRE = 24
 SECTIONS = [
     ("Dialogues", "trad/dialogues", None),
     ("EBOOT", "trad/eboot", 5771),
+    ("Donjons", "trad/donjons", 204),
     ("Négociations", "trad/negociations", 17408),
 ]
 
@@ -78,14 +79,19 @@ def lire_reservations(chemin: Path):
     return reserve
 
 
-def valider(dossier: Path, racine: Path):
-    """Lance le validateur et rend { fichier => (erreurs, avertissements) }.
+def valider(racine: Path, sous_dossier: str):
+    """Lance le validateur et rend { chemin => (erreurs, avertissements) }.
 
     Sans cette passe, le suivi ne mesure que la QUANTITE de lignes remplies :
     un fichier « termine » avec cinq erreurs y ressemble trait pour trait a un
     fichier impeccable, et personne ne sait quoi reprendre. Le validateur est
     en Ruby ; s'il n'est pas installe, on s'en passe plutot que d'echouer.
+
+    La cle est le chemin `trad/<zone>/<fichier>`, pas le seul nom de fichier :
+    depuis que plusieurs zones sont ouvertes, c'est lui qui dit vers laquelle
+    pointer, et deux zones ont le droit de nommer un fichier pareil.
     """
+    dossier = racine / sous_dossier
     outil = racine / "outils" / "check_trad.rb"
     fichiers = sorted(p for p in dossier.glob("*.json") if not p.name.startswith("_"))
     if not outil.exists() or not fichiers or shutil.which("ruby") is None:
@@ -104,7 +110,7 @@ def valider(dossier: Path, racine: Path):
         print(f"  validation ignoree : {e}", file=sys.stderr)
         return {}
 
-    return {e["fichier"]: e for e in rapport}
+    return {f"{sous_dossier}/{e['fichier']}": e for e in rapport}
 
 
 def compte(entree):
@@ -114,7 +120,7 @@ def compte(entree):
     return (len(entree["soucis"]), len(entree["avertissements"]))
 
 
-def rapport_markdown(sante, depot, sous_dossier, plafond=250):
+def rapport_markdown(sante, depot, plafond=250):
     """Corps de l'issue « Lignes a corriger ».
 
     Le compte seul ne suffit pas : quelqu'un qui veut aider doit pouvoir
@@ -139,12 +145,12 @@ def rapport_markdown(sante, depot, sous_dossier, plafond=250):
     ]
 
     écrites = 0
-    for fichier, entree in fautifs:
-        lignes += [f"### `{fichier}`", ""]
+    for chemin, entree in fautifs:
+        lignes += [f"### `{chemin}`", ""]
         for s in entree["soucis"]:
             if écrites >= plafond:
                 break
-            lien = f"{depot}/blob/main/{sous_dossier}/{fichier}#L{s['ligne']}"
+            lien = f"{depot}/blob/main/{chemin}#L{s['ligne']}"
             # Le message commence par l'identifiant : on ne le repete pas, on
             # le transforme en lien vers la ligne.
             texte = s["message"][len(s["id"]) :].strip()
@@ -186,7 +192,7 @@ def nettoyer(texte):
     return "".join(c for c in str(texte) if c.isalnum() or c in "-_[]#@() ")[:48]
 
 
-def rendre(sections, reservations, sante, sous_dossier):
+def rendre(sections, reservations, sante):
     lignes = [
         "# Avancement de la traduction",
         "",
@@ -225,7 +231,7 @@ def rendre(sections, reservations, sante, sous_dossier):
         ]
         for f in a_corriger:
             n = len(sante[f]["soucis"])
-            lignes.append(f"- [`{f}`]({sous_dossier}/{f}) — {n} erreur{'s' if n > 1 else ''}")
+            lignes.append(f"- [`{Path(f).name}`]({f}) — {n} erreur{'s' if n > 1 else ''}")
         lignes += [
             "",
             "**Le détail ligne par ligne est dans "
@@ -246,10 +252,10 @@ def rendre(sections, reservations, sante, sous_dossier):
         ]
         for f in a_relire:
             n = len(sante[f]["avertissements"])
-            lignes.append(f"- [`{f}`]({sous_dossier}/{f}) — {n} terme{'s' if n > 1 else ''}")
+            lignes.append(f"- [`{Path(f).name}`]({f}) — {n} terme{'s' if n > 1 else ''}")
         lignes.append("")
 
-    for nom, _, par_fichier, _total, _traduits in sections:
+    for nom, sous_dossier, par_fichier, _total, _traduits in sections:
         if not par_fichier:
             continue
         lignes += [
@@ -265,7 +271,7 @@ def rendre(sections, reservations, sante, sous_dossier):
             pct = round(100 * f / n) if n else 0
             lignes.append(
                 f"| [`{fichier}`]({sous_dossier}/{fichier}) | {n} | {f} | {pct} % | "
-                f"{etat(n, f, reservations.get(fichier), sante.get(fichier))} |"
+                f"{etat(n, f, reservations.get(fichier), sante.get(f'{sous_dossier}/{fichier}'))} |"
             )
         lignes.append("")
 
@@ -300,13 +306,18 @@ def main(argv=None):
         print("aucun fichier de traduction trouve", file=sys.stderr)
         return 1
 
-    # La section validee et celle dont on ecrit les liens sont la meme : on la
-    # nomme une fois, au lieu de supposer partout que ce sont les dialogues.
-    principale = SECTIONS[0][1]
-    sante = {} if args.sans_valider else valider(racine / principale, racine)
+    # TOUTES les zones ouvertes, pas seulement la premiere. Une zone listee au
+    # suivi mais jamais relue afficherait « termine » sur un fichier casse, et
+    # c'est justement l'EBOOT -- avec son budget par ligne, dont le depassement
+    # laisse la ligne en anglais sans erreur au build -- qui en a le plus besoin.
+    sante = {}
+    if not args.sans_valider:
+        for _nom, sous_dossier, par_fichier, _total, _traduits in sections:
+            if par_fichier:
+                sante.update(valider(racine, sous_dossier))
 
     sortie = args.sortie or racine / "SUIVI.md"
-    sortie.write_text(rendre(sections, reservations, sante, principale), encoding="utf-8")
+    sortie.write_text(rendre(sections, reservations, sante), encoding="utf-8")
 
     # Le badge du README : format « endpoint » de shields.io.
     principal = sections[0]
@@ -332,7 +343,7 @@ def main(argv=None):
     # fichier à versionner. Vide quand tout est sain — l'action ferme alors
     # l'issue au lieu de la réécrire.
     if args.rapport:
-        corps = rapport_markdown(sante, args.depot, principale) if casses else ""
+        corps = rapport_markdown(sante, args.depot) if casses else ""
         args.rapport.write_text(corps, encoding="utf-8")
 
     print(f"  -> {sortie}")

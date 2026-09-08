@@ -1,0 +1,615 @@
+[
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B800",
+    "en": "Mikage-cho 1st Ward",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B840",
+    "en": "Mikage-cho 2nd Ward",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B880",
+    "en": "Mikage-cho 3rd Ward",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B8C0",
+    "en": "School",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B900",
+    "en": "St. Hermelin High",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B940",
+    "en": "School Entrance",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B980",
+    "en": "Mikage Hospital",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28B9C0",
+    "en": "Hospital Entrance",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BA00",
+    "en": "Shrine",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BA40",
+    "en": "Alaya Shrine",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BA80",
+    "en": "Alaya Shrine Entrance",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BAC0",
+    "en": "Mikage Police Station",
+    "fr": "",
+    "max": 21,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BB00",
+    "en": "Police Station Entrance",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BB40",
+    "en": "Abandoned Factory",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BB80",
+    "en": "Factory Entrance",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BBC0",
+    "en": "SEBEC",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BC00",
+    "en": "SEBEC Entrance",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BC40",
+    "en": "Subway Entrance",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BC80",
+    "en": "Subway",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BCC0",
+    "en": "Mikage Sun Mall",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BD00",
+    "en": "Joy Street",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BD40",
+    "en": "Ruins",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BD80",
+    "en": "Ruins Entrance",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BDC0",
+    "en": "Historical Society",
+    "fr": "",
+    "max": 18,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BE00",
+    "en": "Society Entrance",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BE40",
+    "en": "Kaneda Mansion",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BE80",
+    "en": "Kaneda Mansion Entrance",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BEC0",
+    "en": "Himeno Residence",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BF00",
+    "en": "Himeno Residence Entrance",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BF40",
+    "en": "Agastya Tree",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28BFC0",
+    "en": "Agastya",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C000",
+    "en": "Convenience Store",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C040",
+    "en": "Yin & Yan",
+    "fr": "",
+    "max": 9,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C080",
+    "en": "Convenience Store Entrance",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C0C0",
+    "en": "Doctor's Office",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C100",
+    "en": "Doctor's Office Entrance",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C140",
+    "en": "Mana Castle",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C180",
+    "en": "Mana Castle Entrance",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C1C0",
+    "en": "Lost Forest",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C200",
+    "en": "Lost Forest Entrance",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C240",
+    "en": "Haunted Mansion",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C280",
+    "en": "Haunted Mansion Entrance",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C2C0",
+    "en": "Black Market",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C300",
+    "en": "Hospital",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C380",
+    "en": "Sun Mall",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C400",
+    "en": "SEBEC Building",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C440",
+    "en": "Mikage Ruins",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C480",
+    "en": "Kaneda Residence",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A3F3C",
+    "en": "Skills",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A3F64",
+    "en": "Items",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A3F8C",
+    "en": "Equipment",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A3FB4",
+    "en": "Personas",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A3FDC",
+    "en": "Status",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4004",
+    "en": "Battle",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A402C",
+    "en": "System",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4054",
+    "en": "Use skills",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A408C",
+    "en": "Use items",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A40C4",
+    "en": "Change equipment",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A40FC",
+    "en": "Change／View Personas",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4134",
+    "en": "View status details",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A416C",
+    "en": "View battle data",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A41A4",
+    "en": "Change settings, save／load",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A41DC",
+    "en": "View whose status?",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4204",
+    "en": "Formation",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4224",
+    "en": "Auto Settings",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4264",
+    "en": "Set battle formation",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A42A4",
+    "en": "Set individual auto actions",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A42E4",
+    "en": "View demon data",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4324",
+    "en": "Weapon",
+    "fr": "",
+    "max": 6,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4334",
+    "en": "Gun",
+    "fr": "",
+    "max": 3,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4354",
+    "en": "Manual",
+    "fr": "",
+    "max": 6,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A4364",
+    "en": "Always use weapon attacks",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A43A6",
+    "en": "Always use gun attacks",
+    "fr": "",
+    "max": 22,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A43E8",
+    "en": "Always guard",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_1A442A",
+    "en": "Always manually enter commands",
+    "fr": "",
+    "max": 30,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_19A79C",
+    "en": "NORMAL",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_19A7B0",
+    "en": "BEGINNER",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_19A7C4",
+    "en": "EXPERT",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288D96",
+    "en": "current unsaved data will be lost.",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288DDC",
+    "en": "Suspend game? The suspend save",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288E22",
+    "en": "will be deleted after loading it.",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288E68",
+    "en": "Load data? Any current unsaved",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288EAC",
+    "en": "data will be lost.",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288F10",
+    "en": "Shells",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288F20",
+    "en": "Head",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288F30",
+    "en": "Body",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288F40",
+    "en": "Arms",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288F50",
+    "en": "Legs",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288FF4",
+    "en": "Use whose skill?",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28901A",
+    "en": "Use which skill?",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_289040",
+    "en": "Use it on who?",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_289068",
+    "en": "Change whose equipment?",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2890A0",
+    "en": "Select equipment manually",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2890D8",
+    "en": "Equip strongest gear",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_253120",
+    "en": "Finish",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_253130",
+    "en": "Enter",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_25313C",
+    "en": "Nickname",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_253150",
+    "en": "First",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_25315C",
+    "en": "Last",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_253168",
+    "en": "Name",
+    "fr": "",
+    "max": 4
+  }
+]

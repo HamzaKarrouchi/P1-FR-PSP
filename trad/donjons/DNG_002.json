@@ -1,0 +1,174 @@
+[
+  {
+    "id": "DNG:d19/d19.bin:0002",
+    "en": " < A mysterious message is written on the{SAUT}door in old-looking script.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "DNG:d19/d19.bin:0003",
+    "en": "< \"Henceforth, a strict rule will be{SAUT}imposed upon intruders.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0004",
+    "en": "< \"Those who stray from the path shall{SAUT}not be allowed further travel.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0005",
+    "en": "< \"Look not from the path and continue{SAUT}forward. Should you come to a wall,{SAUT}head right.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0006",
+    "en": "< \"Whatever hardship you may encounter,{SAUT}lose not sight of the original path.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0007",
+    "en": " < Malicious power is emanating from{SAUT}the monument...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DNG:d19/d19.bin:0009",
+    "en": " < The demonic presence emanating from{SAUT}the monument has subsided. You hear a{SAUT}door open somewhere on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0011",
+    "en": "< It seems a demonic power on this floor{SAUT}is holding it shut...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0013",
+    "en": "< \"Danger lurks in the center of the{SAUT}room. Go forth while staying near the{SAUT}walls at all times.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0015",
+    "en": "< It seems to be connected to the lamps{SAUT}in the four corners of this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0017",
+    "en": "< \"Danger lurks at the edges of the{SAUT}room. Go forth through the room's{SAUT}center without touching the walls.\"{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0019",
+    "en": "< It seems to be connected to the{SAUT}numerous lamps on this floor...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0021",
+    "en": "< It seems to be the last monument...{SAUT}Examine it?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0023",
+    "en": " AA{SAUT}AA{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d19/d19.bin:0024",
+    "en": "AA{SAUT}AA{SAUT}AA{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0000",
+    "en": "NSnow Queen's voice{SAUT}Ahahaha... Too bad, but your time is up.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0001",
+    "en": "NSnow Queen's voice{SAUT}Your struggles were the perfect diversion{SAUT}until the advent of Eternal Night.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0002",
+    "en": "NSnow Queen's voice{SAUT}But the opening festivities end here...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0003",
+    "en": "NSnow Queen's voice{SAUT}And the wonder of the Eternal Night{SAUT}shall now begin.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0004",
+    "en": "NSnow Queen's voice{SAUT}Ahaha... Hahahahahahaha!{SAUT}Aaaaahahahahahahahahaha...!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0005",
+    "en": "Your time is up and your game is over.{SAUT}Shall you try again...?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "DNG:d1a/d1a.bin:0006",
+    "en": " < The door is tightly closed. It seems{SAUT}that you cannot get outside...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "DNG:d21/d21.bin:0000",
+    "locuteur": "Yukino",
+    "en": "NYukino{SAUT}Looks like we got sent back... That floor{SAUT}in the hall seems suspicious.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d21/d21.bin:0001",
+    "locuteur": "Ayase",
+    "en": "NAyase{SAUT}You know, Yukino... Hey! \"You know\" and{SAUT}\"Yukino\" kinda sound alike!{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d21/d21.bin:0002",
+    "locuteur": "Yukino",
+    "en": "NYukino{SAUT}...This isn't the time to be fooling{SAUT}around, Ayase.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d21/d21.bin:0003",
+    "locuteur": "Yukino",
+    "en": "NYukino{SAUT}Looks like we were right.{ATTENTE}",
+    "locuteur_fr": "",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d24/d24.bin:0000",
+    "en": " < It seems to be locked.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d24/d24.bin:0001",
+    "en": " < It's locked. It doesn't seem as though{SAUT}you can go in.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d24/d24.bin:0003",
+    "en": " < This classroom isn't in use now.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d24/d24.bin:0004",
+    "en": " < It seems that this room hasn't been{SAUT}used in quite a while...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DNG:d24/d24.bin:0005",
+    "en": " < The gym is closed off.{ATTENTE}",
+    "fr": ""
+  }
+]

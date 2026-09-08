@@ -29,7 +29,7 @@
 #      seulement si le français est à la fois plus large que l'anglais ET
 #      au-delà de 43 ; avertissement entre 40 et 43.
 #
-# Puis deux AVERTISSEMENTS, qui ne font jamais échouer :
+# Puis trois AVERTISSEMENTS, qui ne font jamais échouer :
 #
 #   5. OCTETS    — ce que la traduction ajoute au fichier de données, multiplié
 #      par ses occurrences. Un bloc qui franchit sa frontière de 2 048 octets
@@ -39,11 +39,10 @@
 #      français fléchit, et reformuler est souvent le bon choix. Mais sur
 #      8 572 textes et des dizaines de traducteurs, c'est le seul défaut
 #      qu'aucun relecteur humain ne verra.
-#
-# Le contrôle 2 porte aussi sur `max`, quand l'entrée en a un : une chaîne de
-# l'EBOOT plus longue que son budget peut rester en anglais sans erreur au
-# build. Les dialogues n'ont pas de `max`, ce contrôle ne s'y déclenche donc
-# jamais — il sert aux fichiers EBOOT, qui vivent côté privé.
+#   7. BUDGET    — une entrée EBOOT plus longue que son `max`. Le moteur la
+#      redirige vers un code cave : ça marche, c'est prouvé en jeu, mais c'est
+#      plus fragile que de tenir dans la place d'origine. Les dialogues n'ont
+#      pas de `max`, ce contrôle ne s'y déclenche donc jamais.
 #
 # Aucune dépendance au moteur p1es : la table de caractères est lue directement
 # depuis le .tbl. C'est ce qui permet de publier ce fichier tel quel dans le
@@ -280,13 +279,22 @@ module CheckTrad
       muets = caracteres_sans_glyphe(e['fr'], tabla, glyphes)
       soucis << "#{id} [GLYPHE] #{muets.join(' ')} sans dessin dans la police" if muets.any?
 
-      # Dépasser `max` ne provoque AUCUNE erreur au build : le moteur garde
-      # simplement l'anglais. Silencieux, donc à attraper ici.
+      # AVERTISSEMENT, pas erreur — et c'est une correction.
+      #
+      # On a longtemps cru que depasser `max` faisait garder l'anglais par le
+      # moteur. Une capture du 05/09/2026 (game/images/captures_jeu/) montre
+      # l'inverse : « Charger une partie », 18 caracteres pour un `max` de 17,
+      # s'affiche ENTIER sur l'ecran-titre. Le moteur redirige bien la chaine
+      # trop longue vers un code cave, comme game/CLAUDE.md le decrivait.
+      #
+      # Depasser reste plus fragile que tenir dans le budget, donc on le dit.
+      # Mais bloquer sur ce motif interdisait des mots que le francais n'a pas
+      # plus courts : « No » fait deux caracteres, « Non » en fait trois.
       if e['max']
         # `max` est un nombre de caractères, jetons non comptés : compter pareil.
         n = e['fr'].gsub(JETON, '').length
         if n > e['max']
-          soucis << "#{id} [BUDGET] #{n} caractères pour un maximum de #{e['max']} — peut rester en anglais, vérifier en jeu"
+          avertis << "#{id} [BUDGET] #{n} caractères pour un maximum de #{e['max']} — passe par un code cave, à vérifier en jeu"
         end
       end
 

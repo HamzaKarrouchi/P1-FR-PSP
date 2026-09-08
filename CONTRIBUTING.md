@@ -11,8 +11,8 @@ installer, pas d'outil à télécharger, aucune ligne de code.
    une section **« À corriger »** en haut, commence plutôt par là : réparer une
    erreur vaut mieux que traduire un fichier de plus, parce qu'une erreur
    laissée en place fait rester la ligne **en anglais** dans le jeu.
-2. Clique dessus dans [`trad/dialogues/`](trad/dialogues/), puis sur le crayon
-   ✏️ pour l'éditer directement dans ton navigateur.
+2. Clique dessus dans [`trad/`](trad/), puis sur le crayon ✏️ pour l'éditer
+   directement dans ton navigateur.
 3. Remplis le champ `fr` de chaque réplique. Laisse tout le reste tel quel.
 4. En bas de page, choisis **Create a new branch** et propose ta modification.
 5. Un robot vérifie ton travail en une minute et te dit précisément ce qui
@@ -20,6 +20,26 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 
 **Un fichier = une proposition.** Ça évite que deux personnes traduisent la
 même chose.
+
+---
+
+## Les trois dossiers
+
+| Dossier | Contenu | Bon pour |
+|---|---|---|
+| [`trad/dialogues/`](trad/dialogues/) | l'histoire, les personnages qui parlent | qui aime écrire du dialogue vivant |
+| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **commencer** : lignes courtes, contexte évident |
+| [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | une soirée, c'est tout petit |
+
+Les lignes de `trad/eboot/` portent un champ **`max`** en plus : la place que
+prend l'anglais dans l'exécutable du jeu. Vise-la quand tu peux, elle donne un
+rendu plus sûr. **Mais dépasser n'est pas interdit** — le moteur redirige la
+chaîne trop longue vers un espace libre, et ça marche : « Charger une partie »,
+18 caractères pour un `max` de 17, s'affiche entier en jeu.
+
+Le robot te le signale en jaune, sans bloquer. **N'écorche pas le français pour
+tenir dans le budget** : certains `max` sont intenables — `No` fait deux
+caractères, « Non » en fait trois.
 
 ---
 
@@ -138,6 +158,7 @@ jamais la technique : le robot s'en charge.
 Il existe un dernier message, en **jaune** celui-là, qui ne bloque rien :
 
 | `[TERMINO]` | un terme du [dictionnaire](docs/Dictionnaire.md) apparaît dans l'anglais mais pas sa traduction dans le français |
+| `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — ça marche, c'est juste plus fragile |
 
 C'est une question, pas un reproche. Souvent tu as raison — le français
 fléchit, et reformuler vaut mieux que répéter un nom. Réponds-y en un mot dans

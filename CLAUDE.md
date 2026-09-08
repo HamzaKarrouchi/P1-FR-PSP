@@ -11,7 +11,7 @@ fichier. Il évite les erreurs que les modèles commettent systématiquement ici
 japonais, un jeu qui devient réel, des démons à négocier. Traduction amateur
 anglais → français.
 
-## Les cinq erreurs que les modèles font ici
+## Les erreurs que les modèles font ici
 
 ### 1. Réécrire les codes entre accolades
 
@@ -67,6 +67,17 @@ Les noms propres, Personas, sorts et lieux sont fixés dans
 [docs/Dictionnaire.md](docs/Dictionnaire.md). Un modèle traduira « Velvet Room »
 de trois façons différentes dans le même fichier. **Le dictionnaire fait
 autorité.** Un terme absent : ouvrir une issue, ne pas trancher seul.
+
+### 7. Ignorer le champ `max` de `trad/eboot/`
+
+Les lignes des menus et des écrans portent un `max` : un nombre de caractères à
+ne pas dépasser, parce que le texte s'écrit par-dessus l'anglais à un
+emplacement de taille fixe. **Un modèle l'ignore et rend une phrase ample.**
+La ligne resterait alors en anglais dans le jeu, sans erreur au build.
+
+Donne-lui la contrainte explicitement : « traduis ceci en 30 caractères
+maximum, jetons non comptés ». Et vérifie le compte toi-même — les modèles
+comptent mal les caractères.
 
 ## La bonne façon de s'en servir
 

@@ -1,0 +1,384 @@
+[
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7CBC",
+    "en": "strategizing[0000]in[0000]battle.{SAUT}",
+    "fr": "l'habitude[0000]des[0000]combats.{SAUT}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7CEE",
+    "en": "{PAGE}>[0000]The[0000]battle[0000]difficulty[0000]is[0000]lower[0000]in{SAUT}",
+    "fr": "{PAGE}>[0000]Les[0000]combats[0000]y[0000]sont[0000]plus[0000]faciles{SAUT}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7D38",
+    "en": "this[0000]mode[0000]compared[0000]to[0000]Normal.{ATTENTE}",
+    "fr": "qu'en[0000]mode[0000]Normal.{ATTENTE}",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7D74",
+    "en": "{PAGE}>[0000]Choosing[0000]this[0000]difficulty[0000]will[0000]not{SAUT}",
+    "fr": "{PAGE}>[0000]Ce[0000]choix[0000]ne[0000]change[0000]en[0000]rien{SAUT}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7DBE",
+    "en": "affect[0000]the[0000]story's[0000]outcome.{ATTENTE}",
+    "fr": "le[0000]cours[0000]de[0000]l'histoire.{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7E48",
+    "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Beginner?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Débutant?{ATTENTE}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7E9C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]\"Expert\"[0000]is[0000]for[0000]advanced[0000]players[0000]used{SAUT}",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]\"Expert\"[0000]est[0000]pour[0000]les[0000]joueurs{SAUT}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7F40",
+    "en": "to[0000]strategizing[0000]in[0000]battle.{ATTENTE}",
+    "fr": "aguerris[0000]au[0000]combat.{ATTENTE}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7F76",
+    "en": "{PAGE}>[0000]The[0000]battle[0000]difficulty[0000]is[0000]higher[0000]in{SAUT}",
+    "fr": "{PAGE}>[0000]Les[0000]combats[0000]y[0000]sont[0000]plus[0000]durs{SAUT}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D8050",
+    "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Expert?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Expert?{ATTENTE}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D80A0",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]Then[0000]please[0000]sit[0000]back[0000]and[0000]enjoy[0000]Persona.{ATTENTE}",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]Installez-vous[0000]bien,[0000]et[0000]bon[0000]jeu.{ATTENTE}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D8282",
+    "en": "Is this all right?(*UNK_0E*)[0000]{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9E66",
+    "en": "[0000]Medicine{FERME}",
+    "fr": "",
+    "max": 8,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9E7E",
+    "en": "[0000]Rattle[0000]Drink{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9E9E",
+    "en": "[0000]Muscle[0000]Drink{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9EBE",
+    "en": "[0000]Dis-Sick{FERME}",
+    "fr": "",
+    "max": 8,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9ED6",
+    "en": "[0000]Dis-Poison{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9EEE",
+    "en": "[0000]+Metal[0000]Card{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9F08",
+    "en": "Demon[0000]Den{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9F1C",
+    "en": "+5,000[0000]Coins{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9F36",
+    "en": "[0000]Flash[0000]Tablet{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9F52",
+    "en": "[0000]+1,000,000[0000]Coins{FERME}",
+    "fr": "",
+    "max": 15,
+    "_occurrences": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9F76",
+    "en": "[0000]Surprise[0000]Set{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9FB6",
+    "en": "[0000]Chewing[0000]Soul{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D9FEC",
+    "en": "Hiranya{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA016",
+    "en": "[0000]Dark[0000]Wave[0000]Tablet{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA05E",
+    "en": "[0000]Incense[0000]Set{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA09A",
+    "en": "[0000]Life[0000]Stone{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA0B6",
+    "en": "[0000]Physical[0000]Guard{FERME}",
+    "fr": "",
+    "max": 13,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA0DA",
+    "en": "[0000]Magical[0000]Guard{FERME}",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA0FA",
+    "en": "[0000]Magnadyne[0000]Stone{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA11C",
+    "en": "+Metal[0000]Card{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA134",
+    "en": "Soma{FERME}",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA13E",
+    "en": "[0000]+5,000[0000]Coins{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA15A",
+    "en": "[0000]Light[0000]Wave[0000]Tablet{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA180",
+    "en": "+1,000,000[0000]Coins{FERME}",
+    "fr": "",
+    "max": 15,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA1A2",
+    "en": "[0000]99[0000]Metal[0000]Cards{FERME}",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA21C",
+    "en": "Seventh[0000]Coat{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA252",
+    "en": "[0000]Alexandrite{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA28E",
+    "en": "[0000]Goddess[0000]Set{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA300",
+    "en": "Rouge[0000]Noir{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA332",
+    "en": "[0000]Diamond{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA3D8",
+    "en": "Platinum[0000]Queen{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA412",
+    "en": "[0000]Mabufu[0000]Stone{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA4CC",
+    "en": "Fever[0000]Crown{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA4FE",
+    "en": "[0000]Magaru[0000]Stone{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA53E",
+    "en": "[0000]Gem[0000]Set{FERME}",
+    "fr": "",
+    "max": 6,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA5A6",
+    "en": "[0000]Bead{FERME}",
+    "fr": "",
+    "max": 4,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA5CC",
+    "en": "Demon[0000]House{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA5FE",
+    "en": "[0000]Maragi[0000]Stone{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA6D4",
+    "en": "Divine[0000]Voice{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA70A",
+    "en": "[0000]SP[0000]Incense{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA806",
+    "en": "[0000]HP[0000]Incense{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA8F8",
+    "en": "Millionaire[0000]Bomb{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DA936",
+    "en": "[0000]10[0000]Metal[0000]Cards{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DAA38",
+    "en": "Core[0000]Shield{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DAA6A",
+    "en": "[0000]Half[0000]Moon[0000]Tablet{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2DAAB2",
+    "en": "[0000]Stone[0000]Set{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D7968",
+    "en": ">[0000]Before[0000]beginning[0000]the[0000]game,[0000]please{SAUT}",
+    "fr": ">[0000]Avant[0000]de[0000]commencer,[0000]choisissez{SAUT}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2C0FB8",
+    "en": "No{SAUT}",
+    "fr": "Non{SAUT}",
+    "max": 2,
+    "_occurrences": 2
+  }
+]

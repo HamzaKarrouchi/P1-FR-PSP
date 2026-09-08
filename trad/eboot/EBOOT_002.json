@@ -1,0 +1,620 @@
+[
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB5BE",
+    "en": "[0000][0000][0000]Ice[0000]Castle[0000]Classroom{FERME}",
+    "fr": "",
+    "max": 18,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB60E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Student[0000]Council[0000]Room{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB6FE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Stage{FERME}",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB748",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Ice[0000]Castle{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB78A",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Ice[0000]Castle{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB7EE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Entrance[0000]Hall{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB84E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]St.[0000]Hermelin[0000]Gates{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BB8D8",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBB7E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Empty[0000]Classroom{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBC0E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Infirmary{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBC64",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Drama[0000]Club{FERME}",
+    "fr": "",
+    "max": 9,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBD0E",
+    "en": "[0000][0000][0000]Teacher's[0000]Lounge{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBD36",
+    "en": "[0000][0000][0000][0000][0000][0000][0000]2F[0000]Empty[0000]Classroom{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBD6A",
+    "en": "[0000][0000][0000][0000][0000]Class[0000]2-1{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBD88",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]St.[0000]Hermelin[0000]Gates{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBDCA",
+    "en": "[0000][0000][0000][0000][0000]SEBEC[0000]Building[0000]Entryway{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBE04",
+    "en": "Judgment[0000]1999{FERME}",
+    "fr": "",
+    "max": 12,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBE20",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]SEBEC[0000]Building[0000]Entryway{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBE64",
+    "en": "SEBEC[0000]Building[0000]Entryway{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBEB0",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Abandoned[0000]Factory{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBEE8",
+    "en": "[0000][0000][0000][0000][0000][0000]Yin&Yan{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBF04",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Reception[0000]Desk{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBF42",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000]Room[0000]302{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBF66",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]ICU[0000]Hallway{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBF9C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]2F[0000]Lobby{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBFC6",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]2F[0000]Lobby{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BBFF6",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Reception[0000]Desk{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC032",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000]Reception[0000]Desk{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC062",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000]SEBEC[0000]Building[0000]Entryway{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC0A4",
+    "en": "Alaya[0000]Shrine{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC0EE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Alaya[0000]Shrine{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC17E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]School[0000]Gates{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC1E6",
+    "en": "[0000][0000][0000][0000][0000][0000][0000]Infirmary{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC29A",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Student[0000]Council[0000]Room{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC2DE",
+    "en": "[0000][0000][0000]Principal's[0000]Office{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC30A",
+    "en": "[0000][0000][0000][0000][0000]Gym[0000]Storage{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC32C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC360",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC390",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]St.[0000]Hermelin[0000]Area{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC3C8",
+    "en": "[0000][0000][0000][0000][0000][0000]St.[0000]Hermelin[0000]Area{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC47E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Mikage[0000]Police[0000]Station{FERME}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC4C0",
+    "en": "[0000][0000]Holding[0000]Cell{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC4DE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Holding[0000]Cell{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC50E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Subway[0000]Area{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC53C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Abandoned[0000]Factory{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC578",
+    "en": "[0000][0000][0000][0000][0000][0000]Abandoned[0000]Factory{FERME}",
+    "fr": "",
+    "max": 16,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC638",
+    "en": "[0000][0000][0000][0000][0000][0000]President's[0000]Office{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC66A",
+    "en": "[0000][0000][0000][0000][0000]Deva[0000]System[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC69C",
+    "en": "[0000][0000][0000][0000]Agastya[0000]Tree{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC77E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Old[0000]Gym{FERME}",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC7A4",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Class[0000]2-5{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC806",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Art[0000]Room{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BC836",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Courtyard{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCA1C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Velvet[0000]Room{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCBFE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Exhibition[0000]Room{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCCEC",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Subway[0000]Area{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCDDC",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Queen's[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCE14",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000]Peace[0000]Diner{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BCE74",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000]Queen's[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD12A",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Mana[0000]Castle{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD16C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Lost[0000]Forest{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD19C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Gingerbread[0000]House{FERME}",
+    "fr": "",
+    "max": 16,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD1D8",
+    "en": "[0000][0000][0000][0000][0000][0000]Gingerbread[0000]House{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD37E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Mana[0000]Castle{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD49C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Mana[0000]Castle{FERME}",
+    "fr": "",
+    "max": 10,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD52E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Haunted[0000]Mansion{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD564",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000]Haunted[0000]Mansion{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD67E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Deva[0000]System[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD768",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Maki's[0000]Hospital[0000]Room{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD82E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Maki's[0000]Hospital[0000]Room{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD97E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Lost[0000]Forest{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BD9E8",
+    "en": "[0000][0000][0000][0000][0000][0000]Lost[0000]Forest{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BDCF8",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Reception[0000]Desk{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BDD42",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000]Deva[0000]System[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BDD7C",
+    "en": "[0000][0000][0000][0000]Queen's[0000]Chamber{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BDDD4",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000]Deva[0000]Yuga{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BDDF8",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Lost[0000]Forest{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE06E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Alaya[0000]Cavern{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE33C",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Entrance[0000]Hall{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE376",
+    "en": "[0000][0000][0000][0000][0000][0000][0000]Pandora's[0000]Nest{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE3CE",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Pandora's[0000]Nest{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE402",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000]Peace[0000]Diner{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE57E",
+    "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000](*SPEAKER*)Igor{SAUT}",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE5A0",
+    "en": "The[0000]resulting[0000]Persona[0000]is...{SAUT}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE5D8",
+    "en": "[FF0C].{PAUSE}[7800]{PAGE}(*SPEAKER*)Igor{SAUT}",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE5EE",
+    "en": "Please[0000]take[0000]good[0000]care[0000]of[0000]it...{PAUSE}[7800]{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE630",
+    "en": "(*SPEAKER*)Igor{SAUT}",
+    "fr": "",
+    "max": 4,
+    "_occurrences": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE63C",
+    "en": "Hmm...[0000]It[0000]seems[0000]there's[0000]been[0000]an{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BE67C",
+    "en": "irregularity[0000]in[0000]the[0000]process...{PAUSE}[7800]{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFBD0",
+    "en": ">[0000]The[0000]treasure[0000]box's[0000]trap[0000]sprung!{ATTENTE}",
+    "fr": "",
+    "max": 28,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFC14",
+    "en": "{PAGE}>[0000][FF15][0000]receives[0000]damage!{ATTENTE}",
+    "fr": "",
+    "max": 16,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFC42",
+    "en": "[0000]>[0000]The[0000]treasure[0000]box's[0000]trap[0000]sprung!{ATTENTE}",
+    "fr": "",
+    "max": 28,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFD00",
+    "en": "{PAGE}>[0000][FF15]'s[0000]HP[0000]is[0000]lowered[0000]to[0000]1!{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFDF0",
+    "en": "{PAGE}>[0000][FF15][0000]is[0000]poisoned!{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFE5C",
+    "en": "{PAGE}>[0000][FF15][0000]and[0000]the[0000]others[0000]receive{SAUT}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFE94",
+    "en": "damage!{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFEEC",
+    "en": "{PAGE}>[0000][FF15][0000]receives[0000]heavy[0000]damage!{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFF9A",
+    "en": "[0000]>[0000]There's[0000]nothing[0000]inside...{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFFD6",
+    "en": "[0000]>[0000]Obtained[0000](*VALUE*)yen.{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2BFFFC",
+    "en": ">[0000]Obtained[0000][FF09][0000]x(*VALUE*){ATTENTE}",
+    "fr": "",
+    "max": 10
+  }
+]

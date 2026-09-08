@@ -1,0 +1,612 @@
+[
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CB906",
+    "en": "[0000]Insurance{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CB91C",
+    "en": "The[0000]following[0000]circumstances[0000]will[0000]result{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CB96C",
+    "en": "in[0000]an[0000]automatic[0000]Stand:{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CB99A",
+    "en": "{PAGE}-Your[0000]initial[0000]draw[0000]is[0000]blackjack.{SAUT}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CB9DE",
+    "en": "-The[0000]total[0000]of[0000]the[0000]cards[0000]drawn[0000]after{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBA26",
+    "en": "Hitting[0000]is[0000]21.{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBA44",
+    "en": "{PAGE}-You[0000]draw[0000]seven[0000]cards.{SAUT}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBA74",
+    "en": "-The[0000]cards'[0000]total[0000]value[0000]surpasses[0000]21,{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBAC0",
+    "en": "resulting[0000]in[0000]a[0000]bust.{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBAEC",
+    "en": "Automatic[0000]Stand{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBB0C",
+    "en": "You[0000]may[0000]Split[0000]if[0000]both[0000]of[0000]your[0000]initial{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBB58",
+    "en": "cards[0000]are[0000]the[0000]same[0000]value.{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBB8C",
+    "en": "{PAGE}Your[0000]hand[0000]will[0000]be[0000]split,[0000]with[0000]a[0000]second{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBBDC",
+    "en": "bet[0000]covering[0000]the[0000]other[0000]hand.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBC16",
+    "en": "{PAGE}This[0000]option[0000]will[0000]be[0000]unavailable[0000]if[0000]you{SAUT}",
+    "fr": "",
+    "max": 32,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBC66",
+    "en": "have[0000]fewer[0000]coins[0000]than[0000]the[0000]bet[0000]would[0000]be.{ATTENTE}",
+    "fr": "",
+    "max": 32,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBCB6",
+    "en": "{PAGE}Even[0000]after[0000]a[0000]Split,[0000]you[0000]may[0000]Double[0000]Down{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBD08",
+    "en": "on[0000]either[0000]or[0000]both[0000]hands.{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBD3A",
+    "en": "{PAGE}However,[0000]if[0000]you[0000]Split,[0000]a[0000]hand[0000]of[0000]A[0000]with{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBD8C",
+    "en": "10[0000]through[0000]K[0000]will[0000]be[0000]counted[0000]as[0000]21{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBDD2",
+    "en": "without[0000]being[0000]considered[0000]blackjack.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBE1C",
+    "en": "Split{FERME}",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBE28",
+    "en": "This[0000]is[0000]only[0000]an[0000]option[0000]while[0000]you[0000]still{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBE76",
+    "en": "have[0000]two[0000]cards[0000]in[0000]your[0000]hand.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBEB0",
+    "en": "{PAGE}You[0000]may[0000]double[0000]your[0000]bet[0000]under[0000]the{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBEF6",
+    "en": "condition[0000]that[0000]you[0000]only[0000]Hit[0000]once.{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CBFDA",
+    "en": "{PAGE}If[0000]you[0000]Double[0000]Down[0000]and[0000]beat[0000]the[0000]dealer,{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC02C",
+    "en": "your[0000]winnings[0000]will[0000]be[0000]doubled.{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC06C",
+    "en": "Doubling[0000]Down{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC088",
+    "en": "First,[0000]compare[0000]your[0000]cards[0000]to[0000]the[0000]dealer's{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC0DC",
+    "en": "to[0000]decide[0000]whether[0000]to[0000]draw[0000]another[0000]card.{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC12C",
+    "en": "{PAGE}If[0000]you[0000]decide[0000]to[0000]draw,[0000]select[0000]Hit.{SAUT}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC174",
+    "en": "If[0000]not,[0000]select[0000]Stand.{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC1A0",
+    "en": "{PAGE}You[0000]may[0000]draw[0000]up[0000]to[0000]7[0000]cards[0000]as[0000]long[0000]as{SAUT}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC1EE",
+    "en": "their[0000]total[0000]value[0000]remains[0000]21[0000]or[0000]lower.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC23C",
+    "en": "{PAGE}2[0000]through[0000]10[0000]are[0000]face[0000]value.[0000]J[0000]through{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC28C",
+    "en": "K[0000]are[0000]worth[0000]10,[0000]and[0000]A[0000]is[0000]worth[0000]either{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC2EA",
+    "en": "{PAGE}After[0000]the[0000]player[0000]Stands,[0000]the[0000]dealer{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC334",
+    "en": "will[0000]draw[0000]cards.{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC356",
+    "en": "{PAGE}If[0000]your[0000]total[0000]is[0000]larger[0000]than[0000]the{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC39A",
+    "en": "dealer's[0000]without[0000]surpassing[0000]21,[0000]or[0000]if{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC3E6",
+    "en": "the-dealer[0000]busts,[0000]you[0000]win.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC41C",
+    "en": "{PAGE}If[0000]you[0000]and[0000]the[0000]dealer[0000]tie,[0000]or[0000]if[0000]both{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC46A",
+    "en": "of[0000]you[0000]have[0000]blackjack,[0000]it[0000]is[0000]a[0000]draw,{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC4B4",
+    "en": "and[0000]your[0000]bet[0000]will[0000]be[0000]returned[0000]to[0000]you.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC500",
+    "en": "{PAGE}Besides[0000]Hit[0000]and[0000]Stand,[0000]the[0000]player[0000]can{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC54E",
+    "en": "also[0000]choose[0000]to[0000]Double[0000]Down[0000]or[0000]Split.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC5B4",
+    "en": "This[0000]is[0000]a[0000]one-on-one-game[0000]of[0000]blackjack{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC602",
+    "en": "against[0000]a[0000]computer[0000]dealer.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC638",
+    "en": "{PAGE}Two[0000]cards[0000]are[0000]dealt[0000]to[0000]the[0000]player[0000]and{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC686",
+    "en": "the[0000]dealer[0000]at[0000]the[0000]outset.{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC6BA",
+    "en": "{PAGE}One[0000]of[0000]the[0000]dealer's[0000]two[0000]cards[0000]will[0000]be{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC708",
+    "en": "kept[0000]face-down.{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC728",
+    "en": "{PAGE}If[0000]the[0000]dealer's[0000]shown[0000]card[0000]is[0000]an[0000]ace,{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC776",
+    "en": "you[0000]may[0000]place[0000]an[0000]insurance[0000]bet.{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC7B8",
+    "en": "About[0000]blackjack{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC87A",
+    "en": "not[0000]a[0000]winning[0000]hand.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC8A2",
+    "en": "{PAGE}-In[0000]a[0000]straight,[0000]an[0000]ace[0000]is[0000]not[0000]lower{SAUT}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC8EC",
+    "en": "than[0000]a[0000]2.{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC900",
+    "en": "{PAGE}-The[0000]Joker[0000]is[0000]a[0000]wild[0000]card[0000]that[0000]can[0000]be{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC94E",
+    "en": "used[0000]as[0000]part[0000]of[0000]any[0000]winning[0000]hand.{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC994",
+    "en": "Special[0000]cases{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC9B0",
+    "en": ">[0000](*TEXTBOX_PARAM*)[0700]Two[0000]pair(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CC9CE",
+    "en": "Two[0000]sets[0000]of[0000]two[0000]cards[0000]of[0000]the[0000]same{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCA12",
+    "en": "number.{ATTENTE}",
+    "fr": "",
+    "max": 7,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCA22",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Three[0000]of[0000]a[0000]kind(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCA50",
+    "en": "A[0000]set[0000]of[0000]three[0000]cards[0000]of[0000]the[0000]same{SAUT}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCAA2",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Straight(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCAC2",
+    "en": "Five[0000]numbers[0000]in[0000]sequence,[0000]of[0000]any[0000]suit.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCB10",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Flush(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCB2A",
+    "en": "Five[0000]cards[0000]of[0000]the[0000]same[0000]suit.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCB64",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Full[0000]house(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCB88",
+    "en": "Three[0000]of[0000]a[0000]kind[0000]together[0000]with[0000]a[0000]pair.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCBD4",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Four[0000]of[0000]a[0000]kind(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCC00",
+    "en": "A[0000]set[0000]of[0000]four[0000]cards[0000]of[0000]the[0000]same{SAUT}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCC50",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Straight[0000]flush(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCC7C",
+    "en": "A[0000]Straight[0000]with[0000]all[0000]five[0000]cards[0000]in{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCCC0",
+    "en": "the[0000]same[0000]suit.{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCCDE",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Five[0000]of[0000]a[0000]kind(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCD0A",
+    "en": "Four[0000]of[0000]a[0000]kind[0000]with[0000]a[0000]Joker[0000]for[0000]the{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCD52",
+    "en": "fifth[0000]card.{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCD6A",
+    "en": "{PAGE}>[0000](*TEXTBOX_PARAM*)[0700]Royal[0000]flush(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCD90",
+    "en": "A[0000]straight[0000]flush[0000]with[0000]10-J-Q-K-A.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCDD6",
+    "en": "[0000]Winning[0000]hands{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCE26",
+    "en": "{PAGE}(*TEXTBOX_PARAM*)[0700]【Before[0000]normal[0000]play】(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 18,
+    "_occurrences": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCEE2",
+    "en": "Re-draw[0000]cards[0000]that[0000]are[0000]not[0000]being[0000]held.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCF30",
+    "en": "{PAGE}(*TEXTBOX_PARAM*)[0700]【After[0000]winning[0000]hand】(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 18,
+    "_occurrences": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCF64",
+    "en": "Erase[0000]the[0000]selection[0000]window.{ATTENTE}",
+    "fr": "",
+    "max": 24,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCF9C",
+    "en": "{PAGE}(*TEXTBOX_PARAM*)[0700]【During[0000]Extra[0000]Game】(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CCFE2",
+    "en": "{PAGE}(*TEXTBOX_PARAM*)[0700]【After[0000]winning[0000]Extra[0000]Game】(*TEXTBOX_PARAM*)[0000]{SAUT}",
+    "fr": "",
+    "max": 23,
+    "_occurrences": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD09E",
+    "en": "Leave[0000]the[0000]machine.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD2D6",
+    "en": "Select[0000]cards.{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD390",
+    "en": "Select[0000]a[0000]card.{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD404",
+    "en": "R／L／directional[0000]buttons{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD50E",
+    "en": "Un-hold[0000]all[0000]held[0000]cards.{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD572",
+    "en": "Try[0000]the[0000]Extra[0000]Game[0000]Big[0000]&[0000]Small.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD5E4",
+    "en": "Select[0000]a[0000]card[0000]to[0000]turn[0000]over.{ATTENTE}",
+    "fr": "",
+    "max": 22,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD720",
+    "en": "Un-hold[0000]a[0000]held[0000]card.{ATTENTE}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD77E",
+    "en": "Try[0000]the[0000]Extra[0000]Game[0000]Red[0000]&[0000]Black.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CD960",
+    "en": "Hold[0000]or[0000]un-hold[0000]a[0000]card.{ATTENTE}",
+    "fr": "",
+    "max": 19
+  }
+]
