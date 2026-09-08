@@ -306,7 +306,7 @@
   {
     "id": "EBOOT.BIN:LE:OFF_252CBE",
     "en": "Load a saved game[0000]",
-    "fr": "Charger la partie[0000]",
+    "fr": "Charger une partie[0000]",
     "max": 17
   },
   {

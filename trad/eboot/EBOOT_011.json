@@ -33,7 +33,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D7E48",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Beginner?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Confirmer[0000]Débutant?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Débutant?{ATTENTE}",
     "max": 32
   },
   {
@@ -57,7 +57,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D8050",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Expert?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Confirmer[0000]Expert?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Expert?{ATTENTE}",
     "max": 30
   },
   {

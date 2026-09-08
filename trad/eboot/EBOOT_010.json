@@ -594,7 +594,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D7B4C",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Normal?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Confirmer[0000]Normal?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Normal?{ATTENTE}",
     "max": 30
   },
   {

@@ -113,22 +113,23 @@ Les lignes de l'EBOOT portent un champ en plus :
 { "id": "EBOOT.BIN:BE:OFF_2D7B4C", "en": "Do you want Normal?", "fr": "", "max": 30 }
 ```
 
-`max` est le **nombre de caractères de l'anglais**, et c'est une limite dure,
-pas un conseil. Ces textes ne vivent pas dans un fichier de données mais dans
-l'exécutable, où chaque chaîne occupe un emplacement de taille fixe. Le moteur
-écrit ta traduction par-dessus l'anglaise et complète avec des espaces.
+`max` est le **nombre de caractères de l'anglais**. Ces textes ne vivent pas
+dans un fichier de données mais dans l'exécutable, où chaque chaîne occupe un
+emplacement de taille fixe : le moteur écrit ta traduction par-dessus l'anglaise
+et complète avec des espaces.
 
-**Si tu dépasses, la ligne reste en anglais dans le jeu**, sans erreur au moment
-d'assembler. C'est le même piège que le budget d'octets (§6), en plus sournois
-parce qu'il touche une ligne isolée au lieu d'un fichier entier.
+**Dépasser n'est pas interdit.** Le moteur redirige alors la chaîne trop longue
+vers un espace libre de l'exécutable. C'est vérifié en jeu : « Charger une
+partie », 18 caractères pour un `max` de 17, s'affiche entier sur l'écran-titre.
 
-Le validateur le vérifie et te répond `[BUDGET]` avec le compte exact. Les
-jetons (`{SAUT}`, `[0000]`…) ne comptent pas, les accents comptent pour un.
+Mais c'est plus fragile que de tenir dans la place d'origine, alors le
+validateur te le signale — **en jaune, sans bloquer** — sous `[BUDGET]`, avec le
+compte exact. Les jetons (`{SAUT}`, `[0000]`…) ne comptent pas, les accents
+comptent pour un.
 
-Quelques `max` sont franchement serrés — `No` en fait deux, et « Non » en fait
-trois. Quand la limite rend le français impossible, **dis-le dans ta proposition
-plutôt que d'écorcher la langue** : ces cas-là se règlent côté moteur, pas côté
-traduction.
+Vise le budget quand tu peux. Ne massacre pas le français quand tu ne peux
+pas : certains `max` sont intenables — `No` en fait deux, « Non » en fait
+trois.
 
 ### Le français est plus long
 

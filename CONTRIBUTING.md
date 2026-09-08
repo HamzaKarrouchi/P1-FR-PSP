@@ -31,14 +31,15 @@ même chose.
 | [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **commencer** : lignes courtes, contexte évident |
 | [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | une soirée, c'est tout petit |
 
-Les lignes de `trad/eboot/` portent un champ **`max`** en plus : le nombre de
-caractères à ne pas dépasser. Ces textes vivent dans l'exécutable du jeu, à un
-emplacement de taille fixe. **Dépasser fait rester la ligne en anglais.** Le
-robot te le dit sous `[BUDGET]`, avec le compte exact.
+Les lignes de `trad/eboot/` portent un champ **`max`** en plus : la place que
+prend l'anglais dans l'exécutable du jeu. Vise-la quand tu peux, elle donne un
+rendu plus sûr. **Mais dépasser n'est pas interdit** — le moteur redirige la
+chaîne trop longue vers un espace libre, et ça marche : « Charger une partie »,
+18 caractères pour un `max` de 17, s'affiche entier en jeu.
 
-Quand un `max` rend le français impossible — `No` fait deux caractères, « Non »
-en fait trois — **dis-le dans ta proposition** au lieu d'écorcher la langue.
-Ces cas-là se règlent côté moteur.
+Le robot te le signale en jaune, sans bloquer. **N'écorche pas le français pour
+tenir dans le budget** : certains `max` sont intenables — `No` fait deux
+caractères, « Non » en fait trois.
 
 ---
 
@@ -149,7 +150,6 @@ Il te dit exactement quoi corriger :
 | `[LARGEUR]` | une ligne dépasse la boîte de dialogue |
 | `[ENCODAGE]` | un caractère n'existe pas dans le jeu (souvent un guillemet exotique collé depuis un traitement de texte) |
 | `[GLYPHE]` | le caractère existe mais ne se dessine pas : il apparaîtrait blanc |
-| `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — elle resterait en anglais |
 | `[CANARI]` | l'anglais d'origine a été modifié par accident — restaure `en` et `locuteur` |
 
 Ce n'est pas un jugement sur ta traduction. **On ne relit que le français**,
@@ -158,6 +158,7 @@ jamais la technique : le robot s'en charge.
 Il existe un dernier message, en **jaune** celui-là, qui ne bloque rien :
 
 | `[TERMINO]` | un terme du [dictionnaire](docs/Dictionnaire.md) apparaît dans l'anglais mais pas sa traduction dans le français |
+| `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — ça marche, c'est juste plus fragile |
 
 C'est une question, pas un reproche. Souvent tu as raison — le français
 fléchit, et reformuler vaut mieux que répéter un nom. Réponds-y en un mot dans

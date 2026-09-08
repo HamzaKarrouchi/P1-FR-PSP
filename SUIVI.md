@@ -9,14 +9,6 @@ Donjons        ░░░░░░░░░░░░░░░░░░░░░�
 Négociations   pas encore ouvert — environ 17 408 textes
 ```
 
-## ⚠ À corriger
-
-Ces fichiers contiennent des erreurs de validation. Les corriger vaut mieux que d'en traduire un nouveau : une erreur laissée là fera rester la ligne en anglais dans le jeu.
-
-- [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 1 erreur
-
-**Le détail ligne par ligne est dans [l'issue « Lignes à corriger »](../../issues?q=is%3Aissue+is%3Aopen+label%3Asuivi-auto)**, tenue à jour automatiquement. Il s'affiche aussi tout seul sur les lignes de ta proposition.
-
 ## À relire
 
 Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais sans sa traduction officielle dans le français. Ce n'est pas forcément une faute, mais ça mérite un avis.
@@ -29,6 +21,9 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 - [`E2_007.json`](trad/dialogues/E2_007.json) — 4 termes
 - [`E2_012.json`](trad/dialogues/E2_012.json) — 4 termes
 - [`E2_014.json`](trad/dialogues/E2_014.json) — 4 termes
+- [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) — 1 terme
+- [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 4 termes
+- [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) — 1 terme
 
 ## Dialogues
 
@@ -156,9 +151,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 8 | 8 % | commencé |
-| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | **à corriger** — 1 erreur |
-| [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 14 | 24 % | commencé |
+| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 8 | 8 % | commencé · 1 à relire |
+| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | commencé · 4 à relire |
+| [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 14 | 24 % | commencé · 1 à relire |
 | [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 0 | 0 % | libre |
 | [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 0 | 0 % | libre |
