@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF5DE",
+    "en": "will[0000]be[0000]unable[0000]to[0000]create[0000]new[0000]Personas.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF63A",
+    "en": "Remember[0000]to[0000]clear[0000]out[0000]unneeded[0000]Personas{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF68A",
+    "en": "in[0000]order[0000]to[0000]make[0000]room[0000]for[0000]new[0000]ones.{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF6D4",
+    "en": "Stocked[0000]Personas{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF704",
+    "en": "It[0000]pains[0000]me[0000]to[0000]say[0000]this,[0000]but[0000]our[0000]methods{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF756",
+    "en": "are[0000]not[0000]as[0000]precise[0000]as[0000]I[0000]should[0000]like.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF7AE",
+    "en": "Rare[0000]though[0000]they[0000]are,[0000]there[0000]are[0000]times{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF7FA",
+    "en": "when[0000]an[0000]accident[0000]will[0000]occur[0000]in[0000]fusion.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF856",
+    "en": "Should[0000]this[0000]happen,[0000]the[0000]Persona[0000]will{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF8A0",
+    "en": "likely[0000]not[0000]be[0000]the[0000]one[0000]you[0000]aimed[0000]for.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF8F8",
+    "en": "I[0000]have[0000]no[0000]way[0000]of[0000]predicting[0000]the[0000]result{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF946",
+    "en": "of[0000]a[0000]fusion[0000]accident...{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF984",
+    "en": "But[0000]then,[0000]isn't[0000]that[0000]the[0000]way[0000]of[0000]fate...?{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CF9D8",
+    "en": "Fusion[0000]accident{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFA04",
+    "en": "At[0000]times,[0000]a[0000]newly[0000]created[0000]Persona[0000]will{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFA52",
+    "en": "inherit[0000]skills[0000]from[0000]its[0000]fusion[0000]components.{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFAB6",
+    "en": "In[0000]this[0000]way,[0000]you[0000]may[0000]make[0000]Personas[0000]with{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFB06",
+    "en": "skills[0000]they[0000]would[0000]not[0000]normally[0000]possess.{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFB64",
+    "en": "Do[0000]not[0000]overlook[0000]this[0000]principle[0000]when[0000]you{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFBB4",
+    "en": "seek[0000]to[0000]create[0000]powerful[0000]Personas.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFC06",
+    "en": "The[0000]theory[0000]behind[0000]skill[0000]inheritance[0000]is,{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFC56",
+    "en": "alas,[0000]somewhat[0000]murky...{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFC94",
+    "en": "But[0000]we[0000]know[0000]the[0000]spell[0000]cards[0000]used[0000]must{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFCE0",
+    "en": "not[0000]have[0000]clashing[0000]orders...{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFD26",
+    "en": "The[0000]type[0000]of[0000]demon[0000]granting[0000]the[0000]inherited{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFD78",
+    "en": "skill[0000]is[0000]also[0000]a[0000]factor.{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFDB6",
+    "en": "Know[0000]also[0000]that[0000]the[0000]number[0000]of[0000]skills[0000]a{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFE02",
+    "en": "Persona[0000]can[0000]hold[0000]is[0000]limited...{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFE4E",
+    "en": "And[0000]certain[0000]special[0000]skills[0000]cannot[0000]be{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFE98",
+    "en": "passed[0000]down.{ATTENTE}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFEC0",
+    "en": "You[0000]should[0000]keep[0000]this[0000]in[0000]mind[0000]when[0000]fusing.{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFF16",
+    "en": "[0000]Skill[0000]inheritance{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFF48",
+    "en": "All[0000]demons[0000]fall[0000]into[0000]one[0000]of[0000]several{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFF90",
+    "en": "categories.{ATTENTE}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2CFFB6",
+    "en": "You[0000]could[0000]classify[0000]them[0000]by[0000]main[0000]type,{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0002",
+    "en": "subtype,[0000]main[0000]order,[0000]and[0000]sub-order.{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0058",
+    "en": "Personas[0000]lack[0000]main[0000]and[0000]sub-orders,[0000]and{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D00A6",
+    "en": "are[0000]grouped[0000]by[0000]order,[0000]type,[0000]and[0000]subtype.{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0106",
+    "en": "Not[0000]only[0000]do[0000]these[0000]indicate[0000]their[0000]natures,{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D015A",
+    "en": "they[0000]are[0000]very[0000]important[0000]in[0000]fusions.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D01B0",
+    "en": "For[0000]example,[0000]fusing[0000]two[0000]of[0000]the[0000]same[0000]type{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0202",
+    "en": "tends[0000]to[0000]result[0000]in[0000]increased[0000]power.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0258",
+    "en": "But[0000]fusing[0000]two[0000]opposed[0000]types[0000]increases{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D02A6",
+    "en": "the[0000]risk[0000]of[0000]fusion[0000]accidents.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D02F0",
+    "en": "The[0000]same[0000]is[0000]true[0000]for[0000]order:[0000]fusing[0000]two{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D033E",
+    "en": "like[0000]orders[0000]makes[0000]for[0000]a[0000]stronger[0000]Persona.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D03A0",
+    "en": "Whereas[0000]fusing[0000]incompatible[0000]orders[0000]will{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D03F0",
+    "en": "result[0000]in[0000]a[0000]weaker[0000]Persona.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0436",
+    "en": "When[0000]fusing[0000]like[0000]orders,[0000]the[0000]first[0000]card{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0486",
+    "en": "chosen[0000]dictates[0000]the[0000]inheritable[0000]skills.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D04E4",
+    "en": "Types[0000]and[0000]orders[0000]are[0000]only[0000]a[0000]few[0000]of[0000]the{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0532",
+    "en": "trickier[0000]aspects[0000]of[0000]fusion.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0578",
+    "en": "The[0000]only[0000]sure[0000]way[0000]to[0000]learn[0000]is[0000]through{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D05C4",
+    "en": "the[0000]experience[0000]of[0000]trial[0000]and[0000]error...{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0610",
+    "en": "Order[0000]and[0000]affinity{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0644",
+    "en": "There[0000]are[0000]several[0000]types[0000]of[0000]fusion.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0698",
+    "en": "To[0000]begin[0000]with,[0000]let[0000]us[0000]consider{SAUT}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D06D6",
+    "en": "Guided[0000]Fusion.{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0702",
+    "en": "This[0000]will[0000]display[0000]the[0000]Personas[0000]that[0000]can{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0752",
+    "en": "be[0000]made[0000]using[0000]the[0000]spell[0000]cards[0000]you[0000]hold.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D07B0",
+    "en": "After[0000]this,[0000]the[0000]spell[0000]cards[0000]that[0000]will[0000]be{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0802",
+    "en": "used[0000]are[0000]displayed.{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0838",
+    "en": "If[0000]there[0000]are[0000]multiple[0000]recipes,[0000]choose[0000]a{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0888",
+    "en": "desired[0000]recipe[0000]from[0000]the[0000]list.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D08D2",
+    "en": "Guided[0000]Fusion[0000]makes[0000]it[0000]easy[0000]to[0000]create{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D091E",
+    "en": "the[0000]Persona[0000]you[0000]seek...{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D095C",
+    "en": "But[0000]it[0000]will[0000]be[0000]difficult[0000]to[0000]grasp[0000]the{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D09A8",
+    "en": "status[0000]fluctuations[0000]and[0000]fusion[0000]accidents.{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0A0A",
+    "en": "There[0000]is[0000]also[0000]Manual[0000]Fusion,[0000]which[0000]allows{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0A5E",
+    "en": "you[0000]to[0000]play[0000]more[0000]of[0000]a[0000]role...{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0AA8",
+    "en": "In[0000]this[0000]type,[0000]you[0000]select[0000]two[0000]spell[0000]cards{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0AFA",
+    "en": "that[0000]you[0000]would[0000]like[0000]to[0000]fuse[0000]together.{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0B54",
+    "en": "You[0000]may[0000]then[0000]see[0000]cross-order[0000]affinity,{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0BA2",
+    "en": "status[0000]changes,[0000]type[0000]fluctuations...{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0BFA",
+    "en": "...and,[0000]alas,[0000]the[0000]likelihood[0000]of[0000]fusion{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0C48",
+    "en": "accidents.{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0C6C",
+    "en": "It[0000]is[0000]somewhat[0000]daunting,[0000]but[0000]also[0000]more{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0CBA",
+    "en": "flexible[0000]once[0000]you[0000]are[0000]accustomed[0000]to[0000]it.{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0D18",
+    "en": "You[0000]may[0000]find[0000]something[0000]of[0000]a[0000]pattern[0000]to{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0D66",
+    "en": "the[0000]cards'[0000]order[0000]that[0000]affects[0000]the[0000]result.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0DC8",
+    "en": "Then[0000]again,[0000]there[0000]seem[0000]to[0000]be[0000]some[0000]which{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0E18",
+    "en": "do[0000]not[0000]fit[0000]the[0000]pattern...{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0E5A",
+    "en": "Perhaps[0000]you[0000]should[0000]experiment[0000]with{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0EA0",
+    "en": "different[0000]methods[0000]of[0000]your[0000]own.{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0EE0",
+    "en": "Types[0000]of[0000]fusion{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0F0C",
+    "en": "My[0000]role[0000]is[0000]to[0000]assist[0000]you[0000]in[0000]giving[0000]birth{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0F5E",
+    "en": "to[0000]new[0000]Personas...{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0F92",
+    "en": "If[0000]you'll[0000]allow[0000]me[0000]to[0000]use[0000]your[0000]spell{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D0FDC",
+    "en": "cards[0000]to[0000]summon[0000]those[0000]demons...{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D102A",
+    "en": "I'll[0000]fuse[0000]them[0000]together,[0000]thereby{SAUT}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D106C",
+    "en": "giving[0000]life[0000]to[0000]a[0000]new[0000]Persona.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D10B6",
+    "en": "Usually,[0000]fusion[0000]results[0000]in[0000]Personas[0000]of[0000]a{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D1108",
+    "en": "higher[0000]level[0000]than[0000]their[0000]component[0000]cards.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D1168",
+    "en": "But[0000]you[0000]cannot[0000]create[0000]Personas[0000]over[0000]10{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D11B6",
+    "en": "levels[0000]higher[0000]than[0000]yours...{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D11FC",
+    "en": "Such[0000]Personas[0000]would[0000]refuse[0000]to[0000]obey[0000]you{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D124A",
+    "en": "and[0000]be[0000]very[0000]dangerous.{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D1286",
+    "en": "You[0000]also[0000]cannot[0000]create[0000]a[0000]Persona[0000]that{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D12D2",
+    "en": "we[0000]are[0000]already[0000]looking[0000]after.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE:OFF_2D131C",
+    "en": "And[0000]I[0000]regret[0000]to[0000]say[0000]that[0000]spell[0000]cards{SAUT}",
+    "fr": "",
+    "max": 29
+  }
+]

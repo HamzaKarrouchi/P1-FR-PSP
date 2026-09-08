@@ -1,0 +1,609 @@
+[
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288BE8",
+    "en": "Final confirmation after entering actions",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288C42",
+    "en": "Load a different saved game",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288C9C",
+    "en": "Suspend your game",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288CF6",
+    "en": "Return to the title screen",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_288D50",
+    "en": "Return to the title screen? Any",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_289110",
+    "en": "Remove equipment",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_289148",
+    "en": "Change which equipment?",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_289180",
+    "en": "Equip strongest gear?",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2891B8",
+    "en": "Remove which equipment?",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2891F0",
+    "en": "What will you equip?",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_28C500",
+    "en": "Himeno Mansion",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2923CC",
+    "en": "Exit: Leave the dungeon。",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29244C",
+    "en": "Stairs: Move between floors。",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2924CC",
+    "en": "Elevator: Go to a selected floor。",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29254C",
+    "en": "Agastya Tree: Save your game here。",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2925CC",
+    "en": "Spring: Recover HP, SP, and status ailments。",
+    "fr": "",
+    "max": 44
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29264C",
+    "en": "Velvet Room: Create and take on Personas。",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2926CC",
+    "en": "Casino: Play minigames。",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29274C",
+    "en": "Item Shop: Buy consumable items。",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2927CC",
+    "en": "Equipment Shop: Buy equipment。",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29284C",
+    "en": "Antique Shop: Trade items。",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2928CC",
+    "en": "Dark Zone: Pitch-black area with no visibility",
+    "fr": "",
+    "max": 46
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29294C",
+    "en": "Trap Floor: Receive damage and status ailments.",
+    "fr": "",
+    "max": 47
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2929CC",
+    "en": "Pitfall: Fall to the floor below。",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292A4C",
+    "en": "Switch: Activate to change something。",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292ACC",
+    "en": "Lamp: Toggles ON／OFF when stepped on。",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292B4C",
+    "en": "Slide: Forces you along in a given direction。",
+    "fr": "",
+    "max": 45
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292BCC",
+    "en": "Spinner: Forces you to spin around。",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292C4C",
+    "en": "Warp: Teleports you elsewhere in the dungeon。",
+    "fr": "",
+    "max": 45
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_292CCC",
+    "en": "Dungeon Door: Move to a different dungeon。",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_29ADC8",
+    "en": "Reset the formation?",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A2058",
+    "en": "START button: Skip visual effects",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A20E4",
+    "en": "(Toggles Persona summoning and",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A2170",
+    "en": "character movement ON／OFF)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A21FC",
+    "en": "L button: Display ally status",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A227C",
+    "en": "R button: Analyze enemy status",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A22FC",
+    "en": "Directional",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A2314",
+    "en": "buttons: Select command",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A24B8",
+    "en": "Basic battle controls",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A4864",
+    "en": "Lacking strength, you fell to a powerful",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A48DC",
+    "en": "demon. Your joy, your sadness, your memories;",
+    "fr": "",
+    "max": 45
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A4954",
+    "en": "your heart and soul will return to nothing.",
+    "fr": "",
+    "max": 43
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A49CC",
+    "en": "But perhaps... If there is still hope deep",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A4A44",
+    "en": "within your heart... You may summon your",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A4ABC",
+    "en": "Persona and stand again to grasp the truth",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2A4B34",
+    "en": "of life!",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3B44",
+    "en": "Choose your first card.",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3B78",
+    "en": "Choose your second card.",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3CD4",
+    "en": "Random effect",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3D0C",
+    "en": "Magic power up",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3D44",
+    "en": "Strength up",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3D7C",
+    "en": "Luck up",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3DB4",
+    "en": "Vitality up",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3DEC",
+    "en": "Dexterity up",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3E24",
+    "en": "Speed up",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3E5C",
+    "en": "Teaches skill",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3E94",
+    "en": "Change Persona within Order",
+    "fr": "",
+    "max": 27,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3F04",
+    "en": "Make special Persona",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3F3C",
+    "en": "Which Persona would you like?",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3F82",
+    "en": "Which combination would you like?",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D3FD0",
+    "en": "Who will take on a Persona?",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4008",
+    "en": "Which card will you view?",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4040",
+    "en": "Explanation of symbols",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4090",
+    "en": "Normal fusion combination.",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D40E0",
+    "en": "Prohibited fusion combination.",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4130",
+    "en": "Fusion may inherit a skill.",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4180",
+    "en": "Arrow directions",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D41D0",
+    "en": "Both cards the same order.",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4220",
+    "en": "Orders are compatible.",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4270",
+    "en": "Orders are incompatible.",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D42C0",
+    "en": "About color-coding",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4310",
+    "en": "Unaffected by Types.",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4360",
+    "en": "Opposed Types. Fusion accident likely.",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D43B0",
+    "en": "Both cards the same Type.",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D4408",
+    "en": "Íβ",
+    "fr": "",
+    "max": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D71D8",
+    "en": "Weapon Shop",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7200",
+    "en": "Armor Shop",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7228",
+    "en": "Rosa Candida",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7250",
+    "en": "Satomi Tadashi",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7278",
+    "en": "Sennen Mannen-Do",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D72A0",
+    "en": "General Store",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D72E8",
+    "en": "What will you buy?",
+    "fr": "",
+    "max": 18,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D731C",
+    "en": "How many will you buy?",
+    "fr": "",
+    "max": 22,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7350",
+    "en": "What will you sell?",
+    "fr": "",
+    "max": 19,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7384",
+    "en": "How many will you sell?",
+    "fr": "",
+    "max": 23,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D7558",
+    "en": "What will you trade for?",
+    "fr": "",
+    "max": 24,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D758C",
+    "en": "How many will you trade?",
+    "fr": "",
+    "max": 24,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D83C8",
+    "en": "Gate to Paradise",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D83FC",
+    "en": "Strange Phenomena",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8430",
+    "en": "Butterfly's Guidance",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8464",
+    "en": "Philemon",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8498",
+    "en": "The Power of Persona",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D84CC",
+    "en": "Hospital Disappearance",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8500",
+    "en": "The Power of Will",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8534",
+    "en": "Another World",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8568",
+    "en": "The Expel Mirror",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D859C",
+    "en": "Deva Yuga's Formation",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D85D0",
+    "en": "Entering Deva Yuga",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8604",
+    "en": "System Collapse",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:LE_UI:OFF_2D8638",
+    "en": "Closed Heart",
+    "fr": "",
+    "max": 12
+  }
+]

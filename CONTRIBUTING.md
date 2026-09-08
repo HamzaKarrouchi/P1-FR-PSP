@@ -11,8 +11,8 @@ installer, pas d'outil à télécharger, aucune ligne de code.
    une section **« À corriger »** en haut, commence plutôt par là : réparer une
    erreur vaut mieux que traduire un fichier de plus, parce qu'une erreur
    laissée en place fait rester la ligne **en anglais** dans le jeu.
-2. Clique dessus dans [`trad/dialogues/`](trad/dialogues/), puis sur le crayon
-   ✏️ pour l'éditer directement dans ton navigateur.
+2. Clique dessus dans [`trad/`](trad/), puis sur le crayon ✏️ pour l'éditer
+   directement dans ton navigateur.
 3. Remplis le champ `fr` de chaque réplique. Laisse tout le reste tel quel.
 4. En bas de page, choisis **Create a new branch** et propose ta modification.
 5. Un robot vérifie ton travail en une minute et te dit précisément ce qui
@@ -20,6 +20,25 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 
 **Un fichier = une proposition.** Ça évite que deux personnes traduisent la
 même chose.
+
+---
+
+## Les trois dossiers
+
+| Dossier | Contenu | Bon pour |
+|---|---|---|
+| [`trad/dialogues/`](trad/dialogues/) | l'histoire, les personnages qui parlent | qui aime écrire du dialogue vivant |
+| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **commencer** : lignes courtes, contexte évident |
+| [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | une soirée, c'est tout petit |
+
+Les lignes de `trad/eboot/` portent un champ **`max`** en plus : le nombre de
+caractères à ne pas dépasser. Ces textes vivent dans l'exécutable du jeu, à un
+emplacement de taille fixe. **Dépasser fait rester la ligne en anglais.** Le
+robot te le dit sous `[BUDGET]`, avec le compte exact.
+
+Quand un `max` rend le français impossible — `No` fait deux caractères, « Non »
+en fait trois — **dis-le dans ta proposition** au lieu d'écorcher la langue.
+Ces cas-là se règlent côté moteur.
 
 ---
 
@@ -130,6 +149,7 @@ Il te dit exactement quoi corriger :
 | `[LARGEUR]` | une ligne dépasse la boîte de dialogue |
 | `[ENCODAGE]` | un caractère n'existe pas dans le jeu (souvent un guillemet exotique collé depuis un traitement de texte) |
 | `[GLYPHE]` | le caractère existe mais ne se dessine pas : il apparaîtrait blanc |
+| `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — elle resterait en anglais |
 | `[CANARI]` | l'anglais d'origine a été modifié par accident — restaure `en` et `locuteur` |
 
 Ce n'est pas un jugement sur ta traduction. **On ne relit que le français**,

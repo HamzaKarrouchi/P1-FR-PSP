@@ -1,0 +1,354 @@
+[
+  {
+    "id": "EBOOT.BIN:LE:OFF_252360",
+    "en": "Main[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252374",
+    "en": "Maki[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252388",
+    "en": "Brown[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25239C",
+    "en": "Nanjo[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2523B0",
+    "en": "Mark[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2523C4",
+    "en": "Elly[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2523D8",
+    "en": "Ayase[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2523EC",
+    "en": "Yukino[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252400",
+    "en": "Reiji[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252414",
+    "en": "All[0000]",
+    "fr": "",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252428",
+    "en": "Male[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25243C",
+    "en": "Female[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252450",
+    "en": "1h Sword[0000]",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252464",
+    "en": "2h Sword[0000]",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252478",
+    "en": "Spear[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25248C",
+    "en": "Axe[0000]",
+    "fr": "",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2524A0",
+    "en": "Whip[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2524B4",
+    "en": "Thrown[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2524C8",
+    "en": "Bow[0000]",
+    "fr": "",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2524DC",
+    "en": "Fist[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2524F0",
+    "en": "Handgun[0000]",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252504",
+    "en": "Automatic[0000]",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252518",
+    "en": "Shotgun[0000]",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25252C",
+    "en": "Rifle[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252540",
+    "en": "Shells[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252554",
+    "en": "Head[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252568",
+    "en": "Body[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25257C",
+    "en": "Arms[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252590",
+    "en": "Legs[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2525A4",
+    "en": "Usable[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2525B8",
+    "en": "Material[0000]",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2525CC",
+    "en": "Totem[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2525E0",
+    "en": "Key[0000]",
+    "fr": "",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2525F4",
+    "en": "Card[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252608",
+    "en": "Stone[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25261C",
+    "en": "Gem[0000]",
+    "fr": "",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252634",
+    "en": "Item[0000]",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252648",
+    "en": "Weapon[0000]",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25265C",
+    "en": "Armor[0000]",
+    "fr": "",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252894",
+    "en": "-Zhuangzi[0000]",
+    "fr": "-Zhuangzi[0000]",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2528A8",
+    "en": "the transformation of the physical.[0000]",
+    "fr": "la transformation des êtres.[0000]",
+    "max": 35,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2528F0",
+    "en": "myself and the butterfly. This is[0000]",
+    "fr": "entre moi et le papillon. C'est[0000]",
+    "max": 33,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252934",
+    "en": "Yet there is a distinction between[0000]",
+    "fr": "Pourtant, il y a une distinction[0000]",
+    "max": 34,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252A50",
+    "en": "Or do I now dream that I am a man?[0000]",
+    "fr": "Ou est-ce le papillon qui me rêve?[0000]",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252A98",
+    "en": "Did I dream that I was a butterfly?[0000]",
+    "fr": "Ai-je rêvé que j'étais un papillon?[0000]",
+    "max": 35,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252B28",
+    "en": "I awoke, and I was myself again.[0000]",
+    "fr": "je m'éveillai, et fus moi-même.[0000]",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252B6C",
+    "en": "happiness as a butterfly. Soon,[0000]",
+    "fr": "mon bonheur de papillon. Puis,[0000]",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252BAC",
+    "en": "I forgot myself and knew only my[0000]",
+    "fr": "Je m'oubliai, ne connaissant que[0000]",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252BF0",
+    "en": "Once, I dreamt I was a butterfly.[0000]",
+    "fr": "Jadis, je me rêvai papillon.[0000]",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252C84",
+    "en": "Start from the beginning[0000]",
+    "fr": "Nouvelle partie[0000]",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252CBE",
+    "en": "Load a saved game[0000]",
+    "fr": "Charger la partie[0000]",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252CF8",
+    "en": "Continue from a suspend save[0000]",
+    "fr": "Reprendre une sauvegarde[0000]",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252D32",
+    "en": "View previously seen movies[0000]",
+    "fr": "Revoir les vidéos vues[0000]",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252DAC",
+    "en": "Continue from a suspend save?[0000]",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_252DF4",
+    "en": "Once loaded, the save will be lost.[0000]",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_25317A",
+    "en": "Nickname[0000]",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_2531EC",
+    "en": "Enter your name.[0000]",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:LE:OFF_253210",
+    "en": "Enter a nickname.[0000]",
+    "fr": "",
+    "max": 17
+  }
+]

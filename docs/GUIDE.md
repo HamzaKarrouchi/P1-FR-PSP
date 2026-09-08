@@ -6,13 +6,26 @@ ce qui permet de les contourner intelligemment plutôt que de buter dessus.
 
 ---
 
-## 1. L'identifiant
+## 1. Les trois zones, et l'identifiant
+
+Le texte du jeu vit à trois endroits, et `trad/` a un dossier pour chacun.
+
+| Dossier | Contenu | Ce qui change pour toi |
+|---|---|---|
+| `trad/dialogues/` | l'histoire, les personnages qui parlent | un champ `locuteur` à traduire aussi |
+| `trad/eboot/` | menus, écrans, noms de lieux, tutoriels | un champ **`max`** à respecter (§3) |
+| `trad/donjons/` | messages de couloir, portes fermées | rien de particulier |
+
+L'identifiant dit d'où vient la ligne :
 
 ```text
-E0.BIN:012:0007
+E0.BIN:012:0007            un dialogue
 │      │   └── la réplique dans le bloc
 │      └────── le bloc de dialogue (une scène, en gros)
 └───────────── le fichier de données du jeu
+
+EBOOT.BIN:BE:OFF_2D7B4C    une ligne d'interface, à son adresse dans l'exécutable
+DNG:d00/d00.bin:0000       une ligne de donjon
 ```
 
 Il n'a aucune valeur pour la traduction, mais c'est par lui que ta ligne
@@ -91,6 +104,31 @@ si ta ligne est **à la fois** plus large que l'anglaise **et** au-delà de 43.
 Entre 40 et 43, il avertit.
 
 Il compte **entre deux codes**, ce qui correspond à une ligne affichée.
+
+### Le champ `max` — seulement dans `trad/eboot/`
+
+Les lignes de l'EBOOT portent un champ en plus :
+
+```json
+{ "id": "EBOOT.BIN:BE:OFF_2D7B4C", "en": "Do you want Normal?", "fr": "", "max": 30 }
+```
+
+`max` est le **nombre de caractères de l'anglais**, et c'est une limite dure,
+pas un conseil. Ces textes ne vivent pas dans un fichier de données mais dans
+l'exécutable, où chaque chaîne occupe un emplacement de taille fixe. Le moteur
+écrit ta traduction par-dessus l'anglaise et complète avec des espaces.
+
+**Si tu dépasses, la ligne reste en anglais dans le jeu**, sans erreur au moment
+d'assembler. C'est le même piège que le budget d'octets (§6), en plus sournois
+parce qu'il touche une ligne isolée au lieu d'un fichier entier.
+
+Le validateur le vérifie et te répond `[BUDGET]` avec le compte exact. Les
+jetons (`{SAUT}`, `[0000]`…) ne comptent pas, les accents comptent pour un.
+
+Quelques `max` sont franchement serrés — `No` en fait deux, et « Non » en fait
+trois. Quand la limite rend le français impossible, **dis-le dans ta proposition
+plutôt que d'écorcher la langue** : ces cas-là se règlent côté moteur, pas côté
+traduction.
 
 ### Le français est plus long
 

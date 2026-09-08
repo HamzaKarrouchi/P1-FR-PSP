@@ -3,10 +3,19 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ███░░░░░░░░░░░░░░░░░░░░░   12 %    1 062 / 8 572 textes
-EBOOT          pas encore ouvert — environ 5 771 textes
+Dialogues      ███░░░░░░░░░░░░░░░░░░░░░   14 %    1 219 / 8 572 textes
+EBOOT          █░░░░░░░░░░░░░░░░░░░░░░░    3 %       42 / 1 518 textes
+Donjons        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 130 textes
 Négociations   pas encore ouvert — environ 17 408 textes
 ```
+
+## ⚠ À corriger
+
+Ces fichiers contiennent des erreurs de validation. Les corriger vaut mieux que d'en traduire un nouveau : une erreur laissée là fera rester la ligne en anglais dans le jeu.
+
+- [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 1 erreur
+
+**Le détail ligne par ligne est dans [l'issue « Lignes à corriger »](../../issues?q=is%3Aissue+is%3Aopen+label%3Asuivi-auto)**, tenue à jour automatiquement. Il s'affiche aussi tout seul sur les lignes de ta proposition.
 
 ## À relire
 
@@ -40,8 +49,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 67 | 100 % | terminé |
 | [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 55 | 100 % | terminé |
 | [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 85 | 100 % | terminé |
-| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 0 | 0 % | libre |
-| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 0 | 0 % | libre |
+| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 91 | 100 % | terminé |
+| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 66 | 100 % | terminé |
 | [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | libre |
 | [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 0 | 0 % | libre |
 | [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 0 | 0 % | libre |
@@ -131,4 +140,37 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 0 | 0 % | libre |
 | [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | libre |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 1 | 2 % | commencé |
+
+## EBOOT
+
+Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en « en cours » dans la minute.
+
+| Fichier | Textes | Traduits | % | État |
+|---|---:|---:|---:|---|
+| [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 7 | 7 % | commencé |
+| [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 8 | 8 % | commencé |
+| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | **à corriger** — 1 erreur |
+| [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 14 | 24 % | commencé |
+| [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 0 | 0 % | libre |
+| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 0 | 0 % | libre |
+
+## Donjons
+
+Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en « en cours » dans la minute.
+
+| Fichier | Textes | Traduits | % | État |
+|---|---:|---:|---:|---|
+| [`DNG_001.json`](trad/donjons/DNG_001.json) | 99 | 0 | 0 % | libre |
+| [`DNG_002.json`](trad/donjons/DNG_002.json) | 31 | 0 | 0 % | libre |
 
