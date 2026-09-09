@@ -2,543 +2,543 @@
   {
     "id": "DNG:d00/d00.bin:0000",
     "en": " < It seems to be locked...{ATTENTE}",
-    "fr": "",
+    "fr": " < C'est verrouillé, on dirait...{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "DNG:d00/d00.bin:0001",
     "en": " < It's locked. It doesn't seem as though{SAUT}you can enter.{ATTENTE}",
-    "fr": ""
+    "fr": " < C'est verrouillé. Impossible{SAUT}d'entrer, on dirait.{ATTENTE}"
   },
   {
     "id": "DNG:d00/d00.bin:0002",
     "en": " < The door is locked. Could that girl{SAUT}have been an illusion...?{ATTENTE}",
-    "fr": "",
+    "fr": " < La porte est verrouillée. Cette fille{SAUT}était-elle une illusion...?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d00/d00.bin:0003",
     "en": " < The door is locked.{ATTENTE}",
-    "fr": "",
+    "fr": " < La porte est verrouillée.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "DNG:d00/d00.bin:0004",
     "en": " < The door was locked again before you{SAUT}knew it...{ATTENTE}",
-    "fr": ""
+    "fr": " < La porte s'est reverrouillée{SAUT}sans qu'on s'en aperçoive...{ATTENTE}"
   },
   {
     "id": "DNG:d00/d00.bin:0005",
     "en": " < This room doesn't seem to have been{SAUT}used in quite some time...{ATTENTE}",
-    "fr": ""
+    "fr": " < Cette pièce n'a pas servi depuis{SAUT}un bon moment, on dirait...{ATTENTE}"
   },
   {
     "id": "DNG:d01/d01.bin:0000",
     "en": " < The store is closed...{ATTENTE}",
-    "fr": "",
+    "fr": " < La boutique est fermée...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d02/d02.bin:0002",
     "en": " < This room doesn't seem to be in use.{ATTENTE}",
-    "fr": ""
+    "fr": " < Cette pièce ne semble pas utilisée.{ATTENTE}"
   },
   {
     "id": "DNG:d02/d02.bin:0003",
     "en": " < It's the ICU. You need special{SAUT}permission to enter.{ATTENTE}",
-    "fr": ""
+    "fr": " < Les soins intensifs. Il faut une{SAUT}autorisation pour entrer.{ATTENTE}"
   },
   {
     "id": "DNG:d03/d03.bin:0000",
     "locuteur": "Mark",
     "en": "NMark{SAUT}Dammit... Where did Maki go...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "NMark{SAUT}Merde... Où est passée Maki...?{ATTENTE}"
   },
   {
     "id": "DNG:d07/d07.bin:0000",
     "en": " < There's a lever on the wall.{SAUT}Pull the lever?{ATTENTE}",
-    "fr": "",
+    "fr": " < Un levier est fixé au mur.{SAUT}Tirer le levier?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "DNG:d08/d08.bin:0000",
     "locuteur": "Maki",
     "en": "NMaki{SAUT}I can hear voices... It sounds like{SAUT}someone's talking inside.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "NMaki{SAUT}J'entends des voix... On dirait que{SAUT}quelqu'un parle à l'intérieur.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0001",
     "en": "NStern voice{SAUT}I'm sorry, Mr. Kandori... The woman{SAUT}escaped.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix sévère{SAUT}Je suis navré, M. Kandori... La femme{SAUT}s'est échappée.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0002",
     "en": "NSuspicious voice{SAUT}That was a mistake, Takeda. Well... leave{SAUT}her be. There's nowhere for her to go.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix suspecte{SAUT}C'était une erreur, Takeda. Bah...{SAUT}laisse-la. Elle n'ira nulle part.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0003",
     "en": "NSuspicious voice{SAUT}It's more important that the scientists{SAUT}finish the Deva System's adjustments.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix suspecte{SAUT}Le plus important, c'est que les{SAUT}savants règlent le système Deva.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0004",
     "en": "NStern voice{SAUT}Yes, Sir.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix sévère{SAUT}Bien, monsieur.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0005",
     "en": "NTakeda's voice{SAUT}I'm sorry, Mr. Kandori... The woman{SAUT}escaped.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de Takeda{SAUT}Je suis navré, M. Kandori... La femme{SAUT}s'est échappée.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0006",
     "en": "NKandori's voice{SAUT}That was a mistake, Takeda. Well... leave{SAUT}her be. There's nowhere for her to go.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de Kandori{SAUT}C'était une erreur, Takeda. Bah...{SAUT}laisse-la. Elle n'ira nulle part.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0007",
     "en": "NKandori's voice{SAUT}It's more important that the scientists{SAUT}finish the Deva System's adjustments.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de Kandori{SAUT}Le plus important, c'est que les{SAUT}savants règlent le système Deva.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0008",
     "en": "NTakeda's voice{SAUT}Yes, Sir.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de Takeda{SAUT}Bien, monsieur.{ATTENTE}"
   },
   {
     "id": "DNG:d0a/d0a.bin:0000",
     "en": " < There seems to be no one here...{ATTENTE}",
-    "fr": "",
+    "fr": " < Il ne semble y avoir personne...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d0a/d0a.bin:0001",
     "en": " < You don't think anyone is around...{ATTENTE}",
-    "fr": ""
+    "fr": " < On dirait qu'il n'y a personne...{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0000",
     "en": " < The door is tightly sealed.{ATTENTE}",
-    "fr": "",
+    "fr": " < La porte est bien scellée.{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "DNG:d0c/d0c.bin:0001",
     "en": " < The door is tightly sealed.{SAUT}It seems it cannot be opened yet...{ATTENTE}",
-    "fr": "",
+    "fr": " < La porte est bien scellée.{SAUT}Elle ne s'ouvre pas encore...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d0c/d0c.bin:0002",
     "en": " < Old writing is engraved on the wall.{ATTENTE}",
-    "fr": "",
+    "fr": " < Un texte ancien est gravé sur le mur.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "DNG:d0c/d0c.bin:0003",
     "en": "< \"Henceforth, go the way you believe{SAUT}answers the given question, and the path{SAUT}shall be opened.{ATTENTE}",
-    "fr": "",
+    "fr": "< \"Désormais, prenez le chemin qui vous{SAUT}semble répondre à la question,{SAUT}et la voie s'ouvrira.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "DNG:d0c/d0c.bin:0004",
     "en": "\"The Three Wise Monkeys are famous in{SAUT}Buddhism, but where is the Buddhist god{SAUT}Seimen Kongou worshipped?{ATTENTE}",
-    "fr": ""
+    "fr": "\"Les trois singes de la sagesse sont{SAUT}célèbres dans le bouddhisme. Où{SAUT}vénère-t-on le dieu Seimen Kongou?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0005",
     "en": "\"Head right if it's Japan, and left if{SAUT}it's China.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour le Japon, à gauche{SAUT}pour la Chine.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0008",
     "en": "\"Seiryuu is one of the legendary beasts{SAUT}of China. Which of the four directions{SAUT}does this god represent?{ATTENTE}",
-    "fr": ""
+    "fr": "\"Seiryuu est une bête légendaire de{SAUT}Chine. Laquelle des quatre directions{SAUT}ce dieu représente-t-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0009",
     "en": "\"Head right if it's east and left if{SAUT}it's west.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour l'est, à gauche{SAUT}pour l'ouest.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0012",
     "en": "\"The official name of the Taoist goddess{SAUT}Tian-xian Niang-niang is Tianxian Yu' nu{SAUT}Bixia Yuanjun. Whose daughter is she?{ATTENTE}",
-    "fr": ""
+    "fr": "\"La déesse taoïste Tian-xian{SAUT}Niang-niang se nomme en entier Tianxian{SAUT}Yu' nu Bixia Yuanjun. Fille de qui?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0013",
     "en": "\"Head left if it's Xiyue Dadi, and right{SAUT}if it's Dongyue Dadi.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour Xiyue Dadi, à droite{SAUT}pour Dongyue Dadi.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0014",
     "en": " \"In Hinduism, the Ganges River is thought{SAUT}to be made from tears that Shiva shed.{SAUT}Which eye wrere they shed from?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Dans l'hindouisme, le Gange serait né{SAUT}des larmes versées par Shiva.{SAUT}De quel oeil ont-elles coulé?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0015",
     "en": "\"Head left if it's the left eye, and{SAUT}right if it's the right eye.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour l'oeil gauche, à droite{SAUT}pour l'oeil droit.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0016",
     "en": " \"Some think Hanuman in Indian myth is the{SAUT}model for Sun Wukong. What is the famous{SAUT}story where Sun Wukong appears?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Hanuman, dans le mythe indien, serait{SAUT}le modèle de Sun Wukong. Dans quel récit{SAUT}célèbre apparaît-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0017",
     "en": "\"Head left if it's Journey to the West,{SAUT}and right if it's Journey to the East.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour le Voyage vers l'Ouest,{SAUT}à droite pour le Voyage vers l'Est.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0018",
     "en": " \"Varuna of Indian myth is said to be{SAUT}the god of law and the celestial ocean.{SAUT}What direction does he represent?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Varuna, dans le mythe indien, est le{SAUT}dieu de la loi et de l'océan céleste.{SAUT}Quelle direction représente-t-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0019",
     "en": "\"Head right if it's east, and left if{SAUT}it's west.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour l'est, à gauche{SAUT}pour l'ouest.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0020",
     "en": " \"Before the archangel Lucifer of{SAUT}Christianity fell, which side of God{SAUT}did he sit at?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Avant sa chute, l'archange Lucifer{SAUT}du christianisme siégeait de quel{SAUT}côté de Dieu?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0021",
     "en": "\"Head right if it was the right side,{SAUT}and left if it was the left side.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour le côté droit, à gauche{SAUT}pour le côté gauche.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0022",
     "en": " \"In the Bible, the cherubim is said to{SAUT}guard Eden. Where is this angel posted?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Dans la Bible, le chérubin garde{SAUT}l'Éden. À quelle porte se tient-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0023",
     "en": "\"Head right if it's the east gate,{SAUT}and left if it's the west gate.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour la porte de l'est,{SAUT}à gauche pour celle de l'ouest.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0024",
     "en": " \"In Christianity, the angel Lucifer's{SAUT}name means \"Morning Star.\" Which{SAUT}direction in the sky can this be seen?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Dans le christianisme, Lucifer{SAUT}signifie \"Étoile du Matin\". Où la{SAUT}voit-on dans le ciel?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0025",
     "en": "\"Head right if it's in the east, and left{SAUT}if it's in the west.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour l'est, à gauche{SAUT}pour l'ouest.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0026",
     "en": " \"The war god Tyr in Norse myth had a hand{SAUT}bitten off by Fenrir. Which of his hands{SAUT}was spared?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Tyr, dieu nordique de la guerre, a eu{SAUT}une main arrachée par Fenrir. Laquelle{SAUT}lui reste-t-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0027",
     "en": "\"Head right if it was the right hand,{SAUT}and left if it was the left hand.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour la main droite,{SAUT}à gauche pour la main gauche.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0028",
     "en": " \"The god Airgetlam of Celtic myth is said{SAUT}to have a silver arm. Which arm is it?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Le dieu celte Airgetlam aurait un bras{SAUT}d'argent. Lequel de ses deux bras?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0029",
     "en": "\"Head right if it's the right arm,{SAUT}and left if it's the left arm.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À droite pour le bras droit,{SAUT}à gauche pour le bras gauche.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0030",
     "en": " \"One of the days of the week was named{SAUT}in honor of Odin, the chief god of Norse{SAUT}myth. Which day is it?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Un jour de la semaine porte le nom{SAUT}d'Odin, dieu principal du mythe{SAUT}nordique. Lequel?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0031",
     "en": "\"Head left if it's Wednesday, and right{SAUT}if it's Thursday.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour mercredi, à droite{SAUT}pour jeudi.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0032",
     "en": " \"Janus is said to be the Roman god of{SAUT}gates and doorways. What month does he{SAUT}represent?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Janus est le dieu romain des portes{SAUT}et des passages. Quel mois{SAUT}représente-t-il?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0033",
     "en": "\"Head left if it's November, straight if{SAUT}it's January, and right if it's March.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour novembre, tout droit{SAUT}pour janvier, à droite pour mars.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0034",
     "en": " \"Verdandi is the second sister of the{SAUT}three Norse goddesses of fate. Which{SAUT}period does she represent?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Verdandi est la deuxième des trois{SAUT}déesses nordiques du destin. Quelle{SAUT}époque représente-t-elle?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0035",
     "en": "\"Head left if it's the past, straight if{SAUT}it's the present, and right if it's{SAUT}the future.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour le passé, tout droit{SAUT}pour le présent, à droite pour{SAUT}l'avenir.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0036",
     "en": " \"Which body part did Izanagi purify to{SAUT}give birth to the Japanese god Susano-o?{ATTENTE}",
-    "fr": ""
+    "fr": " \"Quelle partie de son corps Izanagi{SAUT}purifia-t-il pour engendrer Susano-o?{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0037",
     "en": "\"Head left if it was the left eye,{SAUT}straight if it was the nose, and right{SAUT}if it was the right eye.\"{ATTENTE}",
-    "fr": ""
+    "fr": "\"À gauche pour l'oeil gauche, tout droit{SAUT}pour le nez, à droite pour{SAUT}l'oeil droit.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0038",
     "en": " < Old writing is engraved in the door.{ATTENTE}",
-    "fr": "",
+    "fr": " < Un vieux texte est gravé sur la porte.{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "DNG:d0c/d0c.bin:0039",
     "en": "< \"East 3, South 2, West 1, South 1.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Est 3, Sud 2, Ouest 1, Sud 1.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0041",
     "en": "< \"South 1, West 1, South 2, East 3.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Sud 1, Ouest 1, Sud 2, Est 3.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0043",
     "en": "< \"North 1, East 2, North 2, West 1,{SAUT}North 1, West 1, North 1.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Nord 1, Est 2, Nord 2, Ouest 1,{SAUT}Nord 1, Ouest 1, Nord 1.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0045",
     "en": "< \"North 1, West 1, North 2, East 1,{SAUT}North 1, East 2, South 1, East 1.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Nord 1, Ouest 1, Nord 2, Est 1,{SAUT}Nord 1, Est 2, Sud 1, Est 1.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0047",
     "en": "< \"East 1, North 1, East 2, North 1,{SAUT}East 2, South 2, West 1, South 2,{SAUT}West 2, South 1.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Est 1, Nord 1, Est 2, Nord 1,{SAUT}Est 2, Sud 2, Ouest 1, Sud 2,{SAUT}Ouest 2, Sud 1.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0049",
     "en": "< \"South 1, West 2, South 2, East 3,{SAUT}South 2, West 1, South 2.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Sud 1, Ouest 2, Sud 2, Est 3,{SAUT}Sud 2, Ouest 1, Sud 2.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0050",
     "en": " < Old writing is engraved on the{SAUT}monument.{ATTENTE}",
-    "fr": "",
+    "fr": " < Un texte ancien est gravé sur{SAUT}le monument.{ATTENTE}",
     "_occurrences": 7
   },
   {
     "id": "DNG:d0c/d0c.bin:0051",
     "en": "< \"Man's deadly sin of Lust is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché de Luxure{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0052",
     "en": "< Examine the monument?{ATTENTE}",
-    "fr": "",
+    "fr": "< Examiner le monument?{ATTENTE}",
     "_occurrences": 8
   },
   {
     "id": "DNG:d0c/d0c.bin:0054",
     "en": "< \"Man's deadly sin of Envy is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché d'Envie{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0057",
     "en": "< \"Man's deadly sin of Gluttony is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché de Gourmandise{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0060",
     "en": "< \"Man's deadly sin of Sloth is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché de Paresse{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0063",
     "en": "< \"Man's deadly sin of Wrath is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché de Colère{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0066",
     "en": "< \"Man's deadly sin of Pride is{SAUT}interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Ici gît le péché d'Orgueil{SAUT}des hommes.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0069",
     "en": "< \"White and black... Two nightmares{SAUT}are interred here.\"{ATTENTE}",
-    "fr": ""
+    "fr": "< \"Blanc et noir... Deux cauchemars{SAUT}gisent ici.\"{ATTENTE}"
   },
   {
     "id": "DNG:d0c/d0c.bin:0071",
     "en": " < Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "",
+    "fr": " < Une lumière jaillit du monument{SAUT}et prend corps.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d0e/d0e.bin:0000",
     "en": " < An invisible wall blocks your way,{SAUT}forcing you back...{ATTENTE}",
-    "fr": "",
+    "fr": " < Un mur invisible barre le passage{SAUT}et force à reculer...{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "DNG:d0e/d0e.bin:0004",
     "en": "NMan's voice{SAUT}The Queen is resting now.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix d'homme{SAUT}La Reine se repose.{ATTENTE}"
   },
   {
     "id": "DNG:d0e/d0e.bin:0005",
     "en": "NMan's voice{SAUT}Her orders are not to let anyone through.{SAUT}Come back some other time.{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix d'homme{SAUT}Ordre de ne laisser passer personne.{SAUT}Revenez une autre fois.{ATTENTE}"
   },
   {
     "id": "DNG:d0e/d0e.bin:0006",
     "locuteur": "Mark",
     "en": "NMark{SAUT}This Queen seems pretty arrogant.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "NMark{SAUT}Elle se la joue grave, cette Reine.{ATTENTE}"
   },
   {
     "id": "DNG:d0e/d0e.bin:0007",
     "en": "< The door is tightly closed.{ATTENTE}",
-    "fr": ""
+    "fr": "< La porte est bien close.{ATTENTE}"
   },
   {
     "id": "DNG:d11/d11.bin:0000",
     "en": " < The door is tightly closed.{ATTENTE}",
-    "fr": ""
+    "fr": " < La porte est bien close.{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0000",
     "en": ", you hear somethin'?{ATTENTE}",
-    "fr": ""
+    "fr": ", t'entends pas un truc?{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0001",
     "en": "NWoman's voice{SAUT}&sob& &sob& I told her so many times not{SAUT}to come here... she'll get lost...{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de femme{SAUT}&snif& &snif& Je lui ai tant dit de ne{SAUT}pas venir ici... elle va se perdre...{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0002",
     "en": "NWoman's voice{SAUT}Maki... Where are you, Maki...?{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de femme{SAUT}Maki... Où es-tu, Maki...?{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0003",
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}Did you just hear it say \"Maki\"?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "NNanjo{SAUT}Cette voix a bien dit \"Maki\"?{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0004",
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}Hmm... it sounded rather like Maki's{SAUT}mother to me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "NNanjo{SAUT}Hmm... On aurait dit la mère de Maki,{SAUT}me semble-t-il.{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0005",
     "locuteur": "Maki",
     "en": "NMaki{SAUT}I've been telling you, I don't have{SAUT}a mom!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "NMaki{SAUT}Je vous l'ai dit, je n'ai pas{SAUT}de mère!{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0006",
     "en": "NWoman's voice{SAUT}Maki...? Is that you, Maki? Come here...{ATTENTE}",
-    "fr": ""
+    "fr": "NVoix de femme{SAUT}Maki...? C'est toi, Maki? Viens...{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0007",
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}The door doesn't seem locked...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "NNanjo{SAUT}La porte ne semble pas verrouillée...{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0008",
     "en": "?{SAUT}It may be a trap. Should we go in?{ATTENTE}",
-    "fr": ""
+    "fr": "?{SAUT}C'est peut-être un piège. On entre?{ATTENTE}"
   },
   {
     "id": "DNG:d14/d14.bin:0000",
     "locuteur": "Mark",
     "en": "NMark{SAUT}...It's not openin'.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "NMark{SAUT}...Ça s'ouvre pas.{ATTENTE}"
   },
   {
     "id": "DNG:d14/d14.bin:0001",
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}Mm... That hall behind us... There must{SAUT}be some sort of trick to it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "NNanjo{SAUT}Mm... Ce couloir derrière nous... Il y a{SAUT}forcément un mécanisme.{ATTENTE}"
   },
   {
     "id": "DNG:d14/d14.bin:0002",
     "locuteur": "Mark",
     "en": "NMark{SAUT}Bingo!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "NMark{SAUT}Bingo!{ATTENTE}"
   },
   {
     "id": "DNG:d14/d14.bin:0004",
     "locuteur": "Maki",
     "en": "NMaki{SAUT}Looks like it's locked. I don't think{SAUT}Kandori is here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "NMaki{SAUT}On dirait que c'est verrouillé. Kandori{SAUT}n'est pas là, je crois.{ATTENTE}"
   },
   {
     "id": "DNG:d16/d16.bin:0000",
     "en": " < You cannot enter anymore...{ATTENTE}",
-    "fr": ""
+    "fr": " < On ne peut plus entrer...{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0000",
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}Gah! Owwwwww!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "NAyase{SAUT}Aïe! Ouïïïïïïe!{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0001",
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}Wow, don't touch the door. It's so cold,{SAUT}my fingers got stuck to it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "NAyase{SAUT}Touche pas la porte, elle est trop{SAUT}froide, mes doigts ont collé dessus.{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0002",
     "locuteur": "Yukino",
     "en": "NYukino{SAUT}Damn... It won't budge.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "NYukino{SAUT}Bon sang... Ça bouge pas d'un poil.{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0003",
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}C'mon, let's do what that guy said and{SAUT}like, gather these \"mirror shards.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "NAyase{SAUT}Allez, on fait ce que le type a dit{SAUT}et on trouve ces \"Fragments de Miroir\".{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0004",
     "locuteur": "Yukino",
     "en": "NYukino{SAUT}Yeah, let's trust his advice and head for{SAUT}the towers. Hang in there, Ms. Saeko...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "NYukino{SAUT}Ouais, suivons son conseil, direction{SAUT}les tours. Tenez bon, Mme Saeko...{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0005",
     "en": " < The door is frozen shut.{ATTENTE}",
-    "fr": ""
+    "fr": " < La porte est prise dans la glace.{ATTENTE}"
   }
 ]
