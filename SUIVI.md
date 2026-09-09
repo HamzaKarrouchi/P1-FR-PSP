@@ -57,7 +57,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 0 | 0 % | libre |
 | [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 0 | 0 % | libre |
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 0 | 0 % | libre |
-| [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 0 | 0 % | libre |
+| [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 0 | 0 % | en cours par @HamzaKarrouchi (#5) |
 | [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | libre |
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 0 | 0 % | libre |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 0 | 0 % | libre |
@@ -92,10 +92,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 0 | 0 % | libre |
 | [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 0 | 0 % | libre |
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 0 | 0 % | libre |
-| [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 0 | 0 % | libre |
+| [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 0 | 0 % | en cours par @HamzaKarrouchi (#5) |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 0 | 0 % | libre |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | libre |
-| [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 0 | 0 % | libre |
+| [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 0 | 0 % | en cours par @HamzaKarrouchi (#5) |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | libre |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 0 | 0 % | libre |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 0 | 0 % | libre |
@@ -158,7 +158,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 0 | 0 % | libre |
+| [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 0 | 0 % | en cours par @HamzaKarrouchi (#5) |
 
 ## Donjons
 
@@ -167,5 +167,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
 | [`DNG_001.json`](trad/donjons/DNG_001.json) | 99 | 0 | 0 % | libre |
-| [`DNG_002.json`](trad/donjons/DNG_002.json) | 31 | 0 | 0 % | libre |
+| [`DNG_002.json`](trad/donjons/DNG_002.json) | 31 | 0 | 0 % | en cours par @HamzaKarrouchi (#5) |
 
