@@ -145,20 +145,20 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 |---|---:|---:|---:|---|
 | [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 7 | 7 % | commencé |
+| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 7 | 7 % | en cours par @HamzaKarrouchi (#6) |
 | [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 8 | 8 % | commencé · 1 à relire |
+| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 8 | 8 % | en cours par @HamzaKarrouchi (#6) · 1 à relire |
 | [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | commencé · 4 à relire |
-| [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 14 | 24 % | commencé · 1 à relire |
+| [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 14 | 24 % | en cours par @HamzaKarrouchi (#6) · 1 à relire |
 | [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 0 | 0 % | libre |
 | [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#6) |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à relire |
 
 ## Donjons
@@ -167,6 +167,6 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`DNG_001.json`](trad/donjons/DNG_001.json) | 99 | 0 | 0 % | libre |
+| [`DNG_001.json`](trad/donjons/DNG_001.json) | 99 | 0 | 0 % | en cours par @HamzaKarrouchi (#6) |
 | [`DNG_002.json`](trad/donjons/DNG_002.json) | 31 | 31 | 100 % | terminé |
 
