@@ -115,7 +115,7 @@
 | Kumi Hirose | Kumi Hirose | E1_008.json | 🔶 |
 | Ms. Saeko (enseignante) | Mme Saeko | E1_023.json | 🔶 |
 | Night Queen (Persona/masque) | Reine de la Nuit | E1_023.json | 🔶 |
-| Eternal Night | Nuit Eternelle | E1_023.json | 🔶 |
+| Eternal Night | Nuit Éternelle | E1_023.json, DNG_002.json, EBOOT_017.json | ✅ |
 | Ice Castle | Chateau de Glace | E1_023.json | 🔶 |
 | Tomomi | Tomomi | E1_023.json | 🔶 |
 | Stone (objet conso, ex: Agidyne Stone) | Pierre (mot ajoute apres le sort garde) | names_eboot.json | 🔶 |
@@ -130,11 +130,11 @@
 | Dr. Nicholai | Dr. Nicholai | E2_018.json | 🔶 |
 | Erusaer Tsymmom (formule inversee d'Aki = "Mommys Treasure") | Namam ed Rosert ("Tresor de maman" inverse) | E0_018.json | 🔶 |
 | Kenta (garcon amoureux d'Ayase) | Kenta | E3_003.json | 🔶 |
-| Mirror Shard | Fragment de Miroir | E1_014.json, E1_017.json, DNG_002.json | 🔶 |
-| Michiko (Reine de la tour Hypnos) | Michiko | E1_017.json | 🔶 |
-| Toro | Toro | E1_017.json | 🔶 |
+| Mirror Shard | Fragment de Miroir | E1_014.json, E1_017.json, DNG_002.json | ✅ *(cohérent avec « megalith shard » → « fragment de mégalithe », E0_002)* |
+| Michiko (Reine de la tour Hypnos) | Michiko | E1_017.json | ✅ *(nom conservé)* |
+| Toro | Toro | E1_017.json | ✅ *(nom conservé)* |
 | Hypnos / Nemesis / Thanatos Tower | tour Hypnos / Nemesis / Thanatos | E1_014.json, EBOOT_017.json | 🔶 |
-| Sea of Souls | Mer des Âmes | EBOOT_017.json | 🔶 |
+| Sea of Souls | Mer des Âmes | EBOOT_017.json | ✅ |
 | Demon Mirror | miroir (des démons) — rendu « Le miroir reconstitué » dans le titre de scène, à trancher | EBOOT_017.json | 💬 |
 | Queen Asura | Reine Asura | EBOOT_017.json | 🔶 |
 | Young man (locuteur) | Jeune homme | E0_027.json | 🔶 |
