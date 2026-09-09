@@ -2,109 +2,109 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D866C",
     "en": "Philemon's Directive",
-    "fr": "",
+    "fr": "L'ordre de Philémon",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D86A0",
     "en": "Sea of Souls",
-    "fr": "",
+    "fr": "Mer des Âmes",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D86D4",
     "en": "Origin of Evil",
-    "fr": "",
+    "fr": "Origine du Mal",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8708",
     "en": "Maki's Confession",
-    "fr": "",
+    "fr": "L'aveu de Maki",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D873C",
     "en": "Golden Butterflies",
-    "fr": "",
+    "fr": "Papillons dorés",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8770",
     "en": "Into the Future",
-    "fr": "",
+    "fr": "Vers l'avenir",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D87A4",
     "en": "Cherry Blossoms",
-    "fr": "",
+    "fr": "Les cerisiers",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D87D8",
     "en": "Frozen St. Hermelin",
-    "fr": "",
+    "fr": "St. Hermelin gelé",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D880C",
     "en": "The Search For Shards",
-    "fr": "",
+    "fr": "Chasse aux fragments",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8840",
     "en": "To Hypnos Tower",
-    "fr": "",
+    "fr": "Cap sur Hypnos",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8874",
     "en": "At Hypnos Tower...",
-    "fr": "",
+    "fr": "Tour Hypnos...",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D88A8",
     "en": "To Nemesis Tower",
-    "fr": "",
+    "fr": "Cap sur Nemesis",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D88DC",
     "en": "To Thanatos Tower",
-    "fr": "",
+    "fr": "Cap sur Thanatos",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8910",
     "en": "To Devil's Peak",
-    "fr": "",
+    "fr": "Pic du Diable",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8B80",
     "en": "Demon Mirror Complete",
-    "fr": "",
+    "fr": "Le miroir reconstitué",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8BB4",
     "en": "Eternal Night",
-    "fr": "",
+    "fr": "Nuit Éternelle",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8BE8",
     "en": "Queen Asura Descends",
-    "fr": "",
+    "fr": "L'avènement d'Asura",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8C1C",
     "en": "Morning At St. Hermelin",
-    "fr": "",
+    "fr": "Matin à St. Hermelin",
     "max": 23
   }
 ]

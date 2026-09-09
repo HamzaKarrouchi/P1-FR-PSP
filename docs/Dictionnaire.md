@@ -130,6 +130,14 @@
 | Dr. Nicholai | Dr. Nicholai | E2_018.json | 🔶 |
 | Erusaer Tsymmom (formule inversee d'Aki = "Mommys Treasure") | Namam ed Rosert ("Tresor de maman" inverse) | E0_018.json | 🔶 |
 | Kenta (garcon amoureux d'Ayase) | Kenta | E3_003.json | 🔶 |
+| Mirror Shard | Fragment de Miroir | E1_014.json, E1_017.json, DNG_002.json | 🔶 |
+| Michiko (Reine de la tour Hypnos) | Michiko | E1_017.json | 🔶 |
+| Toro | Toro | E1_017.json | 🔶 |
+| Hypnos / Nemesis / Thanatos Tower | tour Hypnos / Nemesis / Thanatos | E1_014.json, EBOOT_017.json | 🔶 |
+| Sea of Souls | Mer des Âmes | EBOOT_017.json | 🔶 |
+| Demon Mirror | miroir (des démons) — rendu « Le miroir reconstitué » dans le titre de scène, à trancher | EBOOT_017.json | 💬 |
+| Queen Asura | Reine Asura | EBOOT_017.json | 🔶 |
+| Young man (locuteur) | Jeune homme | E0_027.json | 🔶 |
 
 ---
 
