@@ -3,242 +3,242 @@
     "id": "E1.BIN:081:0100",
     "locuteur": "Toro",
     "en": "I'm... I'm gonna die...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je... Je vais mourir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0101",
     "locuteur": "Tsutomu",
     "en": "＊gasp＊ ＊gasp＊ Ugh... ＊pant＊ ＊pant＊{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "＊hoquet＊ ＊hoquet＊ Ugh... ＊halète＊{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0000",
     "locuteur": "Yukino",
     "en": "What the hell is this!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi ce truc!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0001",
     "locuteur": "Yukino",
     "en": "Is this some kind of joke?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est une blague ou quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0002",
     "locuteur": "Nanjo",
     "en": "Knowing Michiko, this strikes me as the{SAUT}sort of mocking nonsense she'd favor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Connaissant Michiko, ce genre de farce{SAUT}moqueuse lui ressemble tout à fait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0003",
     "locuteur": "Nanjo",
     "en": "Still... reaching here from the torture{SAUT}chamber was... quite an excursion...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cela dit... depuis la salle de torture,{SAUT}le trajet fut... une véritable épreuve.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0004",
     "locuteur": "Elly",
     "en": "Is this the chest Michiko referred to{SAUT}that contains a Mirror Shard?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Est-ce le coffre dont parlait Michiko,{SAUT}avec un Fragment de Miroir dedans?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0005",
     "locuteur": "Elly",
     "en": "Dear me... I didn't think finding our{SAUT}way here would be so strenuous...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mon Dieu... Je ne pensais pas qu'arriver{SAUT}ici serait aussi éprouvant...{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0006",
     "locuteur": "Ayase",
     "en": "Ugh... I'm like, gonna fall over and die{SAUT}if I hafta move another inch!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Pff... Je vais genre m'écrouler et{SAUT}mourir si je fais un pas de plus!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0007",
     "locuteur": "Ayase",
     "en": "Who's the genius who said we should go{SAUT}get a Mirror Shard!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est quel génie qui a dit d'aller{SAUT}chercher un Fragment de Miroir!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0008",
     "locuteur": "Ayase",
     "en": "If it turns out there isn't one in that{SAUT}chest, we came all this way for nothing!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "S'il n'y en a pas dans ce coffre, on{SAUT}aura fait tout ça pour rien!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0009",
     "locuteur": "Ayase",
     "en": "And that would SUCK!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Et ça, ça serait NUL!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0010",
     "locuteur": "Nanjo",
     "en": "It's an awfully suspicious chest...{SAUT}Any volunteers to open it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce coffre est fort suspect...{SAUT}Un volontaire pour l'ouvrir?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0011",
     "locuteur": "Nanjo",
     "en": "I'm 99.999% certain it's a trap.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est un piège à 99,999%, j'en suis sûr.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0012",
     "locuteur": "Brown",
     "en": "That's a trap, no two ways about it,{SAUT}don'tcha think?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est un piège, ça fait aucun doute,{SAUT}pas vrai?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0013",
     "locuteur": "Brown",
     "en": "So who gets to open it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Alors, qui l'ouvre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0014",
     "locuteur": "Brown",
     "en": "I'm kind of shy... not the type to take{SAUT}charge... so I'm gonna pass.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je suis timide, moi... pas du genre à{SAUT}me lancer... donc je passe mon tour.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0015",
     "locuteur": "Yukino",
     "en": "Bitching and moaning about it won't do{SAUT}us any good! Let's open 'er up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Râler ne nous avancera à rien!{SAUT}Allez, on l'ouvre!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0016",
     "locuteur": "Yukino",
     "en": "Even though there's no real time limit,{SAUT}we still took a little too long.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Même s'il n'y a pas vraiment de limite{SAUT}de temps, on a traîné un peu trop.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0017",
     "locuteur": "Ayase",
     "en": "That's it! I'm TIRED! I have to rest!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ça suffit! Je suis CREVÉE! Je m'arrête!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0018",
     "locuteur": "Nanjo",
     "en": "I've had just about enough of this{SAUT}tower's devious design.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "J'en ai plus qu'assez de l'architecture{SAUT}retorse de cette tour.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0019",
     "locuteur": "Nanjo",
     "en": "It reflects Michiko's personality to a T.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Elle reflète Michiko à la perfection.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0020",
     "locuteur": "Brown",
     "en": "Argh! I'm beat!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Argh! Je suis mort!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0021",
     "locuteur": "Brown",
     "en": "Oh man... I don't wanna think about{SAUT}walking back to the torture chamber!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh non... Je veux même pas penser au{SAUT}retour jusqu'à la salle de torture!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0022",
     "locuteur": "Elly",
     "en": "Whew... Mind if we take a short break?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ouf... On fait une petite pause?{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0023",
     "locuteur": "Elly",
     "en": "I'm quite worn out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je suis épuisée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0024",
     "en": "{FERME}   > Obtained a (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shard(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Fragment de Miroir(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0025",
     "en": "{PAGE}> ...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]{SAUT}You spot a piece of paper in the corner{SAUT}of the chest.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> ...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]{SAUT}Un papier traîne dans un coin du{SAUT}coffre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0026",
     "en": "{PAGE}> It appears to be a letter from Michiko.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> On dirait une lettre de Michiko.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0027",
     "en": "{PAGE}> You open the letter.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> La lettre s'ouvre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0028",
     "en": "{FERME}  \"Ohohohoho! So you've reached this chest,{SAUT}have you? What a greedy bunch!{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  \"Ohohohoho! Vous avez trouvé ce coffre?{SAUT}Quelle bande de cupides!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0029",
     "en": "{PAGE}\"It must have been quite an endeavor.{SAUT}Ohohohohohoho!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"Cela a dû vous coûter bien des efforts.{SAUT}Ohohohohohoho!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0030",
     "en": "{PAGE}\"You found what you sought, yes? Unlike{SAUT}you rotters, I keep my promises!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"Vous avez trouvé, n'est-ce pas? Moi,{SAUT}contrairement à vous, je tiens parole!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0031",
     "en": "{PAGE}\"And now, as promised, I will reveal{SAUT}my weakness!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"Et maintenant, comme promis, je révèle{SAUT}mon point faible!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0032",
     "en": "{PAGE}\"I'm at my weakest... When you don't{SAUT}dawdle in getting to me! Ohohohohoho!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"Je suis au plus faible... quand vous ne{SAUT}traînez pas en route! Ohohohohoho!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0033",
     "en": "{PAGE}\"I do hope this helps! So by all means,{SAUT}hurry to my chamber! I'll be waiting!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"J'espère que cela vous aidera! Alors{SAUT}courez à ma chambre! Je vous attends!{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0034",
     "en": "{PAGE}\"See you soon! ♥{SAUT}{SAUT}               -From Michiko with love\"{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"À très vite! ♥{SAUT}{SAUT}               -De Michiko, avec amour\"{ATTENTE}"
   },
   {
     "id": "E1.BIN:083:0035",
     "en": "{FERME} > The chest is empty.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Le coffre est vide.{ATTENTE}"
   }
 ]
