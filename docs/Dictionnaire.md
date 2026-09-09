@@ -138,6 +138,23 @@
 | Demon Mirror | miroir (des démons) — rendu « Le miroir reconstitué » dans le titre de scène, à trancher | EBOOT_017.json | 💬 |
 | Queen Asura | Reine Asura | EBOOT_017.json | 🔶 |
 | Young man (locuteur) | Jeune homme | E0_027.json | 🔶 |
+| Deva System | système Deva | DNG_001.json | 🔶 |
+| Deva Yuga | Deva Yuga | EBOOT_016.json | 🔶 |
+| Takeda | Takeda | DNG_001.json | 🔶 |
+| Hariti | Hariti | EBOOT_003.json | 🔶 *(démon, nom conservé)* |
+| Khamenturun / Turunkhamen / Mannequin | noms conservés | EBOOT_010.json | 🔶 |
+| Rosa Candida / Satomi Tadashi / Sennen Mannen-Do | noms conservés (boutiques) | EBOOT_016.json | 🔶 |
+| Clerk (locuteur) | Employé | EBOOT_010.json | 🔶 *(déjà employé dans les dialogues)* |
+| Himeno Mansion | Manoir Himeno | EBOOT_016.json | 🔶 |
+| Expel Mirror | Miroir Expel | EBOOT_016.json | 🔶 *(sort signature gardé)* |
+| Order / Type (fusion de cartes) | Ordre / Type | EBOOT_016.json | 🔶 |
+| HP / SP | HP / SP | EBOOT_016.json | 💬 *(gardés tels quels faute de convention — PV/PM à trancher)* |
+| Journey to the West | Voyage vers l'Ouest | DNG_001.json (énigme) | 🔶 |
+| deadly sins (Lust, Envy…) | Luxure, Envie, Gourmandise, Paresse, Colère, Orgueil | DNG_001.json | 🔶 |
+| noms mythologiques des énigmes | conservés (Seiryuu, Airgetlam, Verdandi, Susano-o…) | DNG_001.json | 🔶 |
+| catégories d'inventaire | Épée 1M / Épée 2M / Lance / Hache / Fouet / Jet / Arc / Poing | EBOOT_012.json | 🔶 |
+| catégories d'armes à feu | Pistolet / Auto / Pompe / Fusil / Balles | EBOOT_012.json | 🔶 |
+| emplacements d'armure | Tête / Corps / Bras / Jambes | EBOOT_012.json | 🔶 |
 
 ---
 

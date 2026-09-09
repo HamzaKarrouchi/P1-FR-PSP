@@ -2,608 +2,608 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288BE8",
     "en": "Final confirmation after entering actions",
-    "fr": "",
+    "fr": "Confirmation finale après les ordres",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288C42",
     "en": "Load a different saved game",
-    "fr": "",
+    "fr": "Charger une autre partie",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288C9C",
     "en": "Suspend your game",
-    "fr": "",
+    "fr": "Suspendre",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288CF6",
     "en": "Return to the title screen",
-    "fr": "",
+    "fr": "Retour à l'écran-titre",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288D50",
     "en": "Return to the title screen? Any",
-    "fr": "",
+    "fr": "Retour à l'écran-titre? Toute",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_289110",
     "en": "Remove equipment",
-    "fr": "",
+    "fr": "Déséquiper",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_289148",
     "en": "Change which equipment?",
-    "fr": "",
+    "fr": "Changer l'équipement?",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_289180",
     "en": "Equip strongest gear?",
-    "fr": "",
+    "fr": "Équiper le meilleur?",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2891B8",
     "en": "Remove which equipment?",
-    "fr": "",
+    "fr": "Retirer l'équipement?",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2891F0",
     "en": "What will you equip?",
-    "fr": "",
+    "fr": "Équiper quoi?",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C500",
     "en": "Himeno Mansion",
-    "fr": "",
+    "fr": "Manoir Himeno",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2923CC",
     "en": "Exit: Leave the dungeon。",
-    "fr": "",
+    "fr": "Sortie: quitte le donjon。",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29244C",
     "en": "Stairs: Move between floors。",
-    "fr": "",
+    "fr": "Escalier: change d'étage。",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2924CC",
     "en": "Elevator: Go to a selected floor。",
-    "fr": "",
+    "fr": "Ascenseur: étage au choix。",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29254C",
     "en": "Agastya Tree: Save your game here。",
-    "fr": "",
+    "fr": "Arbre Agastya: sauvegarde ici。",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2925CC",
     "en": "Spring: Recover HP, SP, and status ailments。",
-    "fr": "",
+    "fr": "Source: soigne HP, SP et les états。",
     "max": 44
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29264C",
     "en": "Velvet Room: Create and take on Personas。",
-    "fr": "",
+    "fr": "Chambre de Velours: créer des Personae。",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2926CC",
     "en": "Casino: Play minigames。",
-    "fr": "",
+    "fr": "Casino: mini-jeux。",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29274C",
     "en": "Item Shop: Buy consumable items。",
-    "fr": "",
+    "fr": "Boutique: objets consommables。",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2927CC",
     "en": "Equipment Shop: Buy equipment。",
-    "fr": "",
+    "fr": "Équipement: armes et armures。",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29284C",
     "en": "Antique Shop: Trade items。",
-    "fr": "",
+    "fr": "Antiquaire: échanges。",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2928CC",
     "en": "Dark Zone: Pitch-black area with no visibility",
-    "fr": "",
+    "fr": "Zone sombre: noir complet, aucune visibilité",
     "max": 46
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29294C",
     "en": "Trap Floor: Receive damage and status ailments.",
-    "fr": "",
+    "fr": "Piège au sol: dégâts et altérations d'état.",
     "max": 47
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2929CC",
     "en": "Pitfall: Fall to the floor below。",
-    "fr": "",
+    "fr": "Trappe: chute d'un étage。",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292A4C",
     "en": "Switch: Activate to change something。",
-    "fr": "",
+    "fr": "Interrupteur: change quelque chose。",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292ACC",
     "en": "Lamp: Toggles ON／OFF when stepped on。",
-    "fr": "",
+    "fr": "Lampe: bascule ON／OFF au passage。",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292B4C",
     "en": "Slide: Forces you along in a given direction。",
-    "fr": "",
+    "fr": "Glissade: pousse dans une direction。",
     "max": 45
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292BCC",
     "en": "Spinner: Forces you to spin around。",
-    "fr": "",
+    "fr": "Toupie: fait tourner sur soi-même。",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292C4C",
     "en": "Warp: Teleports you elsewhere in the dungeon。",
-    "fr": "",
+    "fr": "Téléporteur: envoie ailleurs dans le donjon。",
     "max": 45
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_292CCC",
     "en": "Dungeon Door: Move to a different dungeon。",
-    "fr": "",
+    "fr": "Porte de donjon: mène à un autre donjon。",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_29ADC8",
     "en": "Reset the formation?",
-    "fr": "",
+    "fr": "Formation d'origine?",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A2058",
     "en": "START button: Skip visual effects",
-    "fr": "",
+    "fr": "Bouton START: passe les effets",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A20E4",
     "en": "(Toggles Persona summoning and",
-    "fr": "",
+    "fr": "(Active l'invocation du Persona",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A2170",
     "en": "character movement ON／OFF)",
-    "fr": "",
+    "fr": "et les déplacements)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A21FC",
     "en": "L button: Display ally status",
-    "fr": "",
+    "fr": "Bouton L: état des alliés",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A227C",
     "en": "R button: Analyze enemy status",
-    "fr": "",
+    "fr": "Bouton R: analyse l'ennemi",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A22FC",
     "en": "Directional",
-    "fr": "",
+    "fr": "Croix",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A2314",
     "en": "buttons: Select command",
-    "fr": "",
+    "fr": "directionnelle: choix",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A24B8",
     "en": "Basic battle controls",
-    "fr": "",
+    "fr": "Commandes de combat",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A4864",
     "en": "Lacking strength, you fell to a powerful",
-    "fr": "",
+    "fr": "Trop faible, vous avez succombé à un",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A48DC",
     "en": "demon. Your joy, your sadness, your memories;",
-    "fr": "",
+    "fr": "démon puissant. Vos joies, vos peines, vos",
     "max": 45
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A4954",
     "en": "your heart and soul will return to nothing.",
-    "fr": "",
+    "fr": "souvenirs, votre âme, tout devient néant.",
     "max": 43
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A49CC",
     "en": "But perhaps... If there is still hope deep",
-    "fr": "",
+    "fr": "Mais peut-être... S'il reste un espoir au",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A4A44",
     "en": "within your heart... You may summon your",
-    "fr": "",
+    "fr": "fond de votre coeur... invoquez votre",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A4ABC",
     "en": "Persona and stand again to grasp the truth",
-    "fr": "",
+    "fr": "Persona, vous relever et saisir la vérité",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A4B34",
     "en": "of life!",
-    "fr": "",
+    "fr": "de la vie!",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3B44",
     "en": "Choose your first card.",
-    "fr": "",
+    "fr": "Première carte.",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3B78",
     "en": "Choose your second card.",
-    "fr": "",
+    "fr": "Deuxième carte.",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3CD4",
     "en": "Random effect",
-    "fr": "",
+    "fr": "Aléatoire",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3D0C",
     "en": "Magic power up",
-    "fr": "",
+    "fr": "Magie +",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3D44",
     "en": "Strength up",
-    "fr": "",
+    "fr": "Force +",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3D7C",
     "en": "Luck up",
-    "fr": "",
+    "fr": "Chance +",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3DB4",
     "en": "Vitality up",
-    "fr": "",
+    "fr": "Vitalité +",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3DEC",
     "en": "Dexterity up",
-    "fr": "",
+    "fr": "Dextérité +",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3E24",
     "en": "Speed up",
-    "fr": "",
+    "fr": "Vitesse +",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3E5C",
     "en": "Teaches skill",
-    "fr": "",
+    "fr": "Apprend",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3E94",
     "en": "Change Persona within Order",
-    "fr": "",
+    "fr": "Persona du même Ordre",
     "max": 27,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3F04",
     "en": "Make special Persona",
-    "fr": "",
+    "fr": "Persona spécial",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3F3C",
     "en": "Which Persona would you like?",
-    "fr": "",
+    "fr": "Quel Persona voulez-vous?",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3F82",
     "en": "Which combination would you like?",
-    "fr": "",
+    "fr": "Quelle combinaison?",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3FD0",
     "en": "Who will take on a Persona?",
-    "fr": "",
+    "fr": "Qui endosse un Persona?",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4008",
     "en": "Which card will you view?",
-    "fr": "",
+    "fr": "Quelle carte regarder?",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4040",
     "en": "Explanation of symbols",
-    "fr": "",
+    "fr": "Les symboles",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4090",
     "en": "Normal fusion combination.",
-    "fr": "",
+    "fr": "Fusion normale.",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D40E0",
     "en": "Prohibited fusion combination.",
-    "fr": "",
+    "fr": "Fusion interdite.",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4130",
     "en": "Fusion may inherit a skill.",
-    "fr": "",
+    "fr": "Peut transmettre un sort.",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4180",
     "en": "Arrow directions",
-    "fr": "",
+    "fr": "Sens des flèches",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D41D0",
     "en": "Both cards the same order.",
-    "fr": "",
+    "fr": "Deux cartes du même Ordre.",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4220",
     "en": "Orders are compatible.",
-    "fr": "",
+    "fr": "Ordres compatibles.",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4270",
     "en": "Orders are incompatible.",
-    "fr": "",
+    "fr": "Ordres incompatibles.",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D42C0",
     "en": "About color-coding",
-    "fr": "",
+    "fr": "Les couleurs",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4310",
     "en": "Unaffected by Types.",
-    "fr": "",
+    "fr": "Types sans effet.",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4360",
     "en": "Opposed Types. Fusion accident likely.",
-    "fr": "",
+    "fr": "Types opposés. Accident probable.",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D43B0",
     "en": "Both cards the same Type.",
-    "fr": "",
+    "fr": "Deux cartes du même Type.",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4408",
     "en": "Íβ",
-    "fr": "",
+    "fr": "Íβ",
     "max": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D71D8",
     "en": "Weapon Shop",
-    "fr": "",
+    "fr": "Armes",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7200",
     "en": "Armor Shop",
-    "fr": "",
+    "fr": "Armures",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7228",
     "en": "Rosa Candida",
-    "fr": "",
+    "fr": "Rosa Candida",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7250",
     "en": "Satomi Tadashi",
-    "fr": "",
+    "fr": "Satomi Tadashi",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7278",
     "en": "Sennen Mannen-Do",
-    "fr": "",
+    "fr": "Sennen Mannen-Do",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D72A0",
     "en": "General Store",
-    "fr": "",
+    "fr": "Bazar",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D72E8",
     "en": "What will you buy?",
-    "fr": "",
+    "fr": "Acheter quoi?",
     "max": 18,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D731C",
     "en": "How many will you buy?",
-    "fr": "",
+    "fr": "Combien en acheter?",
     "max": 22,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7350",
     "en": "What will you sell?",
-    "fr": "",
+    "fr": "Vendre quoi?",
     "max": 19,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7384",
     "en": "How many will you sell?",
-    "fr": "",
+    "fr": "Combien en vendre?",
     "max": 23,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D7558",
     "en": "What will you trade for?",
-    "fr": "",
+    "fr": "Échanger contre quoi?",
     "max": 24,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D758C",
     "en": "How many will you trade?",
-    "fr": "",
+    "fr": "Combien en échanger?",
     "max": 24,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D83C8",
     "en": "Gate to Paradise",
-    "fr": "",
+    "fr": "Porte du paradis",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D83FC",
     "en": "Strange Phenomena",
-    "fr": "",
+    "fr": "Phénomènes étranges",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8430",
     "en": "Butterfly's Guidance",
-    "fr": "",
+    "fr": "Le guide du papillon",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8464",
     "en": "Philemon",
-    "fr": "",
+    "fr": "Philémon",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8498",
     "en": "The Power of Persona",
-    "fr": "",
+    "fr": "Pouvoir du Persona",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D84CC",
     "en": "Hospital Disappearance",
-    "fr": "",
+    "fr": "Disparition à l'hôpital",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8500",
     "en": "The Power of Will",
-    "fr": "",
+    "fr": "Force de volonté",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8534",
     "en": "Another World",
-    "fr": "",
+    "fr": "Autre monde",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8568",
     "en": "The Expel Mirror",
-    "fr": "",
+    "fr": "Le Miroir Expel",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D859C",
     "en": "Deva Yuga's Formation",
-    "fr": "",
+    "fr": "Formation Deva Yuga",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D85D0",
     "en": "Entering Deva Yuga",
-    "fr": "",
+    "fr": "Dans le Deva Yuga",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8604",
     "en": "System Collapse",
-    "fr": "",
+    "fr": "Effondrement",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8638",
     "en": "Closed Heart",
-    "fr": "",
+    "fr": "Coeur fermé",
     "max": 12
   }
 ]

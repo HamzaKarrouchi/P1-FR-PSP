@@ -2,7 +2,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0706",
     "en": "On second thought...{SAUT}",
-    "fr": "",
+    "fr": "Tout compte fait...{SAUT}",
     "max": 20
   },
   {
@@ -32,105 +32,105 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0780",
     "en": "Trade for incense{SAUT}",
-    "fr": "",
+    "fr": "Échanger[0000]encens{SAUT}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C07A4",
     "en": "Equip{SAUT}",
-    "fr": "",
+    "fr": "Équiper{SAUT}",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C07B0",
     "en": "Cancel{SAUT}",
-    "fr": "",
+    "fr": "Annuler{SAUT}",
     "max": 6,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C07BE",
     "en": "[0000]Buy{SAUT}",
-    "fr": "",
+    "fr": "[0000]Acheter{SAUT}",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C07C8",
     "en": "Sell{SAUT}",
-    "fr": "",
+    "fr": "Vendre{SAUT}",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C07EC",
     "en": "Sure, put me down.{SAUT}",
-    "fr": "",
+    "fr": "Oui, pose-moi.{SAUT}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0812",
     "en": "Don't you dare.{SAUT}",
-    "fr": "",
+    "fr": "Pas question.{SAUT}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0832",
     "en": "[0000]I like the old way.{SAUT}",
-    "fr": "",
+    "fr": "[0000]J'aime l'ancienne.{SAUT}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C085C",
     "en": "I like the new way.{SAUT}",
-    "fr": "",
+    "fr": "J'aime la nouvelle.{SAUT}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0884",
     "en": "A few.{SAUT}",
-    "fr": "",
+    "fr": "Un peu.{SAUT}",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0892",
     "en": "Not a one.{SAUT}",
-    "fr": "",
+    "fr": "Aucun.{SAUT}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C08A8",
     "en": "Yeah, I do.{SAUT}",
-    "fr": "",
+    "fr": "Ouais.{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C08C0",
     "en": "No, no one.{SAUT}",
-    "fr": "",
+    "fr": "Personne.{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C08D8",
     "en": "Yeah.{SAUT}",
-    "fr": "",
+    "fr": "Ouais.{SAUT}",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C08E4",
     "en": "That's[0000]not[0000]true.{SAUT}",
-    "fr": "",
+    "fr": "C'est[0000]faux.{SAUT}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0906",
     "en": "[0000]That's the plan.{SAUT}",
-    "fr": "",
+    "fr": "[0000]C'est prévu.{SAUT}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C092A",
     "en": "Not really.{SAUT}",
-    "fr": "",
+    "fr": "Pas trop.{SAUT}",
     "max": 11
   },
   {
@@ -148,324 +148,324 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0976",
     "en": "[0000]Start game{SAUT}",
-    "fr": "",
+    "fr": "[0000]Jouer{SAUT}",
     "max": 10,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C098E",
     "en": "Check cards{SAUT}",
-    "fr": "",
+    "fr": "Mes cartes{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C09A6",
     "en": "See explanations{SAUT}",
-    "fr": "",
+    "fr": "Explications{SAUT}",
     "max": 16,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C09D6",
     "en": "[0000]Beginner tips{SAUT}",
-    "fr": "",
+    "fr": "[0000]Débutant{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C09F4",
     "en": "Regular tips{SAUT}",
-    "fr": "",
+    "fr": "Confirmé{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0A0E",
     "en": "About Personas{SAUT}",
-    "fr": "",
+    "fr": "Les Personae{SAUT}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0A2C",
     "en": "Advanced tips{SAUT}",
-    "fr": "",
+    "fr": "Avancé{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0A48",
     "en": "The Queen's is better.{SAUT}",
-    "fr": "",
+    "fr": "Celui de la Reine.{SAUT}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0A76",
     "en": "Maki's is better.{SAUT}",
-    "fr": "",
+    "fr": "Celui de Maki.{SAUT}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0A9A",
     "en": "[0000]Manual Fusion{SAUT}",
-    "fr": "",
+    "fr": "[0000]Fusion libre{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0AB8",
     "en": "Guided Fusion{SAUT}",
-    "fr": "",
+    "fr": "Fusion guidée{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0AD4",
     "en": "View cards{SAUT}",
-    "fr": "",
+    "fr": "Les cartes{SAUT}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0AF8",
     "en": "Stay here{SAUT}",
-    "fr": "",
+    "fr": "Rester{SAUT}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B0C",
     "en": "Go to 8F{SAUT}",
-    "fr": "",
+    "fr": "Au 8F{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B1E",
     "en": "Go to 4F{SAUT}",
-    "fr": "",
+    "fr": "Au 4F{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B30",
     "en": "Go to 1F{SAUT}",
-    "fr": "",
+    "fr": "Au 1F{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B42",
     "en": "[0000]Don't hide like that!{SAUT}",
-    "fr": "",
+    "fr": "[0000]Arrête de te cacher!{SAUT}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B70",
     "en": "Maybe you are...{SAUT}",
-    "fr": "",
+    "fr": "Possible...{SAUT}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B92",
     "en": "[0000]Fight Hariti{SAUT}",
-    "fr": "",
+    "fr": "[0000]Battre Hariti{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0BAE",
     "en": "Lower your weapons{SAUT}",
-    "fr": "",
+    "fr": "Baisser les armes{SAUT}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0BD4",
     "en": "Heal us, please.{SAUT}",
-    "fr": "",
+    "fr": "Soigne-nous.{SAUT}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0BF6",
     "en": "Just dropping by.{SAUT}",
-    "fr": "",
+    "fr": "Juste de passage.{SAUT}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0C1A",
     "en": "[0000]Press the red button{SAUT}",
-    "fr": "",
+    "fr": "[0000]Bouton rouge{SAUT}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0C46",
     "en": "Press the blue button{SAUT}",
-    "fr": "",
+    "fr": "Bouton bleu{SAUT}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0C72",
     "en": "[0000]I don't really know.{SAUT}",
-    "fr": "",
+    "fr": "[0000]Je ne sais pas trop.{SAUT}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0C9E",
     "en": "To find my reason.{SAUT}",
-    "fr": "",
+    "fr": "Trouver ma raison.{SAUT}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0CC4",
     "en": "For myself.{SAUT}",
-    "fr": "",
+    "fr": "Pour moi.{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0CDC",
     "en": "Just 'cause.{SAUT}",
-    "fr": "",
+    "fr": "Comme ça.{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0CF6",
     "en": "For everyone's sake.{SAUT}",
-    "fr": "",
+    "fr": "Pour tout le monde.{SAUT}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0D20",
     "en": "That's how it went.{SAUT}",
-    "fr": "",
+    "fr": "Voilà, c'est ça.{SAUT}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0D48",
     "en": "Stop hiding.{SAUT}",
-    "fr": "",
+    "fr": "Sors de là.{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0D62",
     "en": "Yes, it's safe here.{SAUT}",
-    "fr": "",
+    "fr": "Oui, c'est sûr ici.{SAUT}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0D8C",
     "en": "That's true, but...{SAUT}",
-    "fr": "",
+    "fr": "C'est vrai, mais...{SAUT}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0DB4",
     "en": "I don't really know.{SAUT}",
-    "fr": "",
+    "fr": "Je ne sais pas trop.{SAUT}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0DDE",
     "en": "[0000]Create Persona{SAUT}",
-    "fr": "",
+    "fr": "[0000]Créer Persona{SAUT}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0DFE",
     "en": "Take on Persona{SAUT}",
-    "fr": "",
+    "fr": "Prendre Persona{SAUT}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E1E",
     "en": "Talk{SAUT}",
-    "fr": "",
+    "fr": "Parler{SAUT}",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E28",
     "en": "Leave{SAUT}",
-    "fr": "",
+    "fr": "Partir{SAUT}",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E34",
     "en": "Don't listen{SAUT}",
-    "fr": "",
+    "fr": "Ignorer{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E4E",
     "en": "Listen{SAUT}",
-    "fr": "",
+    "fr": "Écouter{SAUT}",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E5C",
     "en": "Don't open it{SAUT}",
-    "fr": "",
+    "fr": "Ne pas ouvrir{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E78",
     "en": "Open it{SAUT}",
-    "fr": "",
+    "fr": "Ouvrir{SAUT}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0E88",
     "en": "Don't leave{SAUT}",
-    "fr": "",
+    "fr": "Rester{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EAC",
     "en": "Help her{SAUT}",
-    "fr": "",
+    "fr": "L'aider{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EBE",
     "en": "Don't help her{SAUT}",
-    "fr": "",
+    "fr": "Ne pas l'aider{SAUT}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EDC",
     "en": "Let them join{SAUT}",
-    "fr": "",
+    "fr": "Les accepter{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EF8",
     "en": "Don't let them join{SAUT}",
-    "fr": "",
+    "fr": "Les refuser{SAUT}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F20",
     "en": "Game rules{SAUT}",
-    "fr": "",
+    "fr": "Règles{SAUT}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F36",
     "en": "Controls{SAUT}",
-    "fr": "",
+    "fr": "Commandes{SAUT}",
     "max": 8,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F48",
     "en": "Tips{SAUT}",
-    "fr": "",
+    "fr": "Astuces{SAUT}",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F52",
     "en": "Go back{SAUT}",
-    "fr": "",
+    "fr": "Retour{SAUT}",
     "max": 7,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F62",
     "en": "[0000]Game rules{SAUT}",
-    "fr": "",
+    "fr": "[0000]Règles{SAUT}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0F8C",
     "en": "Winning hands{SAUT}",
-    "fr": "",
+    "fr": "Combinaisons{SAUT}",
     "max": 13
   },
   {
@@ -478,133 +478,133 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0FDE",
     "en": "Check coins{SAUT}",
-    "fr": "",
+    "fr": "Mes pièces{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1018",
     "en": "Stop playing{SAUT}",
-    "fr": "",
+    "fr": "Arrêter{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1032",
     "en": "[0000]Yeah,[0000]I[0000]do.{SAUT}",
-    "fr": "",
+    "fr": "[0000]Oui.{SAUT}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C104C",
     "en": "No, I don't.{SAUT}",
-    "fr": "",
+    "fr": "Non.{SAUT}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1066",
     "en": "[0000]Sure.{SAUT}",
-    "fr": "",
+    "fr": "[0000]Oui.{SAUT}",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1074",
     "en": "No way.{SAUT}",
-    "fr": "",
+    "fr": "Jamais.{SAUT}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1092",
     "en": "[0000][E700][0000][EB00][0000][EF00][0000][F300][0000][F700][0000][FD00][0000]Principal Ooishi(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][E700][0000][EB00][0000][EF00][0000][F300][0000][F700][0000][FD00][0000]Proviseur Ooishi(*TERMINATOR*)",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C10CE",
     "en": "[0000][0000][0000][0000][0000]Kind woman(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000]Femme douce(*TERMINATOR*)",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C10EE",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][FC00][0000]Vice-Principal Hanya(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][FC00][0000]Vice-proviseur Hanya(*TERMINATOR*)",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1132",
     "en": "[0000]Angry man(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000]Homme fâché(*TERMINATOR*)",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1148",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][EF00][0000]Tsutomu Kurouri(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][EF00][0000]Tsutomu Kurouri(*TERMINATOR*)",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1184",
     "en": "[0000][0000][0000][0000][0000][0000]Suspicious student(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000]Élève louche(*TERMINATOR*)",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C11B6",
     "en": "[0000][0000][0000][F000][0000]Toro(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][F000][0000]Toro(*TERMINATOR*)",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C11CA",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Fat student(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Gros élève(*TERMINATOR*)",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1204",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][F600][0000]Tamaki(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][F600][0000]Tamaki(*TERMINATOR*)",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C122A",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Brown-haired girl(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Fille brune(*TERMINATOR*)",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C126C",
     "en": "[0000][0000][0000][0000][F500][0000]Tadashi(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][F500][0000]Tadashi(*TERMINATOR*)",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1288",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Glasses-wearing boy(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Garçon à lunettes(*TERMINATOR*)",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C12CC",
     "en": "[0000][0000][0301][0000]Katsue Kaneda(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0301][0000]Katsue Kaneda(*TERMINATOR*)",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C12F0",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000]Sullen old lady(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000]Dame revêche(*TERMINATOR*)",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1320",
     "en": "[0000][0000][0000][0000][0000][0000](*SCENE_SEP*)[0000]Takahisa Kandori(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000][0000](*SCENE_SEP*)[0000]Takahisa Kandori(*TERMINATOR*)",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C1352",
     "en": "[0000][0000][0000][0000][0000]Suspicious man(*TERMINATOR*)",
-    "fr": "",
+    "fr": "[0000][0000][0000][0000][0000]Homme louche(*TERMINATOR*)",
     "max": 14
   }
 ]
