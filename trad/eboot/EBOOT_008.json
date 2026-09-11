@@ -92,7 +92,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CFA52",
     "en": "inherit[0000]skills[0000]from[0000]its[0000]fusion[0000]components.{ATTENTE}",
-    "fr": "hérite[0000]des[0000]pouvoirs[0000]de[0000]ses[0000]composants.{ATTENTE}",
+    "fr": "hérite[0000]des[0000]dons[0000]de[0000]ses[0000]composants.{ATTENTE}",
     "max": 37
   },
   {
@@ -104,7 +104,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CFB06",
     "en": "skills[0000]they[0000]would[0000]not[0000]normally[0000]possess.{ATTENTE}",
-    "fr": "pouvoirs[0000]inhabituels.{ATTENTE}",
+    "fr": "dons[0000]inhabituels.{ATTENTE}",
     "max": 34
   },
   {
@@ -146,19 +146,19 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CFD26",
     "en": "The[0000]type[0000]of[0000]demon[0000]granting[0000]the[0000]inherited{SAUT}",
-    "fr": "Le[0000]type[0000]du[0000]démon[0000]qui[0000]lègue[0000]le[0000]pouvoir{SAUT}",
+    "fr": "Le[0000]type[0000]du[0000]démon[0000]qui[0000]lègue[0000]le{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CFD78",
     "en": "skill[0000]is[0000]also[0000]a[0000]factor.{ATTENTE}",
-    "fr": "compte[0000]aussi.{ATTENTE}",
+    "fr": "don[0000]compte[0000]aussi.{ATTENTE}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CFDB6",
     "en": "Know[0000]also[0000]that[0000]the[0000]number[0000]of[0000]skills[0000]a{SAUT}",
-    "fr": "Sachez[0000]que[0000]les[0000]pouvoirs[0000]d'un{SAUT}",
+    "fr": "Sachez[0000]que[0000]les[0000]dons[0000]d'un{SAUT}",
     "max": 30
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CFE4E",
     "en": "And[0000]certain[0000]special[0000]skills[0000]cannot[0000]be{SAUT}",
-    "fr": "Et[0000]certains[0000]pouvoirs[0000]ne[0000]peuvent[0000]se{SAUT}",
+    "fr": "Et[0000]certains[0000]dons[0000]ne[0000]peuvent[0000]se{SAUT}",
     "max": 31
   },
   {
@@ -188,7 +188,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CFF16",
     "en": "[0000]Skill[0000]inheritance{FERME}",
-    "fr": "Hériter[0000]un[0000]pouvoir{FERME}",
+    "fr": "Hériter[0000]un[0000]don{FERME}",
     "max": 16
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D0486",
     "en": "chosen[0000]dictates[0000]the[0000]inheritable[0000]skills.{ATTENTE}",
-    "fr": "choisie[0000]dicte[0000]les[0000]pouvoirs[0000]transmis.{ATTENTE}",
+    "fr": "choisie[0000]dicte[0000]les[0000]dons[0000]transmis.{ATTENTE}",
     "max": 35
   },
   {

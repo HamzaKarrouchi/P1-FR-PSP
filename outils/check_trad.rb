@@ -161,7 +161,13 @@ module CheckTrad
   }.freeze
 
   def aplatir(texte)
-    texte.to_s.downcase.gsub(Regexp.union(ACCENTS_NUS.keys), ACCENTS_NUS)
+    # `[0000]` est l'espace encodé des zones EBOOT. Sans cette ligne,
+    # « Pic[0000]du[0000]Diable » ne ressemblait pas à « Pic du Diable » et le
+    # contrôle terminologique ne voyait rien dans tout le dossier eboot/.
+    texte.to_s
+         .gsub('[0000]', ' ')
+         .downcase
+         .gsub(Regexp.union(ACCENTS_NUS.keys), ACCENTS_NUS)
   end
 
   # Lit les tableaux « | Anglais | Français | Statut | » du dictionnaire.
@@ -207,9 +213,19 @@ module CheckTrad
     plat_fr = aplatir(francais)
 
     termes.select do |en, fr|
-      plat_en.match?(/\b#{Regexp.escape(aplatir(en))}\b/) &&
-        !plat_fr.include?(aplatir(fr))
+      next false unless plat_en.match?(/\b#{Regexp.escape(aplatir(en))}\b/)
+
+      # Un terme peut avoir plusieurs rendus légitimes, séparés par « / » dans
+      # le dictionnaire : « Arbre Agastya / Agastya ». La forme longue sert là
+      # où la place le permet — la légende de la carte — et l'abrégée sur les
+      # étiquettes à onze caractères. N'importe laquelle satisfait le contrôle.
+      rendus(fr).none? { |r| plat_fr.include?(r) }
     end
+  end
+
+  # « Arbre Agastya / Agastya » -> les deux formes, aplaties.
+  def rendus(francais)
+    francais.to_s.split(' / ').map { |r| aplatir(r.strip) }.reject(&:empty?)
   end
 
   # Empreinte d'une entrée telle qu'extraite du jeu. Douze caractères

@@ -332,7 +332,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3E5C",
     "en": "Teaches skill",
-    "fr": "Apprend",
+    "fr": "Don appris",
     "max": 13
   },
   {
@@ -393,7 +393,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D4130",
     "en": "Fusion may inherit a skill.",
-    "fr": "Peut transmettre un sort.",
+    "fr": "Peut transmettre un don.",
     "max": 27
   },
   {

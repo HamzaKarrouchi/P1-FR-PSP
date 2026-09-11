@@ -220,6 +220,13 @@ officielle manque dans ton français.
 Les termes marqués 🔶 ne sont **pas** contrôlés : ce sont des propositions,
 pas encore tranchées. Les figer reviendrait à décider à la place de l'équipe.
 
+**Un terme peut avoir deux rendus légitimes**, séparés par ` / ` dans la colonne
+française : `Arbre Agastya / Agastya`. N'importe lequel satisfait le contrôle.
+C'est fait pour les étiquettes trop étroites — la forme longue vit dans la
+légende de la carte, l'abrégée sur une étiquette de onze caractères — et non
+pour laisser flotter un terme : la règle qui dit *laquelle employer où* se met
+dans la même case, entre parenthèses.
+
 L'avertissement se trompe régulièrement, et c'est voulu : « Nanjo la regarde »
 ne répète pas son nom si l'anglais disait « Nanjo looks at her ». Il vaut mieux
 une question de trop qu'un jeu où la Chambre de Velours change de nom trois
