@@ -2,512 +2,512 @@
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286978",
     "en": "Worst",
-    "fr": "",
+    "fr": "Pire",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286988",
     "en": "Bad",
-    "fr": "",
+    "fr": "Bas",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286998",
     "en": "Good",
-    "fr": "",
+    "fr": "Bon",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2869A8",
     "en": "Best",
-    "fr": "",
+    "fr": "Top",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2869B8",
     "en": "Normal",
-    "fr": "",
+    "fr": "Normal",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2869D0",
     "en": "Fire",
-    "fr": "",
+    "fr": "Feu",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2869E8",
     "en": "Ice",
-    "fr": "",
+    "fr": "Gel",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A00",
     "en": "Wind",
-    "fr": "",
+    "fr": "Vent",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A18",
     "en": "Earth",
-    "fr": "",
+    "fr": "Terre",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A30",
     "en": "Electric",
-    "fr": "",
+    "fr": "Élec",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A48",
     "en": "Nuclear",
-    "fr": "",
+    "fr": "Atome",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A60",
     "en": "Blast",
-    "fr": "",
+    "fr": "Éclat",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A78",
     "en": "Gravity",
-    "fr": "",
+    "fr": "Gravité",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286A90",
     "en": "Death",
-    "fr": "",
+    "fr": "Mort",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286AA8",
     "en": "Occult",
-    "fr": "",
+    "fr": "Arcane",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286AC0",
     "en": "Nerve",
-    "fr": "",
+    "fr": "Nerf",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286AD8",
     "en": "Curse",
-    "fr": "",
+    "fr": "Curse",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286AF0",
     "en": "Expel",
-    "fr": "",
+    "fr": "Expel",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286B08",
     "en": "Prayer",
-    "fr": "",
+    "fr": "Prière",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286B20",
     "en": "Bless",
-    "fr": "",
+    "fr": "Bless",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286B38",
     "en": "Miracle",
-    "fr": "",
+    "fr": "Miracle",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287768",
     "en": "Happy",
-    "fr": "",
+    "fr": "Joie",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287780",
     "en": "Panic",
-    "fr": "",
+    "fr": "Affolé",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287798",
     "en": "Charm",
-    "fr": "",
+    "fr": "Charmé",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2877B0",
     "en": "Freeze",
-    "fr": "",
+    "fr": "Gelé",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2877C8",
     "en": "Shock",
-    "fr": "",
+    "fr": "Choc",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2877E0",
     "en": "Bind",
-    "fr": "",
+    "fr": "Lié",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2877F8",
     "en": "Sleep",
-    "fr": "",
+    "fr": "Dort",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287810",
     "en": "Mute",
-    "fr": "",
+    "fr": "Muet",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287828",
     "en": "Blind",
-    "fr": "",
+    "fr": "Cécité",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287840",
     "en": "Unlucky",
-    "fr": "",
+    "fr": "Poisse",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287858",
     "en": "Terror",
-    "fr": "",
+    "fr": "Effroi",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287870",
     "en": "Guilt",
-    "fr": "",
+    "fr": "Faute",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287888",
     "en": "Poison",
-    "fr": "",
+    "fr": "Poison",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2878A0",
     "en": "Paralyze",
-    "fr": "",
+    "fr": "Paralysé",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2878B8",
     "en": "Stone",
-    "fr": "",
+    "fr": "Pierre",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2878D0",
     "en": "Sick",
-    "fr": "",
+    "fr": "Mal",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2878E8",
     "en": "KO",
-    "fr": "",
+    "fr": "KO",
     "max": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287900",
     "en": "Cloak",
-    "fr": "",
+    "fr": "Voile",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287918",
     "en": "Puppet",
-    "fr": "",
+    "fr": "Pantin",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287930",
     "en": "Counter",
-    "fr": "",
+    "fr": "Riposte",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287948",
     "en": "Fury",
-    "fr": "",
+    "fr": "Rage",
     "max": 4,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287960",
     "en": "Berserk",
-    "fr": "",
+    "fr": "Berserk",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_287978",
     "en": "Wolf",
-    "fr": "",
+    "fr": "Loup",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E488C",
     "en": "Fight",
-    "fr": "",
+    "fr": "Coup",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E489C",
     "en": "Contact",
-    "fr": "",
+    "fr": "Contact",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E48AC",
     "en": "Analyze",
-    "fr": "",
+    "fr": "Analyse",
     "max": 7,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E48BC",
     "en": "Form",
-    "fr": "",
+    "fr": "Rang",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E48CC",
     "en": "Auto",
-    "fr": "",
+    "fr": "Auto",
     "max": 4,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E48DC",
     "en": "Escape",
-    "fr": "",
+    "fr": "Fuite",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4A84",
     "en": "Attack",
-    "fr": "",
+    "fr": "Assaut",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4A94",
     "en": "Shoot",
-    "fr": "",
+    "fr": "Tirer",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4AA4",
     "en": "Skill",
-    "fr": "",
+    "fr": "Don",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4AB4",
     "en": "Persona",
-    "fr": "",
+    "fr": "Persona",
     "max": 7,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4AC4",
     "en": "Item",
-    "fr": "",
+    "fr": "Objet",
     "max": 4,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_1E4AD4",
     "en": "Guard",
-    "fr": "",
+    "fr": "Garde",
     "max": 5,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_28652C",
     "en": "Element",
-    "fr": "",
+    "fr": "Élément",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_28653C",
     "en": "Force",
-    "fr": "",
+    "fr": "Force",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_28654C",
     "en": "Dark",
-    "fr": "",
+    "fr": "Noir",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_28655C",
     "en": "Light",
-    "fr": "",
+    "fr": "Clair",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2865F0",
     "en": "Genma",
-    "fr": "",
+    "fr": "Genma",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286600",
     "en": "Megami",
-    "fr": "",
+    "fr": "Megami",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286610",
     "en": "Lady",
-    "fr": "",
+    "fr": "Lady",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286620",
     "en": "Deity",
-    "fr": "",
+    "fr": "Deity",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286630",
     "en": "Kishin",
-    "fr": "",
+    "fr": "Kishin",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286640",
     "en": "Fairy",
-    "fr": "",
+    "fr": "Fairy",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286660",
     "en": "Snake",
-    "fr": "",
+    "fr": "Snake",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286670",
     "en": "Holy",
-    "fr": "",
+    "fr": "Holy",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286680",
     "en": "Beast",
-    "fr": "",
+    "fr": "Beast",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286690",
     "en": "Wargod",
-    "fr": "",
+    "fr": "Wargod",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866A0",
     "en": "Fallen",
-    "fr": "",
+    "fr": "Fallen",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866B0",
     "en": "Reaper",
-    "fr": "",
+    "fr": "Reaper",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866C0",
     "en": "Avatar",
-    "fr": "",
+    "fr": "Avatar",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866D0",
     "en": "Tyrant",
-    "fr": "",
+    "fr": "Tyrant",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866E0",
     "en": "Vile",
-    "fr": "",
+    "fr": "Vile",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_2866F0",
     "en": "Yoma",
-    "fr": "",
+    "fr": "Yoma",
     "max": 4,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286700",
     "en": "Night",
-    "fr": "",
+    "fr": "Night",
     "max": 5,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286710",
     "en": "Avian",
-    "fr": "",
+    "fr": "Avian",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286720",
     "en": "Seraph",
-    "fr": "",
+    "fr": "Seraph",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286730",
     "en": "Dragon",
-    "fr": "",
+    "fr": "Dragon",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286740",
     "en": "Legend",
-    "fr": "",
+    "fr": "Legend",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_LBL:OFF_286750",
     "en": "(*TERMINATOR*)",
-    "fr": "",
+    "fr": "(*TERMINATOR*)",
     "max": 0
   }
 ]

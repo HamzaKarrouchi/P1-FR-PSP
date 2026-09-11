@@ -2,608 +2,608 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E48EC",
     "en": "Battle the enemy",
-    "fr": "",
+    "fr": "Combattre",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4924",
     "en": "Negotiate with the enemy",
-    "fr": "",
+    "fr": "Négocier[0000]avec[0000]l'ennemi",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E495C",
     "en": "Analyze enemy's stats",
-    "fr": "",
+    "fr": "Analyser[0000]l'ennemi",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4994",
     "en": "Change party formation",
-    "fr": "",
+    "fr": "Changer[0000]la[0000]formation",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E49CC",
     "en": "Act automatically in battle",
-    "fr": "",
+    "fr": "Agir[0000]en[0000]auto[0000]au[0000]combat",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4A04",
     "en": "Attempt to flee",
-    "fr": "",
+    "fr": "Tenter[0000]de[0000]fuir",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4AE4",
     "en": "Attack with your weapon",
-    "fr": "",
+    "fr": "Attaquer[0000]à[0000]l'arme",
     "max": 23,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4B1C",
     "en": "Attack with your gun",
-    "fr": "",
+    "fr": "Attaquer[0000]au[0000]tir",
     "max": 20,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4B54",
     "en": "Invoke a Persona's ability",
-    "fr": "",
+    "fr": "Invoquer[0000]un[0000]don[0000]du[0000]Persona",
     "max": 26,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4B8C",
     "en": "Assume another Persona",
-    "fr": "",
+    "fr": "Endosser[0000]un[0000]autre[0000]Persona",
     "max": 22,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4BC4",
     "en": "Use an item",
-    "fr": "",
+    "fr": "User[0000]un[0000]objet",
     "max": 11,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4BFC",
     "en": "Guard against enemy attacks",
-    "fr": "",
+    "fr": "Se[0000]garder[0000]des[0000]coups",
     "max": 27,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4C34",
     "en": "Contact which demon?",
-    "fr": "",
+    "fr": "Contacter[0000]quel[0000]démon?",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4C60",
     "en": "Who will contact it?",
-    "fr": "",
+    "fr": "Qui[0000]le[0000]contacte?",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4C8C",
     "en": "What will you do?",
-    "fr": "",
+    "fr": "Que[0000]faire?",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4CB8",
     "en": "Demons' details",
-    "fr": "",
+    "fr": "Détail[0000]des[0000]démons",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4CD8",
     "en": "Data 1",
-    "fr": "",
+    "fr": "Bloc[0000]1",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4CE8",
     "en": "Data 2",
-    "fr": "",
+    "fr": "Bloc[0000]2",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4CF8",
     "en": "Data 3",
-    "fr": "",
+    "fr": "Bloc[0000]3",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4D08",
     "en": "Data 4",
-    "fr": "",
+    "fr": "Bloc[0000]4",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4D18",
     "en": "Use which formation data?",
-    "fr": "",
+    "fr": "Quel[0000]bloc[0000]de[0000]formation?",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4EBC",
     "en": "Party status condition overview",
-    "fr": "",
+    "fr": "Vue[0000]d'ensemble[0000]de[0000]l'équipe",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4EFC",
     "en": "Replay",
-    "fr": "",
+    "fr": "Revoir",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4F14",
     "en": "Weapons",
-    "fr": "",
+    "fr": "Armes",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4F2C",
     "en": "Guns",
-    "fr": "",
+    "fr": "Tirs",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4F44",
     "en": "Auto-Act",
-    "fr": "",
+    "fr": "Agir[0000]auto",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4F5C",
     "en": "Set Actions",
-    "fr": "",
+    "fr": "Régler[0000]actes",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4F74",
     "en": "Everyone acts as before",
-    "fr": "",
+    "fr": "Tous[0000]comme[0000]avant",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4FAE",
     "en": "Everyone uses weapons",
-    "fr": "",
+    "fr": "Tous[0000]à[0000]l'arme",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4FE8",
     "en": "Everyone uses guns",
-    "fr": "",
+    "fr": "Tous[0000]au[0000]tir",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E5022",
     "en": "Use individual auto-actions",
-    "fr": "",
+    "fr": "Auto[0000]de[0000]chacun",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E505C",
     "en": "Set individual auto-actions",
-    "fr": "",
+    "fr": "Régler[0000]l'auto[0000]de[0000]chacun",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E5296",
     "en": "αIf the mirrored state is left as is,",
-    "fr": "",
+    "fr": "αSi[0000]l'état[0000]miroir[0000]reste[0000]tel[0000]quel,",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E52E4",
     "en": "it will revert once the battle ends.",
-    "fr": "",
+    "fr": "il[0000]reviendra[0000]à[0000]la[0000]fin[0000]du[0000]combat.",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E5330",
     "en": "Delete the mirrored state?",
-    "fr": "",
+    "fr": "Effacer[0000]l'état[0000]miroir?",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E537C",
     "en": "Formation edits will be lost. Proceed?",
-    "fr": "",
+    "fr": "Les[0000]changements[0000]seront[0000]perdus.[0000]Continuer?",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2879D0",
     "en": "Divine",
-    "fr": "",
+    "fr": "Divine",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A00",
     "en": "Drake",
-    "fr": "",
+    "fr": "Drake",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A10",
     "en": "Flight",
-    "fr": "",
+    "fr": "Flight",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A20",
     "en": "Raptor",
-    "fr": "",
+    "fr": "Raptor",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A40",
     "en": "Wilder",
-    "fr": "",
+    "fr": "Wilder",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A50",
     "en": "Femme",
-    "fr": "",
+    "fr": "Femme",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A60",
     "en": "Brute",
-    "fr": "",
+    "fr": "Brute",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A70",
     "en": "Jirae",
-    "fr": "",
+    "fr": "Jirae",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A80",
     "en": "Jaki",
-    "fr": "",
+    "fr": "Jaki",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287A90",
     "en": "Haunt",
-    "fr": "",
+    "fr": "Haunt",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AA0",
     "en": "Spirit",
-    "fr": "",
+    "fr": "Spirit",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AB0",
     "en": "Grave",
-    "fr": "",
+    "fr": "Grave",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AC0",
     "en": "Foul",
-    "fr": "",
+    "fr": "Foul",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AD0",
     "en": "Karma",
-    "fr": "",
+    "fr": "Karma",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AE0",
     "en": "Meta",
-    "fr": "",
+    "fr": "Meta",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287AF0",
     "en": "Fiend",
-    "fr": "",
+    "fr": "Fiend",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287B20",
     "en": "Despot",
-    "fr": "",
+    "fr": "Despot",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287B40",
     "en": "Yes",
-    "fr": "",
+    "fr": "Oui",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_287B50",
     "en": "No",
-    "fr": "",
+    "fr": "Non",
     "max": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_252008",
     "en": "Buy",
-    "fr": "",
+    "fr": "Acheter",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_25202C",
     "en": "Sell",
-    "fr": "",
+    "fr": "Vendre",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_252050",
     "en": "Trade for items",
-    "fr": "",
+    "fr": "Échanger[0000]objets",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_252074",
     "en": "Trade for coins",
-    "fr": "",
+    "fr": "Échanger[0000]pièces",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_252098",
     "en": "Trade for incense",
-    "fr": "",
+    "fr": "Échanger[0000]encens",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_263F84",
     "en": "Retry loading system data?",
-    "fr": "",
+    "fr": "Relire[0000]les[0000]données[0000]système?",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_263FBC",
     "en": "Retry saving suspend data?",
-    "fr": "",
+    "fr": "Sauver[0000]à[0000]nouveau[0000]la[0000]rapide?",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_263FF4",
     "en": "Retry saving game data?",
-    "fr": "",
+    "fr": "Sauver[0000]à[0000]nouveau[0000]la[0000]partie?",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_264024",
     "en": "Retry saving system data?",
-    "fr": "",
+    "fr": "Sauver[0000]à[0000]nouveau[0000]le[0000]système?",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_264058",
     "en": "Delete save data?",
-    "fr": "",
+    "fr": "Effacer[0000]la[0000]partie?",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_26407C",
     "en": "Cancel save?",
-    "fr": "",
+    "fr": "Ne[0000]pas[0000]sauver?",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_264098",
     "en": "Cancel load?",
-    "fr": "",
+    "fr": "Annuler?",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_19A698",
     "en": "System data",
-    "fr": "",
+    "fr": "Système",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_19A6B0",
     "en": "Suspend data",
-    "fr": "",
+    "fr": "Rapide",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_19A6CC",
     "en": "Game data",
-    "fr": "",
+    "fr": "Partie",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4538",
     "en": "View which order?",
-    "fr": "",
+    "fr": "Voir[0000]quel[0000]ordre?",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A455C",
     "en": "View which demon?",
-    "fr": "",
+    "fr": "Voir[0000]quel[0000]démon?",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4580",
     "en": "Are you sure?",
-    "fr": "",
+    "fr": "Vous[0000]êtes[0000]sûr?",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A459C",
     "en": "Items on hand",
-    "fr": "",
+    "fr": "Objets[0000]en[0000]main",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A45C4",
     "en": "Equipment on hand",
-    "fr": "",
+    "fr": "Équipement[0000]porté",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A45EC",
     "en": "Cards on hand",
-    "fr": "",
+    "fr": "Cartes[0000]en[0000]main",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4614",
     "en": "Other items",
-    "fr": "",
+    "fr": "Autres",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A463C",
     "en": "Use which item?",
-    "fr": "",
+    "fr": "Quel[0000]objet?",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A469C",
     "en": "Optimal",
-    "fr": "",
+    "fr": "Optimal",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A46AC",
     "en": "Remove",
-    "fr": "",
+    "fr": "Ôter",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A46BC",
     "en": "Change whose Persona?",
-    "fr": "",
+    "fr": "Persona[0000]de[0000]qui?",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A46EE",
     "en": "Take on which Persona?",
-    "fr": "",
+    "fr": "Endosser[0000]quel[0000]Persona?",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A62C0",
     "en": "A guide to the map icons.",
-    "fr": "",
+    "fr": "Guide[0000]des[0000]icônes[0000]de[0000]carte.",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E5750",
     "en": "Is this all right?",
-    "fr": "",
+    "fr": "C'est[0000]bien[0000]cela?",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1EECE8",
     "en": "Go to",
-    "fr": "",
+    "fr": "Aller",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1EED10",
     "en": "Go to the map",
-    "fr": "",
+    "fr": "Voir[0000]la[0000]carte",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1EED38",
     "en": "Go to the hallway",
-    "fr": "",
+    "fr": "Aller[0000]au[0000]couloir",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_250E50",
     "en": "What would you like to hear about?",
-    "fr": "",
+    "fr": "De[0000]quoi[0000]voulez-vous[0000]entendre[0000]parler?",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_250E98",
     "en": "Which explanation will you view?",
-    "fr": "",
+    "fr": "Quelle[0000]explication[0000]voir?",
     "max": 32,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_258504",
     "en": "Challenge the heights of Devil's Peak!",
-    "fr": "",
+    "fr": "Défiez[0000]les[0000]hauteurs[0000]du[0000]Pic[0000]du[0000]Diable!",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_258554",
     "en": "The seal on the door to 8F has been lifted.",
-    "fr": "",
+    "fr": "Le[0000]sceau[0000]de[0000]la[0000]porte[0000]du[0000]8F[0000]est[0000]levé.",
     "max": 43
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2585AC",
     "en": "To the Summit of Devil's Peak",
-    "fr": "",
+    "fr": "Au[0000]sommet[0000]du[0000]Pic[0000]du[0000]Diable",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2585E8",
     "en": "Challenge the deepest reaches of the Ruins!",
-    "fr": "",
+    "fr": "Défiez[0000]le[0000]fond[0000]des[0000]Ruines[0000]Mikage!",
     "max": 43
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_258640",
     "en": "The seal on the door to B8 has been lifted.",
-    "fr": "",
+    "fr": "Le[0000]sceau[0000]de[0000]la[0000]porte[0000]du[0000]B8[0000]est[0000]levé.",
     "max": 43
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_258698",
     "en": "To the Depths of Mikage Ruins",
-    "fr": "",
+    "fr": "Au[0000]fond[0000]des[0000]Ruines[0000]Mikage",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_25135C",
     "en": "What item will you add?",
-    "fr": "",
+    "fr": "Quel[0000]objet[0000]ajouter?",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288A80",
     "en": "Set how fast messages appear",
-    "fr": "",
+    "fr": "Vitesse[0000]des[0000]messages",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288ADA",
     "en": "Set preferred movement direction",
-    "fr": "",
+    "fr": "Sens[0000]de[0000]marche[0000]préféré",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288B34",
     "en": "Set automap's rotation properties",
-    "fr": "",
+    "fr": "Rotation[0000]de[0000]la[0000]carte[0000]auto",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288B8E",
     "en": "Remember final cursor location",
-    "fr": "",
+    "fr": "Garder[0000]la[0000]place[0000]du[0000]curseur",
     "max": 30
   }
 ]
