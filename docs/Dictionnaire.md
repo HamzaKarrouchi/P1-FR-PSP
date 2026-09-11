@@ -206,6 +206,34 @@
 | Fever Crown / Core Shield | Couronne / Bouclier | EBOOT_011.json | 💬 *(« Fever » et « Core » ne tiennent pas dans le budget)* |
 | Chewing Soul / Bead | conservés | EBOOT_011.json | 🔶 *(noms de série, comme Hiranya et Soma)* |
 | HP / SP Incense | Encens HP / Encens SP | EBOOT_011.json | 🔶 |
+| races de démons (Genma, Megami, Kishin, Yoma, Fiend, Tyrant…) | conservées en anglais | EBOOT_013.json, EBOOT_015.json | 🔶 *(même politique que les noms de démons)* |
+| Element / Force / Dark / Light (types) | Élément / Force / Noir / Clair | EBOOT_013.json | 💬 *(« Ombre » et « Lumière » ne tiennent pas dans 4 et 5)* |
+| Fire / Ice / Wind / Earth | Feu / Gel / Vent / Terre | EBOOT_013.json | 🔶 *(« Glace » ne tient pas dans 3)* |
+| Electric / Nuclear / Blast / Gravity | Élec / Atome / Éclat / Gravité | EBOOT_013.json | 🔶 |
+| Death / Occult / Nerve / Prayer / Miracle | Mort / Arcane / Nerf / Prière / Miracle | EBOOT_013.json | 🔶 |
+| Expel / Curse / Bless | conservés | EBOOT_013.json | 🔶 *(éléments signature, cf. « Miroir Expel »)* |
+| états de combat | Joie / Affolé / Charmé / Gelé / Choc / Lié / Dort / Muet / Cécité / Poisse / Effroi / Faute / Poison / Paralysé / Pierre / Mal / KO | EBOOT_013.json | 🔶 |
+| Cloak / Puppet / Counter / Fury / Berserk / Wolf | Voile / Pantin / Riposte / Rage / Berserk / Loup | EBOOT_013.json | 🔶 |
+| commandes de combat | Coup / Contact / Analyse / Rang / Auto / Fuite / Assaut / Tirer / Don / Persona / Objet / Garde | EBOOT_013.json | 🔶 |
+| skill (commande de combat) | Don | EBOOT_013.json, EBOOT_015.json | 💬 *(« pouvoir », retenu dans la prose, ne tient pas dans 5)* |
+| Gun / Shoot | Tir / Tirer | EBOOT_014.json, EBOOT_013.json | 🔶 *(« Feu » entrerait en collision avec l'élément Feu)* |
+| Agastya Tree (étiquette de carte) | Agastya | EBOOT_001.json, EBOOT_014.json | 💬 *(« Arbre Agastya » fait 12 pour un budget de 11 ; forme longue gardée dans la légende d'EBOOT_016)* |
+| Velvet Room (étiquette de carte) | Velours | EBOOT_001.json, EBOOT_002.json | 💬 *(« Chambre de Velours » fait 16 pour un budget de 10)* |
+| Ice Castle / Mana Castle / Lost Forest (étiquettes) | Glace / Mana / Forêt | EBOOT_002.json, EBOOT_014.json | 💬 *(« Château » et « Forêt perdue » ne tiennent pas)* |
+| Class 2-4 (salle de classe) | Salle 2-4 | EBOOT_001.json | 🔶 *(« Classe » dépasse d'un caractère)* |
+| Infirmary / Lab | Infirmerie / Labo | EBOOT_001.json | 🔶 *(dépassent d'un caractère, sans équivalent plus court)* |
+| Student Council Room | Conseil des élèves | EBOOT_001.json | 🔶 |
+| Principal's Office | Bureau du proviseur | EBOOT_001.json | 🔶 |
+| Hypnos / Nemesis / Thanatos Chamber | Salle Hypnos / Nemesis / Thanatos | EBOOT_001.json | 🔶 |
+| Pandora's Nest | Nid de Pandore | EBOOT_002.json | 🔶 |
+| Gingerbread House | Pain d'épice | EBOOT_002.json | 🔶 |
+| Alaya Shrine / Alaya Cavern | Autel Alaya / Grotte Alaya | EBOOT_002.json | 🔶 |
+| Mikage-cho 1st Ward | Mikage-cho quartier 1 | EBOOT_014.json | 🔶 |
+| Historical Society / Convenience Store | Société d'histoire / Supérette | EBOOT_014.json | 🔶 |
+| Devil's Peak | Pic du Diable | EBOOT_015.json | 🔶 *(déjà au dictionnaire)* |
+| mains de poker | 2 paires / Brelan / Suite / Flush / Full / Carré / Quinte flush / Cinq pareils / Flush royal | EBOOT_006.json | 🔶 *(« Flush » gardé : « Couleur » nomme déjà le jeu Red & Black)* |
+| Code Breaker (mini-jeu) | Casse-code | EBOOT_004.json | 🔶 |
+| dice game / multiplier | jeu de dés / multiplicateur | EBOOT_004.json | 🔶 |
 
 ---
 
