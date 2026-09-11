@@ -175,8 +175,7 @@ def mention(sante):
     """
     if not sante:
         return ""
-    tags = [ETIQUETTE.search(a.get("message", "")) for a in sante["avertissements"]]
-    tags = [m.group(1) for m in tags if m]
+    tags = [etiquette(a) for a in sante["avertissements"]]
     if not tags:
         return ""
     for tag, mot in (("OCTETS", "à alléger"), ("TERMINO", "terme"),
@@ -187,6 +186,7 @@ def mention(sante):
         if tag == "TERMINO":
             return f"{n} terme{'s' if n > 1 else ''}"
         return f"{n} {mot}"
+    # Nature inconnue : on le dit quand meme plutot que de rendre "".
     return f"{len(tags)} à relire"
 
 
@@ -251,9 +251,24 @@ CATEGORIES = {
         "budget. Un coup d'œil à l'écran suffit à confirmer.",
         "ligne",
     ),
+    # Repli obligatoire : sans lui, un avertissement d'une nature que le
+    # validateur apprendrait demain disparaitrait du suivi sans bruit — le
+    # defaut meme qu'on est en train de corriger.
+    "AUTRE": (
+        "Autres avertissements",
+        "Le validateur signale ces lignes sans que le suivi sache encore les "
+        "classer. À regarder dans sa sortie : `ruby outils/check_trad.rb <fichier>`.",
+        "ligne",
+    ),
 }
 
 ETIQUETTE = re.compile(r"\[([A-Z]+)\]")
+
+
+def etiquette(avertissement):
+    """« BUDGET », « TERMINO »… ou « AUTRE » si le message n'en porte pas."""
+    m = ETIQUETTE.search(avertissement.get("message", ""))
+    return m.group(1) if m else "AUTRE"
 
 
 def grouper_avertissements(sante):
@@ -269,8 +284,7 @@ def grouper_avertissements(sante):
             continue  # deja liste sous « À corriger », le plus urgent d'abord
         compte_par_tag = {}
         for a in entree["avertissements"]:
-            m = ETIQUETTE.search(a.get("message", ""))
-            tag = m.group(1) if m else "AUTRE"
+            tag = etiquette(a)
             compte_par_tag[tag] = compte_par_tag.get(tag, 0) + 1
         for tag, n in compte_par_tag.items():
             groupes.setdefault(tag, []).append((chemin, n))
