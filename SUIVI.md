@@ -149,11 +149,11 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 14 à relire |
 | [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#8) |
 | [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | libre |
-| [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#8) |
+| [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#8) |
+| [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#8) |
 | [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 100 | 100 % | terminé · 12 à relire |
 | [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | en cours par @HamzaKarrouchi (#7) · 4 à relire |
 | [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 58 | 100 % | terminé · 15 à relire |
