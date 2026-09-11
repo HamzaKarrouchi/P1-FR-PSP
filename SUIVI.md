@@ -4,7 +4,7 @@
 
 ```text
 Dialogues      █████░░░░░░░░░░░░░░░░░░░   20 %    1 724 / 8 572 textes
-EBOOT          █████████████░░░░░░░░░░░   55 %      836 / 1 518 textes
+EBOOT          ████████████████████████  100 %    1 518 / 1 518 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   pas encore ouvert — environ 17 408 textes
 ```
@@ -21,10 +21,15 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 - [`E2_007.json`](trad/dialogues/E2_007.json) — 4 termes
 - [`E2_012.json`](trad/dialogues/E2_012.json) — 4 termes
 - [`E2_014.json`](trad/dialogues/E2_014.json) — 4 termes
+- [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) — 5 termes
+- [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) — 2 termes
 - [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) — 14 termes
 - [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) — 10 termes
 - [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 5 termes
 - [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) — 15 termes
+- [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) — 5 termes
+- [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) — 7 termes
+- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 3 termes
 - [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) — 14 termes
 - [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) — 1 terme
 
@@ -145,21 +150,21 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
-| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
+| [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 100 | 100 % | terminé · 5 à relire |
+| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 2 à relire |
 | [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 14 à relire |
-| [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
+| [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 100 | 100 % | terminé |
-| [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
+| [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 100 | 100 % | terminé · 10 à relire |
 | [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 60 | 100 % | terminé · 5 à relire |
 | [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 58 | 100 % | terminé · 15 à relire |
-| [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
-| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
-| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#9) |
+| [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 82 | 100 % | terminé · 5 à relire |
+| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 100 | 100 % | terminé · 7 à relire |
+| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 3 à relire |
 | [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 14 à relire |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à relire |
 
