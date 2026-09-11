@@ -155,6 +155,25 @@
 | catégories d'inventaire | Épée 1M / Épée 2M / Lance / Hache / Fouet / Jet / Arc / Poing | EBOOT_012.json | 🔶 |
 | catégories d'armes à feu | Pistolet / Auto / Pompe / Fusil / Balles | EBOOT_012.json | 🔶 |
 | emplacements d'armure | Tête / Corps / Bras / Jambes | EBOOT_012.json | 🔶 |
+| the Tailors (bande de Mark) | les Tailors | E0_016.json | 🔶 *(nom de bande conservé)* |
+| security card | carte de sécurité | E0_016.json | 🔶 |
+| Stern-faced man (locuteur) | Homme sévère | E0_017.json | 🔶 *(cohérent avec « Voix sévère », DNG_001)* |
+| Suspicious-looking man (locuteur) | Homme suspect | E0_017.json | 🔶 *(cohérent avec « Voix suspecte », DNG_001)* |
+| Nanjo Group | groupe Nanjo | E0_017.json | 🔶 |
+| President Saeki | président Saeki | E0_017.json | 🔶 |
+| Crawling Chaos / faceless god | Chaos Rampant / dieu sans visage | E0_017.json | 🔶 *(Persona de Kandori = Nyarlathotep)* |
+| Dimensional Variable Accelerator System | système accélérateur de variables dimensionnelles | E0_018.json | 🔶 *(l'acronyme « Deva » ne se reforme pas en français — nom propre conservé)* |
+| Girl in black (locuteur) | Fille en noir | E0_018.json | 🔶 *(cohérent avec « Girl in white » → Fille en blanc)* |
+| Yosuke Naito | Yosuke Naito | E0_019.json | 🔶 |
+| Harried girl / Restless boy (locuteurs) | Fille affolée / Garçon agité | E0_019.json | 🔶 |
+| time slip | glissement temporel | E0_019.json | 🔶 *(voir la note sur le jeu de mots d'Ayase)* |
+| sports festival | fête du sport | E0_001.json, E0_019.json | 🔶 *(déjà employé dans E0_001)* |
+| "many worlds" theory | théorie des « mondes multiples » | E0_020.json | 🔶 |
+| parallel world | monde parallèle | E0_020.json | 🔶 |
+| devil summoner | invocateur / invocatrice de démons | E0_020.json | 🔶 |
+| second-year student | élève de première | E0_019.json | 🔶 *(équivalence scolaire FR ; 2e année du lycée japonais)* |
+| Girl under attack (locuteur) | Fille attaquée | E0_020.json | 🔶 |
+| Injured boy (locuteur) | Garçon blessé | E0_020.json | 🔶 |
 | Guided Fusion / Manual Fusion | fusion guidée / fusion libre | EBOOT_003.json, EBOOT_007.json | 🔶 |
 | fusion accident | accident de fusion | EBOOT_008.json | 🔶 |
 | skill (d'un Persona) | pouvoir | EBOOT_008.json, EBOOT_010.json | 🔶 *(« compétence » ne tient pas dans les budgets)* |

@@ -342,7 +342,7 @@
   {
     "id": "EBOOT.BIN:LE:OFF_2531EC",
     "en": "Enter your name.[0000]",
-    "fr": "Entrez votre nom[0000]",
+    "fr": "Entrez un nom.[0000]",
     "max": 16
   },
   {
