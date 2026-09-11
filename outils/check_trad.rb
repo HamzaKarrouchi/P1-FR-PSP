@@ -309,17 +309,21 @@ module CheckTrad
         next unless l.length > LARGEUR_MAX
 
         if l.length <= origine
-          # Aussi large que l'original, donc pas une régression : on le dit,
-          # sans bloquer.
-          avertis << "#{id} [LARGEUR] #{l.length} car., comme l'anglais (#{origine}) — deja large a l'origine"
+          # Aussi large que l'original : par définition pas une régression. Rien
+          # à reprendre, donc rien à signaler — un avertissement sur lequel
+          # personne ne peut agir noie ceux sur lesquels on peut.
+          next
         elsif origine > LARGEUR_DURE
           # L'anglais lui-même dépasse déjà la boîte : ce n'est donc pas une
           # ligne affichée. Ce sont les blocs de mise en scène — des centaines
           # de (*SCENE_LOAD*) et (*SET_ANIM_LAYER*) dont les espaces se
-          # retrouvent dans le texte — avec une phrase courte au bout. On ne
-          # peut pas être plus strict que l'original.
-          avertis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais — " \
-                     "l'anglais deborde deja, ce n'est pas une ligne affichee"
+          # retrouvent dans le texte — avec une phrase courte au bout.
+          #
+          # Mesuré sur E0.BIN:016:0285 : 1 491 caractères annoncés pour 19 de
+          # texte réellement affiché (« > Vous avez pièces. »). La largeur n'a
+          # pas de sens sur ces entrées, et le traducteur n'y peut rien : on ne
+          # signale pas.
+          next
         elsif l.length > LARGEUR_DURE
           soucis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais (debordement certain) : #{l.inspect}"
         else

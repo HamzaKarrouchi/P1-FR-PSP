@@ -11,6 +11,12 @@ on:
   pull_request:
     paths:
       - 'trad/**.json'
+      # Le validateur et le dictionnaire qu'il lit : les changer peut casser la
+      # validation de TOUS les fichiers, pas seulement de ceux qu'on modifie.
+      - 'outils/check_trad.rb'
+      - 'outils/*.tbl'
+      - 'outils/glyphes_disponibles.json'
+      - 'docs/Dictionnaire.md'
 
 permissions:
   contents: read
@@ -27,12 +33,25 @@ jobs:
         with:
           ruby-version: '3.3'
 
-      - name: Lister les fichiers modifiés
+      # Une proposition qui touche au validateur, a la table de caracteres ou au
+      # dictionnaire est validee sur TOUT le depot : l'outil change, donc son
+      # verdict change partout, et se contenter des fichiers du diff laisserait
+      # passer une regression sur les 123 autres. Cela coute 1,6 s.
+      - name: Lister les fichiers à valider
         id: fichiers
         run: |
           base="${{ github.event.pull_request.base.sha }}"
-          liste=$(git diff --name-only --diff-filter=d "$base" HEAD -- 'trad/**.json' \
-                  | grep -v '/_' || true)
+          outillage=$(git diff --name-only "$base" HEAD \
+                      -- 'outils/check_trad.rb' 'outils/*.tbl' \
+                         'outils/glyphes_disponibles.json' 'docs/Dictionnaire.md' || true)
+          if [ -n "$outillage" ]; then
+            echo "outillage modifié — validation de tout le dépôt :"
+            echo "$outillage"
+            liste=$(git ls-files 'trad/**.json' | grep -v '/_' || true)
+          else
+            liste=$(git diff --name-only --diff-filter=d "$base" HEAD -- 'trad/**.json' \
+                    | grep -v '/_' || true)
+          fi
           echo "liste<<FIN" >> "$GITHUB_OUTPUT"
           echo "$liste" >> "$GITHUB_OUTPUT"
           echo "FIN" >> "$GITHUB_OUTPUT"

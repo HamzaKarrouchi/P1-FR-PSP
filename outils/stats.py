@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -164,8 +165,33 @@ def rapport_markdown(sante, depot, plafond=250):
     return "\n".join(lignes) + "\n"
 
 
+def mention(sante):
+    """« 5 à vérifier », « 2 termes »… selon ce que le fichier a vraiment.
+
+    « à relire » sur un dépassement de budget envoyait relire un français qui
+    n'avait rien à se reprocher : c'est l'écran qu'il faut regarder, pas le
+    texte. On nomme donc la nature de l'avertissement, et on prend la plus
+    urgente quand il y en a plusieurs.
+    """
+    if not sante:
+        return ""
+    tags = [etiquette(a) for a in sante["avertissements"]]
+    if not tags:
+        return ""
+    for tag, mot in (("OCTETS", "à alléger"), ("TERMINO", "terme"),
+                     ("LARGEUR", "trop large"), ("BUDGET", "à vérifier")):
+        n = tags.count(tag)
+        if not n:
+            continue
+        if tag == "TERMINO":
+            return f"{n} terme{'s' if n > 1 else ''}"
+        return f"{n} {mot}"
+    # Nature inconnue : on le dit quand meme plutot que de rendre "".
+    return f"{len(tags)} à relire"
+
+
 def etat(n, f, reserve, sante=None):
-    erreurs, avertis = compte(sante)
+    erreurs, _ = compte(sante)
 
     # Une erreur passe devant tout le reste : c'est la seule chose qui demande
     # une action precise, sur une ligne precise.
@@ -173,12 +199,13 @@ def etat(n, f, reserve, sante=None):
         quoi = "erreur" if erreurs == 1 else "erreurs"
         return f"**à corriger** — {erreurs} {quoi}"
 
+    note = mention(sante)
     if f == 0:
         return f"en cours par {reserve}" if reserve else "libre"
     if f == n:
-        return f"terminé · {avertis} à relire" if avertis else "terminé"
+        return f"terminé · {note}" if note else "terminé"
     suite = f"en cours par {reserve}" if reserve else "commencé"
-    return f"{suite} · {avertis} à relire" if avertis else suite
+    return f"{suite} · {note}" if note else suite
 
 
 def milliers(n):
@@ -192,6 +219,80 @@ def nettoyer(texte):
     return "".join(c for c in str(texte) if c.isalnum() or c in "-_[]#@() ")[:48]
 
 
+# Chaque nature d'avertissement demande une action differente : les melanger
+# sous un titre unique fait mentir le suivi. L'ordre est celui de l'urgence.
+CATEGORIES = {
+    "OCTETS": (
+        "Poids à surveiller",
+        "Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière "
+        "fait rester **tout le fichier en anglais** dans le jeu, sans erreur au "
+        "build : c'est le plus sournois des avertissements.",
+        "entrée",
+    ),
+    "TERMINO": (
+        "À relire",
+        "Terminologie à confirmer — un terme du dictionnaire apparaît dans "
+        "l'anglais sans sa traduction officielle dans le français. Ce n'est "
+        "pas forcément une faute, mais ça mérite un avis.",
+        "terme",
+    ),
+    "LARGEUR": (
+        "Largeur à surveiller",
+        "Ces lignes sont plus larges que l'anglaise et approchent de la limite de "
+        "la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus "
+        "serait plus sage.",
+        "ligne",
+    ),
+    "BUDGET": (
+        "À vérifier en jeu",
+        "Ces lignes dépassent la place que l'anglais occupe dans l'exécutable. Le "
+        "moteur les redirige vers un espace libre et ça marche — « Charger une "
+        "partie » le fait déjà — mais c'est plus fragile que de tenir dans le "
+        "budget. Un coup d'œil à l'écran suffit à confirmer.",
+        "ligne",
+    ),
+    # Repli obligatoire : sans lui, un avertissement d'une nature que le
+    # validateur apprendrait demain disparaitrait du suivi sans bruit — le
+    # defaut meme qu'on est en train de corriger.
+    "AUTRE": (
+        "Autres avertissements",
+        "Le validateur signale ces lignes sans que le suivi sache encore les "
+        "classer. À regarder dans sa sortie : `ruby outils/check_trad.rb <fichier>`.",
+        "ligne",
+    ),
+}
+
+ETIQUETTE = re.compile(r"\[([A-Z]+)\]")
+
+
+def etiquette(avertissement):
+    """« BUDGET », « TERMINO »… ou « AUTRE » si le message n'en porte pas."""
+    m = ETIQUETTE.search(avertissement.get("message", ""))
+    return m.group(1) if m else "AUTRE"
+
+
+def grouper_avertissements(sante):
+    """{ categorie => [(chemin, nombre), ...] }, trie par chemin.
+
+    Un meme fichier peut apparaitre dans plusieurs categories : un fichier qui
+    depasse son budget ET dont un terme manque a deux choses a reprendre, pas
+    une. On ne compte donc pas les fichiers mais les avertissements.
+    """
+    groupes = {}
+    for chemin, entree in sante.items():
+        if entree["soucis"]:
+            continue  # deja liste sous « À corriger », le plus urgent d'abord
+        compte_par_tag = {}
+        for a in entree["avertissements"]:
+            tag = etiquette(a)
+            compte_par_tag[tag] = compte_par_tag.get(tag, 0) + 1
+        for tag, n in compte_par_tag.items():
+            groupes.setdefault(tag, []).append((chemin, n))
+    for liste in groupes.values():
+        liste.sort()
+    return groupes
+
+
 def rendre(sections, reservations, sante):
     lignes = [
         "# Avancement de la traduction",
@@ -202,7 +303,7 @@ def rendre(sections, reservations, sante):
     ]
 
     a_corriger = sorted(f for f, e in sante.items() if e["soucis"])
-    a_relire = sorted(f for f, e in sante.items() if e["avertissements"] and not e["soucis"])
+    par_categorie = grouper_avertissements(sante)
 
     for nom, _, par_fichier, total, traduits in sections:
         # Une section fermee affichee « 0 % » donne l'impression d'un projet a
@@ -241,18 +342,16 @@ def rendre(sections, reservations, sante):
             "",
         ]
 
-    if a_relire:
-        lignes += [
-            "## À relire",
-            "",
-            "Terminologie à confirmer — un terme du dictionnaire apparaît dans "
-            "l'anglais sans sa traduction officielle dans le français. Ce n'est "
-            "pas forcément une faute, mais ça mérite un avis.",
-            "",
-        ]
-        for f in a_relire:
-            n = len(sante[f]["avertissements"])
-            lignes.append(f"- [`{Path(f).name}`]({f}) — {n} terme{'s' if n > 1 else ''}")
+    # Un avertissement de budget n'est pas une question de terminologie : les
+    # confondre sous un seul titre envoyait relire un vocabulaire qui n'avait
+    # rien à se reprocher. Une section par nature, avec le mot juste.
+    for tag, (titre, explication, unite) in CATEGORIES.items():
+        fichiers = par_categorie.get(tag)
+        if not fichiers:
+            continue
+        lignes += [f"## {titre}", "", explication, ""]
+        for f, n in fichiers:
+            lignes.append(f"- [`{Path(f).name}`]({f}) — {n} {unite}{'s' if n > 1 else ''}")
         lignes.append("")
 
     for nom, sous_dossier, par_fichier, _total, _traduits in sections:
