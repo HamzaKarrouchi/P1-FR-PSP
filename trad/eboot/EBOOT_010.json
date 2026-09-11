@@ -254,7 +254,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D48B4",
     "en": "So...[0000]The[0000]time[0000]has[0000]come[0000]to[0000]release{SAUT}",
-    "fr": "Ainsi...[0000]Le[0000]temps[0000]est[0000]venu[0000]de[0000]briser{SAUT}",
+    "fr": "Ainsi...[0000]Il[0000]est[0000]temps[0000]de[0000]briser{SAUT}",
     "max": 28
   },
   {
@@ -594,7 +594,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D7B4C",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Normal?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Normal?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Jouer[0000]en[0000]Normal?{ATTENTE}",
     "max": 30
   },
   {
