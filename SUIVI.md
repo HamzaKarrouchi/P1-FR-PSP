@@ -155,7 +155,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 0 | 0 % | libre |
 | [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 100 | 100 % | terminé · 12 à relire |
-| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | commencé · 4 à relire |
+| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 13 | 22 % | en cours par @HamzaKarrouchi (#7) · 4 à relire |
 | [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 58 | 100 % | terminé · 15 à relire |
 | [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 0 | 0 % | libre |
 | [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 0 | 0 % | libre |
