@@ -49,11 +49,11 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 85 | 100 % | terminé |
 | [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 91 | 100 % | terminé |
 | [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 66 | 100 % | terminé |
-| [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | libre |
-| [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 0 | 0 % | libre |
-| [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 0 | 0 % | libre |
-| [`E0_019.json`](trad/dialogues/E0_019.json) | 58 | 0 | 0 % | libre |
-| [`E0_020.json`](trad/dialogues/E0_020.json) | 87 | 0 | 0 % | libre |
+| [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 0 | 0 % | en cours par @HamzaKarrouchi (#7) |
+| [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 0 | 0 % | en cours par @HamzaKarrouchi (#7) |
+| [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 0 | 0 % | en cours par @HamzaKarrouchi (#7) |
+| [`E0_019.json`](trad/dialogues/E0_019.json) | 58 | 0 | 0 % | en cours par @HamzaKarrouchi (#7) |
+| [`E0_020.json`](trad/dialogues/E0_020.json) | 87 | 0 | 0 % | en cours par @HamzaKarrouchi (#7) |
 | [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 0 | 0 % | libre |
 | [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 0 | 0 % | libre |
 | [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 0 | 0 % | libre |
