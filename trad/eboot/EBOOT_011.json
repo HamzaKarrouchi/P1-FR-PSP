@@ -33,7 +33,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D7E48",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Beginner?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Débutant?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Jouer[0000]en[0000]Débutant?{ATTENTE}",
     "max": 32
   },
   {
@@ -57,315 +57,315 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D8050",
     "en": "the[0000]game[0000]begins.[0000]Do[0000]you[0000]want[0000]Expert?{ATTENTE}",
-    "fr": "changé[0000]ensuite.[0000]Voulez-vous[0000]Expert?{ATTENTE}",
+    "fr": "changé[0000]ensuite.[0000]Jouer[0000]en[0000]Expert?{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D80A0",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]Then[0000]please[0000]sit[0000]back[0000]and[0000]enjoy[0000]Persona.{ATTENTE}",
-    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]Installez-vous[0000]bien,[0000]et[0000]bon[0000]jeu.{ATTENTE}",
+    "fr": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]>[0000]Installez-vous[0000]et[0000]savourez[0000]Persona.{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D8282",
     "en": "Is this all right?(*UNK_0E*)[0000]{FERME}",
-    "fr": "",
+    "fr": "C'est[0000]bien[0000]cela?(*UNK_0E*){FERME}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9E66",
     "en": "[0000]Medicine{FERME}",
-    "fr": "",
+    "fr": "Remède{FERME}",
     "max": 8,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9E7E",
     "en": "[0000]Rattle[0000]Drink{FERME}",
-    "fr": "",
+    "fr": "Fiole[0000]Rattle{FERME}",
     "max": 11,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9E9E",
     "en": "[0000]Muscle[0000]Drink{FERME}",
-    "fr": "",
+    "fr": "Fiole[0000]Force{FERME}",
     "max": 11,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9EBE",
     "en": "[0000]Dis-Sick{FERME}",
-    "fr": "",
+    "fr": "Anti-Mal{FERME}",
     "max": 8,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9ED6",
     "en": "[0000]Dis-Poison{FERME}",
-    "fr": "",
+    "fr": "Antipoison{FERME}",
     "max": 10,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9EEE",
     "en": "[0000]+Metal[0000]Card{FERME}",
-    "fr": "",
+    "fr": "+Métal{FERME}",
     "max": 10,
     "_occurrences": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9F08",
     "en": "Demon[0000]Den{FERME}",
-    "fr": "",
+    "fr": "Antre{FERME}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9F1C",
     "en": "+5,000[0000]Coins{FERME}",
-    "fr": "",
+    "fr": "+5[0000]000[0000]pièces{FERME}",
     "max": 11,
     "_occurrences": 6
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9F36",
     "en": "[0000]Flash[0000]Tablet{FERME}",
-    "fr": "",
+    "fr": "Plaque[0000]Flash{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9F52",
     "en": "[0000]+1,000,000[0000]Coins{FERME}",
-    "fr": "",
+    "fr": "+1[0000]000[0000]000[0000]pièces{FERME}",
     "max": 15,
     "_occurrences": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9F76",
     "en": "[0000]Surprise[0000]Set{FERME}",
-    "fr": "",
+    "fr": "Lot[0000]Surprise{FERME}",
     "max": 11,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9FB6",
     "en": "[0000]Chewing[0000]Soul{FERME}",
-    "fr": "",
+    "fr": "Chewing[0000]Soul{FERME}",
     "max": 11,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2D9FEC",
     "en": "Hiranya{FERME}",
-    "fr": "",
+    "fr": "Hiranya{FERME}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA016",
     "en": "[0000]Dark[0000]Wave[0000]Tablet{FERME}",
-    "fr": "",
+    "fr": "Plaque[0000]Dark[0000]Wave{FERME}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA05E",
     "en": "[0000]Incense[0000]Set{FERME}",
-    "fr": "",
+    "fr": "Lot[0000]Encens{FERME}",
     "max": 10,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA09A",
     "en": "[0000]Life[0000]Stone{FERME}",
-    "fr": "",
+    "fr": "Pierre[0000]Vie{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA0B6",
     "en": "[0000]Physical[0000]Guard{FERME}",
-    "fr": "",
+    "fr": "Garde[0000]Physique{FERME}",
     "max": 13,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA0DA",
     "en": "[0000]Magical[0000]Guard{FERME}",
-    "fr": "",
+    "fr": "Garde[0000]Magique{FERME}",
     "max": 12,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA0FA",
     "en": "[0000]Magnadyne[0000]Stone{FERME}",
-    "fr": "",
+    "fr": "Pierre[0000]Magnadyne{FERME}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA11C",
     "en": "+Metal[0000]Card{FERME}",
-    "fr": "",
+    "fr": "+Métal{FERME}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA134",
     "en": "Soma{FERME}",
-    "fr": "",
+    "fr": "Soma{FERME}",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA13E",
     "en": "[0000]+5,000[0000]Coins{FERME}",
-    "fr": "",
+    "fr": "+5[0000]000[0000]pièces{FERME}",
     "max": 11,
     "_occurrences": 6
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA15A",
     "en": "[0000]Light[0000]Wave[0000]Tablet{FERME}",
-    "fr": "",
+    "fr": "Plaque[0000]Light[0000]Wave{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA180",
     "en": "+1,000,000[0000]Coins{FERME}",
-    "fr": "",
+    "fr": "+1[0000]000[0000]000[0000]pièces{FERME}",
     "max": 15,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA1A2",
     "en": "[0000]99[0000]Metal[0000]Cards{FERME}",
-    "fr": "",
+    "fr": "99[0000]Métal{FERME}",
     "max": 12,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA21C",
     "en": "Seventh[0000]Coat{FERME}",
-    "fr": "",
+    "fr": "Manteau[0000]7{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA252",
     "en": "[0000]Alexandrite{FERME}",
-    "fr": "",
+    "fr": "Alexandrite{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA28E",
     "en": "[0000]Goddess[0000]Set{FERME}",
-    "fr": "",
+    "fr": "Lot[0000]Déesse{FERME}",
     "max": 10,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA300",
     "en": "Rouge[0000]Noir{FERME}",
-    "fr": "",
+    "fr": "Rouge[0000]Noir{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA332",
     "en": "[0000]Diamond{FERME}",
-    "fr": "",
+    "fr": "Diamant{FERME}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA3D8",
     "en": "Platinum[0000]Queen{FERME}",
-    "fr": "",
+    "fr": "Reine[0000]Platine{FERME}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA412",
     "en": "[0000]Mabufu[0000]Stone{FERME}",
-    "fr": "",
+    "fr": "Pierre[0000]Mabufu{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA4CC",
     "en": "Fever[0000]Crown{FERME}",
-    "fr": "",
+    "fr": "Couronne{FERME}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA4FE",
     "en": "[0000]Magaru[0000]Stone{FERME}",
-    "fr": "",
+    "fr": "Pierre[0000]Magaru{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA53E",
     "en": "[0000]Gem[0000]Set{FERME}",
-    "fr": "",
+    "fr": "Gemmes{FERME}",
     "max": 6,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA5A6",
     "en": "[0000]Bead{FERME}",
-    "fr": "",
+    "fr": "Bead{FERME}",
     "max": 4,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA5CC",
     "en": "Demon[0000]House{FERME}",
-    "fr": "",
+    "fr": "Repaire{FERME}",
     "max": 10,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA5FE",
     "en": "[0000]Maragi[0000]Stone{FERME}",
-    "fr": "",
+    "fr": "Pierre[0000]Maragi{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA6D4",
     "en": "Divine[0000]Voice{FERME}",
-    "fr": "",
+    "fr": "Voix[0000]Divine{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA70A",
     "en": "[0000]SP[0000]Incense{FERME}",
-    "fr": "",
+    "fr": "Encens[0000]SP{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA806",
     "en": "[0000]HP[0000]Incense{FERME}",
-    "fr": "",
+    "fr": "Encens[0000]HP{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA8F8",
     "en": "Millionaire[0000]Bomb{FERME}",
-    "fr": "",
+    "fr": "Bombe[0000]Million{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA936",
     "en": "[0000]10[0000]Metal[0000]Cards{FERME}",
-    "fr": "",
+    "fr": "10[0000]Métal{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DAA38",
     "en": "Core[0000]Shield{FERME}",
-    "fr": "",
+    "fr": "Bouclier{FERME}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DAA6A",
     "en": "[0000]Half[0000]Moon[0000]Tablet{FERME}",
-    "fr": "",
+    "fr": "Plaque[0000]Half[0000]Moon{FERME}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DAAB2",
     "en": "[0000]Stone[0000]Set{FERME}",
-    "fr": "",
+    "fr": "Pierres{FERME}",
     "max": 8
   },
   {

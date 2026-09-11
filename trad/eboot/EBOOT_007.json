@@ -2,603 +2,603 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2CD9C4",
     "en": "Try[0000]the[0000]Extra[0000]Game[0000]High[0000]&[0000]Low.{ATTENTE}",
-    "fr": "",
+    "fr": "Tentez[0000]le[0000]bonus[0000]Plus[0000]haut.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDAAC",
     "en": "Bet[0000]your[0000]winnings[0000]on[0000]another[0000]try.{ATTENTE}",
-    "fr": "",
+    "fr": "Misez[0000]vos[0000]gains[0000]sur[0000]un[0000]autre[0000]tour.{ATTENTE}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDD30",
     "en": "End[0000]the[0000]Extra[0000]game[0000]and[0000]collect[0000]your{SAUT}",
-    "fr": "",
+    "fr": "Finir[0000]et[0000]prendre[0000]vos[0000]gains.{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDDA8",
     "en": "One[0000]face-down[0000]card[0000]is[0000]dealt.{ATTENTE}",
-    "fr": "",
+    "fr": "Une[0000]carte[0000]face[0000]cachée.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDDE2",
     "en": "{PAGE}If[0000]you[0000]think[0000]it's[0000]♥[0000]or[0000]♦,[0000]choose[0000]Red.{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Si[0000]vous[0000]pensez[0000]♥[0000]ou[0000]♦,[0000]prenez[0000]Rouge.{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDE30",
     "en": "If[0000]you[0000]think[0000]it's[0000]♠[0000]or[0000]♣,[0000]choose[0000]Black.{ATTENTE}",
-    "fr": "",
+    "fr": "Si[0000]vous[0000]pensez[0000]♠[0000]ou[0000]♣,[0000]prenez[0000]Noir.{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDE80",
     "en": "{PAGE}If[0000]the[0000]color[0000]you[0000]chose[0000]matches[0000]the{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Si[0000]la[0000]couleur[0000]choisie[0000]est[0000]la{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDEC8",
     "en": "card's[0000]color,[0000]you[0000]win.{ATTENTE}",
-    "fr": "",
+    "fr": "bonne,[0000]vous[0000]gagnez.{ATTENTE}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDEF8",
     "en": "Red[0000]&[0000]Black{FERME}",
-    "fr": "",
+    "fr": "Couleur{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDF10",
     "en": "One[0000]card[0000]is[0000]shown[0000]and[0000]one[0000]card[0000]is{SAUT}",
-    "fr": "",
+    "fr": "Une[0000]carte[0000]est[0000]montrée,[0000]l'autre{SAUT}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDF54",
     "en": "face-down.{ATTENTE}",
-    "fr": "",
+    "fr": "cachée.{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDF6A",
     "en": "{PAGE}You[0000]must[0000]guess[0000]whether[0000]the[0000]face-down{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Devinez[0000]si[0000]la[0000]carte[0000]cachée[0000]est[0000]plus{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDFB6",
     "en": "card[0000]is[0000]bigger[0000]or[0000]smaller[0000]than[0000]the{SAUT}",
-    "fr": "",
+    "fr": "haute[0000]ou[0000]plus[0000]basse[0000]que[0000]celle{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CDFFC",
     "en": "shown[0000]card.{ATTENTE}",
-    "fr": "",
+    "fr": "montrée.{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE014",
     "en": "{PAGE}If[0000]both[0000]cards[0000]are[0000]equal,[0000]you[0000]lose,{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Si[0000]les[0000]deux[0000]cartes[0000]sont[0000]égales,{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE05C",
     "en": "so[0000]be[0000]careful.{ATTENTE}",
-    "fr": "",
+    "fr": "vous[0000]perdez.{ATTENTE}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE07C",
     "en": "Big[0000]&[0000]Small{FERME}",
-    "fr": "",
+    "fr": "Haut[0000]&[0000]Bas{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE094",
     "en": "One[0000]card[0000]is[0000]shown,[0000]with[0000]four[0000]other{SAUT}",
-    "fr": "",
+    "fr": "Une[0000]carte[0000]montrée,[0000]quatre[0000]autres{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE0DA",
     "en": "cards[0000]left[0000]face-down.{ATTENTE}",
-    "fr": "",
+    "fr": "cachées.{ATTENTE}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE106",
     "en": "{PAGE}You[0000]must[0000]guess[0000]which[0000]face-down[0000]card[0000]is{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Devinez[0000]laquelle[0000]des[0000]cachées[0000]dépasse{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE156",
     "en": "higher[0000]than[0000]the[0000]shown[0000]card.{ATTENTE}",
-    "fr": "",
+    "fr": "la[0000]carte[0000]montrée.{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE18E",
     "en": "{PAGE}If[0000]the[0000]card[0000]you[0000]draw[0000]has[0000]the[0000]same{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Si[0000]la[0000]carte[0000]tirée[0000]a[0000]le[0000]même{SAUT}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE1D4",
     "en": "number[0000]as[0000]the[0000]shown[0000]card,[0000]the[0000]game[0000]is{SAUT}",
-    "fr": "",
+    "fr": "nombre[0000]que[0000]celle[0000]montrée,[0000]la[0000]partie{SAUT}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE220",
     "en": "a[0000]draw[0000]and[0000]you[0000]may[0000]try[0000]again.{ATTENTE}",
-    "fr": "",
+    "fr": "est[0000]nulle[0000]et[0000]vous[0000]rejouez.{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE25E",
     "en": "[0000]High[0000]&[0000]Low{FERME}",
-    "fr": "",
+    "fr": "Plus[0000]haut{FERME}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE276",
     "en": "[0000]If[0000]you[0000]win,[0000]you[0000]can[0000]bet[0000]the[0000]amount{SAUT}",
-    "fr": "",
+    "fr": "En[0000]cas[0000]de[0000]gain,[0000]misez[0000]la[0000]somme[0000]sur{SAUT}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE2BE",
     "en": "you[0000]just[0000]won[0000]on[0000]an[0000]Extra[0000]Game.{ATTENTE}",
-    "fr": "",
+    "fr": "une[0000]partie[0000]bonus.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE2FC",
     "en": "{PAGE}If[0000]you'd[0000]rather[0000]not[0000]risk[0000]it,[0000]choose{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Si[0000]vous[0000]ne[0000]voulez[0000]pas[0000]risquer,{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE346",
     "en": "\"Take[0000]Winnings.\"{ATTENTE}",
-    "fr": "",
+    "fr": "prenez[0000]\"Gains\".{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE368",
     "en": "{PAGE}There[0000]are[0000]three[0000]types[0000]of[0000]Extra[0000]Game.{ATTENTE}",
-    "fr": "",
+    "fr": "{PAGE}Il[0000]y[0000]a[0000]trois[0000]parties[0000]bonus.{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE3B4",
     "en": "{PAGE}Each[0000]round[0000]you[0000]win[0000]doubles[0000]your{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Chaque[0000]tour[0000]gagné[0000]double[0000]vos{SAUT}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE3F6",
     "en": "earnings.{ATTENTE}",
-    "fr": "",
+    "fr": "gains.{ATTENTE}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE40A",
     "en": "{PAGE}By[0000]winning[0000]the[0000]Extra[0000]Game,[0000]you[0000]can{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Misez[0000]jusqu'à[0000]1[0000]000[0000]000[0000]de[0000]pièces{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE452",
     "en": "wager[0000]up[0000]to[0000]1,000,000[0000]coins.{ATTENTE}",
-    "fr": "",
+    "fr": "grâce[0000]au[0000]bonus.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE48C",
     "en": "{PAGE}But[0000]be[0000]careful;[0000]one[0000]mistake[0000]and[0000]you'll{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Mais[0000]prudence:[0000]une[0000]erreur[0000]et[0000]tout[0000]est{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE4DC",
     "en": "lose[0000]it[0000]all.{ATTENTE}",
-    "fr": "",
+    "fr": "perdu.{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE4F8",
     "en": "About[0000]the[0000]Extra[0000]Games{FERME}",
-    "fr": "",
+    "fr": "Les[0000]parties[0000]bonus{FERME}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE524",
     "en": "In[0000]this[0000]version[0000]of[0000]poker,[0000]you[0000]can{SAUT}",
-    "fr": "",
+    "fr": "À[0000]ce[0000]poker,[0000]vous[0000]changez[0000]votre{SAUT}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE568",
     "en": "change[0000]your[0000]hand[0000]once.[0000]You[0000]will[0000]be{SAUT}",
-    "fr": "",
+    "fr": "main[0000]une[0000]fois.[0000]Cinq[0000]cartes[0000]vous{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE5AE",
     "en": "dealt[0000]five[0000]cards[0000]at[0000]the[0000]outset.{ATTENTE}",
-    "fr": "",
+    "fr": "sont[0000]données[0000]d'abord.{ATTENTE}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE5EE",
     "en": "{PAGE}Use[0000]the[0000]directional[0000]buttons[0000]to[0000]move[0000]to{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Allez[0000]sur[0000]une[0000]carte[0000]avec[0000]la[0000]croix,[0000]puis{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE63E",
     "en": "a[0000]card,[0000]and[0000]press[0000]the[0000]○／×／△／□[0000]buttons{SAUT}",
-    "fr": "",
+    "fr": "pressez[0000]○／×／△／□[0000]pour[0000]la[0000]garder.{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE68A",
     "en": "to[0000]hold[0000]that[0000]card.{ATTENTE}",
-    "fr": "",
+    "fr": "{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE6B0",
     "en": "{PAGE}Once[0000]you[0000]have[0000]chosen[0000]which[0000]cards[0000]to{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Une[0000]fois[0000]les[0000]cartes[0000]gardées{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE6FA",
     "en": "hold,[0000]press[0000]the[0000]R[0000]button[0000]to[0000]re-draw{SAUT}",
-    "fr": "",
+    "fr": "choisies,[0000]pressez[0000]R[0000]pour[0000]retirer{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE742",
     "en": "the[0000]remaining[0000]cards.{ATTENTE}",
-    "fr": "",
+    "fr": "les[0000]autres.{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE76C",
     "en": "{PAGE}If[0000]you[0000]have[0000]a[0000]valid[0000]hand[0000]after[0000]the{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Main[0000]valable[0000]au[0000]second[0000]tirage:{SAUT}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE7B4",
     "en": "second[0000]draw,[0000]you[0000]win.{ATTENTE}",
-    "fr": "",
+    "fr": "vous[0000]gagnez.{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE7E0",
     "en": "{PAGE}The[0000]higher[0000]the[0000]bet,[0000]the[0000]larger[0000]the{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}Plus[0000]la[0000]mise[0000]est[0000]haute,[0000]plus[0000]le{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE828",
     "en": "payout[0000]for[0000]a[0000]winning[0000]hand[0000]will[0000]be.{ATTENTE}",
-    "fr": "",
+    "fr": "gain[0000]d'une[0000]main[0000]gagnante[0000]monte.{ATTENTE}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE870",
     "en": "About[0000]poker{FERME}",
-    "fr": "",
+    "fr": "Le[0000]poker{FERME}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE92C",
     "en": "Each[0000]demon[0000]and[0000]Persona[0000]is[0000]classified{SAUT}",
-    "fr": "",
+    "fr": "Chaque[0000]démon[0000]et[0000]Persona[0000]a[0000]son[0000]type.{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE976",
     "en": "by[0000]type.{ATTENTE}",
-    "fr": "",
+    "fr": "{ATTENTE}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE988",
     "en": "{PAGE}(*SPEAKER*)Igor{SAUT}",
-    "fr": "",
+    "fr": "{PAGE}(*SPEAKER*)Igor{SAUT}",
     "max": 4,
     "_occurrences": 125
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE996",
     "en": "There[0000]are[0000]four[0000]main[0000]types,[0000]such[0000]as{SAUT}",
-    "fr": "",
+    "fr": "Quatre[0000]types[0000]principaux:{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CE9DC",
     "en": "Element[0000]and[0000]Force...{ATTENTE}",
-    "fr": "",
+    "fr": "Élément,[0000]Force...{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEA14",
     "en": "...As[0000]well[0000]as[0000]sixteen[0000]subtypes,[0000]such{SAUT}",
-    "fr": "",
+    "fr": "...Ainsi[0000]que[0000]seize[0000]sous-types,{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEA5E",
     "en": "as[0000]Fire[0000]and[0000]Death.{ATTENTE}",
-    "fr": "",
+    "fr": "comme[0000]Feu[0000]et[0000]Mort.{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEA92",
     "en": "These[0000]indicate[0000]both[0000]the[0000]demon's[0000]nature{SAUT}",
-    "fr": "",
+    "fr": "Ils[0000]disent[0000]la[0000]nature[0000]du[0000]démon[0000]comme[0000]ses{SAUT}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEAE0",
     "en": "as[0000]well[0000]as[0000]its[0000]strengths[0000]and[0000]weaknesses.{ATTENTE}",
-    "fr": "",
+    "fr": "forces[0000]et[0000]ses[0000]faiblesses.{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEB40",
     "en": "For[0000]example,[0000]Element[0000]demons[0000]tend[0000]to[0000]be{SAUT}",
-    "fr": "",
+    "fr": "Ainsi[0000]les[0000]démons[0000]Élément[0000]cèdent[0000]aux{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEB8E",
     "en": "weak[0000]to[0000]attacks[0000]and[0000]strong[0000]vs.[0000]spells.{ATTENTE}",
-    "fr": "",
+    "fr": "coups[0000]mais[0000]résistent[0000]aux[0000]sorts.{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEBEA",
     "en": "Contrariwise,[0000]Force[0000]demons[0000]resist{SAUT}",
-    "fr": "",
+    "fr": "À[0000]l'inverse,[0000]les[0000]démons[0000]Force{SAUT}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEC2E",
     "en": "attacks[0000]but[0000]tend[0000]to[0000]be[0000]weak[0000]to[0000]spells.{ATTENTE}",
-    "fr": "",
+    "fr": "encaissent[0000]mais[0000]cèdent[0000]aux[0000]sorts.{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEC8A",
     "en": "In[0000]terms[0000]of[0000]subtypes,[0000]Fire[0000]demons[0000]are{SAUT}",
-    "fr": "",
+    "fr": "Côté[0000]sous-types,[0000]un[0000]démon[0000]Feu[0000]cède[0000]à{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CECD6",
     "en": "weak[0000]to[0000]ice,[0000]and[0000]resistant[0000]to[0000]fire.{ATTENTE}",
-    "fr": "",
+    "fr": "la[0000]glace[0000]et[0000]résiste[0000]au[0000]feu.{ATTENTE}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CED2C",
     "en": "Taken[0000]together,[0000]an[0000]Element[0000]Fire{SAUT}",
-    "fr": "",
+    "fr": "Au[0000]total,[0000]un[0000]démon[0000]Élément{SAUT}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CED6C",
     "en": "demon...{ATTENTE}",
-    "fr": "",
+    "fr": "Feu...{ATTENTE}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CED8C",
     "en": "...Would[0000]resist[0000]fire[0000]spells,[0000]possibly{SAUT}",
-    "fr": "",
+    "fr": "...résisterait[0000]aux[0000]sorts[0000]de[0000]feu,[0000]voire{SAUT}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEDD8",
     "en": "even[0000]absorbing[0000]them.{ATTENTE}",
-    "fr": "",
+    "fr": "les[0000]absorberait.{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEE10",
     "en": "But[0000]those[0000]same[0000]fire[0000]spells[0000]would[0000]wreak{SAUT}",
-    "fr": "",
+    "fr": "Mais[0000]ces[0000]mêmes[0000]sorts[0000]raviraient[0000]un{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEE5E",
     "en": "havoc[0000]on[0000]a[0000]Force[0000]Water[0000]demon.{ATTENTE}",
-    "fr": "",
+    "fr": "démon[0000]Force[0000]Eau.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEEA8",
     "en": "Do[0000]you[0000]understand[0000]a[0000]little[0000]better[0000]now?{ATTENTE}",
-    "fr": "",
+    "fr": "Comprenez-vous[0000]un[0000]peu[0000]mieux?{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEF04",
     "en": "You[0000]must[0000]grasp[0000]your[0000]Persona's[0000]strengths{SAUT}",
-    "fr": "",
+    "fr": "Saisissez[0000]les[0000]forces[0000]de[0000]votre[0000]Persona[0000]et{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEF54",
     "en": "and[0000]weaknesses[0000]before[0000]doing[0000]battle...{ATTENTE}",
-    "fr": "",
+    "fr": "ses[0000]faiblesses[0000]avant[0000]le[0000]combat...{ATTENTE}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEFA2",
     "en": "[0000]Types[0000]and[0000]subtypes{FERME}",
-    "fr": "",
+    "fr": "Types,[0000]sous-types{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEFCA",
     "en": "[0000](*SPEAKER*)Igor{SAUT}",
-    "fr": "",
+    "fr": "[0000](*SPEAKER*)Igor{SAUT}",
     "max": 4,
     "_occurrences": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CEFD8",
     "en": "Personas[0000]that[0000]reach[0000]the[0000]maximum[0000]rank{SAUT}",
-    "fr": "",
+    "fr": "Les[0000]Personae[0000]au[0000]rang[0000]8,[0000]le[0000]plus[0000]haut,{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF022",
     "en": "of[0000]8[0000]will[0000]not[0000]grow[0000]any[0000]further.{ATTENTE}",
-    "fr": "",
+    "fr": "ne[0000]grandissent[0000]plus.{ATTENTE}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF070",
     "en": "They[0000]are[0000]powerful[0000]in[0000]that[0000]state...{SAUT}",
-    "fr": "",
+    "fr": "Ils[0000]sont[0000]puissants[0000]ainsi...{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF0B6",
     "en": "However...{ATTENTE}",
-    "fr": "",
+    "fr": "Mais...{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF0DA",
     "en": "If[0000]you[0000]request[0000]that[0000]I[0000]discard[0000]such[0000]a{SAUT}",
-    "fr": "",
+    "fr": "Si[0000]vous[0000]me[0000]demandez[0000]d'écarter[0000]ce{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF124",
     "en": "Persona...{ATTENTE}",
-    "fr": "",
+    "fr": "Persona...{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF148",
     "en": "The[0000]power[0000]of[0000]your[0000]constant[0000]companion{SAUT}",
-    "fr": "",
+    "fr": "La[0000]force[0000]de[0000]ce[0000]fidèle[0000]compagnon[0000]sera{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF192",
     "en": "will[0000]be[0000]released...{ATTENTE}",
-    "fr": "",
+    "fr": "libérée...{ATTENTE}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF1C8",
     "en": "...Leaving[0000]behind[0000]a[0000]tangible[0000]memento{SAUT}",
-    "fr": "",
+    "fr": "...laissant[0000]un[0000]souvenir[0000]tangible[0000]de{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF212",
     "en": "of[0000]your[0000]time[0000]together.{ATTENTE}",
-    "fr": "",
+    "fr": "votre[0000]temps[0000]ensemble.{ATTENTE}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF24E",
     "en": "It[0000]may[0000]be[0000]a[0000]weapon,[0000]some[0000]armor,[0000]or{SAUT}",
-    "fr": "",
+    "fr": "Une[0000]arme,[0000]une[0000]armure,[0000]ou[0000]une{SAUT}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF294",
     "en": "possibly[0000]a[0000]gem...{ATTENTE}",
-    "fr": "",
+    "fr": "gemme...{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF2C6",
     "en": "The[0000]process[0000]is,[0000]in[0000]fact,[0000]the[0000]only[0000]way{SAUT}",
-    "fr": "",
+    "fr": "C'est[0000]en[0000]fait[0000]le[0000]seul[0000]moyen{SAUT}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF312",
     "en": "to[0000]obtain[0000]certain[0000]extremely[0000]rare[0000]items.{ATTENTE}",
-    "fr": "",
+    "fr": "d'obtenir[0000]certains[0000]objets[0000]très[0000]rares.{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF370",
     "en": "The[0000]nature[0000]of[0000]the[0000]items[0000]you[0000]may[0000]attain{SAUT}",
-    "fr": "",
+    "fr": "La[0000]nature[0000]de[0000]ce[0000]que[0000]vous[0000]obtiendrez{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF3BE",
     "en": "through[0000]this[0000]process...{ATTENTE}",
-    "fr": "",
+    "fr": "ainsi...{ATTENTE}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF3FC",
     "en": "That[0000]is[0000]for[0000]you[0000]to[0000]discover.{ATTENTE}",
-    "fr": "",
+    "fr": "À[0000]vous[0000]de[0000]le[0000]découvrir.{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF438",
     "en": "Item[0000]exchange{FERME}",
-    "fr": "",
+    "fr": "Échange{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF460",
     "en": "The[0000]Velvet[0000]Room[0000]is[0000]quite[0000]spacious...{ATTENTE}",
-    "fr": "",
+    "fr": "La[0000]Chambre[0000]de[0000]Velours[0000]est[0000]vaste...{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF4B8",
     "en": "But[0000]even[0000]so,[0000]there[0000]is[0000]a[0000]limit[0000]to[0000]how{SAUT}",
-    "fr": "",
+    "fr": "Mais[0000]il[0000]y[0000]a[0000]une[0000]limite[0000]au[0000]nombre[0000]de{SAUT}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF502",
     "en": "many[0000]Personas[0000]we[0000]can[0000]look[0000]after[0000]here.{ATTENTE}",
-    "fr": "",
+    "fr": "Personae[0000]que[0000]nous[0000]gardons[0000]ici.{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF55C",
     "en": "Sixteen,[0000]and[0000]no[0000]more.{ATTENTE}",
-    "fr": "",
+    "fr": "Seize,[0000]pas[0000]plus.{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2CF596",
     "en": "If[0000]you[0000]have[0000]reached[0000]that[0000]limit,[0000]you{SAUT}",
-    "fr": "",
+    "fr": "Si[0000]vous[0000]avez[0000]atteint[0000]cette[0000]limite,{SAUT}",
     "max": 29
   }
 ]

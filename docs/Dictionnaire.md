@@ -155,6 +155,38 @@
 | catégories d'inventaire | Épée 1M / Épée 2M / Lance / Hache / Fouet / Jet / Arc / Poing | EBOOT_012.json | 🔶 |
 | catégories d'armes à feu | Pistolet / Auto / Pompe / Fusil / Balles | EBOOT_012.json | 🔶 |
 | emplacements d'armure | Tête / Corps / Bras / Jambes | EBOOT_012.json | 🔶 |
+| Guided Fusion / Manual Fusion | fusion guidée / fusion libre | EBOOT_003.json, EBOOT_007.json | 🔶 |
+| fusion accident | accident de fusion | EBOOT_008.json | 🔶 |
+| skill (d'un Persona) | pouvoir | EBOOT_008.json, EBOOT_010.json | 🔶 *(« compétence » ne tient pas dans les budgets)* |
+| skill inheritance | héritage des pouvoirs | EBOOT_008.json | 🔶 |
+| rank (d'un Persona) | rang | EBOOT_009.json | 🔶 |
+| potential | potentiel | EBOOT_009.json | 🔶 |
+| affinity | affinité | EBOOT_009.json | 🔶 |
+| main type / subtype | type principal / sous-type | EBOOT_008.json | 🔶 |
+| Element / Force (types) | Élément / Force | EBOOT_007.json | 🔶 |
+| Fire / Death (sous-types) | Feu / Mort | EBOOT_007.json | 🔶 |
+| totem | totem | EBOOT_009.json | 🔶 |
+| moon phase | phase de la lune | EBOOT_009.json | 🔶 |
+| Extra Game | partie bonus | EBOOT_007.json | 🔶 |
+| Red & Black / Big & Small / High & Low | Couleur / Haut & Bas / Plus haut | EBOOT_007.json | 🔶 *(noms des jeux du casino, budgets de 8 à 9 caractères)* |
+| Hit / Stand / Double Down / Split | Tirer / Rester / Doubler / Split | EBOOT_005.json | 🔶 *(Split gardé faute de place)* |
+| dealer (blackjack) | croupier | EBOOT_005.json | 🔶 |
+| insurance bet | assurance | EBOOT_005.json | 🔶 |
+| big / small reels | grands / petits rouleaux | EBOOT_005.json | 🔶 |
+| bet (casino) | mise | EBOOT_005.json | 🔶 |
+| Coins | pièces | EBOOT_011.json | 🔶 |
+| Medicine | Remède | EBOOT_011.json | 🔶 |
+| Rattle Drink / Muscle Drink | Fiole Rattle / Fiole Force | EBOOT_011.json | 💬 *(l'effet de « Rattle » n'a pas été vérifié en jeu)* |
+| Dis-Sick / Dis-Poison | Anti-Mal / Antipoison | EBOOT_011.json | 🔶 |
+| Metal Card | Métal | EBOOT_011.json | 💬 *(« Carte Métal » dépasse le budget de 10 ; forme courte à confirmer)* |
+| Demon Den / Demon House | Antre / Repaire | EBOOT_011.json | 💬 *(« démon » ne tient pas ; deux lots distincts à départager)* |
+| Set (lot du casino) | Lot | EBOOT_011.json | 🔶 |
+| Physical / Magical Guard | Garde Physique / Garde Magique | EBOOT_011.json | 🔶 |
+| Divine Voice / Millionaire Bomb | Voix Divine / Bombe Million | EBOOT_011.json | 🔶 |
+| Platinum Queen / Seventh Coat | Reine Platine / Manteau 7 | EBOOT_011.json | 🔶 |
+| Fever Crown / Core Shield | Couronne / Bouclier | EBOOT_011.json | 💬 *(« Fever » et « Core » ne tiennent pas dans le budget)* |
+| Chewing Soul / Bead | conservés | EBOOT_011.json | 🔶 *(noms de série, comme Hiranya et Soma)* |
+| HP / SP Incense | Encens HP / Encens SP | EBOOT_011.json | 🔶 |
 
 ---
 
