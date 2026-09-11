@@ -3,572 +3,572 @@
     "id": "E0.BIN:058:0000",
     "locuteur": "Kandori",
     "en": "Dr. Nicholai. Are the adjustments{SAUT}complete?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Dr. Nicholai. Les réglages sont-ils{SAUT}terminés?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0001",
     "locuteur": "Dr. Nicholai",
     "en": "Please reconsider this, Mr. Kandori!{SAUT}Stop the system and atone for your sins!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Dr. Nicholai",
+    "fr": "Revenez sur votre décision, M. Kandori!{SAUT}Arrêtez le système, expiez vos fautes!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0002",
     "locuteur": "Kandori",
     "en": "Preposterous. It's the rest of mankind{SAUT}that must atone.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Grotesque. C'est au reste de l'humanité{SAUT}d'expier.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0003",
     "locuteur": "Kandori",
     "en": "What I've done here is nothing more{SAUT}than to facilitate that process.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Je n'ai fait ici que hâter{SAUT}ce processus.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0004",
     "locuteur": "Dr. Nicholai",
     "en": "But that young man... You didn't have{SAUT}to send him into the dimensional rift!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Dr. Nicholai",
+    "fr": "Mais ce jeune homme... Vous n'aviez pas{SAUT}à le jeter dans la faille!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0005",
     "locuteur": "Dr. Nicholai",
     "en": "What did you hope to gain by throwing{SAUT}away a child's life!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Dr. Nicholai",
+    "fr": "Qu'espériez-vous gagner en sacrifiant{SAUT}la vie d'un enfant!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0006",
     "locuteur": "Kandori",
     "en": "I won't allow anyone to stand in my way.{SAUT}Not even a child...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Je ne laisserai personne me barrer la{SAUT}route. Pas même un enfant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0007",
     "locuteur": "Kandori",
     "en": "Judgement will come regardless. It's{SAUT}only a question of sooner, or later.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Le jugement viendra de toute façon.{SAUT}Ce n'est qu'une question de temps.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0008",
     "locuteur": "Mark",
     "en": "You're not goin' anywhere, mister!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "T'iras nulle part, monsieur!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0009",
     "locuteur": "Nanjo",
     "en": "Your time has come, Kandori!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Votre heure est venue, Kandori!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0010",
     "locuteur": "Kandori",
     "en": "Ah... I had a feeling you'd come. So you{SAUT}beat Takeda? He always was useless...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Ah... Je me doutais de votre venue.{SAUT}Takeda est battu? Toujours inutile...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0011",
     "locuteur": "Brown",
     "en": "Guys like that are no sweat to us.{SAUT}Give it up! We're taking you in!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Des types comme ça, c'est rien pour{SAUT}nous. Rends-toi! On t'embarque!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0012",
     "locuteur": "Brown",
     "en": "Surrender now and we'll let you off{SAUT}with a life sentence!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Rends-toi maintenant et tu t'en tires{SAUT}avec la perpétuité!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0013",
     "locuteur": "Elly",
     "en": "I have nothing but contempt for sore{SAUT}losers like you... Surrender already.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je n'ai que mépris pour les mauvais{SAUT}perdants... Rendez-vous donc.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0014",
     "locuteur": "Ayase",
     "en": "C'mon, I got stuff to do! I don't have{SAUT}time to waste on your sorry butt!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Allez, j'ai d'autres trucs à faire! Je{SAUT}vais pas perdre mon temps avec vous!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0015",
     "locuteur": "Ayase",
     "en": "Just give up already and let us take{SAUT}you away!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Rendez-vous, quoi, et laissez-nous{SAUT}vous embarquer!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0016",
     "locuteur": "Kandori",
     "en": "Loud noises from young children...{SAUT}I don't have time for you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Des cris de jeunes enfants...{SAUT}Je n'ai pas de temps pour vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0017",
     "locuteur": "Kandori",
     "en": "I have matters to attend to...{SAUT}Come, Dr. Nicholai.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "J'ai à faire...{SAUT}Venez, Dr. Nicholai.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0018",
     "locuteur": "Mark",
     "en": "Wait!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Attends!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0019",
     "locuteur": "Nanjo",
     "en": "So this is the Deva System. What are{SAUT}Kandori's plans for this!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Voilà donc le système Deva. Qu'est-ce{SAUT}que Kandori compte en faire!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0020",
     "locuteur": "Maki",
     "en": "This machine... I... Where do I know{SAUT}this thing from...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Cette machine... Je... D'où est-ce que{SAUT}je la connais...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0021",
     "locuteur": "Brown",
     "en": "Whoooooa! Wh-What the--!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ouaaaaah! Q-Qu'est-ce que--!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0022",
     "locuteur": "Elly",
     "en": "What is this? What's going on!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Qu'est-ce donc? Que se passe-t-il!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0023",
     "locuteur": "Ayase",
     "en": "Yikes! Wh-What the hell--!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Aïe! Q-Qu'est-ce que c'est que ça--!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0024",
     "locuteur": "Maki",
     "en": "Gah! What the...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ah! Qu'est-ce que...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0025",
     "locuteur": "Kandori's voice",
     "en": "Ngh!? What's happening!?{PAUSE}[5E00]{SAUT}Grraaaaaaaaah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Ngh!? Que se passe-t-il!?{PAUSE}[5E00]{SAUT}Grraaaaaaaaah!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0026",
     "locuteur": "Kandori's voice",
     "en": "I... I'm disappearing! Nicholai!{SAUT}What's happening!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Je... Je disparais! Nicholai!{SAUT}Que se passe-t-il!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0027",
     "locuteur": "Dr. Nicholai's voice",
     "en": "It's over, Sir. You and I are going{SAUT}down together!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "C'est fini, monsieur. Nous tombons{SAUT}tous les deux ensemble!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0028",
     "locuteur": "Dr. Nicholai's voice",
     "en": "For your treachery, for your crimes,{SAUT}for all mankind... you will atone!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "Pour votre traîtrise, pour vos crimes,{SAUT}pour l'humanité... vous expierez!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0029",
     "locuteur": "Kandori's voice",
     "en": "Nicholai, you swine! H-How dare you{SAUT}betray me!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Nicholai, pourriture! Vous osez{SAUT}me trahir!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0030",
     "locuteur": "Dr. Nicholai's voice",
     "en": "Young man! If we are reduced to our{SAUT}component atoms, the system will stop!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "Jeune homme! Si nous sommes réduits{SAUT}en atomes, le système s'arrêtera!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0031",
     "locuteur": "Dr. Nicholai's voice",
     "en": "The barrier enclosing this town will be{SAUT}released! Leave us and escape!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "La barrière qui enferme la ville{SAUT}tombera! Laissez-nous et fuyez!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0032",
     "locuteur": "Kandori's voice",
     "en": "You out there! Boy! Stop the system!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Vous, là! Petit! Arrêtez le système!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0033",
     "locuteur": "Mark",
     "en": "C'mon, old man! You don't have to{SAUT}throw your life away...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Allez, papy! T'as pas besoin de{SAUT}sacrifier ta vie...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0034",
     "locuteur": "Mark",
     "en": "Let's save him! There's no need for the{SAUT}old guy to die just 'cause of Kandori!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On le sauve! Y a pas de raison que le{SAUT}vieux meure à cause de Kandori!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0035",
     "locuteur": "Mark",
     "en": "We'll smack down Kandori ourselves!{SAUT}That's what we came for, isn't it!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On lui met une raclée nous-mêmes!{SAUT}On est venus pour ça, non!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0036",
     "locuteur": "Nanjo",
     "en": "Wait! The old man must have invented the{SAUT}system. He's taking responsibility...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attendez! Ce vieil homme a dû inventer{SAUT}le système. Il en assume le poids...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0037",
     "locuteur": "Nanjo",
     "en": "We should respect his wishes. We don't{SAUT}even know how to stop the machine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Respectons sa volonté. Nous ignorons{SAUT}même comment arrêter la machine.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0038",
     "locuteur": "Brown",
     "en": "Y-Yeah! Let's listen to the old dude!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "O-Ouais! Écoutons le vieux monsieur!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0039",
     "locuteur": "Brown",
     "en": "If we don't get outta here quick, we're{SAUT}in big trouble!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Si on file pas d'ici vite fait, on{SAUT}est vraiment mal!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0040",
     "locuteur": "Elly",
     "en": "There's no time for debate, (*APELLIDO_HEROE*).{SAUT}Let's rescue him, quickly.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pas le temps de débattre, (*APELLIDO_HEROE*).{SAUT}Sauvons-le, vite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0041",
     "locuteur": "Ayase",
     "en": "This is totally out of hand!{SAUT}Do something, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ça part genre complètement en vrille!{SAUT}Fais quelque chose, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0042",
     "locuteur": "Maki",
     "en": "(*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "(*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0043",
     "locuteur": "Maki",
     "en": "Here! This'll stop the machine!{SAUT}The blue button increases the output...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Là! Ça arrêtera la machine!{SAUT}Le bouton bleu augmente la puissance...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0044",
     "locuteur": "Maki",
     "en": "But the red button is the emergency{SAUT}stop! If you push it, we can save him!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais le bouton rouge est l'arrêt{SAUT}d'urgence! Appuie et on le sauve!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0045",
     "locuteur": "Nanjo",
     "en": "Maki...? Where did you learn that!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Maki...? Où avez-vous appris cela!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0046",
     "locuteur": "Maki",
     "en": "I don't know how I know, I just know!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je ne sais pas comment, mais je sais!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0047",
     "locuteur": "Maki",
     "en": "(*APELLIDO_HEROE*)! Hurry!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "(*APELLIDO_HEROE*)! Vite!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0048",
     "locuteur": "Nanjo",
     "en": "Be an adult about this, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Soyez adulte, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0049",
     "locuteur": "Nanjo",
     "en": "There comes a time when one must take{SAUT}responsibility for one's actions.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il vient un moment où l'on doit{SAUT}répondre de ses actes.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0050",
     "locuteur": "Mark",
     "en": "Whatever! Death is the end of the{SAUT}line, man!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "N'importe quoi! La mort, c'est le{SAUT}terminus, mec!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0051",
     "locuteur": "Mark",
     "en": "As long as you're alive, you can still{SAUT}do good!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tant que t'es en vie, tu peux encore{SAUT}faire le bien!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0052",
     "locuteur": "Brown",
     "en": "Let's run away--I mean, get outta here!{SAUT}As your leader, I'm begging you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "On se tire--enfin, on évacue!{SAUT}En tant que chef, je t'en supplie!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0053",
     "locuteur": "Elly",
     "en": "Stay strong. There may be people to{SAUT}whom that old man is precious...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Sois fort. Ce vieil homme compte{SAUT}peut-être pour quelqu'un...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0054",
     "locuteur": "Maki",
     "en": "I've had enough! I don't want any{SAUT}more deaths...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "J'en ai assez! Je ne veux plus{SAUT}de morts...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:058:0055",
     "locuteur": "Maki",
     "en": "No one wants to die, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Personne ne veut mourir, non?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:058:0056",
     "locuteur": "Maki",
     "en": "We can catch Kandori anytime. This man{SAUT}needs our help!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Kandori, on peut l'attraper plus tard.{SAUT}Cet homme a besoin de nous!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:058:0057",
     "locuteur": "Kandori's voice",
     "en": "Gaaaaaah! H-Hurry and... stop the{SAUT}machine...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Gaaaaaah! V-Vite... arrêtez la{SAUT}machine...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0058",
     "locuteur": "Maki",
     "en": "N-No way...! It didn't stop!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "N-Non...! Ça ne s'est pas arrêté!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0059",
     "locuteur": "Brown",
     "en": "It, uh... It looks like it's actually{SAUT}getting worse now...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Euh... On dirait bien que ça empire,{SAUT}en fait...{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0060",
     "locuteur": "Ayase",
     "en": "H-Hey! What did you do!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "H-Hé! T'as fait quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0061",
     "locuteur": "Elly",
     "en": "Eek! Wh-What's happening?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Aïe! Q-Que se passe-t-il?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0062",
     "locuteur": "Kandori's voice",
     "en": "What in the... I'm rematerializing!{SAUT}I see...{PAUSE}[5E00] It's you... You're calling for me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Mais... Je me rematérialise!{SAUT}Je vois...{PAUSE}[5E00] C'est toi... Tu m'appelles!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0063",
     "locuteur": "Dr. Nicholai's voice",
     "en": "H... How can this be!? My plan should{SAUT}have worked perfectly!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "C... Comment est-ce possible!? Mon plan{SAUT}devait fonctionner à merveille!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0064",
     "locuteur": "Dr. Nicholai's voice",
     "en": "Don't tell me... Is she--!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Nicholai",
+    "fr": "Ne me dites pas... Serait-ce elle--!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0065",
     "locuteur": "Maki",
     "en": "You!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Toi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0066",
     "locuteur": "Girl in black",
     "en": "{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]I won't let you kill my Daddy!{SAUT}Let's leave now, Daddy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille en noir",
+    "fr": "{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]Je vous laisserai pas tuer mon papa!{SAUT}On s'en va, papa!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0067",
     "locuteur": "Kandori's voice",
     "en": "Heh... Heheh... Hahaha! I refuse to{SAUT}die! Now... take me to your world!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Kandori",
+    "fr": "Hé... Héhé... Hahaha! Je refuse de{SAUT}mourir! Emmène-moi dans ton monde!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0068",
     "locuteur": "Mark",
     "en": "Whoa! Wh-What the!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouah! Q-Quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0069",
     "locuteur": "Nanjo",
     "en": "Ugh... K-Kandori...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ugh... K-Kandori...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0070",
     "locuteur": "Brown",
     "en": "Waaaaaugh!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Waaaaaaah!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0071",
     "locuteur": "Ayase",
     "en": "Ooooh, I've had enough!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oooooh, j'en ai assez!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0072",
     "locuteur": "Elly",
     "en": "No!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Non!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0073",
     "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Dr. Nicholai{SAUT}The genius scientist who developed the{SAUT}Deva System.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Dr. Nicholai{SAUT}Génial savant qui a mis au point le{SAUT}système Deva.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0074",
     "locuteur": "Ayase",
     "en": "Sheesh, (*APELLIDO_HEROE*)! Hurry and{SAUT}do something!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Sérieux, (*APELLIDO_HEROE*)! Vite,{SAUT}fais quelque chose!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0075",
     "locuteur": "Maki",
     "en": "We can save him if you push the{SAUT}red button!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On peut le sauver si tu appuies sur{SAUT}le bouton rouge!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0076",
     "locuteur": "Maki",
     "en": "Red or blue... What's it going to be!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Rouge ou bleu... Tu choisis quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0077",
     "locuteur": "Maki",
     "en": "(*APELLIDO_HEROE*)!? Where are you going!?{SAUT}You have to do something!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "(*APELLIDO_HEROE*)!? Où vas-tu!?{SAUT}Il faut faire quelque chose!{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0078",
     "en": "{FERME} > It's the Dimensional Variable{SAUT}Accelerator System, commonly known{SAUT}as the Deva System's holograph.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > C'est l'hologramme du système{SAUT}accélérateur de variables{SAUT}dimensionnelles, dit système Deva.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0079",
     "en": "{FERME}> Emergency alert. Emergency alert.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Alerte d'urgence. Alerte d'urgence.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0080",
     "en": "{PAGE}> An unknown virus has been detected{SAUT}in the extradimensional shaft{SAUT}activation program.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> Un virus inconnu a été détecté{SAUT}dans le programme d'activation du{SAUT}puits extradimensionnel.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0081",
     "en": "{PAGE}> System cannot shut down.{SAUT}System cannot shut down.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> Arrêt du système impossible.{SAUT}Arrêt du système impossible.{ATTENTE}"
   },
   {
     "id": "E0.BIN:058:0082",
     "en": "{PAGE}> Manual override is required to shut{SAUT}down the system.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> Une commande manuelle est requise{SAUT}pour arrêter le système.{ATTENTE}"
   }
 ]
