@@ -2,235 +2,235 @@
   {
     "id": "EBOOT.BIN:LE:OFF_252360",
     "en": "Main[0000]",
-    "fr": "",
+    "fr": "Héros[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252374",
     "en": "Maki[0000]",
-    "fr": "",
+    "fr": "Maki[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252388",
     "en": "Brown[0000]",
-    "fr": "",
+    "fr": "Brown[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25239C",
     "en": "Nanjo[0000]",
-    "fr": "",
+    "fr": "Nanjo[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2523B0",
     "en": "Mark[0000]",
-    "fr": "",
+    "fr": "Mark[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2523C4",
     "en": "Elly[0000]",
-    "fr": "",
+    "fr": "Elly[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2523D8",
     "en": "Ayase[0000]",
-    "fr": "",
+    "fr": "Ayase[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2523EC",
     "en": "Yukino[0000]",
-    "fr": "",
+    "fr": "Yukino[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252400",
     "en": "Reiji[0000]",
-    "fr": "",
+    "fr": "Reiji[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252414",
     "en": "All[0000]",
-    "fr": "",
+    "fr": "Tous[0000]",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252428",
     "en": "Male[0000]",
-    "fr": "",
+    "fr": "Homme[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25243C",
     "en": "Female[0000]",
-    "fr": "",
+    "fr": "Femme[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252450",
     "en": "1h Sword[0000]",
-    "fr": "",
+    "fr": "Épée 1M[0000]",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252464",
     "en": "2h Sword[0000]",
-    "fr": "",
+    "fr": "Épée 2M[0000]",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252478",
     "en": "Spear[0000]",
-    "fr": "",
+    "fr": "Lance[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25248C",
     "en": "Axe[0000]",
-    "fr": "",
+    "fr": "Hache[0000]",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2524A0",
     "en": "Whip[0000]",
-    "fr": "",
+    "fr": "Fouet[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2524B4",
     "en": "Thrown[0000]",
-    "fr": "",
+    "fr": "Jet[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2524C8",
     "en": "Bow[0000]",
-    "fr": "",
+    "fr": "Arc[0000]",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2524DC",
     "en": "Fist[0000]",
-    "fr": "",
+    "fr": "Poing[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2524F0",
     "en": "Handgun[0000]",
-    "fr": "",
+    "fr": "Pistolet[0000]",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252504",
     "en": "Automatic[0000]",
-    "fr": "",
+    "fr": "Auto[0000]",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252518",
     "en": "Shotgun[0000]",
-    "fr": "",
+    "fr": "Pompe[0000]",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25252C",
     "en": "Rifle[0000]",
-    "fr": "",
+    "fr": "Fusil[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252540",
     "en": "Shells[0000]",
-    "fr": "",
+    "fr": "Balles[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252554",
     "en": "Head[0000]",
-    "fr": "",
+    "fr": "Tête[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252568",
     "en": "Body[0000]",
-    "fr": "",
+    "fr": "Corps[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25257C",
     "en": "Arms[0000]",
-    "fr": "",
+    "fr": "Bras[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252590",
     "en": "Legs[0000]",
-    "fr": "",
+    "fr": "Jambes[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2525A4",
     "en": "Usable[0000]",
-    "fr": "",
+    "fr": "Conso[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2525B8",
     "en": "Material[0000]",
-    "fr": "",
+    "fr": "Matériau[0000]",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2525CC",
     "en": "Totem[0000]",
-    "fr": "",
+    "fr": "Totem[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2525E0",
     "en": "Key[0000]",
-    "fr": "",
+    "fr": "Clé[0000]",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2525F4",
     "en": "Card[0000]",
-    "fr": "",
+    "fr": "Carte[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252608",
     "en": "Stone[0000]",
-    "fr": "",
+    "fr": "Pierre[0000]",
     "max": 5
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25261C",
     "en": "Gem[0000]",
-    "fr": "",
+    "fr": "Gemme[0000]",
     "max": 3
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252634",
     "en": "Item[0000]",
-    "fr": "",
+    "fr": "Objet[0000]",
     "max": 4
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252648",
     "en": "Weapon[0000]",
-    "fr": "",
+    "fr": "Arme[0000]",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25265C",
     "en": "Armor[0000]",
-    "fr": "",
+    "fr": "Armure[0000]",
     "max": 5
   },
   {
@@ -324,31 +324,31 @@
   {
     "id": "EBOOT.BIN:LE:OFF_252DAC",
     "en": "Continue from a suspend save?[0000]",
-    "fr": "",
+    "fr": "Reprendre cette sauvegarde?[0000]",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:LE:OFF_252DF4",
     "en": "Once loaded, the save will be lost.[0000]",
-    "fr": "",
+    "fr": "Une fois chargée, elle sera perdue.[0000]",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:LE:OFF_25317A",
     "en": "Nickname[0000]",
-    "fr": "",
+    "fr": "Surnom[0000]",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE:OFF_2531EC",
     "en": "Enter your name.[0000]",
-    "fr": "",
+    "fr": "Entrez votre nom[0000]",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE:OFF_253210",
     "en": "Enter a nickname.[0000]",
-    "fr": "",
+    "fr": "Entrez un surnom.[0000]",
     "max": 17
   }
 ]
